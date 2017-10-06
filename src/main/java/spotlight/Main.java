@@ -131,18 +131,48 @@ public class Main {
                 br = new BufferedReader(new FileReader("src/main/resources/Anotações/tweet - " + tweet + ".json"));
                 while (br.ready()) {
                     JSONObject json = new JSONObject(br.readLine());
+                    JSONArray resources = new JSONArray(json.getJSONArray("Resources"));
+                    String comparacao = "Tweet :" + tweet + "\n";
                     for (Object obj : array) {
-                        if(((JSONObject) obj).get("id").equals(tweet)){
+                        JSONObject jsonouro = (JSONObject) obj;
+
+                        arquivo = new File("src/main/resources/Anotações/ComparacaoOuro/tweet - " + tweet + ".json");
+                        if (!arquivo.exists()) {
+                            arquivo.createNewFile();
+                        }
+                        if (jsonouro.get("id").equals(tweet)) {
                             //TODO: comparar elementos
+                            boolean achou = false;
+                            for (Object resource : resources) {
+                                JSONObject jsonResource = (JSONObject) resource;
+                                if (jsonouro.get("start").equals(jsonResource.get("offset"))
+                                        && jsonouro.get("url").equals(jsonResource.get("@URI"))) {
+                                    //ESCREVER ACHOU MESMA INFORMACAO USANDO chave surfaceform
+                                    achou = true;
+                                } else if (jsonouro.get("start").equals(jsonResource.get("offset"))
+                                        && !jsonouro.get("url").equals(jsonResource.get("@URI"))) {
+                                    //ESCREVER ACHOU INFORMACAO DIFERENTE USANDO chave surfaceform
+                                    achou = true;
+                                }
+
+                                if(achou == false){
+                                    //ESCREVER QUE DBPEDIA NÃO ACHOU
+                                }
+                            }
                         }
                     }
+                    arquivo = new File("src/main/resources/Anotações/ComparacaoOuro/tweet - " + tweet + ".json");
+                    if(arquivo.exists()){
+                        //ESCREVER COMPARACOES
+                    }
                 }
+                br.close();
             } catch (FileNotFoundException ex) {
                 Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
             } catch (IOException ex) {
                 Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
             }
-            
+
         }
     }
 }
