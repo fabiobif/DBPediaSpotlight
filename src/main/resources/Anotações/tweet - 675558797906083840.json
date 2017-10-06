@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Margn222: @jdylan057 @Carolin17951107 Ryan's a huge disappointment. Insults most GOP of GOP candidates &amp; overwhelming choice of US peopâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.006773735151317087",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9868293388815458",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.1892593947270867E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "85",
+   "@similarityScore": "0.9997568628804819",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "1.1892593947270867E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "92",
+   "@similarityScore": "0.9997568628804819",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675558797906083840",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DaysTilStarWars: 3 Days Until Star Wars Episode VII. Visit https://t.co/XNPEqsgmJi for a live countdown. #starwars https://t.co/YmlbB2câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02134301930644399",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9672446902173392",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.09664414216544016",
+   "@URI": "http://dbpedia.org/resource/Development_of_Star_Wars_Episode_VII",
+   "@support": "44",
+   "@surfaceForm": "Star Wars Episode VII",
+   "@offset": "34",
+   "@similarityScore": "0.9118728323532436",
+   "@types": ""
+  }
+ ],
+ "tweet": "676802304872321024",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

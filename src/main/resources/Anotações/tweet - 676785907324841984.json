@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @hmvCarlisle: two more days until #TheForceAwakens  this picture available as a poster in store only  £3.99!!! https://t.co/vKgM9YHK6D",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.047560759962223066",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9250431021878085",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676785907324841984",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

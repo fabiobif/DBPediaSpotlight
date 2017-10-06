@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @nickrp: Whaaaat!!? I'm at the cinema and just saw these #StarWars 3D glasses. This week! https://t.co/V9n5TrnNWA",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.012454904790648346",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9709085240267604",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.24156426509418896",
+   "@URI": "http://dbpedia.org/resource/Stereoscopy",
+   "@support": "1444",
+   "@surfaceForm": "3D glasses",
+   "@offset": "70",
+   "@similarityScore": "0.7262273832389341",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036369387118592",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

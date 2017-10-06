@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "ESPN Bringing the #StarWars Heat!   https://t.co/lio9mALZwp",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0016244489295958767",
+  "@URI": "http://dbpedia.org/resource/ESPN",
+  "@support": "11173",
+  "@surfaceForm": "ESPN",
+  "@offset": "0",
+  "@similarityScore": "0.9966024808810522",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676804090760949760",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

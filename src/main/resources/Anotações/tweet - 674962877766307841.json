@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @FoxBusiness: .@StarWars mania is a jolly sign for toy makers and retailers: https://t.co/qPjiliDZTh $HAS $MAT #StarWars https://t.co/1qâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.039335269882360455",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9198827026749015",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.952243428157473E-5",
+   "@URI": "http://dbpedia.org/resource/Mania",
+   "@support": "616",
+   "@surfaceForm": "mania",
+   "@offset": "28",
+   "@similarityScore": "0.9999698568053303",
+   "@types": "DBpedia:Disease"
+  }
+ ],
+ "tweet": "674962877766307841",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

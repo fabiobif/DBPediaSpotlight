@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Trump maintains poll lead among Republicans after call to ban Muslimsâ\u20ac¦ https://t.co/4ckld4F9yg #Trump2016 #GOP https://t.co/RT6ul0NQuf",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "8.562981129483128E-4",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "110",
+  "@similarityScore": "0.9987555804059942",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675564885510516737",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

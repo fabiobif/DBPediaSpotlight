@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@MovieManMenzel Star Wars The Force Awakens Review https://t.co/H1sGjRD9IQ #StarWars #TheForceAwakens #StarWarsForceAwakens @StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.002646812377753227",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "16",
+  "@similarityScore": "0.996952127123777",
+  "@types": ""
+ }],
+ "tweet": "677037013422333953",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

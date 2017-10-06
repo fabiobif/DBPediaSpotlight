@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Today in #StarWars obsession, an oldie but a goodie: Bill Murray as lounge singer Nick Winters (SNL) https://t.co/AidL3CH0j3 #1WEEKTOGO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.7367251985572734E-8",
+   "@URI": "http://dbpedia.org/resource/Bill_Murray",
+   "@support": "543",
+   "@surfaceForm": "Bill Murray",
+   "@offset": "53",
+   "@similarityScore": "0.9999999269418849",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Lounge_music",
+   "@support": "358",
+   "@surfaceForm": "lounge singer",
+   "@offset": "68",
+   "@similarityScore": "0.99999999999892",
+   "@types": "DBpedia:TopicalConcept,DBpedia:Genre,DBpedia:MusicGenre"
+  }
+ ],
+ "tweet": "674961897410527232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

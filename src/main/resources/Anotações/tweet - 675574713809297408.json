@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TrevMcF: #Trump 's #Turkish partner condemns his anti-Muslim remarks, and reviews ties--ramping up pressure on #Damac https://t.co/BlJ2â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.010892823616322928",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.982946634100664",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.3325243712767954",
+   "@URI": "http://dbpedia.org/resource/Turkey",
+   "@support": "54876",
+   "@surfaceForm": "Turkish",
+   "@offset": "24",
+   "@similarityScore": "0.6914866650638108",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675574713809297408",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

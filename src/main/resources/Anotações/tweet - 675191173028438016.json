@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsJunk: Lucas film sends out letter to theater owners: #starwars #theforceawakens https://t.co/ttpVv6iwKr",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.04751522686392148",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9374800917683357",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Lucasfilm",
+   "@support": "785",
+   "@surfaceForm": "Lucas film",
+   "@offset": "18",
+   "@similarityScore": "0.9999999999685656",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675191173028438016",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

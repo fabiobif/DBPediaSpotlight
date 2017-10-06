@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @dradojcin: The best weird #StarWars xmas gifts in the universe https://t.co/TC5JaJe0I7 by @AlexanderButt #StarWarsForceAwakens https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.015401411069279797",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9652037781873888",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803583317114880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

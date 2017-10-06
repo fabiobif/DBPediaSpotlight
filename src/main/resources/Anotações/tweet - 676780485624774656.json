@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@collectsideshow #TheForceAwakens I want to see admiral akbar",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025308525370177998",
+   "@URI": "http://dbpedia.org/resource/Admiral",
+   "@support": "6025",
+   "@surfaceForm": "admiral",
+   "@offset": "48",
+   "@similarityScore": "0.957451324993397",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.342569514153726E-4",
+   "@URI": "http://dbpedia.org/resource/Akbar",
+   "@support": "2614",
+   "@surfaceForm": "akbar",
+   "@offset": "56",
+   "@similarityScore": "0.9998215157430353",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Royalty,DBpedia:BritishRoyalty"
+  }
+ ],
+ "tweet": "676780485624774656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

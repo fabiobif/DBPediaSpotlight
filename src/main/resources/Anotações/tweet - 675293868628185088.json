@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Muslim Brotherhood in control of @Whitehouse implementing SHARIA Law, US Congress doesn't care is protecting #OBAMA https://t.co/2HAD0ThTgR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "4.335228137400847E-5",
+   "@URI": "http://dbpedia.org/resource/Muslim_Brotherhood",
+   "@support": "1562",
+   "@surfaceForm": "Muslim Brotherhood",
+   "@offset": "0",
+   "@similarityScore": "0.9999493549586895",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "7.848488447282847E-4",
+   "@URI": "http://dbpedia.org/resource/United_States_Congress",
+   "@support": "19906",
+   "@surfaceForm": "US Congress",
+   "@offset": "70",
+   "@similarityScore": "0.9992137067857604",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature"
+  }
+ ],
+ "tweet": "675293868628185088",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

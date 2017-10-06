@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "So yeah, #StarWars was good. Not as good as the imagined ideal we constructed in our heads but a really great result from JJ Abrams et al",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/J._J._Abrams",
+  "@support": "445",
+  "@surfaceForm": "JJ Abrams",
+  "@offset": "122",
+  "@similarityScore": "0.9999999999999716",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "677036389301673984",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

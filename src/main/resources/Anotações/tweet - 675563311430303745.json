@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I am so pissed that #Obama let #Muslims become so threatening 2 R country! #ImpeachObama NOW! He hates America that's Y he did this! ðŸ\u2018ŽðŸ?½ðŸ\u2018ŽðŸ˜¡",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03322094238288794",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslims",
+  "@offset": "32",
+  "@similarityScore": "0.9677126637065793",
+  "@types": ""
+ }],
+ "tweet": "675563311430303745",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

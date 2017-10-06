@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "So be it, Jedi #EmperorPalpatine #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.252113655125646E-5",
+  "@URI": "http://dbpedia.org/resource/Jedi",
+  "@support": "2742",
+  "@surfaceForm": "Jedi",
+  "@offset": "10",
+  "@similarityScore": "0.9999462202074088",
+  "@types": ""
+ }],
+ "tweet": "677036676737204224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

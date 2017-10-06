@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Video interviews with Daisy Ridley and Oscar Isaac on #StarWars: #TheForceAwakens â\u20ac¦ https://t.co/OhRoksi1xa https://t.co/0bfszNWiof",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Oscar_Isaac",
+  "@support": "51",
+  "@surfaceForm": "Oscar Isaac",
+  "@offset": "39",
+  "@similarityScore": "0.9999999999695888",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "675294736295546880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Trump â\u20acœObama said in his speech that #Muslims are our sports heroes. What sport is he talking about, and who?â\u20ac? https://t.co/IUY5LXUHKq",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0184103106063111",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslims",
+  "@offset": "41",
+  "@similarityScore": "0.9816723940684858",
+  "@types": ""
+ }],
+ "tweet": "675573831701012481",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@collectsideshow R2-D2 of course! #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/R2-D2",
+  "@support": "318",
+  "@surfaceForm": "R2-D2",
+  "@offset": "17",
+  "@similarityScore": "1.0",
+  "@types": ""
+ }],
+ "tweet": "676783709664727040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

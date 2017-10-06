@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "TheFilmFile Review: STAR WARS: EPISODE VII - THE FORCE AWAKENS (â˜\u2026â˜\u2026â˜\u2026Â½) https://t.co/Yc9rSap5tt (Nationwide) #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Development_of_Star_Wars_Episode_VII",
+  "@support": "44",
+  "@surfaceForm": "STAR WARS: EPISODE VII",
+  "@offset": "20",
+  "@similarityScore": "1.0",
+  "@types": ""
+ }],
+ "tweet": "677037039150366721",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

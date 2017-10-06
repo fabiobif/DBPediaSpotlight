@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @beatlesblonde: #starwarsphotochallenge Day 14: favorite Sith Lord, Darth Maul #StarWars #DarthMaul #Sith https://t.co/HvwjP63TyD",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028747255002647933",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9450092812924722",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "Sith Lord",
+   "@offset": "60",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Darth_Maul",
+   "@support": "152",
+   "@surfaceForm": "Darth Maul",
+   "@offset": "71",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.664919244495813E-6",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "Sith",
+   "@offset": "104",
+   "@similarityScore": "0.999997335087782",
+   "@types": ""
+  }
+ ],
+ "tweet": "676804114735570944",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

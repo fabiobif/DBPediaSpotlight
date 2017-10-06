@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Variety: #StarWars premieres to wild cheers, roars for Carrie Fisher, Harrison Ford, Mark Hamill https://t.co/9GqrC7EDW9 https://t.co/xâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014873562599487756",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9582754657394751",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.305031916758181E-4",
+   "@URI": "http://dbpedia.org/resource/Variety_(magazine)",
+   "@support": "5080",
+   "@surfaceForm": "Variety",
+   "@offset": "4",
+   "@similarityScore": "0.9992290343259094",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Carrie_Fisher",
+   "@support": "290",
+   "@surfaceForm": "Carrie Fisher",
+   "@offset": "59",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "1.8048424373666051E-6",
+   "@URI": "http://dbpedia.org/resource/Harrison_Ford",
+   "@support": "700",
+   "@surfaceForm": "Harrison Ford",
+   "@offset": "74",
+   "@similarityScore": "0.9999981951608363",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mark_Hamill",
+   "@support": "360",
+   "@surfaceForm": "Mark Hamill",
+   "@offset": "89",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "676803421815508993",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

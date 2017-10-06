@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "@indiewire amazing how #StarWars put digital filmmaking on the map, now returning to roots of celluloid film. #Kodak #amazing",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/IndieWire",
+   "@support": "238",
+   "@surfaceForm": "indiewire",
+   "@offset": "1",
+   "@similarityScore": "0.9999999996846043",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  },
+  {
+   "@percentageOfSecondRank": "4.3734259772867663E-4",
+   "@URI": "http://dbpedia.org/resource/Celluloid",
+   "@support": "256",
+   "@surfaceForm": "celluloid",
+   "@offset": "94",
+   "@similarityScore": "0.9995628467364158",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "4.040504159472451E-9",
+   "@URI": "http://dbpedia.org/resource/Eastman_Kodak",
+   "@support": "2150",
+   "@surfaceForm": "Kodak",
+   "@offset": "111",
+   "@similarityScore": "0.9999999944487001",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676803427675041793",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

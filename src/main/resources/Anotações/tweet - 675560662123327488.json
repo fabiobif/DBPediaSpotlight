@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Fuck #You #trump.....Neil Young Rockin'In The Free World(New Sound)Live From Hyde Park 27th J... https://t.co/rwf2SCoaBy via @YouTube",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.7239893799579126",
+   "@URI": "http://dbpedia.org/resource/Suit_(cards)",
+   "@support": "1147",
+   "@surfaceForm": "trump",
+   "@offset": "12",
+   "@similarityScore": "0.5775958564310476",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.6977782863374665E-4",
+   "@URI": "http://dbpedia.org/resource/Neil_Young",
+   "@support": "1982",
+   "@surfaceForm": "Neil Young",
+   "@offset": "22",
+   "@similarityScore": "0.9997279731056727",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:MusicalArtist"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Free_World",
+   "@support": "78",
+   "@surfaceForm": "Free World",
+   "@offset": "47",
+   "@similarityScore": "0.9999998156006483",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.04656220464374135",
+   "@URI": "http://dbpedia.org/resource/Hyde_Park,_London",
+   "@support": "1333",
+   "@surfaceForm": "Hyde Park",
+   "@offset": "78",
+   "@similarityScore": "0.9421619611505652",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,Schema:Park,DBpedia:Park"
+  },
+  {
+   "@percentageOfSecondRank": "4.6749681073954036E-8",
+   "@URI": "http://dbpedia.org/resource/YouTube",
+   "@support": "16319",
+   "@surfaceForm": "YouTube",
+   "@offset": "127",
+   "@similarityScore": "0.9999999484363697",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675560662123327488",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "@POTUS #Obama You seem blind &amp; deaf to what #America cares about which isn't #climatechange but #terrorism #ISIS etc. #WakeUpAmerica",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "9.687726455382047E-5",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "1",
+   "@similarityScore": "0.9999018262042012",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "4.5476910568463595E-4",
+   "@URI": "http://dbpedia.org/resource/Deafness",
+   "@support": "3703",
+   "@surfaceForm": "deaf",
+   "@offset": "35",
+   "@similarityScore": "0.9994400987920248",
+   "@types": "DBpedia:Disease"
+  },
+  {
+   "@percentageOfSecondRank": "0.0018876238944633944",
+   "@URI": "http://dbpedia.org/resource/Terrorism",
+   "@support": "6828",
+   "@surfaceForm": "terrorism",
+   "@offset": "101",
+   "@similarityScore": "0.9963116523904709",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.16648196609059154",
+   "@URI": "http://dbpedia.org/resource/Isis_(band)",
+   "@support": "380",
+   "@surfaceForm": "ISIS",
+   "@offset": "112",
+   "@similarityScore": "0.806551752329575",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  }
+ ],
+ "tweet": "675568641472004097",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

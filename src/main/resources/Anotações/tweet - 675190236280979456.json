@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SuperHeroHype: Video interviews with Daisy Ridley and Oscar Isaac on #StarWars: #TheForceAwakens https://t.co/TNDgaRE0bq https://t.co/eâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0013491699185835355",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9969959606003417",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Oscar_Isaac",
+   "@support": "51",
+   "@surfaceForm": "Oscar Isaac",
+   "@offset": "58",
+   "@similarityScore": "0.9999999999695888",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675190236280979456",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

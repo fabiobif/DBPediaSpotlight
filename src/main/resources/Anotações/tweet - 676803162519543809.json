@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Jacamo: #StarWars #competition  RT &amp; follow us by midnight for chance to #WIN a R2-D2 Desktop Vacuum https://t.co/doc5a1EFBI https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028340933762180127",
+   "@URI": "http://dbpedia.org/resource/Windows_RT",
+   "@support": "126",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9702475771502147",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.028340933762180127",
+   "@URI": "http://dbpedia.org/resource/Windows_RT",
+   "@support": "126",
+   "@surfaceForm": "RT",
+   "@offset": "36",
+   "@similarityScore": "0.9702475771502147",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.015620258281218371",
+   "@URI": "http://dbpedia.org/resource/WIN_Television",
+   "@support": "278",
+   "@surfaceForm": "WIN",
+   "@offset": "82",
+   "@similarityScore": "0.9779868248160855",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/R2-D2",
+   "@support": "318",
+   "@surfaceForm": "R2-D2",
+   "@offset": "88",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803162519543809",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

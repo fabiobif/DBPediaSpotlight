@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Did You Know? #Obama shut down #California operation of DHS anti-terror program that would have stopped #SanBernadino killings. Just lovely.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.3014486542974273E-5",
+  "@URI": "http://dbpedia.org/resource/California",
+  "@support": "121145",
+  "@surfaceForm": "California",
+  "@offset": "32",
+  "@similarityScore": "0.9999728773731731",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+ }],
+ "tweet": "675294852452499457",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

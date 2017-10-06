@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MIAMIforTRUMP: Very soon we are @realDonaldTrump will   #MakeAmericaGreatAgain! ðŸ?\u2020ðŸ\u2021ºðŸ\u2021¸ðŸ?\u2020ðŸ\u2021ºðŸ\u2021¸ #Trump2016 #Trump #Yuge https://t.co/v9vBA5ID1h",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9400093252358541",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675565824539672576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

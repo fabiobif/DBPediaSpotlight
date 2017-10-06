@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsJunk: If you missed it. Our count down video! 8 days! #StarWars #TheForceAwakens https://t.co/t7eYPGZQsv",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.08997686458875767",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8920920031597637",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675184088194654211",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

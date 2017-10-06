@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ManaByte: Ok, BIG #TheForceAwakens spoilers are starting to come out. Someone got their hands on the 5 Minute Stories book and it has tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.009634360785315101",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9814904914958831",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.2335191652555572",
+   "@URI": "http://dbpedia.org/resource/Spoiler_(media)",
+   "@support": "117",
+   "@surfaceForm": "spoilers",
+   "@offset": "39",
+   "@similarityScore": "0.7905598529693669",
+   "@types": ""
+  }
+ ],
+ "tweet": "675205016530087936",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

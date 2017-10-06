@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @cnni: This is what it was like to be at the #StarWars premiere last night: https://t.co/z4X4eplV0O #TheForceAwakens https://t.co/APSvJyâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.020951685534731528",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9610503668934854",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/CNN_International",
+   "@support": "440",
+   "@surfaceForm": "cnni",
+   "@offset": "4",
+   "@similarityScore": "0.9999999883423528",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "676782357739798528",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

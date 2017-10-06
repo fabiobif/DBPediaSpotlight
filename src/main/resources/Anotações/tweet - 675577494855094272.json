@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JohnFPLane: #Trump shouldn't be banned from going anywhere. EVERY country deserves a chance to pelt eggs at this crazy, sunburnt cabbagâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.029459677711322067",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9514534447676861",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0026018112258135353",
+   "@URI": "http://dbpedia.org/resource/Egg_(food)",
+   "@support": "2375",
+   "@surfaceForm": "eggs",
+   "@offset": "104",
+   "@similarityScore": "0.9919436175316668",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577494855094272",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

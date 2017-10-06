@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Huh, look at that. The pot just tweeted that the kettle is black. #TrumpIsDisqualifiedParty #Trump https://t.co/esGQseSnb4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Twitter",
+   "@support": "10159",
+   "@surfaceForm": "tweeted",
+   "@offset": "32",
+   "@similarityScore": "0.9999999999252793",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0028065080988131925",
+   "@URI": "http://dbpedia.org/resource/Kettle",
+   "@support": "205",
+   "@surfaceForm": "kettle",
+   "@offset": "49",
+   "@similarityScore": "0.9971651376106789",
+   "@types": ""
+  }
+ ],
+ "tweet": "675565333697028096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

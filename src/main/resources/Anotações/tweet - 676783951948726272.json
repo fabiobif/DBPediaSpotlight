@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "While waiting for #TheForceAwakens: @Silberwhatever has 5 Reasons Every #StarWars Fan Should Watch Clone Wars https://t.co/TgyeOBhn3L",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Clone_Wars_(Star_Wars)",
+  "@support": "449",
+  "@surfaceForm": "Clone Wars",
+  "@offset": "99",
+  "@similarityScore": "0.9999999999859028",
+  "@types": "Schema:Event,DBpedia:Event,DBpedia:MilitaryConflict"
+ }],
+ "tweet": "676783951948726272",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CharlesPulliam: PSA: This Chrome extension keeps trolls from spoiling #StarWars: #TheForceAwakens https://t.co/TBbwQaPcZE https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.13728949114182012",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8125528932200844",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676802993665126400",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

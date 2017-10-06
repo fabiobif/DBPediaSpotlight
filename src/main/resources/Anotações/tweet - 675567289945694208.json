@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MIAMIforTRUMP: Incompetent! We need a new President fast!! #WhyISupportTrump #TerrorismHasReligion #HelpThemThere #Trump #Trump2016 httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.018931419531410195",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9662660457559767",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675567289945694208",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

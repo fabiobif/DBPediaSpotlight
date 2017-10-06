@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "All that yoga she's been doing. #StarWars https://t.co/97HOYc5ls5",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.009736149140025902",
+  "@URI": "http://dbpedia.org/resource/Yoga",
+  "@support": "4291",
+  "@surfaceForm": "yoga",
+  "@offset": "9",
+  "@similarityScore": "0.9815467686103639",
+  "@types": ""
+ }],
+ "tweet": "676804023639523329",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Google \"a long time ago in a galaxy far far away\" for a hidden treat! #StarWars #StarWarsForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.449247205532942E-4",
+  "@URI": "http://dbpedia.org/resource/Google",
+  "@support": "15257",
+  "@surfaceForm": "Google",
+  "@offset": "0",
+  "@similarityScore": "0.9994156253428599",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "674966376784789504",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

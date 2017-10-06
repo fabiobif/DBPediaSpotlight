@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @johncampea: Final episode of Collider Jedi Council before we see #TheForceAwakens is up with new council member @TiffanysTweets https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01919888246350377",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9650888488555089",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Jedi_Council",
+   "@support": "77",
+   "@surfaceForm": "Jedi Council",
+   "@offset": "42",
+   "@similarityScore": "0.999999999999261",
+   "@types": ""
+  }
+ ],
+ "tweet": "675233630399176704",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

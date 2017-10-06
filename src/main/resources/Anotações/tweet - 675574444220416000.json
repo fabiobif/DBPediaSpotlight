@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Doris Matsui, Congresswoman Born in Internment Camp, Responds to #Trump https://t.co/kqkw85dZg1 #humanrights #refugees",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Doris_Matsui",
+  "@support": "27",
+  "@surfaceForm": "Doris Matsui",
+  "@offset": "0",
+  "@similarityScore": "1.0",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:Congressman"
+ }],
+ "tweet": "675574444220416000",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "7 days until #StarWars.  The sound of a TIE fighter engine is actually an elephant.  The sound of a TIE Fighter... https://t.co/zmNgRI9VYB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/TIE_fighter",
+   "@support": "146",
+   "@surfaceForm": "TIE fighter",
+   "@offset": "40",
+   "@similarityScore": "0.9999999999912745",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.00336269557840297",
+   "@URI": "http://dbpedia.org/resource/Elephant",
+   "@support": "3704",
+   "@surfaceForm": "elephant",
+   "@offset": "74",
+   "@similarityScore": "0.9941168434124393",
+   "@types": "DBpedia:Species,DBpedia:Eukaryote,DBpedia:Animal,DBpedia:Mammal"
+  }
+ ],
+ "tweet": "674966810526130176",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

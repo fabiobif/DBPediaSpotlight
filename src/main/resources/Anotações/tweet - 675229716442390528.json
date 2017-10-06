@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Win a #TheForceAwakens TFO Stormtrooper w/ Desert Assault Walker from @EntEarth &amp; @MakingStarWars! #ICollectatEE https://t.co/NfJ9JjYxHs",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/TFO",
+  "@support": "80",
+  "@surfaceForm": "TFO",
+  "@offset": "23",
+  "@similarityScore": "0.9999997948300672",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675229716442390528",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

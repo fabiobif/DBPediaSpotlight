@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @fansonpatrol: This weeks show #66! https://t.co/Ve8hEpvMAj #starwarsÂ  #TheForceAwakensÂ  #StarWarsMarathon #comics #DCComics https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02133007161698566",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9624997524236334",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676780382335864832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

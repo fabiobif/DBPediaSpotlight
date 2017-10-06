@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @IBTimes: Disney cross-promotes #StarWars to its ESPN brand for an illuminating lightsaber special https://t.co/MPAnSa79Xr https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.06330756852401892",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9130386386573959",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.3822352146580863E-4",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "13",
+   "@similarityScore": "0.9995336454414947",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "5.986240766082983E-4",
+   "@URI": "http://dbpedia.org/resource/ESPN",
+   "@support": "11173",
+   "@surfaceForm": "ESPN",
+   "@offset": "52",
+   "@similarityScore": "0.9983311742517975",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Lightsaber",
+   "@support": "584",
+   "@surfaceForm": "lightsaber",
+   "@offset": "83",
+   "@similarityScore": "0.9999998479322132",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036403063054336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

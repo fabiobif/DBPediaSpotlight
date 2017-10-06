@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RJGatorEsq: Why I love America:  Because men like this make the world a better place, and this is who we are.  #Trump #Cruz https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.010910847965329205",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.979629703630508",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675566750528704512",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

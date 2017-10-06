@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AlArabiya_Eng: Scottish university withdraws #Trumpâ\u20ac™s honorary degree: https://t.co/AMYrD1H1We https://t.co/VyfMsodv74",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.3066109274467005",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.7395580366276949",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.03868964152638725",
+   "@URI": "http://dbpedia.org/resource/Scotland",
+   "@support": "81988",
+   "@surfaceForm": "Scottish",
+   "@offset": "19",
+   "@similarityScore": "0.9618092360673364",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675560047263490048",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

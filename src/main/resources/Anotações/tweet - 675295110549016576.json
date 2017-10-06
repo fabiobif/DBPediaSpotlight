@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DrMartyFox: #Whistleblower   #Obama Shut Down Investigation   âž¡ï¸? Could Have Prevented  #SanBernardino   https://t.co/DGX4iGYgi4 https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002023233979046394",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9950707091025908",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.015315533817685162",
+   "@URI": "http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)",
+   "@support": "26",
+   "@surfaceForm": "Shut Down",
+   "@offset": "40",
+   "@similarityScore": "0.9705296211801127",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
+  }
+ ],
+ "tweet": "675295110549016576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

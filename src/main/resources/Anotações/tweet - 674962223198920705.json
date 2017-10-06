@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Star Wars 7: Darth Vader will be resurrectedâ\u20ac¦ and 6 other crazy fan theories - The Week UK https://t.co/YcmdHl4xCq #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002089802012239088",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "0",
+   "@similarityScore": "0.9978712400779296",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Darth_Vader",
+   "@support": "1313",
+   "@surfaceForm": "Darth Vader",
+   "@offset": "13",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.07637838713414992",
+   "@URI": "http://dbpedia.org/resource/United_Kingdom",
+   "@support": "170647",
+   "@surfaceForm": "UK",
+   "@offset": "90",
+   "@similarityScore": "0.9219421156252787",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "674962223198920705",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

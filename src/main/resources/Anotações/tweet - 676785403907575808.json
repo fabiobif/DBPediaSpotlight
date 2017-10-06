@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Trying to avoid any stories about the new Star Wars is gonna be rough. Thursday needs to hurry the fuck up! #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0025224239789823923",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "42",
+  "@similarityScore": "0.9972230192428663",
+  "@types": ""
+ }],
+ "tweet": "676785403907575808",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

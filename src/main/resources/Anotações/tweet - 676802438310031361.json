@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "NASA chief and astronaut Charles Bolden talks to @dsamuelson about #StarWars vs. #StarTrek &amp; little green men. https://t.co/3IgqrRw21H",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.12725518940425E-5",
+   "@URI": "http://dbpedia.org/resource/NASA",
+   "@support": "20350",
+   "@surfaceForm": "NASA",
+   "@offset": "0",
+   "@similarityScore": "0.9999785343240478",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency"
+  },
+  {
+   "@percentageOfSecondRank": "2.223466294524152E-6",
+   "@URI": "http://dbpedia.org/resource/Astronaut",
+   "@support": "4118",
+   "@surfaceForm": "astronaut",
+   "@offset": "15",
+   "@similarityScore": "0.9999971967179774",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Charles_Bolden",
+   "@support": "67",
+   "@surfaceForm": "Charles Bolden",
+   "@offset": "25",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  }
+ ],
+ "tweet": "676802438310031361",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

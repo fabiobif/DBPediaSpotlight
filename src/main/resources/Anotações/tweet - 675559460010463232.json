@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Karma's going to rip your shriveled, useless balls off Trump.  @realDonaldTrump #Muslims #Trump #GOPHate",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.007988618468758755",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslims",
+  "@offset": "81",
+  "@similarityScore": "0.9919558206772232",
+  "@types": ""
+ }],
+ "tweet": "675559460010463232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

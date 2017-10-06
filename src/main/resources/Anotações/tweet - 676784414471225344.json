@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LightHouseD7: Ah here #StarWars #TheForceAwakens https://t.co/7H5VaVtP0x",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9400093252358275",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676784414471225344",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

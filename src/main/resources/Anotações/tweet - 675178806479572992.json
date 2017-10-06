@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Dryden13: RT LEGO_Group: Check out life-sized Rey, BB-8 and Kylo Ren from starwars: #TheForceAwakens built out of â\u20ac¦ https://t.co/B088CU3uYP",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.003984199801220343",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "10",
+  "@similarityScore": "0.9927769715940135",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675178806479572992",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

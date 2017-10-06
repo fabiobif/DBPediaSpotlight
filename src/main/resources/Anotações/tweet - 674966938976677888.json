@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TheRoot: Will Ava DuVernay be the first woman to direct a #StarWars film? https://t.co/3x94Akkbwu https://t.co/wjsCeOzb14",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.021429307735860315",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.958339909755373",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674966938976677888",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

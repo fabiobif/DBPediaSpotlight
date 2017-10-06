@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#TheForceAwakens Star Wars https://t.co/aXtVtWkQD6",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.00698007225773819",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "17",
+  "@similarityScore": "0.9917372066584331",
+  "@types": ""
+ }],
+ "tweet": "676780643460751364",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

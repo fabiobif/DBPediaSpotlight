@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@starwars #TheForceAwakens lives up to the hype and could even exceed it. The #force is indeed strong with young Abrams.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.002920936709847061",
+  "@URI": "http://dbpedia.org/resource/Force",
+  "@support": "4917",
+  "@surfaceForm": "force",
+  "@offset": "79",
+  "@similarityScore": "0.9941425895096154",
+  "@types": ""
+ }],
+ "tweet": "676783617377480704",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is First Order Stormtrooper. Who's Yours? https://t.co/PSBf62s8MD #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.7322803740449634E-5",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "3",
+  "@similarityScore": "0.999935814924045",
+  "@types": ""
+ }],
+ "tweet": "676781130029338624",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

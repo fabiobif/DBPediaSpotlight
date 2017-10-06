@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Omg the force awakens comes out tomorrow, it's going to be amazing #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.003332088757583699",
+  "@URI": "http://dbpedia.org/resource/Force",
+  "@support": "4917",
+  "@surfaceForm": "force",
+  "@offset": "8",
+  "@similarityScore": "0.9940757924286945",
+  "@types": ""
+ }],
+ "tweet": "677036312529121280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

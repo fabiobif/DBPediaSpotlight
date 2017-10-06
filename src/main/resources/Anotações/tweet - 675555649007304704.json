@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RosemryS: 86% of American voters have unfavorable view of #Congress. 50%  of Obama. They're in no position to lecture #Trump https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0026992285400251454",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9940566821113233",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "8.636142326330535E-4",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "American",
+   "@offset": "21",
+   "@similarityScore": "0.9988939975359421",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.028589877783235577",
+   "@URI": "http://dbpedia.org/resource/United_States_Congress",
+   "@support": "19906",
+   "@surfaceForm": "Congress",
+   "@offset": "63",
+   "@similarityScore": "0.9563057890404719",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature"
+  }
+ ],
+ "tweet": "675555649007304704",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

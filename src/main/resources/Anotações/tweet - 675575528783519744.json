@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Oil_Ranger: @mitchellvii @FoxNews first of all @TeamCavuto #TRUMP is not leaving the race, secondly IF he did, #CRUZ will not get my voâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028328540107485905",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9483166446554304",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Fox_News_Channel",
+   "@support": "4116",
+   "@surfaceForm": "FoxNews",
+   "@offset": "30",
+   "@similarityScore": "0.9999999952370331",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675575528783519744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Wielding the Force with Michael V!  #TheForceAwakensPH #StarWars #StarWarsPH #TheForceAwakens @â\u20ac¦ https://t.co/QC4H0L1wCI",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.013414154419237817",
+  "@URI": "http://dbpedia.org/resource/Michael_V_Kalaphates",
+  "@support": "55",
+  "@surfaceForm": "Michael V",
+  "@offset": "24",
+  "@similarityScore": "0.9867633285688912",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Monarch"
+ }],
+ "tweet": "676786313035653120",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

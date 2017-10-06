@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "AQUI Ã\u2030 DARK SIDE CARAIO My Star Wars Match is Kylo Ren. Who's Yours? https://t.co/6rR4AOajr9 #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00491166526722644",
+   "@URI": "http://dbpedia.org/resource/Secretaría_de_Inteligencia",
+   "@support": "125",
+   "@surfaceForm": "SIDE",
+   "@offset": "13",
+   "@similarityScore": "0.9943096984835735",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.475742519887148E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "28",
+   "@similarityScore": "0.9992486647243687",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784013219098625",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

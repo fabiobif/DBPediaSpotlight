@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "There are already #StarWars fans camping out in Leicester Square for tomorrow's UK premiere. #HeartReports https://t.co/OAw8IWizEY",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.0448076468399532E-4",
+   "@URI": "http://dbpedia.org/resource/Leicester_Square",
+   "@support": "505",
+   "@surfaceForm": "Leicester Square",
+   "@offset": "48",
+   "@similarityScore": "0.999795561038517",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.008513772919848455",
+   "@URI": "http://dbpedia.org/resource/United_Kingdom",
+   "@support": "170647",
+   "@surfaceForm": "UK",
+   "@offset": "80",
+   "@similarityScore": "0.9906007794391023",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "676803959953170432",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

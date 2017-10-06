@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EtihadAirways: The new #StarWars film was shot #InAbuDhabi.  See the desert from a camel: https://t.co/Or4ONx96X4 #TheForceAwakens httpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024249688810148468",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9576445005347934",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.003998414237411146",
+   "@URI": "http://dbpedia.org/resource/Desert",
+   "@support": "3705",
+   "@surfaceForm": "desert",
+   "@offset": "73",
+   "@similarityScore": "0.9951803291956497",
+   "@types": ""
+  }
+ ],
+ "tweet": "676786590794973184",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

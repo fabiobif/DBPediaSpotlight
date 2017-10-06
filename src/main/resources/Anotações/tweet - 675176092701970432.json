@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WA_Police: May #theforce be with you this festive season #polair #starwars #theforceawakens #stormtrooper https://t.co/E9hDM84OUd",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028224550129381767",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9504913469938304",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.18279552655220624",
+   "@URI": "http://dbpedia.org/resource/Stormtrooper_(Star_Wars)",
+   "@support": "186",
+   "@surfaceForm": "stormtrooper",
+   "@offset": "97",
+   "@similarityScore": "0.8423476783245468",
+   "@types": ""
+  }
+ ],
+ "tweet": "675176092701970432",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

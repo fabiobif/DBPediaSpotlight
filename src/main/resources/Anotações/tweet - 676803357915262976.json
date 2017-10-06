@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @michelemorrow: #TheForceAwakens premiere hype tonight is real! And this Stormtrooper gets to see #StarWars Thursday!! https://t.co/XqQ3â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.025182659748637395",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9547563957414508",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803357915262976",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

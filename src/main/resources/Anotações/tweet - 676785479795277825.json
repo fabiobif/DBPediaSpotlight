@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @mindykaling: She's gotta have it. #TheForceAwakens #C3PO https://t.co/XquytsXaKE",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400093252358275",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/C-3PO",
+   "@support": "276",
+   "@surfaceForm": "C3PO",
+   "@offset": "56",
+   "@similarityScore": "0.9999998762155903",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785479795277825",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

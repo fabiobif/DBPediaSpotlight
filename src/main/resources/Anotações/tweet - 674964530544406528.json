@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#StarWars People Magazine on Supreme Leader Snoke https://t.co/7kFBambmye",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "2.991407531915186E-4",
+  "@URI": "http://dbpedia.org/resource/People_(magazine)",
+  "@support": "2431",
+  "@surfaceForm": "People Magazine",
+  "@offset": "10",
+  "@similarityScore": "0.9997009424401249",
+  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+ }],
+ "tweet": "674964530544406528",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

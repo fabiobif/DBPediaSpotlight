@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Islamophobia is real, and getting worse by day #trump #Islamophobia  https://t.co/6J4g0Tygcd",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Islamophobia",
+   "@support": "537",
+   "@surfaceForm": "Islamophobia",
+   "@offset": "0",
+   "@similarityScore": "0.9999998696339759",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.1779502472755502",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "48",
+   "@similarityScore": "0.8465039470794692",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Islamophobia",
+   "@support": "537",
+   "@surfaceForm": "Islamophobia",
+   "@offset": "55",
+   "@similarityScore": "0.9999998696339759",
+   "@types": ""
+  }
+ ],
+ "tweet": "675560008646545408",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

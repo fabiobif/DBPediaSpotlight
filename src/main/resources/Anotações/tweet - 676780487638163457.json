@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "[#StarWars Test] Which @StarWars character are you at #work? https://t.co/0uaFVz6Gcx  #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "8.991263997861448E-4",
+  "@URI": "http://dbpedia.org/resource/Test_cricket",
+  "@support": "15862",
+  "@surfaceForm": "Test",
+  "@offset": "11",
+  "@similarityScore": "0.9972412171984532",
+  "@types": ""
+ }],
+ "tweet": "676780487638163457",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @KyleWalle35: Ready to listen to #Trump with @Bigmark285 https://t.co/HPIL4LqXRK",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.01848825944857547",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9673963210053236",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675565215166021632",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

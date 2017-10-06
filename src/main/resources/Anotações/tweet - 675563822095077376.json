@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Muhammad #Ali takes swing at #Trump, calls #ISIS â\u20ac˜misguided murderersâ\u20ac™  https://t.co/zhbqbo3RWN https://t.co/2KLyLw4ru0",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.060604063991659E-5",
+   "@URI": "http://dbpedia.org/resource/Muhammad",
+   "@support": "16121",
+   "@surfaceForm": "Muhammad",
+   "@offset": "0",
+   "@similarityScore": "0.9999862782062343",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.5992938588089065",
+   "@URI": "http://dbpedia.org/resource/Isis_(band)",
+   "@support": "380",
+   "@surfaceForm": "ISIS",
+   "@offset": "44",
+   "@similarityScore": "0.5723070892337163",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  }
+ ],
+ "tweet": "675563822095077376",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

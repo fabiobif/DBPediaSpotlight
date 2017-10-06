@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @troydanderson: Donald Trump: The Perfect Product of Four American Lies #Trump ##TrumpFacts #GOPlogic https://t.co/pFAZnIFlZO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03004119254807745",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9473028306821171",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.234081016985333E-5",
+   "@URI": "http://dbpedia.org/resource/Donald_Trump",
+   "@support": "924",
+   "@surfaceForm": "Donald Trump",
+   "@offset": "19",
+   "@similarityScore": "0.999937663075803",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "8.344276894198208E-4",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "American",
+   "@offset": "61",
+   "@similarityScore": "0.9987054764338502",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675566892514324481",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LAGalleryArt: We've got these brilliant Zen Troopers in the gallery for #StarWars Week. Another awesome drop from @ry_ca https://t.co/Nâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.021330071616986267",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9616957344418663",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.491896317702656E-5",
+   "@URI": "http://dbpedia.org/resource/Zen",
+   "@support": "4426",
+   "@surfaceForm": "Zen",
+   "@offset": "44",
+   "@similarityScore": "0.9998665787197907",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803069829627904",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

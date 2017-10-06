@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @cnni: Rewatching @starwars before #TheForceAwakens? Some fans recommend using \"machete order\" https://t.co/z9Ah4sJMI6 https://t.co/967aâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.022061832960605095",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9613201650725841",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/CNN_International",
+   "@support": "440",
+   "@surfaceForm": "cnni",
+   "@offset": "4",
+   "@similarityScore": "0.9999999715860217",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.007735142342108E-4",
+   "@URI": "http://dbpedia.org/resource/Machete",
+   "@support": "440",
+   "@surfaceForm": "machete",
+   "@offset": "83",
+   "@similarityScore": "0.9995154942434019",
+   "@types": ""
+  }
+ ],
+ "tweet": "675215014660341764",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

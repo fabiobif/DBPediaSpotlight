@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "LOLz ...love the #StarWars Trump mashup! https://t.co/6fK9qKnq2C",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02779234389638288",
+  "@URI": "http://dbpedia.org/resource/Mashup_(music)",
+  "@support": "696",
+  "@surfaceForm": "mashup",
+  "@offset": "33",
+  "@similarityScore": "0.9715505468459992",
+  "@types": "DBpedia:TopicalConcept,DBpedia:Genre,DBpedia:MusicGenre"
+ }],
+ "tweet": "674965789166862336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "The #Muslims who shaped America â\u20ac\u201c from brain surgeons to rappers https://t.co/0AQ5LLh10T #trump #Islam #Quran #Faith #Peace",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.10368191023721983",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "5",
+   "@similarityScore": "0.9060181546702621",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.3558114779051953",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "92",
+   "@similarityScore": "0.7346830183094856",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "7.88018109117279E-5",
+   "@URI": "http://dbpedia.org/resource/Islam",
+   "@support": "33508",
+   "@surfaceForm": "Islam",
+   "@offset": "99",
+   "@similarityScore": "0.9999011779322902",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Quran",
+   "@support": "10045",
+   "@surfaceForm": "Quran",
+   "@offset": "106",
+   "@similarityScore": "0.9999999999438387",
+   "@types": ""
+  }
+ ],
+ "tweet": "675565483714850816",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

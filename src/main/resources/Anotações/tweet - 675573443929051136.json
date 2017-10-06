@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @elkay14: Comforting news 4 #trump. @realDonaldTrump  from Georgia https://t.co/bROIqGIsC2",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013343625743139933",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9767603534725221",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.12633616970989775",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "32",
+   "@similarityScore": "0.8856735648174555",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.2180752015425269",
+   "@URI": "http://dbpedia.org/resource/Georgia_(U.S._state)",
+   "@support": "33265",
+   "@surfaceForm": "Georgia",
+   "@offset": "62",
+   "@similarityScore": "0.8184967502373354",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675573443929051136",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: Joseph Gordon-Levitt dressed as Yoda to go to the #StarWars: #TheForceAwakens premiere: https://t.co/j0g4axAqGO ðŸ™Œ https://t.co/nKIjâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.011859775596544343",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.975000799015264",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Joseph_Gordon-Levitt",
+   "@support": "225",
+   "@surfaceForm": "Joseph Gordon-Levitt",
+   "@offset": "8",
+   "@similarityScore": "0.99999999321318",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "4.5179167856513874E-5",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "40",
+   "@similarityScore": "0.9999462136271279",
+   "@types": ""
+  }
+ ],
+ "tweet": "676782740612714500",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

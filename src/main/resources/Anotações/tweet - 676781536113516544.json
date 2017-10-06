@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JaimieAlexander: None of the #feels. Make a #TheForceAwakens theory w/ @verizon #theorywars to win tix. https://t.co/PjGR43Wvf6 #ad httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02659568020664293",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9450631158371119",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.04094063666260638",
+   "@URI": "http://dbpedia.org/resource/Verizon_Communications",
+   "@support": "1690",
+   "@surfaceForm": "verizon",
+   "@offset": "76",
+   "@similarityScore": "0.9602434770337464",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676781536113516544",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

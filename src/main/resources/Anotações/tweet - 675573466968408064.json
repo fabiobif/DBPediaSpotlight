@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@BretBaier @realDonaldTrump yes they ruin their own GOP Republican Party if they don't stand behind  #Trump no one will stand behind them",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.529763796562553E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "52",
+   "@similarityScore": "0.9992516801671905",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "0.005138828043834582",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "Republican Party",
+   "@offset": "56",
+   "@similarityScore": "0.9948085730585094",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675573466968408064",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

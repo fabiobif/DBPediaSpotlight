@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @louis3288: â\u20acœ@Bidenshairplugs: Would you vote for Marco Rubio if he were to become the GOP nominee?â\u20ac? -NOPE, I'd write in #Trump!",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01689517176578793",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9701266318401697",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Marco_Rubio",
+   "@support": "132",
+   "@surfaceForm": "Marco Rubio",
+   "@offset": "55",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  },
+  {
+   "@percentageOfSecondRank": "1.6150698846589823E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "92",
+   "@similarityScore": "0.9997834026738723",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675564858683748352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

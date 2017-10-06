@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Quote of d decade by #Trump @realDonaldTrump \"Only India can handle Pakistan\" stop #Muslim immigrants , vote #Trump https://t.co/iycgoKmL5B",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0010860893282819057",
+   "@URI": "http://dbpedia.org/resource/India",
+   "@support": "205833",
+   "@surfaceForm": "India",
+   "@offset": "51",
+   "@similarityScore": "0.9976541442104535",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "3.564291373399171E-4",
+   "@URI": "http://dbpedia.org/resource/Pakistan",
+   "@support": "66699",
+   "@surfaceForm": "Pakistan",
+   "@offset": "68",
+   "@similarityScore": "0.9992808789927885",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.007071908963994442",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "84",
+   "@similarityScore": "0.9924277722442059",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577494016102400",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

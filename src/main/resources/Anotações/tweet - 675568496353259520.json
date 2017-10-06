@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@realDonaldTrump @ComatoseJeb I'm gonna ride  #TrumpTrain all the way &amp; will be on it when it delivers #Trump to DC.#MakeAmericaGreatAgain",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.11990246561407708",
+  "@URI": "http://dbpedia.org/resource/Direct_current",
+  "@support": "2384",
+  "@surfaceForm": "DC",
+  "@offset": "117",
+  "@similarityScore": "0.8845098807187243",
+  "@types": ""
+ }],
+ "tweet": "675568496353259520",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

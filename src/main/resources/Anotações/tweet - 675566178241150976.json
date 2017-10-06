@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RealFKNNews: Obama's Terrorism Speech, Translated Into Candor https://t.co/RWWXkMJ21o  Hilariously Pitiful #Obama https://t.co/xTPzAEWsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.878299618028892E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9987490802770954",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.4668840174659742",
+   "@URI": "http://dbpedia.org/resource/Candor_(village),_New_York",
+   "@support": "46",
+   "@surfaceForm": "Candor",
+   "@offset": "59",
+   "@similarityScore": "0.5331087823404147",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Village"
+  }
+ ],
+ "tweet": "675566178241150976",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

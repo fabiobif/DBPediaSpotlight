@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Watching \"Revenge of the Sith\" only 3 more to go! should be ready for the new one on Dec 18th. #starwars #movienight",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "6.648192076343237E-4",
+  "@URI": "http://dbpedia.org/resource/Sith",
+  "@support": "957",
+  "@surfaceForm": "Sith",
+  "@offset": "25",
+  "@similarityScore": "0.9993355961166933",
+  "@types": ""
+ }],
+ "tweet": "675576360144793600",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

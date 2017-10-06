@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @verizon: If no one knows what happens in #TheForceAwakens, anything goes. Right? What do you think? #TheoryWars https://t.co/uqxXbYCay3",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02342098598110507",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9591078203711701",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.04931669215559119",
+   "@URI": "http://dbpedia.org/resource/Verizon_Communications",
+   "@support": "1690",
+   "@surfaceForm": "verizon",
+   "@offset": "4",
+   "@similarityScore": "0.9525887392426997",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676786464047439872",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Look what I got #s#disney #disneyinfinity #theforceawakens #finn#rey@disney #starwars #wiiu #ps4â\u20ac¦ https://t.co/R9KI6pgpdB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0041353280602317586",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "disney",
+   "@offset": "19",
+   "@similarityScore": "0.9948289387063128",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0041353280602317586",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "disney",
+   "@offset": "69",
+   "@similarityScore": "0.9948289387063128",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675231302493347845",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

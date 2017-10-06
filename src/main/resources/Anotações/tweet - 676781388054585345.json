@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "😎 My Star Wars Match is Kylo Ren. Who's Yours? https://t.co/pZEMnRZIhe #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.002235537371086178",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "8",
+  "@similarityScore": "0.9973386930491179",
+  "@types": ""
+ }],
+ "tweet": "676781388054585345",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

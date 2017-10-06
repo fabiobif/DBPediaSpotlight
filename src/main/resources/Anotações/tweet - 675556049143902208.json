@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "! Trump won't back his obstinate ass down : see @patrickdevlin_ &gt; https://t.co/qtl5p1DqIL #fascism #trump https://t.co/cioDwQCLb1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0032904288879075957",
+   "@URI": "http://dbpedia.org/resource/Fascism",
+   "@support": "5690",
+   "@surfaceForm": "fascism",
+   "@offset": "94",
+   "@similarityScore": "0.9965644392379466",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.00360971731563106",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "103",
+   "@similarityScore": "0.9963096113052611",
+   "@types": ""
+  }
+ ],
+ "tweet": "675556049143902208",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

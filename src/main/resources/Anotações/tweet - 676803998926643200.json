@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Be sure to check out our #StarWars Episode 1 commentary now on @RantHollywood. Now this was podracing! https://t.co/nSsRRoqf8H",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/List_of_Star_Wars_air,_aquatic,_and_ground_vehicles",
+  "@support": "152",
+  "@surfaceForm": "podracing",
+  "@offset": "92",
+  "@similarityScore": "0.9999999863490531",
+  "@types": ""
+ }],
+ "tweet": "676803998926643200",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

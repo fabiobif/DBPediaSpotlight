@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @News12HV: 3 MORE DAYS!  â\u20ac˜#TheForceAwakensâ\u20ac™ will hit theaters this Friday - https://t.co/9OytN2RLKj (AP PHOTO) https://t.co/kMkyGfvTVC",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00949487303117145",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9833770959318497",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.6799494865963741",
+   "@URI": "http://dbpedia.org/resource/Associated_Press",
+   "@support": "7569",
+   "@surfaceForm": "AP",
+   "@offset": "108",
+   "@similarityScore": "0.5364551058016294",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784155766730753",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

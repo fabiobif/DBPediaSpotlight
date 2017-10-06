@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Yoda. Fuck Yeah :D https://t.co/K6r2mkfcaJ #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004137453624120378",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.995158761948149",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0020601936427704836",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "22",
+   "@similarityScore": "0.9963973864955301",
+   "@types": ""
+  }
+ ],
+ "tweet": "676781180411334656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

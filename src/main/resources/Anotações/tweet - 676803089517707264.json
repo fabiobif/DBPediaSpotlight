@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SunSentinel: 45 greatest characters in #StarWars films https://t.co/g5Dz4hg5xe https://t.co/AoznIUBuip",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03025344512673857",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9338850685059393",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803089517707264",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

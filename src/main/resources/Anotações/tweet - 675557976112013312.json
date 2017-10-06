@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Israel condemns #Trump. Jewish groups decry Trump pitch to ban Muslim immigration | The Times of Israel https://t.co/x6Jq6s4Zxk #DumpTrump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.537786091651073E-4",
+   "@URI": "http://dbpedia.org/resource/Israel",
+   "@support": "80043",
+   "@surfaceForm": "Israel",
+   "@offset": "1",
+   "@similarityScore": "0.9998223734391795",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.025612929260813645",
+   "@URI": "http://dbpedia.org/resource/Jews",
+   "@support": "65833",
+   "@surfaceForm": "Jewish",
+   "@offset": "25",
+   "@similarityScore": "0.9647414865132026",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.025348013658855806",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "64",
+   "@similarityScore": "0.9752254336493769",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0013074655896531725",
+   "@URI": "http://dbpedia.org/resource/The_Times",
+   "@support": "9248",
+   "@surfaceForm": "The Times",
+   "@offset": "85",
+   "@similarityScore": "0.9986572073221262",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+  },
+  {
+   "@percentageOfSecondRank": "1.537786091651073E-4",
+   "@URI": "http://dbpedia.org/resource/Israel",
+   "@support": "80043",
+   "@surfaceForm": "Israel",
+   "@offset": "98",
+   "@similarityScore": "0.9998223734391795",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675557976112013312",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

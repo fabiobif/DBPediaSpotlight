@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @characterdotcom: #StarWars week continues at https://t.co/0hGfotWsUy Win this awesome backpack by т?дя╕? and RT. https://t.co/OaKIaeOnRC",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.022419599636200806",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9601667699310996",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.022419599636200806",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "113",
+   "@similarityScore": "0.9601667699310996",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "676802896818761732",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Because he's worth it? #LoveThis #Chewbacca #StarWars https://t.co/Cj9clGGTG8",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Chewbacca",
+  "@support": "467",
+  "@surfaceForm": "Chewbacca",
+  "@offset": "34",
+  "@similarityScore": "0.9999996930078696",
+  "@types": ""
+ }],
+ "tweet": "677036796358754304",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I'm 58 hours away from seeing #TheForceAwakens and it feels longer now than when it was 58 days away. *twitches*",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.037387615690439045",
+  "@URI": "http://dbpedia.org/resource/Twitches_(film)",
+  "@support": "23",
+  "@surfaceForm": "twitches",
+  "@offset": "103",
+  "@similarityScore": "0.9639591530474235",
+  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+ }],
+ "tweet": "676781061066592258",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

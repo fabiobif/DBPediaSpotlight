@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "#barakobama #obama Responding to petition, White House says Obama won't declare Muslim holiday - USA TODAY https://t.co/k9MRB9z2Lr",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0011121548478654566",
+   "@URI": "http://dbpedia.org/resource/White_House",
+   "@support": "10548",
+   "@surfaceForm": "White House",
+   "@offset": "43",
+   "@similarityScore": "0.998489432850293",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Muslim_holidays",
+   "@support": "124",
+   "@surfaceForm": "Muslim holiday",
+   "@offset": "80",
+   "@similarityScore": "0.999999986685623",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/USA_Today",
+   "@support": "5000",
+   "@surfaceForm": "USA TODAY",
+   "@offset": "97",
+   "@similarityScore": "0.9999999998092619",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+  }
+ ],
+ "tweet": "675559892120399873",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @UKToyCollector: #TheDefinitiveHistoryOfStarWars on #Channel5 TONIGHT at 9pm #StarWars #TheForceAwakens @tuppenynudger @totalkharnage htâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0350699129162315",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400093252358275",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.056453923698336E-10",
+   "@URI": "http://dbpedia.org/resource/Channel_5_(UK)",
+   "@support": "2497",
+   "@surfaceForm": "Channel5",
+   "@offset": "56",
+   "@similarityScore": "0.9999999996943529",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675234858139000837",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

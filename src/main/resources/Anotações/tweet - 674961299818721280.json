@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Fantastic #starwars #alayasecura and #clonetrooper #cosplay at #RICC 2014 https://t.co/B4nQOcqeP8",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.1096537569263785",
+   "@URI": "http://dbpedia.org/resource/Fantastic_(magazine)",
+   "@support": "177",
+   "@surfaceForm": "Fantastic",
+   "@offset": "0",
+   "@similarityScore": "0.8647440774448992",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.140048037704143E-4",
+   "@URI": "http://dbpedia.org/resource/Cosplay",
+   "@support": "488",
+   "@surfaceForm": "cosplay",
+   "@offset": "52",
+   "@similarityScore": "0.9997858674978745",
+   "@types": ""
+  }
+ ],
+ "tweet": "674961299818721280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

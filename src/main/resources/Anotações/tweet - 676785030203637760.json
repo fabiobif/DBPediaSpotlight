@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Should we start taking bets on whether #TheForceAwakens will be spoiled for me before my New Years Day screening?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.00382917556556417",
+  "@URI": "http://dbpedia.org/resource/New_Year's_Day",
+  "@support": "1177",
+  "@surfaceForm": "New Years Day",
+  "@offset": "89",
+  "@similarityScore": "0.9945626049074758",
+  "@types": "DBpedia:Holiday"
+ }],
+ "tweet": "676785030203637760",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

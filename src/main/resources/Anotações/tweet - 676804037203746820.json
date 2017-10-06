@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Disney Infinity - The Force Awakens Poster: Disney Interactive and Lucasfilm today unveiled the offi... https://t.co/hH0qa6y7TF #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00719011794328881",
+   "@URI": "http://dbpedia.org/resource/Disney_Interactive_Studios",
+   "@support": "243",
+   "@surfaceForm": "Disney Interactive",
+   "@offset": "44",
+   "@similarityScore": "0.9928612107929067",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0038303675268250947",
+   "@URI": "http://dbpedia.org/resource/Lucasfilm",
+   "@support": "785",
+   "@surfaceForm": "Lucasfilm",
+   "@offset": "67",
+   "@similarityScore": "0.9961842439869518",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676804037203746820",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

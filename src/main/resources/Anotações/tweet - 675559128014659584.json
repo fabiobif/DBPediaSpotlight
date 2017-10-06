@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @yobynnad1127: #MuhammadAli has no problem hating on #Trump but supports a religion where gays are killed and women have no rights. httpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.008939874503718677",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9795402773367509",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675559128014659584",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

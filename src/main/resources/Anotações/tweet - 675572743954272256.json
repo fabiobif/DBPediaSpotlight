@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AlArabiya_Eng: #Trumpâ\u20ac™s name torn down at #Dubai property site https://t.co/8xBUCfOVOf",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02416948561856437",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9567770811784165",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.1732701300144722E-4",
+   "@URI": "http://dbpedia.org/resource/Dubai",
+   "@support": "10164",
+   "@surfaceForm": "Dubai",
+   "@offset": "49",
+   "@similarityScore": "0.9998395610573942",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "675572743954272256",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

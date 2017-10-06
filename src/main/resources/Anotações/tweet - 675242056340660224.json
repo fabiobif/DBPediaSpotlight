@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsFan5150: Brothers in Arms #BrothersInArms #StarWars #StormTroopers #CloneTroopers #Darkside #TheForceAwakens #starwarsart httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02270232365042218",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9458426591400073",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675242056340660224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

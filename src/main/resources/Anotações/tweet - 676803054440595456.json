@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @nerdist: Our #StarWars rewatch continues with @FunctionalNerd on #EmpireStrikesBack: https://t.co/XGZNuxyRNd https://t.co/pUMkfOwTTW",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03686126427405909",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9364833527010095",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "7.320548139058254E-5",
+   "@URI": "http://dbpedia.org/resource/Nerdist_Industries",
+   "@support": "116",
+   "@surfaceForm": "nerdist",
+   "@offset": "4",
+   "@similarityScore": "0.9999267209637548",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803054440595456",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

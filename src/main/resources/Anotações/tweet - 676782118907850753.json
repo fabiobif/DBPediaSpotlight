@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "The only thing I'm gonna RT that is #TheForceAwakens related... #adorbs  https://t.co/C4Nt5R5N6c",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "25",
+  "@similarityScore": "0.9400093252358275",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676782118907850753",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

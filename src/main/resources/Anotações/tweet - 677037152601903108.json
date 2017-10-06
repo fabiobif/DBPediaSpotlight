@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "What does C3PO taste like? strawberry Pez #StarWars The Sugar High Awakens https://t.co/nmN2ymF0FB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/C-3PO",
+   "@support": "276",
+   "@surfaceForm": "C3PO",
+   "@offset": "10",
+   "@similarityScore": "0.9999999996148858",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.007150426964037729",
+   "@URI": "http://dbpedia.org/resource/Pez",
+   "@support": "130",
+   "@surfaceForm": "Pez",
+   "@offset": "38",
+   "@similarityScore": "0.9914891554980524",
+   "@types": ""
+  }
+ ],
+ "tweet": "677037152601903108",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HoytsAustralia: WIN* your way to the #Star Wars #TheForceAwakens Premiere Event @ HOYTS EQ! Enter now: https://t.co/awC17VacQh https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03337528549376954",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9570394710979152",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.01458937622420205",
+   "@URI": "http://dbpedia.org/resource/WIN_Television",
+   "@support": "278",
+   "@surfaceForm": "WIN",
+   "@offset": "20",
+   "@similarityScore": "0.9600250813565512",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0061157983941058465",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "42",
+   "@similarityScore": "0.9934729707778388",
+   "@types": ""
+  }
+ ],
+ "tweet": "675189713024761856",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

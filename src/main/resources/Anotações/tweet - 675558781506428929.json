@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#CBS Chief Cheers #Trump: â\u20acœGo Donald! Keep Getting Out There!â\u20ac? #media - The Intercept https://t.co/o1BpV0e8N0",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "2.2926504204637076E-4",
+  "@URI": "http://dbpedia.org/resource/CBS",
+  "@support": "29261",
+  "@surfaceForm": "CBS",
+  "@offset": "1",
+  "@similarityScore": "0.9995491272208903",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:BroadcastNetwork"
+ }],
+ "tweet": "675558781506428929",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

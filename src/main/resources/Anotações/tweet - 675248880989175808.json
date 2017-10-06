@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @USATODAY: A look at Friday's paper: Trio of @HeismanTrophy finalists all underclassmen; #Trump backlash aims for his wallet https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00979504101899965",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9823792052951278",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/USA_Today",
+   "@support": "5000",
+   "@surfaceForm": "USATODAY",
+   "@offset": "4",
+   "@similarityScore": "0.9999957579283482",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+  }
+ ],
+ "tweet": "675248880989175808",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

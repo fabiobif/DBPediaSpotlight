@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @tomreynolds: I hope #TheForceAwakens has some of my favorite Han Solo lines like, â\u20acœI hate snakes!â\u20ac? and â\u20acœI didnâ\u20ac™t kill my wife!â\u20ac?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05778497422643661",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8974615171566177",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002458255258508818",
+   "@URI": "http://dbpedia.org/resource/Han_Solo",
+   "@support": "545",
+   "@surfaceForm": "Han Solo",
+   "@offset": "65",
+   "@similarityScore": "0.9975477729375742",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.9505570187465054E-4",
+   "@URI": "http://dbpedia.org/resource/Snake",
+   "@support": "5674",
+   "@surfaceForm": "snakes",
+   "@offset": "96",
+   "@similarityScore": "0.9995515456774668",
+   "@types": ""
+  }
+ ],
+ "tweet": "676783237184794624",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

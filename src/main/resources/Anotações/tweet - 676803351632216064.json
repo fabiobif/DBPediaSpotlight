@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BenedictineSis: Happy premiere week to our dear #StarWars friends! #ForceAwakens https://t.co/K2Y5EarNRA",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.022632626399539998",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9667295448959821",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803351632216064",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

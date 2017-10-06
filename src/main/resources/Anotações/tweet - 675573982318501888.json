@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT #Starwars Star Wars The Force Awakens Captain Phasma and Kylo Ren 3.75\" Action Figures NEW https://t.co/8phjplciWI",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.9879739274011514E-5",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9999529889947371",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.9736613118249777E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "13",
+   "@similarityScore": "0.9995053490566834",
+   "@types": ""
+  }
+ ],
+ "tweet": "675573982318501888",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

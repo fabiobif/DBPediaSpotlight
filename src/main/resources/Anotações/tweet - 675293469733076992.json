@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "https://t.co/CwaKhuLDta #america, WHY are #concentrationcamps already built here by #obama &amp;#clinton #isis #tgif #DonaldTrump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.5629921115689892",
+   "@URI": "http://dbpedia.org/resource/Bill_Clinton",
+   "@support": "8948",
+   "@surfaceForm": "clinton",
+   "@offset": "97",
+   "@similarityScore": "0.6387048780196273",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"
+  },
+  {
+   "@percentageOfSecondRank": "0.06340604417789317",
+   "@URI": "http://dbpedia.org/resource/Isis",
+   "@support": "1389",
+   "@surfaceForm": "isis",
+   "@offset": "106",
+   "@similarityScore": "0.9152787243684222",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.6723844129876395E-4",
+   "@URI": "http://dbpedia.org/resource/TGIF_(ABC)",
+   "@support": "126",
+   "@surfaceForm": "tgif",
+   "@offset": "112",
+   "@similarityScore": "0.9993908119860027",
+   "@types": ""
+  }
+ ],
+ "tweet": "675293469733076992",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

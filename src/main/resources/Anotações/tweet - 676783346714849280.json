@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @NephilimUpdates: ðŸ\u201c· .@MatthewDaddario at #StarWars #TheForceAwakens premiere Part 2 #Shadowhunters Photo : Getty Images https://t.co/Qbhâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.006144042326068078",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9876037448602248",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Getty_Images",
+   "@support": "223",
+   "@surfaceForm": "Getty Images",
+   "@offset": "113",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676783346714849280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

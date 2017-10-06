@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Darth Love ðŸ\u2019\u2014 #mythicalponez #StarWarsForceAwakens #StarWars #StarWarsMarathon #art #artist #DarthVader #design #draw https://t.co/OrBofi2o9n",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02414029186140648",
+  "@URI": "http://dbpedia.org/resource/Sith",
+  "@support": "957",
+  "@surfaceForm": "Darth",
+  "@offset": "0",
+  "@similarityScore": "0.9764287255820665",
+  "@types": ""
+ }],
+ "tweet": "677036146917023744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

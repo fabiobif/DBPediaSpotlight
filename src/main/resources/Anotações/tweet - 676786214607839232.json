@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Hearing that #TheForceAwakens is like many from JJ Abrams: lots of intensity and fun with little substance to story. That concerns me.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/J._J._Abrams",
+  "@support": "445",
+  "@surfaceForm": "JJ Abrams",
+  "@offset": "48",
+  "@similarityScore": "1.0",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "676786214607839232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

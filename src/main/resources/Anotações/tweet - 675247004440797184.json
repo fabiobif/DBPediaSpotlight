@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @XMenMoviesUK: #XMen: Apocalypse trailer to be shown before #TheForceAwakens. Subscribe to https://t.co/0h6V6a7Y3L for the latest. httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0048033380024607684",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9913347642664453",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.07904064839685265",
+   "@URI": "http://dbpedia.org/resource/Apocalypse_(comics)",
+   "@support": "1502",
+   "@surfaceForm": "Apocalypse",
+   "@offset": "25",
+   "@similarityScore": "0.9252398977392657",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter,DBpedia:ComicsCharacter"
+  }
+ ],
+ "tweet": "675247004440797184",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

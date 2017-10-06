@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @arminvanbuuren: Looking for another Jedi, help! ðŸ˜\u201a #StarWars #TheForceAwakens #AnotherYou https://t.co/aVlXK39SoU",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9398591525614435",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.252113655125497E-5",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "40",
+   "@similarityScore": "0.9999462202073945",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803954185908224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

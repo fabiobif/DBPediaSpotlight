@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Cernovich: \"Journalists\" hate #Trump because they hate working class Americans. https://t.co/iB8ERh6QZd https://t.co/5quE5fiP55",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.006407480574172811",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9913215732044094",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.010805688499442781",
+   "@URI": "http://dbpedia.org/resource/Working_class",
+   "@support": "3414",
+   "@surfaceForm": "working class",
+   "@offset": "59",
+   "@similarityScore": "0.9884885075305904",
+   "@types": ""
+  }
+ ],
+ "tweet": "675556200457572352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

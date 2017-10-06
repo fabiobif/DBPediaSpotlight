@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TheWrap: .@StarWars Library Sales Skyrocket: 400 Percent Increase Ahead of  #TheForceAwakens Premiere https://t.co/FL4p1K3okO https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.009091923601710357",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9790870247317643",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675177272131850240",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Trump_ton: Is @realDonaldTrump and @KTHopkins team-up a plot spoiler for who the new Sith Lords are in #StarWars ?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400093252358275",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Team-up",
+   "@support": "44",
+   "@surfaceForm": "team-up",
+   "@offset": "50",
+   "@similarityScore": "0.97637165591983",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "7.577763273079114E-4",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "Sith",
+   "@offset": "89",
+   "@similarityScore": "0.9992427971507359",
+   "@types": ""
+  }
+ ],
+ "tweet": "674964416518086657",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

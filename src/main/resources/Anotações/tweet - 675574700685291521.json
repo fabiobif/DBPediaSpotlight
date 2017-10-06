@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Get out of my chair, Meathead! #Trump https://t.co/6RRDhAizVX",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.005240268243907844",
+  "@URI": "http://dbpedia.org/resource/List_of_Tom_and_Jerry_characters",
+  "@support": "423",
+  "@surfaceForm": "Meathead",
+  "@offset": "21",
+  "@similarityScore": "0.9904073048437011",
+  "@types": ""
+ }],
+ "tweet": "675574700685291521",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

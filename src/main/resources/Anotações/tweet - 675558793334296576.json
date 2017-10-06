@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ObamaBreaking: They Lied in the name of #ISLAM then murdered 14 but @CNN vilifies @realDonaldTrump  https://t.co/V1zGw89Mha #Trump httpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.491101050973404E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9996986022828092",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.527408081106753E-5",
+   "@URI": "http://dbpedia.org/resource/CNN",
+   "@support": "8267",
+   "@surfaceForm": "CNN",
+   "@offset": "73",
+   "@similarityScore": "0.9999836087727256",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675558793334296576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

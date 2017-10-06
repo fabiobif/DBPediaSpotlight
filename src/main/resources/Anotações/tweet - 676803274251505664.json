@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @baneandlewis: VIDEO: @EmeraudeToubia at the #StarWars premiere. #Shadowhunters (via @ShadowhuntersTV) https://t.co/eVRYuEb7t6",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.011380440847504596",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9745813620725896",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803274251505664",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

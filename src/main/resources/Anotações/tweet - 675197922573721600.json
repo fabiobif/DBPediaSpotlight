@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@Disney Any chance we'll be seeing \"Empty Socks\" during the showing of Star Wars? #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0026744783692182446",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "1",
+   "@similarityScore": "0.9953446823902211",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0032878750239501327",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "71",
+   "@similarityScore": "0.9960908295381499",
+   "@types": ""
+  }
+ ],
+ "tweet": "675197922573721600",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

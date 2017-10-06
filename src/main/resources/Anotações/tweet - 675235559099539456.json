@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JOEdotie: Calling all #StarWars fans! #WIN this exclusive prize to celebrate #TheForceAwakens  https://t.co/bTQKmyerDM https://t.co/LOhâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.010685332610822074",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9800139923190878",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.029433616941956703",
+   "@URI": "http://dbpedia.org/resource/WIN_Television",
+   "@support": "278",
+   "@surfaceForm": "WIN",
+   "@offset": "43",
+   "@similarityScore": "0.9423931597221609",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675235559099539456",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

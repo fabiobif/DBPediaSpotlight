@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@bigredmatt1011 I liked #Trump, but now I'm pissed. #MegynKelly misled America about Trump, now trump is misleading about #Cruz",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.1292949327758917",
+  "@URI": "http://dbpedia.org/resource/Trump",
+  "@support": "542",
+  "@surfaceForm": "trump",
+  "@offset": "96",
+  "@similarityScore": "0.8813564761501916",
+  "@types": ""
+ }],
+ "tweet": "675560683753222144",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

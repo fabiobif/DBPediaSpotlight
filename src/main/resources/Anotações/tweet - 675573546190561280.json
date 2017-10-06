@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @mirza9: The only way to deal with #Karachi's criminally negligent drivers is to issue Lightsabers to traffic police #StarWars http://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0036220394008263834",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9925760260181439",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.053678586324258E-5",
+   "@URI": "http://dbpedia.org/resource/Karachi",
+   "@support": "9238",
+   "@surfaceForm": "Karachi",
+   "@offset": "39",
+   "@similarityScore": "0.9998597429464147",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "675573546190561280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

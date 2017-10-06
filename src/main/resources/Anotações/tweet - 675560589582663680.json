@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HevMelissa: #Sagittarius Moon is optimistic to the point of never doubting their ideas and want you to know it too! Born with Sag. Moonâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0026844266219356798",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9949398167365656",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.46243960540291995",
+   "@URI": "http://dbpedia.org/resource/Sagittarius_(constellation)",
+   "@support": "356",
+   "@surfaceForm": "Sagittarius",
+   "@offset": "17",
+   "@similarityScore": "0.6829662039314499",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.285823665224234E-4",
+   "@URI": "http://dbpedia.org/resource/Moon",
+   "@support": "14966",
+   "@surfaceForm": "Moon",
+   "@offset": "29",
+   "@similarityScore": "0.9993913300186239",
+   "@types": "DBpedia:CelestialBody,DBpedia:Planet"
+  }
+ ],
+ "tweet": "675560589582663680",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

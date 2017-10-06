@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: J.J. Abrams ranks the most jaw-dropping moments in @StarWars history: https://t.co/Mi0PpuRtdq #StarWars https://t.co/JdzTkbYcKR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.04053892121673796",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9365723397816367",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674963230368931840",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

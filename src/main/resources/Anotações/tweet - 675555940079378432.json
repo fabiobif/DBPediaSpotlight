@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "After the vile #Trump humanity raises its gentle face in Canada...chapeau to #Trudeau https://t.co/Y5IvuOIFUE",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.5816592797465775E-6",
+  "@URI": "http://dbpedia.org/resource/Canada",
+  "@support": "200979",
+  "@surfaceForm": "Canada",
+  "@offset": "57",
+  "@similarityScore": "0.9999864025881391",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675555940079378432",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

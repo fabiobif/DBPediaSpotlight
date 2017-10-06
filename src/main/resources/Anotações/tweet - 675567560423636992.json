@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@ErikBlayer @78Yanks He has to golf somewhere cause #Trump banned him from his golf courses",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.085842986084487E-4",
+   "@URI": "http://dbpedia.org/resource/Golf",
+   "@support": "11671",
+   "@surfaceForm": "golf",
+   "@offset": "31",
+   "@similarityScore": "0.9993617099828439",
+   "@types": "DBpedia:Activity,DBpedia:Sport"
+  },
+  {
+   "@percentageOfSecondRank": "6.085842986084487E-4",
+   "@URI": "http://dbpedia.org/resource/Golf",
+   "@support": "11671",
+   "@surfaceForm": "golf",
+   "@offset": "79",
+   "@similarityScore": "0.999361755461985",
+   "@types": "DBpedia:Activity,DBpedia:Sport"
+  }
+ ],
+ "tweet": "675567560423636992",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

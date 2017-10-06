@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "In honor of #TheForceAwakens, Filmcore breaks down \"Ewok Adventures\" for #StarWars Week https://t.co/CkNfXsA3K1 https://t.co/t0rggYuzur",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Ewok",
+  "@support": "135",
+  "@surfaceForm": "Ewok",
+  "@offset": "52",
+  "@similarityScore": "0.9999999999999432",
+  "@types": ""
+ }],
+ "tweet": "676782627337207809",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

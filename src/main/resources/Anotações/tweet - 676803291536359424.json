@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @seofr_: Le SEO version Star Wars https://t.co/PNKeQBa7PR #seo #starwars #darkcutts ! https://t.co/VZF1g8TtAW",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.04522360213597604",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9152766951592632",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.0588997716716701E-4",
+   "@URI": "http://dbpedia.org/resource/Search_engine_optimization",
+   "@support": "639",
+   "@surfaceForm": "SEO",
+   "@offset": "15",
+   "@similarityScore": "0.9998934852787702",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0027139565627124157",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "27",
+   "@similarityScore": "0.9955817427877385",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.0588997716716701E-4",
+   "@URI": "http://dbpedia.org/resource/Search_engine_optimization",
+   "@support": "639",
+   "@surfaceForm": "seo",
+   "@offset": "62",
+   "@similarityScore": "0.9998934852787702",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803291536359424",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

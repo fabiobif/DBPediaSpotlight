@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "Rancor ham sandwich.  Countdown to #StarWars #TheForceAwakens .  Video doodling with old statuettes.  #gif https://t.co/Ca3bO1eafZ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024227850959628056",
+   "@URI": "http://dbpedia.org/resource/List_of_Star_Wars_creatures",
+   "@support": "191",
+   "@surfaceForm": "Rancor",
+   "@offset": "0",
+   "@similarityScore": "0.9763450968769084",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.642791822648796E-5",
+   "@URI": "http://dbpedia.org/resource/Ham",
+   "@support": "790",
+   "@surfaceForm": "ham",
+   "@offset": "7",
+   "@similarityScore": "0.9999055490893717",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "9.473265504513842E-6",
+   "@URI": "http://dbpedia.org/resource/Sandwich",
+   "@support": "1429",
+   "@surfaceForm": "sandwich",
+   "@offset": "11",
+   "@similarityScore": "0.999981125179984",
+   "@types": "DBpedia:Food"
+  },
+  {
+   "@percentageOfSecondRank": "0.4457348844569174",
+   "@URI": "http://dbpedia.org/resource/Countdown_(Australian_TV_series)",
+   "@support": "409",
+   "@surfaceForm": "Countdown",
+   "@offset": "22",
+   "@similarityScore": "0.5718977580110527",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow"
+  }
+ ],
+ "tweet": "674962735768207360",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

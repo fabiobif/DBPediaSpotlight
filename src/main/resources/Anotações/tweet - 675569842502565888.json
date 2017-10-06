@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @hectormorenco: Earth to #Gop: If you try and fuck us by denying #Trump the nomination, you can kiss your ass goodbye! #Republican httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.006903348908827873",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9875782193338047",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.9831948542590316E-4",
+   "@URI": "http://dbpedia.org/resource/Earth",
+   "@support": "30379",
+   "@surfaceForm": "Earth",
+   "@offset": "19",
+   "@similarityScore": "0.9993419036669021",
+   "@types": "DBpedia:CelestialBody,DBpedia:Planet"
+  },
+  {
+   "@percentageOfSecondRank": "3.78174858563487E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "Republican",
+   "@offset": "123",
+   "@similarityScore": "0.9996083798263317",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675569842502565888",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

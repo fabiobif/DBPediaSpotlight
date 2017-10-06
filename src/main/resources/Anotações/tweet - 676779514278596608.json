@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "First #TheForceAwakens reactions posted on Twitter #StarWars #StarWarsPremiere: https://t.co/LtxhXTXNJN",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Twitter",
+  "@support": "10159",
+  "@surfaceForm": "Twitter",
+  "@offset": "43",
+  "@similarityScore": "0.9999999999120064",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676779514278596608",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

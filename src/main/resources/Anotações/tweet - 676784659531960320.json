@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "The hype for #StarWars is just too real to cope. I'm more excited about #TheForceAwakens than for the #Christmas break I hardly earned",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.833813829815785E-4",
+  "@URI": "http://dbpedia.org/resource/Christmas",
+  "@support": "17277",
+  "@surfaceForm": "Christmas",
+  "@offset": "103",
+  "@similarityScore": "0.9993599057573592",
+  "@types": "DBpedia:Holiday"
+ }],
+ "tweet": "676784659531960320",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

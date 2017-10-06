@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @hardwick: I'll add my #TheForceAwakens to @verizonâ\u20ac™s #TheoryWars: Chewbacca turns out to actually be 9 Ewoks hiding under a rug.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.04313273890922525",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9330677372875301",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Chewbacca",
+   "@support": "467",
+   "@surfaceForm": "Chewbacca",
+   "@offset": "72",
+   "@similarityScore": "0.9999999999405702",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.0027491508686651E-4",
+   "@URI": "http://dbpedia.org/resource/Ewok",
+   "@support": "135",
+   "@surfaceForm": "Ewoks",
+   "@offset": "109",
+   "@similarityScore": "0.9998983204247991",
+   "@types": ""
+  }
+ ],
+ "tweet": "675184472418029568",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

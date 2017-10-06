@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @FabrizioGunjap: #gunpla [When #gundam Meets #StarWars ] kunyho78's Custom 1/12 GYAN TROOPER: Full REVIEW https://t.co/a6Uw9cYyF3 https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.034662339147987054",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9446134128131396",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Gundam_model",
+   "@support": "56",
+   "@surfaceForm": "gunpla",
+   "@offset": "21",
+   "@similarityScore": "0.9999999999985789",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.745808105719357",
+   "@URI": "http://dbpedia.org/resource/Gundam_(mobile_suit)",
+   "@support": "262",
+   "@surfaceForm": "gundam",
+   "@offset": "35",
+   "@similarityScore": "0.5064247325231311",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/12",
+   "@support": "47",
+   "@surfaceForm": "/12",
+   "@offset": "79",
+   "@similarityScore": "0.9999999991413802",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  }
+ ],
+ "tweet": "676802589590097920",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

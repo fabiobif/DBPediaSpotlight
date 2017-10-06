@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "The Millennium Falcon's about to fly into the skies once more, come #December17!  #StarWars #TheForceAwakens https://t.co/nyiKdq49f6",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Millennium_Falcon",
+  "@support": "204",
+  "@surfaceForm": "Millennium Falcon",
+  "@offset": "4",
+  "@similarityScore": "0.999999999999801",
+  "@types": ""
+ }],
+ "tweet": "676785629561143296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

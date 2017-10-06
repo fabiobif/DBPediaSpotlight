@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Writeintrump: A new poll reveals I have enough support from branches of the Armed Forces to remove Obama from the White House with a miâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.35043807539974E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9988599822852945",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0011004886178089604",
+   "@URI": "http://dbpedia.org/resource/White_House",
+   "@support": "10548",
+   "@surfaceForm": "White House",
+   "@offset": "118",
+   "@similarityScore": "0.9980627721668031",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"
+  }
+ ],
+ "tweet": "675570101890904064",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

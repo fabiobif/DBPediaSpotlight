@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Looking at how the GOP has devolved over the years, the rise of #Trump shouldn't shock anybody #TrumpIsDisqualifiedParty #ShaveBallsFirst",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.277326656473255E-4",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "19",
+  "@similarityScore": "0.9992470315840951",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675568849849212929",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

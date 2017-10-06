@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DisneyStudiosCA: Tune in to @DisneyStudiosCA Friday at 2pm! We're periscoping a Q &amp; A with Anthony Daniels (C-3PO)! #TheForceAwakens htâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025990207689271568",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9540190686233465",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.810496361818947E-7",
+   "@URI": "http://dbpedia.org/resource/Anthony_Daniels",
+   "@support": "66",
+   "@surfaceForm": "Anthony Daniels",
+   "@offset": "99",
+   "@similarityScore": "0.9999996189503848",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/C-3PO",
+   "@support": "276",
+   "@surfaceForm": "C-3PO",
+   "@offset": "116",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "675248472396726272",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

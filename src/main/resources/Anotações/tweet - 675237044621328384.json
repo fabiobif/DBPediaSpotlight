@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Side view!!! #starwars #theforceawakens #gingerbread @ North Vancouver, British Columbia https://t.co/deWpPHOZv8",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002095556146004808",
+   "@URI": "http://dbpedia.org/resource/Gingerbread",
+   "@support": "271",
+   "@surfaceForm": "gingerbread",
+   "@offset": "41",
+   "@similarityScore": "0.9979086279207865",
+   "@types": "DBpedia:Food"
+  },
+  {
+   "@percentageOfSecondRank": "0.009320071478547423",
+   "@URI": "http://dbpedia.org/resource/North_Vancouver",
+   "@support": "488",
+   "@surfaceForm": "North Vancouver, British Columbia",
+   "@offset": "55",
+   "@similarityScore": "0.9856146314426315",
+   "@types": ""
+  }
+ ],
+ "tweet": "675237044621328384",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

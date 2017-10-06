@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "'Star Wars: The Force Awakens' â\u20ac\u201d the spoiler-free review https://t.co/n9vOC4d0z7 #StarWars #Entertainment",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0013688624158236314",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "1",
+  "@similarityScore": "0.9984213964804921",
+  "@types": ""
+ }],
+ "tweet": "677036212780064768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

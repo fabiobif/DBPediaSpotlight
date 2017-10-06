@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "So shit dat hapnd in #StarWars eps2-6 really wnt dwn cos Darth was thinking with his dick &amp; the Chancellor was power hungry. Crackers aye? ðŸ˜\u201a",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.007385473488688583",
+   "@URI": "http://dbpedia.org/resource/Digital_Audio_Tape",
+   "@support": "212",
+   "@surfaceForm": "dat",
+   "@offset": "8",
+   "@similarityScore": "0.9924317403381288",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.24058666545067958",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "Darth",
+   "@offset": "57",
+   "@similarityScore": "0.8060702146066455",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577107070619649",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

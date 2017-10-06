@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Dodge: Our work here is complete. #Dodge #TheForceAwakens https://t.co/SkrzarRY5r",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.06102482122892416",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8852915953436502",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.7086521135769637E-4",
+   "@URI": "http://dbpedia.org/resource/Dodge",
+   "@support": "3004",
+   "@surfaceForm": "Dodge",
+   "@offset": "4",
+   "@similarityScore": "0.9991624123649852",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "4.7086521135769637E-4",
+   "@URI": "http://dbpedia.org/resource/Dodge",
+   "@support": "3004",
+   "@surfaceForm": "Dodge",
+   "@offset": "39",
+   "@similarityScore": "0.9991624123649852",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676782656458235905",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

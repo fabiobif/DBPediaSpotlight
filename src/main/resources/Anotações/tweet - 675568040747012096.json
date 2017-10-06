@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#LOL!#Trump Tells Britain They Have A 'Muslim Problem', Their Reaction Will Make Your Day (TWEETS): https://t.co/688buAA116 via @AddInfoOrg",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01707929099196445",
+   "@URI": "http://dbpedia.org/resource/LOL",
+   "@support": "201",
+   "@surfaceForm": "LOL",
+   "@offset": "1",
+   "@similarityScore": "0.9705467208223215",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.02831746505579188",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "39",
+   "@similarityScore": "0.9722752060504396",
+   "@types": ""
+  }
+ ],
+ "tweet": "675568040747012096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

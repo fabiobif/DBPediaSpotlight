@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JeremyJahns: It's...it's a week away! @starwars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02133007161698566",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9624997524236334",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675176298420006914",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

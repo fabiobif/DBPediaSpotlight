@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: As the days until #TheForceAwakens count down, limited-edition Blu-ray steelbooks are coming. http://t.co/dpHDgHadHh http://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.017297345877226634",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9694067689789636",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.5259855406398065E-7",
+   "@URI": "http://dbpedia.org/resource/Blu-ray_Disc",
+   "@support": "5728",
+   "@surfaceForm": "Blu-ray",
+   "@offset": "77",
+   "@similarityScore": "0.9999995827390951",
+   "@types": ""
+  }
+ ],
+ "tweet": "675238427441422336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "@Wikia @starwars @Sphero watching luke meet yoda for the first time, a strange but very old wise little alien #MayTheFansBeWithYou #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Wikia",
+   "@support": "410",
+   "@surfaceForm": "Wikia",
+   "@offset": "1",
+   "@similarityScore": "0.9999999673544556",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.028321126276063115",
+   "@URI": "http://dbpedia.org/resource/Luke_Skywalker",
+   "@support": "745",
+   "@surfaceForm": "luke",
+   "@offset": "34",
+   "@similarityScore": "0.9640548159829789",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.618690670808123E-7",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "yoda",
+   "@offset": "44",
+   "@similarityScore": "0.9999993153031496",
+   "@types": ""
+  }
+ ],
+ "tweet": "677037198173184000",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Almost a week until Star Wars!!! *panicked breathing in to paper bag* #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.003270507893594186",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "20",
+  "@similarityScore": "0.996111398164122",
+  "@types": ""
+ }],
+ "tweet": "674964121885007872",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

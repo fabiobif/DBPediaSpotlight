@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "The Daily Show Takes on #Trumpâ\u20ac™s â\u20ac˜White ISISâ\u20ac™ -- Vulture https://t.co/N2HrHFGBm4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.595246599105435E-5",
+   "@URI": "http://dbpedia.org/resource/The_Daily_Show",
+   "@support": "1268",
+   "@surfaceForm": "The Daily Show",
+   "@offset": "0",
+   "@similarityScore": "0.9999640488265474",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow"
+  },
+  {
+   "@percentageOfSecondRank": "4.3129676586933964E-4",
+   "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+   "@support": "300085",
+   "@surfaceForm": "White",
+   "@offset": "38",
+   "@similarityScore": "0.9990360393689087",
+   "@types": ""
+  }
+ ],
+ "tweet": "675568720605872128",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

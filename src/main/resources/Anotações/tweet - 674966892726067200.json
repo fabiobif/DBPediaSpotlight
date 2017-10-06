@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @OB_for_Israel: #Weed helps @SethRogen cope with #Israels horrendous treatment of #minorities  #OpenBordersForIsrael #StarWars https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.182453658671499",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8403239206845203",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674966892726067200",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

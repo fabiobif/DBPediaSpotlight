@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AKMMitchell: You know you're toxic when Israel rejects you and the Klan endorses you.  #Trump #Trump2016 @realDonaldTrump https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013802915893890749",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9754866877940218",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.557970410146046E-4",
+   "@URI": "http://dbpedia.org/resource/Israel",
+   "@support": "80043",
+   "@surfaceForm": "Israel",
+   "@offset": "44",
+   "@similarityScore": "0.9994534996629735",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675557932025688064",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

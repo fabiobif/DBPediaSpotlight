@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @erickohn: My review of STAR WARS: #THEFORCEAWAKENS, the biggest fan film ever made. No big spoilers, don't think. https://t.co/0LMnJfveâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.020482740349749957",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9731886372224638",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Fan_film",
+   "@support": "167",
+   "@surfaceForm": "fan film",
+   "@offset": "68",
+   "@similarityScore": "0.9999999999217835",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.10712460053497178",
+   "@URI": "http://dbpedia.org/resource/Spoiler_(media)",
+   "@support": "117",
+   "@surfaceForm": "spoilers",
+   "@offset": "95",
+   "@similarityScore": "0.8851168527637763",
+   "@types": ""
+  }
+ ],
+ "tweet": "677037025116233729",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

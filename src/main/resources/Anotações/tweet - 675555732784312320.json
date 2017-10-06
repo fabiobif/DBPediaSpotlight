@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LibsBeLike: #LibsBeLike: I'm leaving if #Trump becomes President  They forget that to get into Canada you need a job &amp; Xtra $$$  https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015948990498463392",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9672547474733771",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "9.660710607430096E-6",
+   "@URI": "http://dbpedia.org/resource/Canada",
+   "@support": "200979",
+   "@surfaceForm": "Canada",
+   "@offset": "99",
+   "@similarityScore": "0.9999670324449044",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.02677769731858042",
+   "@URI": "http://dbpedia.org/resource/Xtra!",
+   "@support": "109",
+   "@surfaceForm": "Xtra",
+   "@offset": "127",
+   "@similarityScore": "0.971787704586598",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+  }
+ ],
+ "tweet": "675555732784312320",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

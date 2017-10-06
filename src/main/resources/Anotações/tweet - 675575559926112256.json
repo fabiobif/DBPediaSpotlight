@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "#StarWars #TheForceAwakens when you hashtag the force awakens a little emoji of rey comes up this is adorable omg",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.190434479356569E-5",
+   "@URI": "http://dbpedia.org/resource/Hashtag",
+   "@support": "244",
+   "@surfaceForm": "hashtag",
+   "@offset": "36",
+   "@similarityScore": "0.9999680810654077",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0030063316525495093",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "48",
+   "@similarityScore": "0.9948494973733065",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Emoji",
+   "@support": "35",
+   "@surfaceForm": "emoji",
+   "@offset": "71",
+   "@similarityScore": "0.9999997519253464",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.04132490805692539",
+   "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+   "@support": "235",
+   "@surfaceForm": "omg",
+   "@offset": "110",
+   "@similarityScore": "0.957813180842175",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  }
+ ],
+ "tweet": "675575559926112256",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

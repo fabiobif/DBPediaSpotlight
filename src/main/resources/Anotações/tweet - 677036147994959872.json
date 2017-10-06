@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LauInLA: 3PO and R2 are the first stars to hit the carpet - punctual as only a droid can be. #StarWars https://t.co/oM6xqbTEkq",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.5430757254585716",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.6277846167471341",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.935381855673288E-8",
+   "@URI": "http://dbpedia.org/resource/Droid_(robot)",
+   "@support": "266",
+   "@surfaceForm": "droid",
+   "@offset": "83",
+   "@similarityScore": "0.9999998678068865",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036147994959872",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

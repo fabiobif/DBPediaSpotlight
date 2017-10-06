@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"My brain just melted.\" #StarWars fans rave in early, spoiler-free #TheForceAwakens reviews https://t.co/uJBewMSXp0 https://t.co/7h3dtzfPeK",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05180692847684661",
+   "@URI": "http://dbpedia.org/resource/Brain",
+   "@support": "10026",
+   "@surfaceForm": "brain",
+   "@offset": "4",
+   "@similarityScore": "0.9492317668161742",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.03473616739190978",
+   "@URI": "http://dbpedia.org/resource/Rave",
+   "@support": "911",
+   "@surfaceForm": "rave",
+   "@offset": "39",
+   "@similarityScore": "0.9663148219300481",
+   "@types": ""
+  }
+ ],
+ "tweet": "676786883536535552",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

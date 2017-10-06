@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "@MissAmericaPie @mitchellvii \"Like Washington\"? More like Jim Jones in Guyana. #Trump is no #Washington or #Reagan. NOT #Conservative #tcot",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.7101620603214531",
+   "@URI": "http://dbpedia.org/resource/Washington_(state)",
+   "@support": "24525",
+   "@surfaceForm": "Washington",
+   "@offset": "35",
+   "@similarityScore": "0.5781842308412859",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "0.0032294452645724612",
+   "@URI": "http://dbpedia.org/resource/Jim_Jones",
+   "@support": "322",
+   "@surfaceForm": "Jim Jones",
+   "@offset": "58",
+   "@similarityScore": "0.9966911665243049",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "4.99214970232534E-4",
+   "@URI": "http://dbpedia.org/resource/Guyana",
+   "@support": "5856",
+   "@surfaceForm": "Guyana",
+   "@offset": "71",
+   "@similarityScore": "0.999202240427962",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.7101620603214531",
+   "@URI": "http://dbpedia.org/resource/Washington_(state)",
+   "@support": "24525",
+   "@surfaceForm": "Washington",
+   "@offset": "93",
+   "@similarityScore": "0.5781842308412859",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "0.055733307425805664",
+   "@URI": "http://dbpedia.org/resource/Conservative_Party_(UK)",
+   "@support": "22839",
+   "@surfaceForm": "Conservative",
+   "@offset": "121",
+   "@similarityScore": "0.9423459929963417",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675248513240944640",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

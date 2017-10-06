@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CarolHello1: USAâ˜\u2026#Trump Des Moines #Yugeâ˜\u2026USA  Make US Safe Secure Solvent Sensible &amp; Sensational Again!  Muslimâ˜\u2026Solutionâ˜\u2026SafeZone httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01482819477905355",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9691053847974156",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.005205897632703985",
+   "@URI": "http://dbpedia.org/resource/Des_Moines,_Iowa",
+   "@support": "2960",
+   "@surfaceForm": "Des Moines",
+   "@offset": "30",
+   "@similarityScore": "0.9947513269548223",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  },
+  {
+   "@percentageOfSecondRank": "2.2560153965144288E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "49",
+   "@similarityScore": "0.9999420616178645",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675561222998253568",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

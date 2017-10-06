@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: BB-8â\u20ac™s front and center on the #StarWars #TheForceAwakens #redcarpet LIVE right now on https://t.co/mVXi17qoJk https://t.co/sâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.01859244120247206",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9604058254547212",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787096082755584",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

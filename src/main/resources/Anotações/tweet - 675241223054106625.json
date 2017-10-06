@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Just bought my Star Wars ticket for 230am in IMAX 3D opening night! #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0011825686846712504",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "15",
+   "@similarityScore": "0.9980777144589409",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/IMAX",
+   "@support": "1999",
+   "@surfaceForm": "IMAX 3D",
+   "@offset": "45",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "675241223054106625",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

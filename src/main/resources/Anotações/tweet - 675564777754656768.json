@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BOSSYtxmar55: @ChristieC733 @WayneBogda @realDonaldTrump @GOP @seanhannity #Trump #WeThePeople Refuse 2Lose #Trump2016 #TeamTrump httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025362460485475493",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9558710486971121",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.1301864109924797E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "62",
+   "@similarityScore": "0.9993017351539468",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675564777754656768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

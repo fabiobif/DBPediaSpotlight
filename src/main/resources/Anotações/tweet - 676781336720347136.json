@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BeckyGFacts: ðŸ\u201c·: Becky last night at the #StarWars #TheForceAwakens premiere. https://t.co/MDlJgpSWhg",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.020951685534732124",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9610503668934854",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676781336720347136",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

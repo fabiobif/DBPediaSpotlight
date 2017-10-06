@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @KyloRenn: Oscar Isaac is a brilliant actor. I can't wait to see what he brings to Poe's character. #TheForceAwakens https://t.co/KBkxwrâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.09780361087525094",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8801058555848192",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Oscar_Isaac",
+   "@support": "51",
+   "@surfaceForm": "Oscar Isaac",
+   "@offset": "14",
+   "@similarityScore": "0.9999999999972147",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675207295198973952",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

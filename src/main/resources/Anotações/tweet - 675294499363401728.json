@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@1truprophet @scrowder #Obama said a lot of things too &amp; all he has done is worked to destroy USA. All have to say @ the above is so what.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "7.621037329806756E-5",
+  "@URI": "http://dbpedia.org/resource/United_States",
+  "@support": "560750",
+  "@surfaceForm": "USA",
+  "@offset": "98",
+  "@similarityScore": "0.9998085897487594",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675294499363401728",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

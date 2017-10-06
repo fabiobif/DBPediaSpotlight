@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @prowhitesunite: #ICantStopSmilingBecause people are finding out about #WhiteGenocide like never before and the #antiwhites cant stop usâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0238866607939676",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9594766618982157",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675557571684626433",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @nerdist: Many thanks to @HP &amp; @Disney for inviting us to a galaxy far, far away for the #StarWars premiere! #AwakenYourForce https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013379873705997278",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9753063387878739",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.3336411287226654E-4",
+   "@URI": "http://dbpedia.org/resource/Nerdist_Industries",
+   "@support": "116",
+   "@surfaceForm": "nerdist",
+   "@offset": "4",
+   "@similarityScore": "0.9998665747667448",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0017328744565092936",
+   "@URI": "http://dbpedia.org/resource/Hewlett-Packard",
+   "@support": "3844",
+   "@surfaceForm": "HP",
+   "@offset": "29",
+   "@similarityScore": "0.9981241039474693",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.003877958251182209",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "39",
+   "@similarityScore": "0.9946837681462943",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676802326074667008",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

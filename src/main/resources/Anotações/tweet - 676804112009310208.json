@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @merlotmommy: I'm going to be seeing a disturbance in The Force today #StarWarsEvent #TheForceAwakens #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02515803035297302",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9561604068006907",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676804112009310208",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

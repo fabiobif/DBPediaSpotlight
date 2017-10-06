@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Great #speaker feature:glowing lights! Perfect #Christmas #gift! #StarWars #stormtrooper #audio #TheForceAwakens https://t.co/eE5EWWdtHt",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0014314455482731757",
+   "@URI": "http://dbpedia.org/resource/Christmas",
+   "@support": "17277",
+   "@surfaceForm": "Christmas",
+   "@offset": "48",
+   "@similarityScore": "0.9985350704380914",
+   "@types": "DBpedia:Holiday"
+  },
+  {
+   "@percentageOfSecondRank": "0.5019875717804702",
+   "@URI": "http://dbpedia.org/resource/Stormtrooper_(Star_Wars)",
+   "@support": "186",
+   "@surfaceForm": "stormtrooper",
+   "@offset": "76",
+   "@similarityScore": "0.6641879643907023",
+   "@types": ""
+  }
+ ],
+ "tweet": "674965808750174208",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

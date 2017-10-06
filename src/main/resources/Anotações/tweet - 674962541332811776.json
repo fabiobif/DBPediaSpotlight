@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Please like the link below so the lovely @guymelzack wins a PS4!  #StarWars #StarWarsForceAwakens #PLEASEHELP https://t.co/J5Qzb8jdts",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/PlayStation_4",
+  "@support": "546",
+  "@surfaceForm": "PS4",
+  "@offset": "60",
+  "@similarityScore": "0.9999995978407936",
+  "@types": "DBpedia:Device,DBpedia:InformationAppliance"
+ }],
+ "tweet": "674962541332811776",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

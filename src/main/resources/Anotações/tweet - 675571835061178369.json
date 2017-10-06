@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MissDiagnosis: Dr. Qanta Ahmed on #Trump and Muslims in America - @CNN Video @NewDay @AlisynCamerota  https://t.co/y48dbUGWgx",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.567040807091323E-5",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9998352541413014",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.01652754424988215",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "49",
+   "@similarityScore": "0.9835238851117633",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.0090786881736495E-4",
+   "@URI": "http://dbpedia.org/resource/CNN",
+   "@support": "8267",
+   "@surfaceForm": "CNN",
+   "@offset": "71",
+   "@similarityScore": "0.9996983348547611",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675571835061178369",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

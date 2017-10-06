@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Forbes: J.J. Abramsâ\u20ac™ road to the directorâ\u20ac™s chair of #TheForceAwakens https://t.co/kgshYLbtpM https://t.co/GbG7w3I9cY",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.07137812367331087",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8818486602639769",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.767110752740939E-4",
+   "@URI": "http://dbpedia.org/resource/Forbes",
+   "@support": "4996",
+   "@surfaceForm": "Forbes",
+   "@offset": "4",
+   "@similarityScore": "0.9992128400154962",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+  }
+ ],
+ "tweet": "676785678080954369",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

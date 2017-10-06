@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LenosGarage: The loud breathing coming from under the hood is totally normal. #JLG #StarWars https://t.co/BctKT6ZnUL https://t.co/ijbUHâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.04874267806614944",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9294106871700619",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803948859301888",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

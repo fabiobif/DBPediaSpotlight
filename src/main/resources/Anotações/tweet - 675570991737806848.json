@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @vdare: The best part of any #Trump rally is when he calls out the members of the lying press by name, as he just did in Des Moines.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014144135524965493",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9800950377372787",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/VDARE",
+   "@support": "43",
+   "@surfaceForm": "vdare",
+   "@offset": "4",
+   "@similarityScore": "0.999999993994237",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  },
+  {
+   "@percentageOfSecondRank": "0.0033177797974771584",
+   "@URI": "http://dbpedia.org/resource/Des_Moines,_Iowa",
+   "@support": "2960",
+   "@surfaceForm": "Des Moines",
+   "@offset": "124",
+   "@similarityScore": "0.99658289893839",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "675570991737806848",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

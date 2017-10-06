@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "This is what the World knows about #Obama   Stupid #Democrats have scat for brains https://t.co/0nWntUgUYO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.058532780008983126",
+  "@URI": "http://dbpedia.org/resource/Scat_singing",
+  "@support": "305",
+  "@surfaceForm": "scat",
+  "@offset": "67",
+  "@similarityScore": "0.9359925263032476",
+  "@types": ""
+ }],
+ "tweet": "675577628653260800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

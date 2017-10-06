@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Tony_Turtle: @imdougthedog embracing his inner Mandalorian! #theforceawakens #starwars #bobafett https://t.co/6EexwcWe5V",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9398089280757526",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mandalorian",
+   "@support": "150",
+   "@surfaceForm": "Mandalorian",
+   "@offset": "51",
+   "@similarityScore": "0.9999998522662106",
+   "@types": "Schema:Language,DBpedia:Language"
+  }
+ ],
+ "tweet": "676784432431370240",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

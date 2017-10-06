@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT in 5 days and 4 hours give or take a few minutes I'll be watching the opening moments of #StarWars #TheForceAwakens OMG it's getting reaâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01865656426304303",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9600774130263474",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002228544333942228",
+   "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+   "@support": "235",
+   "@surfaceForm": "OMG",
+   "@offset": "119",
+   "@similarityScore": "0.997719952263258",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  }
+ ],
+ "tweet": "675244928922984448",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @billpostmus: Must Read #TrumpFacts #trump #tcot https://t.co/H7qapOpI1s",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9362114522439323",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.21464503446911423",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "40",
+   "@similarityScore": "0.8177324493276025",
+   "@types": ""
+  }
+ ],
+ "tweet": "675566263221882881",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

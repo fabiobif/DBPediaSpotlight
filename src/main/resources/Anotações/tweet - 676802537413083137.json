@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Do as Obi-Wan Kenobi says... #USETHEFORCE. It's the best waterproofing in the galaxy! #starwars #waterproofing https://t.co/vOrnk2BMVO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Obi-Wan_Kenobi",
+   "@support": "558",
+   "@surfaceForm": "Obi-Wan Kenobi",
+   "@offset": "6",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Waterproofing",
+   "@support": "341",
+   "@surfaceForm": "waterproofing",
+   "@offset": "57",
+   "@similarityScore": "0.9999997931334051",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Waterproofing",
+   "@support": "341",
+   "@surfaceForm": "waterproofing",
+   "@offset": "97",
+   "@similarityScore": "0.9999997931334051",
+   "@types": ""
+  }
+ ],
+ "tweet": "676802537413083137",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Palpatine (in the senate): I am not Evil What-So-Ever! I suggest a election! #StarWars #Episode1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Palpatine",
+  "@support": "875",
+  "@surfaceForm": "Palpatine",
+  "@offset": "0",
+  "@similarityScore": "0.9999999866350323",
+  "@types": ""
+ }],
+ "tweet": "677036799634575360",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

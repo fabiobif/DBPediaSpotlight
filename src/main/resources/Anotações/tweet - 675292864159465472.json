@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "The #International #Libertarian: #Democratic #Socialism, #Guns, and the Failure of the #Constitution https://t.co/pKHbSG2QIV #Obama #gop #2A",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.1647373592932651",
+   "@URI": "http://dbpedia.org/resource/Libertarian_Party_(United_States)",
+   "@support": "1941",
+   "@surfaceForm": "Libertarian",
+   "@offset": "20",
+   "@similarityScore": "0.8585129544524196",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "1.29328014612479E-4",
+   "@URI": "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+   "@support": "48247",
+   "@surfaceForm": "Democratic",
+   "@offset": "34",
+   "@similarityScore": "0.9997937542504804",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "0.047338476947643635",
+   "@URI": "http://dbpedia.org/resource/United_States_Constitution",
+   "@support": "6762",
+   "@surfaceForm": "Constitution",
+   "@offset": "88",
+   "@similarityScore": "0.9507777715587861",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.2498848189357397E-5",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "gop",
+   "@offset": "133",
+   "@similarityScore": "0.9999729058123015",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675292864159465472",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

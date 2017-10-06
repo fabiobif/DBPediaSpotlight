@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DeanWye: If you go down to the woods today, you're sure of a big surprise! https://t.co/seUMWVgVMi #deanwyefilm #starwars https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.006543036980192891",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9877569323672579",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "677036090583289856",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

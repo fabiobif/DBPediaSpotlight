@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Donald #Trump questions Ted #Cruzâ\u20ac™s ties to major oil companies https://t.co/KUhLeQWgU9 #Trump2016 #GOP https://t.co/qOP7fpqLzD",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.48957108302888E-5",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "102",
+  "@similarityScore": "0.9998533584339082",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675572683858251777",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

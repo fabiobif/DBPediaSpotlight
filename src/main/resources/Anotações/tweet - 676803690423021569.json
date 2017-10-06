@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ClassicStarWars: #StarWars #Luke X-Wing Pilot outfit publicity photo https://t.co/48L41FRmCv",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.010281153140995083",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9817208768830675",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803690423021569",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

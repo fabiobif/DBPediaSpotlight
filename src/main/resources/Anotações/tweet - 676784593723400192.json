@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT giovannaBatalha \"My Star Wars Match is Anakin Skywalker. Who's Yours? https://t.co/gCjAait4uK #TheForceAwakens #SpotifyStarWars\"",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03960053712400895",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9424514318887545",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.4226416132490554E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "23",
+   "@similarityScore": "0.9997522813757856",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Darth_Vader",
+   "@support": "1313",
+   "@surfaceForm": "Anakin Skywalker",
+   "@offset": "42",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784593723400192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

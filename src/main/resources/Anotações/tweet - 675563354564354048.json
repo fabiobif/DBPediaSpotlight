@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BRios82: \"We're Not Racist!\" - #Trump Supporters âž¡ï¸? @f8ac04878aaf403 https://t.co/s7cq9kUun4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.024479514611769285",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9496372377683648",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675563354564354048",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "But then the early reviews state that the long and rainy commute to and from MOA will be worth it. Anything for #StarWars #TheForceAwakens !",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.005295743514867764",
+  "@URI": "http://dbpedia.org/resource/Minute_of_arc",
+  "@support": "1488",
+  "@surfaceForm": "MOA",
+  "@offset": "77",
+  "@similarityScore": "0.993218474380494",
+  "@types": ""
+ }],
+ "tweet": "676787158695284740",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

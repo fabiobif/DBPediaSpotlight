@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @jack_tragic: Remember @GOP that you have done NOTHING to stop @POTUS &amp; his reign of Anti-Constitutionalism in 7 yrs now! Time to avoid â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.2822268235905521",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.7636078700258083",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.851402385432891E-5",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "27",
+   "@similarityScore": "0.9999447474464828",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "2.2124627520424914E-6",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "67",
+   "@similarityScore": "0.9999966558785541",
+   "@types": ""
+  }
+ ],
+ "tweet": "675575050083295234",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

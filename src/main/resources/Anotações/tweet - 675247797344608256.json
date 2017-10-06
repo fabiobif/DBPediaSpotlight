@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Haha ♥ these guys, SO excited for NEXT week:  #StarWars: Return of the Jedi- Journey to #TheForceAwakens https://t.co/tpqsRMzkFg   @YouTube",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.183585776466065E-5",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "73",
+   "@similarityScore": "0.9999674005133014",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "7.108370954583432E-8",
+   "@URI": "http://dbpedia.org/resource/YouTube",
+   "@support": "16319",
+   "@surfaceForm": "YouTube",
+   "@offset": "134",
+   "@similarityScore": "0.9999998350092051",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675247797344608256",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

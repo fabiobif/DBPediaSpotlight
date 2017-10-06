@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JustinTrudeau: Just saw #TheForceAwakens with friends from the Children's Hospital of Eastern Ontario. Spoiler: It was amazing! https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.10833755621368076",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8529042133542029",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "7.892021525056513E-5",
+   "@URI": "http://dbpedia.org/resource/Eastern_Ontario",
+   "@support": "341",
+   "@surfaceForm": "Eastern Ontario",
+   "@offset": "90",
+   "@similarityScore": "0.9999210855480368",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "677036508751208448",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

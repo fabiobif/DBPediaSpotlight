@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AnonyOps: #OpTrump: Anonymous targets #Trump https://t.co/B7IURe8MJf https://t.co/ln9V044mAW",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "8.347421338164115E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9984832639041322",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "8.784614002299993E-4",
+   "@URI": "http://dbpedia.org/resource/Anonymous_(group)",
+   "@support": "940",
+   "@surfaceForm": "Anonymous",
+   "@offset": "24",
+   "@similarityScore": "0.9984326892974354",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  }
+ ],
+ "tweet": "675575637768192000",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

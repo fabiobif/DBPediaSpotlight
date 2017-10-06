@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"@ProtectSaveUSA: READ: Atty Barber #Bible Case #guncontrol #gunsense #Obama Lies @JMattBarber #pjnet https://t.co/YGLXsf8H7",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "7.441333192495877E-4",
+  "@URI": "http://dbpedia.org/resource/Bible",
+  "@support": "18539",
+  "@surfaceForm": "Bible",
+  "@offset": "37",
+  "@similarityScore": "0.9985165546621516",
+  "@types": ""
+ }],
+ "tweet": "675564398526734337",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

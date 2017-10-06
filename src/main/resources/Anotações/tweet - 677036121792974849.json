@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsAUNZ: Excitement is building! The Australian Premiere of #StarWars #TheForceAwakens is just minutes away... https://t.co/SqXSJqâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02088920143843382",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9579530961291802",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0722092359358223",
+   "@URI": "http://dbpedia.org/resource/Australia",
+   "@support": "163976",
+   "@surfaceForm": "Australian",
+   "@offset": "46",
+   "@similarityScore": "0.9305604333387125",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "677036121792974849",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

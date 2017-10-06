@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Episode I of #GC7DaysofStarWars  #TheForceAwakensPH #StarWars #TheForceAwakens #GC https://t.co/ipJjN7zu9A",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.015311156589213764",
+  "@URI": "http://dbpedia.org/resource/George_Cross",
+  "@support": "1040",
+  "@surfaceForm": "GC",
+  "@offset": "80",
+  "@similarityScore": "0.9745175725391233",
+  "@types": ""
+ }],
+ "tweet": "675226624338608128",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @OnBeingHappy: Hate what they do. But don't hate/ban everyone because of the colour of their skin or their religion. #Trump #Nonsense",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9399202315813191",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675577053178015744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

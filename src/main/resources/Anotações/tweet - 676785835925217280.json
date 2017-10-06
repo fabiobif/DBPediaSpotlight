@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: Kathleen Kennedy's speech from the #TheForceAwakens premiere is incredibly inspiring: https://t.co/3EObdJpZRk https://t.co/DTlR4eaGâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.019930625105677693",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9692689255325887",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.4616405828673265",
+   "@URI": "http://dbpedia.org/resource/Kathleen_Kennedy_(film_producer)",
+   "@support": "61",
+   "@surfaceForm": "Kathleen Kennedy",
+   "@offset": "8",
+   "@similarityScore": "0.6763288799529655",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "676785835925217280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

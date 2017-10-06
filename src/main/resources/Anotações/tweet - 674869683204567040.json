@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@realDonaldTrump You should ask Obama how many Muslim migrants he plans on bringing in from Syria, I bet its zero",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.012950324531859951",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "47",
+   "@similarityScore": "0.9864926353960185",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "4.0480394779001457E-4",
+   "@URI": "http://dbpedia.org/resource/Syria",
+   "@support": "24148",
+   "@surfaceForm": "Syria",
+   "@offset": "92",
+   "@similarityScore": "0.9991356072844739",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "674869683204567040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

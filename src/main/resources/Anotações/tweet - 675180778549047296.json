@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Less than 1 week till Star Wars: The Force Awakens... #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0034379159734181258",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "22",
+  "@similarityScore": "0.9960447540175182",
+  "@types": ""
+ }],
+ "tweet": "675180778549047296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

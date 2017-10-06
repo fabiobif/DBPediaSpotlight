@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsJunk: #StarWars #TheForceAwakens hard drive! Ready for showing!! @ManaByte @starwarsnewsnet https://t.co/ZXBZkrYkd9",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014484934868896645",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9666894580297423",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803883549728770",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

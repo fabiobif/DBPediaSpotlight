@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "way too many dishonest depraved deceitful ppl masquerading as God's messengers https://t.co/4HZHN9zoAb #trump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.06236631962023517",
+   "@URI": "http://dbpedia.org/resource/PPL_(utility)",
+   "@support": "168",
+   "@surfaceForm": "ppl",
+   "@offset": "42",
+   "@similarityScore": "0.8958477170485705",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.006565197692326275",
+   "@URI": "http://dbpedia.org/resource/God",
+   "@support": "25183",
+   "@surfaceForm": "God",
+   "@offset": "62",
+   "@similarityScore": "0.9934398285304178",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.07906045222028289",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "104",
+   "@similarityScore": "0.9249609558313833",
+   "@types": ""
+  }
+ ],
+ "tweet": "675558761197604865",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

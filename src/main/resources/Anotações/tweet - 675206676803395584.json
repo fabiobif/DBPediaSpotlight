@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ZackRyder: That time I took a tour of Lucasfilm &amp; Skywalker Ranch...#tbt #theforceawakens #starwars #wwe https://t.co/HqbiPgy3am",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03324323040848717",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9475908866433204",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.00513764767980715",
+   "@URI": "http://dbpedia.org/resource/Lucasfilm",
+   "@support": "785",
+   "@surfaceForm": "Lucasfilm",
+   "@offset": "42",
+   "@similarityScore": "0.994888612422112",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Skywalker_Ranch",
+   "@support": "79",
+   "@surfaceForm": "Skywalker Ranch",
+   "@offset": "58",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0031300254440720316",
+   "@URI": "http://dbpedia.org/resource/WWE",
+   "@support": "14134",
+   "@surfaceForm": "wwe",
+   "@offset": "109",
+   "@similarityScore": "0.9965244237193263",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675206676803395584",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

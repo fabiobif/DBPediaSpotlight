@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ScottWarner18: My bold prediction: Star Wars #TheForceAwakens will be #1 in the box office this weekend.😜  I can't wait.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.008085932836863163",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9831654741338334",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0010451820362975396",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "39",
+   "@similarityScore": "0.9987539920002737",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785146037600257",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

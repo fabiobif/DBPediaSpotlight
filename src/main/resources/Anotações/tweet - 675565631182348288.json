@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Think cell phones R just 4 texting, Think again?! N the hands of #Muslims they're Real Dead Zones #tcot #Trump #Cruz https://t.co/ZzNwjg4kc4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.015974493407464332",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslims",
+  "@offset": "66",
+  "@similarityScore": "0.9840483913465534",
+  "@types": ""
+ }],
+ "tweet": "675565631182348288",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

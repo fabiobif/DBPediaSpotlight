@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EternalRiteWing: #SanBernardino Attackersâ\u20ac™ Friend Spoke Of â\u20ac˜So Many Sleeper Cells, So Many People Just Waitingâ\u20ac™ https://t.co/V89RN2c4lvâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.010920853165473815",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.984405184050874",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675561910666948608",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

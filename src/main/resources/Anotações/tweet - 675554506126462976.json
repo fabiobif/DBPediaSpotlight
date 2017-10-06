@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@POTUS #obama perhaps this is part of your sick plan to destroy #USA You've given rise to the anger #Trump inspires in all of us. You suck",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.9808917010897398E-4",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "1",
+   "@similarityScore": "0.9998012044875761",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "6.033009500043171E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "65",
+   "@similarityScore": "0.9998860356557605",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675554506126462976",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

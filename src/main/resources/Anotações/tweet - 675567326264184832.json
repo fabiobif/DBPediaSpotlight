@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SpreadButter: Stop making excuses for islam: nazified , communized , kamikaze -ized , muslim radicalized. #trump is KING  @realDonaldTrâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014055367364722637",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9796993106780396",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.03442649431302881",
+   "@URI": "http://dbpedia.org/resource/Nazism",
+   "@support": "18852",
+   "@surfaceForm": "nazified",
+   "@offset": "49",
+   "@similarityScore": "0.9667192198672441",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Communization",
+   "@support": "43",
+   "@surfaceForm": "communized",
+   "@offset": "60",
+   "@similarityScore": "0.9927664461174913",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "7.551241769575333E-4",
+   "@URI": "http://dbpedia.org/resource/Kamikaze",
+   "@support": "1592",
+   "@surfaceForm": "kamikaze",
+   "@offset": "73",
+   "@similarityScore": "0.9991805254882664",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.004803870369693128",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "111",
+   "@similarityScore": "0.9951710284278243",
+   "@types": ""
+  }
+ ],
+ "tweet": "675567326264184832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "3 HUGE Surprises in Star Wars the Force Awakens #StarWars #TheForceAwakens https://t.co/4IzZoplWTo https://t.co/TGcHYZnLmC",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0012116755451960525",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "20",
+  "@similarityScore": "0.9985166124902204",
+  "@types": ""
+ }],
+ "tweet": "677036678616244224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

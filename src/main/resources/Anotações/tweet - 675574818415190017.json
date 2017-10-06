@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@realDonaldTrump,how do you expect to 'TryUMPh' by censoring the internet,would be like living in china.#Trump Made In China.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014341180370568953",
+  "@URI": "http://dbpedia.org/resource/Made_in_China",
+  "@support": "47",
+  "@surfaceForm": "Made In China",
+  "@offset": "111",
+  "@similarityScore": "0.9858615812429732",
+  "@types": ""
+ }],
+ "tweet": "675574818415190017",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

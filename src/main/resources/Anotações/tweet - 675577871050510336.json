@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Obama nuts on #guncontrol. He lies! Using no-fly lst, w/no due process violates  Constitution 2A. Impeach #Obama! @FoxNews @jasoninthehouse",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.15438555625276457",
+   "@URI": "http://dbpedia.org/resource/Nut_(fruit)",
+   "@support": "1258",
+   "@surfaceForm": "nuts",
+   "@offset": "7",
+   "@similarityScore": "0.8614414523589178",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.025871336170452144",
+   "@URI": "http://dbpedia.org/resource/United_States_Constitution",
+   "@support": "6762",
+   "@surfaceForm": "Constitution",
+   "@offset": "82",
+   "@similarityScore": "0.9504995892505751",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Fox_News_Channel",
+   "@support": "4116",
+   "@surfaceForm": "FoxNews",
+   "@offset": "116",
+   "@similarityScore": "0.9999999990940864",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675577871050510336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

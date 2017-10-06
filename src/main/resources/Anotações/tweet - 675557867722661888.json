@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BTLRadioNews: #Trump is damn proud of where his \"smart,\" \"huge\" ideas come from...and if you criticize him you're a \"loser!\" https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.00622897918527027",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9885584323198243",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675557867722661888",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

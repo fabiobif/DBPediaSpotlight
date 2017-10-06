@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "How can a candidate running for the highest office in the country lie with impunity without disqualification? #Trump #Perjury #USelections",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Perjury",
+  "@support": "1124",
+  "@surfaceForm": "Perjury",
+  "@offset": "118",
+  "@similarityScore": "0.9999999956803549",
+  "@types": ""
+ }],
+ "tweet": "675570750607253504",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

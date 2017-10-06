@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "'Star Wars: The Force Awakens' is a magical mystery tour: by Chris Taylor Editors' note:â\u20ac¦ https://t.co/BLxXzXA9Ho #StarWars #MovieReview",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "4.395500987846696E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "1",
+   "@similarityScore": "0.9994214677936404",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.5266605039730652",
+   "@URI": "http://dbpedia.org/resource/Magical_Mystery_Tour",
+   "@support": "142",
+   "@surfaceForm": "magical mystery tour",
+   "@offset": "36",
+   "@similarityScore": "0.6210396905440535",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album"
+  },
+  {
+   "@percentageOfSecondRank": "0.4186913159142858",
+   "@URI": "http://dbpedia.org/resource/Chris_Taylor_(comedian)",
+   "@support": "46",
+   "@surfaceForm": "Chris Taylor",
+   "@offset": "61",
+   "@similarityScore": "0.6129354667031638",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:Comedian"
+  }
+ ],
+ "tweet": "677036512232402944",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

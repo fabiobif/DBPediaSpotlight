@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Kylo Ren Ink Sketch will be on YouTube later #TheForceAwakens https://t.co/z4sctdgocw",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "9.278121600472142E-8",
+  "@URI": "http://dbpedia.org/resource/YouTube",
+  "@support": "16319",
+  "@surfaceForm": "YouTube",
+  "@offset": "31",
+  "@similarityScore": "0.9999997846476508",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676781485614084097",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#islamwatch Another Psycho Lefty Muslim Threatens Violence Against #Trump [VIDEO]: https://t.co/8JE6zXSEGp... https://t.co/Z11qTQOnnR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05320429018267623",
+   "@URI": "http://dbpedia.org/resource/Psycho_(film)",
+   "@support": "928",
+   "@surfaceForm": "Psycho",
+   "@offset": "20",
+   "@similarityScore": "0.9276871099237075",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+  },
+  {
+   "@percentageOfSecondRank": "0.02349853334179739",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "33",
+   "@similarityScore": "0.9763419783265791",
+   "@types": ""
+  }
+ ],
+ "tweet": "675559621575094272",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

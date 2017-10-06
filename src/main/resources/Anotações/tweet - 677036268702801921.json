@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Flo__Hernandez: It's #Starwars day ! :D https://t.co/O3olNcVCel",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0350699129162315",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400093252358275",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.7091126908403097",
+   "@URI": "http://dbpedia.org/resource/Flo,_Norway",
+   "@support": "106",
+   "@surfaceForm": "Flo",
+   "@offset": "4",
+   "@similarityScore": "0.5615896930993426",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Village"
+  }
+ ],
+ "tweet": "677036268702801921",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

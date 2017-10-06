@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@TheDailyShow #LAX customs detained these girls, mistaking them for \"sex workers\" Is #Trump already in power? https://t.co/1L9a8tLiOe",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002135691801102468",
+   "@URI": "http://dbpedia.org/resource/Los_Angeles_International_Airport",
+   "@support": "862",
+   "@surfaceForm": "LAX",
+   "@offset": "15",
+   "@similarityScore": "0.9968032462011384",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,Schema:Airport,DBpedia:Airport"
+  },
+  {
+   "@percentageOfSecondRank": "0.022718211196030645",
+   "@URI": "http://dbpedia.org/resource/Sex_worker",
+   "@support": "953",
+   "@surfaceForm": "sex workers",
+   "@offset": "69",
+   "@similarityScore": "0.9777864411239893",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577490430029824",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

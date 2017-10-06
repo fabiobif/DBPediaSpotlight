@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JasonOkuma: Everyone was eager to rush over to the highly anticipated #StarWarsPremiere #AfterParty! #TheForceAwakens #vzwbuzz https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.028697137502547394",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.940579310110331",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787784481247232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

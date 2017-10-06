@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "bring me solo and the wookie #jabba #wheresleia #starwars #crazycatlady #cat https://t.co/ifdiVXGCVe",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.6014291978808838",
+   "@URI": "http://dbpedia.org/resource/Wookiee",
+   "@support": "152",
+   "@surfaceForm": "wookie",
+   "@offset": "22",
+   "@similarityScore": "0.6244421715500911",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.015364716396369776",
+   "@URI": "http://dbpedia.org/resource/Cat",
+   "@support": "5153",
+   "@surfaceForm": "cat",
+   "@offset": "73",
+   "@similarityScore": "0.984419656563895",
+   "@types": "DBpedia:Species,DBpedia:Eukaryote,DBpedia:Animal,DBpedia:Mammal"
+  }
+ ],
+ "tweet": "676803397954248704",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

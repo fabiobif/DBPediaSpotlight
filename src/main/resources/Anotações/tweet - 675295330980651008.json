@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Based on #Obama's denial that #Benghazi &amp; #SanBernadino were terror attacks, most likely N Korea does have H Bomb.  https://t.co/QMvQb0pmQi",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0024420379441753483",
+   "@URI": "http://dbpedia.org/resource/Benghazi",
+   "@support": "1442",
+   "@surfaceForm": "Benghazi",
+   "@offset": "31",
+   "@similarityScore": "0.9975366195293134",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  },
+  {
+   "@percentageOfSecondRank": "0.07494763994761282",
+   "@URI": "http://dbpedia.org/resource/Korea",
+   "@support": "19414",
+   "@surfaceForm": "Korea",
+   "@offset": "95",
+   "@similarityScore": "0.9084723720002417",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Thermonuclear_weapon",
+   "@support": "958",
+   "@surfaceForm": "H Bomb",
+   "@offset": "111",
+   "@similarityScore": "0.9999999999820375",
+   "@types": ""
+  }
+ ],
+ "tweet": "675295330980651008",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

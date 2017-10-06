@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT Just gonna point out that we are now LESS than a week from #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.018847161229233588",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9661054875503873",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675192600731734016",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

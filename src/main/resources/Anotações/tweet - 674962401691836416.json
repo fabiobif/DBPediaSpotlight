@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "A new photo taken by seesoundit! Che SeeSound sia passato al Lato Oscuro? Lo sapremo a breve... #StarWars... https://t.co/0VG9XFTY1J",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "7.827727976954761E-4",
+   "@URI": "http://dbpedia.org/resource/Sia_Furler",
+   "@support": "353",
+   "@surfaceForm": "sia",
+   "@offset": "46",
+   "@similarityScore": "0.9985858524054392",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:MusicalArtist"
+  },
+  {
+   "@percentageOfSecondRank": "0.10250088554473483",
+   "@URI": "http://dbpedia.org/resource/Breve",
+   "@support": "96",
+   "@surfaceForm": "breve",
+   "@offset": "87",
+   "@similarityScore": "0.8998684323029142",
+   "@types": ""
+  }
+ ],
+ "tweet": "674962401691836416",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

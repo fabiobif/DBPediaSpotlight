@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JamesRobertScot: #StarWars is out in 6 days. 6 DAYS! Let that sink in! We're getting a new STAR WARS film in 6.........bloody..........â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.029173395314841626",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9543711891314747",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675219588116840449",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

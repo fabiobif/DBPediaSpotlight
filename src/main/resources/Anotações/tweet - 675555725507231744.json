@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CapitalFM_kenya: #Trump postpones trip to #Israel https://t.co/tcegRv4pxE #MuslimsDebateTrump #Islamophobia https://t.co/r1trjM9fut",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0016550478412962369",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9966088982775536",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.9176008690492474E-4",
+   "@URI": "http://dbpedia.org/resource/Israel",
+   "@support": "80043",
+   "@surfaceForm": "Israel",
+   "@offset": "47",
+   "@similarityScore": "0.9996540364642224",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Islamophobia",
+   "@support": "537",
+   "@surfaceForm": "Islamophobia",
+   "@offset": "99",
+   "@similarityScore": "0.9999999629033887",
+   "@types": ""
+  }
+ ],
+ "tweet": "675555725507231744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

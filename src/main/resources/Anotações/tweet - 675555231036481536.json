@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SputnikInt: #Trump vows #deathpenalty for cop killers, gets #police union endorsement https://t.co/ATKv77GFbw https://t.co/H3WDmQ3ccj",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0137502214616753",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9732504852821268",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675555231036481536",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

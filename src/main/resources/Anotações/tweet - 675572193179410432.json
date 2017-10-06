@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AsCuteAsBugsEar: DIY Jedi LightSabers for your #StarWars Birthday Party HERE &gt;&gt;&gt;https://t.co/evicnEWApI #ForceAwakens #Jedi #DIY https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02440877888418425",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9567252119663833",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.026921023908055328",
+   "@URI": "http://dbpedia.org/resource/Do_it_yourself",
+   "@support": "1192",
+   "@surfaceForm": "DIY",
+   "@offset": "21",
+   "@similarityScore": "0.9729267478596694",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.682787939071036E-8",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "25",
+   "@similarityScore": "0.99999994180712",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.682787939071036E-8",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "132",
+   "@similarityScore": "0.99999994180712",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.026921023908055328",
+   "@URI": "http://dbpedia.org/resource/Do_it_yourself",
+   "@support": "1192",
+   "@surfaceForm": "DIY",
+   "@offset": "138",
+   "@similarityScore": "0.9729456292105476",
+   "@types": ""
+  }
+ ],
+ "tweet": "675572193179410432",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "The best quote of d year by #Trump @realDonaldTrump \"Pakistan is a mad house\" please vote #Trump.#SaveAmerica https://t.co/kQCoEX4IJJ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0016768029506881524",
+  "@URI": "http://dbpedia.org/resource/Pakistan",
+  "@support": "66699",
+  "@surfaceForm": "Pakistan",
+  "@offset": "53",
+  "@similarityScore": "0.9980750177513847",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675576947846463490",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

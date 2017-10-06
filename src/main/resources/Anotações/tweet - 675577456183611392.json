@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Trump killed 0; imam forced out for support, US JV #ISIS kills &amp; Saudi King supports, Muslims quiet on King. #sad  https://t.co/5Bem9fMwGB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.8938648215657966E-4",
+   "@URI": "http://dbpedia.org/resource/Imam",
+   "@support": "2837",
+   "@surfaceForm": "imam",
+   "@offset": "17",
+   "@similarityScore": "0.9991568660636913",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.007011025182139537",
+   "@URI": "http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant",
+   "@support": "574",
+   "@surfaceForm": "ISIS",
+   "@offset": "53",
+   "@similarityScore": "0.9916916043801943",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.02681125115883352",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "91",
+   "@similarityScore": "0.9727965697059724",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577456183611392",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

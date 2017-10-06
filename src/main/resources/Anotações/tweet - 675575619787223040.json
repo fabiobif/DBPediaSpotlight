@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Trump leads by over 20 points in first national poll after Muslim ban proposal: https://t.co/Vn5sBCKTKC https://t.co/sRJP5QZVOh",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03055639363341654",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslim",
+  "@offset": "60",
+  "@similarityScore": "0.9696199150831909",
+  "@types": ""
+ }],
+ "tweet": "675575619787223040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Adam1Baum: The #Military must disobey their orders and #Stop #Obama before they are used as #cannon_fodder for the #Zio-#Jews https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.010903899335293267",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9845071409136524",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0029267627983324412",
+   "@URI": "http://dbpedia.org/resource/Jews",
+   "@support": "65833",
+   "@surfaceForm": "Jews",
+   "@offset": "125",
+   "@similarityScore": "0.9963546383836912",
+   "@types": ""
+  }
+ ],
+ "tweet": "675570327133360128",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

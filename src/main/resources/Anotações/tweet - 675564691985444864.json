@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Facebook Now Lets You Find And Delete Friends Who Support Donald Trump  https://t.co/hMMHMNYJA1 #Trump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.4360835849940517E-5",
+   "@URI": "http://dbpedia.org/resource/Facebook",
+   "@support": "11697",
+   "@surfaceForm": "Facebook",
+   "@offset": "0",
+   "@similarityScore": "0.9999742934317795",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  },
+  {
+   "@percentageOfSecondRank": "1.3554257854707605E-5",
+   "@URI": "http://dbpedia.org/resource/Donald_Trump",
+   "@support": "924",
+   "@surfaceForm": "Donald Trump",
+   "@offset": "58",
+   "@similarityScore": "0.9999864459257976",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675564691985444864",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

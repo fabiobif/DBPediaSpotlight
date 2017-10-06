@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Wooooooot RT @TheChrisChoi: Alright folks. It's exactly one week till #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02133007161698566",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "10",
+  "@similarityScore": "0.9624997524236334",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675228388777402368",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

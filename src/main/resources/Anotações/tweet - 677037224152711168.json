@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Star Wars Day https://t.co/e27hMipoJo #starwars #day #london #disney #m&amp;m",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.003595059760343895",
+  "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+  "@support": "12715",
+  "@surfaceForm": "disney",
+  "@offset": "62",
+  "@similarityScore": "0.9946018051708025",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "677037224152711168",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

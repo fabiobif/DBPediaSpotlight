@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@JayT584 #GOP has spent yrs empowering, feeding, catering to &amp; dog-whistling to the #Trump base. And now theyre shocked by a Trump? Really?!",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "2.122544068513868E-4",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "10",
+  "@similarityScore": "0.9995030656172811",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675556827111759872",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

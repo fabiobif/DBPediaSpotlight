@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Earl_Thomas: .@verizon wants to know your fave #TheForceAwakens theory. Go to https://t.co/1Q2dEgWUAD; you could win opening weekend tiâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05552055877851108",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8930002791111015",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.058693388804108945",
+   "@URI": "http://dbpedia.org/resource/Verizon_Communications",
+   "@support": "1690",
+   "@surfaceForm": "verizon",
+   "@offset": "19",
+   "@similarityScore": "0.9443217044096506",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675204795582558208",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Exactly one week from right now I will be at the theater ready to watch Star Wars: The Force Awakens. Can't wait! #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "4.663855373946596E-4",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "72",
+  "@similarityScore": "0.9994615931555315",
+  "@types": ""
+ }],
+ "tweet": "675192324025094144",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

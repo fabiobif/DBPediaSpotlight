@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "C-3PO Apple Watch face https://t.co/QXZ3gAGSz2 #applewatch #starwars #c3po #TheForceAwakens https://t.co/B3VBjvzA8k",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/C-3PO",
+   "@support": "276",
+   "@surfaceForm": "C-3PO",
+   "@offset": "0",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.009604215671587285",
+   "@URI": "http://dbpedia.org/resource/Apple_Inc.",
+   "@support": "9249",
+   "@surfaceForm": "Apple",
+   "@offset": "6",
+   "@similarityScore": "0.9877336663848802",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/C-3PO",
+   "@support": "276",
+   "@surfaceForm": "c3po",
+   "@offset": "70",
+   "@similarityScore": "0.9999999999968452",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785773773987840",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

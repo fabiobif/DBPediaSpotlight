@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT mashable \"Add Mashable on Snapchat to see scenes from last night's StarWars: #TheForceAwakens red carpet. https://t.co/Xqn2DYPPpL\"",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.023009417626463486",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9639420041713838",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mashable",
+   "@support": "254",
+   "@surfaceForm": "mashable",
+   "@offset": "3",
+   "@similarityScore": "0.9999999729606092",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mashable",
+   "@support": "254",
+   "@surfaceForm": "Mashable",
+   "@offset": "17",
+   "@similarityScore": "0.9999999729606092",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Snapchat",
+   "@support": "31",
+   "@surfaceForm": "Snapchat",
+   "@offset": "29",
+   "@similarityScore": "0.9999998813949061",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:Software"
+  },
+  {
+   "@percentageOfSecondRank": "0.00363748092690274",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "97",
+   "@similarityScore": "0.9954973291051714",
+   "@types": "DBpedia:Colour"
+  }
+ ],
+ "tweet": "676781068029177856",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

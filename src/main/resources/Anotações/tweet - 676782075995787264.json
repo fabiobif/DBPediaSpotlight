@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @tweetperth: Star Wars #theforceawakens first reactions  https://t.co/8KZno5CW49",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.026797484019404787",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9603297509082374",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.004142412417111574",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "16",
+   "@similarityScore": "0.9950798129187094",
+   "@types": ""
+  }
+ ],
+ "tweet": "676782075995787264",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

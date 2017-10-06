@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AmericanFilm: Before #TheForceAwakens, look back at our 1977 interview with George Lucas on STAR WARS: https://t.co/Jlsfx6fhPq https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.005975655452127799",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9925878548767194",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.4351722227343175E-7",
+   "@URI": "http://dbpedia.org/resource/George_Lucas",
+   "@support": "1290",
+   "@surfaceForm": "George Lucas",
+   "@offset": "80",
+   "@similarityScore": "0.9999998564688998",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "676784949177913344",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

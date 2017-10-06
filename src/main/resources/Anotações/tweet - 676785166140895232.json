@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Amen.   #StarWars #StarWarsForceAwakens #TheForceAwakens #StarWarsSpoilers https://t.co/cqcmYndO89",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.2768677026319737",
+  "@URI": "http://dbpedia.org/resource/Amen",
+  "@support": "187",
+  "@surfaceForm": "Amen",
+  "@offset": "0",
+  "@similarityScore": "0.6832486524617303",
+  "@types": ""
+ }],
+ "tweet": "676785166140895232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

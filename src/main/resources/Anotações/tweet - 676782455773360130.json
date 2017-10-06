@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CelebrationCnma: Good Morning Followers! We are #twodays away from #StarWars #TheForceAwakens opening!! https://t.co/ja6s9d15eE",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03515416063556029",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9511008923633218",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676782455773360130",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

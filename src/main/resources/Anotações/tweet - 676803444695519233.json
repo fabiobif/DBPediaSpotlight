@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Awaken your force!  https://t.co/sNH006G7gl  #starwars #ForceAwakens #DarthVader #kinky #sextoy #sexy #condoms https://t.co/lg0svpbFwB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0030063316525495093",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "12",
+   "@similarityScore": "0.9948494973733065",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Sex_toy",
+   "@support": "335",
+   "@surfaceForm": "sextoy",
+   "@offset": "89",
+   "@similarityScore": "0.9999998349896794",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.635797976596067E-5",
+   "@URI": "http://dbpedia.org/resource/Condom",
+   "@support": "1410",
+   "@surfaceForm": "condoms",
+   "@offset": "103",
+   "@similarityScore": "0.999963419543326",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803444695519233",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

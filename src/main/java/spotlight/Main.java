@@ -38,7 +38,7 @@ public class Main {
     public static void main(String[] args) {
         HttpClient httpclient = HttpClients.createDefault();
         String text;
-        String confidence = "0.8";
+        String confidence = "0.5";
         String support = "20";
 //        String function = "candidates";
         String function = "annotate";
@@ -46,12 +46,11 @@ public class Main {
 
         BufferedReader br;
 
-        String resposta = "";
-        File arquivo = new File("src/main/resources/teste.json");
+        String anotacaoes = "";
         URI uri;
         try {
-
-            BufferedWriter buffW = new BufferedWriter(new FileWriter(arquivo));
+            File arquivo;
+            BufferedWriter buffW;
             //le arq de tweets
             br = new BufferedReader(new FileReader("src/main/resources/downloaded.tsv"));
             while (br.ready()) {
@@ -72,24 +71,27 @@ public class Main {
                 CloseableHttpResponse response = (CloseableHttpResponse) httpclient.execute(httpget);
                 HttpEntity entity = response.getEntity();
 
-                buffW = new BufferedWriter(new FileWriter(arquivo));
-                resposta += text.split("\t")[0] + "\t" + EntityUtils.toString(entity, "UTF-8") + "\n";
+                //Cria arquivos para gravar anotações
+                arquivo = new File("src/main/resources/Anotações/tweet - " + text.split("\t")[0] + ".json");
+                if(!arquivo.exists())
+                    arquivo.createNewFile();
+                
+                JSONObject json = new JSONObject(EntityUtils.toString(entity, "UTF-8"));
+                json.put("tweet", text.split("\t")[0]);
+                anotacaoes = json.toString(1);
 
+                buffW = new BufferedWriter(new FileWriter(arquivo));
+                buffW.write(anotacaoes);
+                buffW.close();
                 EntityUtils.consume(entity);
             }
-            buffW.write(resposta);
-            buffW.close();
+
+            //Escreve anotações em um arquivo
             br.close();
         } catch (URISyntaxException | IOException ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        
-        
-        
-        
-        
-        
+
         //Ler arq com regra ouro
         try {
             br = new BufferedReader(new FileReader("src/main/resources/microposts2016-neel-test_neel.gs"));
@@ -99,13 +101,13 @@ public class Main {
                 text = br.readLine();
                 System.out.println(text);
                 object = new JSONObject();
-                object.put("id",text.split("\t")[0]);
-                object.put("start",text.split("\t")[1]);
-                object.put("end",text.split("\t")[2]);
-                object.put("url",text.split("\t")[3]);
-                object.put("confidence",text.split("\t")[4]);
-                object.put("type",text.split("\t")[5]);
-                
+                object.put("id", text.split("\t")[0]);
+                object.put("start", text.split("\t")[1]);
+                object.put("end", text.split("\t")[2]);
+                object.put("url", text.split("\t")[3]);
+                object.put("confidence", text.split("\t")[4]);
+                object.put("type", text.split("\t")[5]);
+
                 array.put(object);
             }
             br.close();

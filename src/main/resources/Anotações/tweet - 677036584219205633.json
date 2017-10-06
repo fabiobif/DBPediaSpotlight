@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Interesting to see some trench warfare in #EmpireStrikesBack. #StarWars #TheForceAwakens Star Wars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.026616641683834E-4",
+   "@URI": "http://dbpedia.org/resource/Trench_warfare",
+   "@support": "889",
+   "@surfaceForm": "trench warfare",
+   "@offset": "24",
+   "@similarityScore": "0.9996948850386567",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.003264888451588311",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "89",
+   "@similarityScore": "0.995847751790218",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036584219205633",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

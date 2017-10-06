@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @KyloRenn: The Darkside returns, vicious like never before. Soon. #TheForceAwakens #KyloRen https://t.co/CYLRJm1bPS",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.042689883218363096",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9331514512328114",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675207405874110464",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

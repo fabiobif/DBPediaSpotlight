@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Donald #Trump to hold rally in #Mesa on Wednesday https://t.co/9eziPzKGdQ via azcentral #Arizona",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.016051185334703493",
+   "@URI": "http://dbpedia.org/resource/Mesa,_Arizona",
+   "@support": "785",
+   "@surfaceForm": "Mesa",
+   "@offset": "32",
+   "@similarityScore": "0.983661687317142",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/The_Arizona_Republic",
+   "@support": "426",
+   "@surfaceForm": "azcentral",
+   "@offset": "78",
+   "@similarityScore": "0.9999961007105606",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+  },
+  {
+   "@percentageOfSecondRank": "6.772614755015279E-4",
+   "@URI": "http://dbpedia.org/resource/Arizona",
+   "@support": "23576",
+   "@surfaceForm": "Arizona",
+   "@offset": "89",
+   "@similarityScore": "0.9992127274736727",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675555880524378112",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

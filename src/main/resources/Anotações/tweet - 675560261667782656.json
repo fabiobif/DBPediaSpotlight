@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TrussElise: OK I am voting 4  #Trump even if I have to write in his name.That is a rock solid pledge. I will not change my mind. https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03762548455187465",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.953618185968361",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.009646680957012394",
+   "@URI": "http://dbpedia.org/resource/Rock_music",
+   "@support": "32163",
+   "@surfaceForm": "rock",
+   "@offset": "87",
+   "@similarityScore": "0.9812612175191605",
+   "@types": "DBpedia:TopicalConcept,DBpedia:Genre,DBpedia:MusicGenre"
+  }
+ ],
+ "tweet": "675560261667782656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

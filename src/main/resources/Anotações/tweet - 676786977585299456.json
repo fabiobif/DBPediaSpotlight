@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "When you're supposed to be studying for your finals but you've been laying in bed going through #TheForceAwakens hashtags",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.005056611671399851",
+  "@URI": "http://dbpedia.org/resource/Hashtag",
+  "@support": "244",
+  "@surfaceForm": "hashtags",
+  "@offset": "113",
+  "@similarityScore": "0.9949686414391471",
+  "@types": ""
+ }],
+ "tweet": "676786977585299456",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

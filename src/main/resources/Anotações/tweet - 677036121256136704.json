@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Presenting the SPOILER-FREE @IGN review of @starwars #TheForceAwakens by @Terri_Schwartz: https://t.co/0TgDzULkXZ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "7.46073235818888E-6",
+  "@URI": "http://dbpedia.org/resource/IGN",
+  "@support": "10090",
+  "@surfaceForm": "IGN",
+  "@offset": "29",
+  "@similarityScore": "0.999992515587009",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "677036121256136704",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Nigeria &amp; Egypt Both say #Obama is a #Terrorist ! Of course we knew that from his first campaign months! https://t.co/xzdHUl0qPt",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003706998634885771",
+   "@URI": "http://dbpedia.org/resource/Nigeria",
+   "@support": "26799",
+   "@surfaceForm": "Nigeria",
+   "@offset": "0",
+   "@similarityScore": "0.9960998347074845",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.001449593387173219",
+   "@URI": "http://dbpedia.org/resource/Egypt",
+   "@support": "44280",
+   "@surfaceForm": "Egypt",
+   "@offset": "14",
+   "@similarityScore": "0.9979584113490527",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675577170333327360",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

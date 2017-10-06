@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @_CFJ_: Let's change the #Obama &amp; #Democrats narrative!  WHY should the refugees come to the US?  Send the #Refugees2Qatar! https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.01854193467352278",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9775913158341334",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675559650629017600",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

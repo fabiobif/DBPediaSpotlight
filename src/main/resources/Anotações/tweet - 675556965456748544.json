@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @NatashaFatah: DANIEL PIPES: #Trump: ban #Islamists, not #Muslims - Washington Times: https://t.co/FhnxcK4xOn",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.007376835793998328",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9876133361523091",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Daniel_Pipes",
+   "@support": "140",
+   "@surfaceForm": "DANIEL PIPES",
+   "@offset": "18",
+   "@similarityScore": "0.9999999999998863",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:Writer"
+  },
+  {
+   "@percentageOfSecondRank": "0.001018935556138293",
+   "@URI": "http://dbpedia.org/resource/Islamism",
+   "@support": "3181",
+   "@surfaceForm": "Islamists",
+   "@offset": "45",
+   "@similarityScore": "0.9981230555745295",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.029666969796720673",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "61",
+   "@similarityScore": "0.9709875976843666",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.4976792455154492E-4",
+   "@URI": "http://dbpedia.org/resource/The_Washington_Times",
+   "@support": "990",
+   "@surfaceForm": "Washington Times",
+   "@offset": "71",
+   "@similarityScore": "0.9998502488762194",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+  }
+ ],
+ "tweet": "675556965456748544",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

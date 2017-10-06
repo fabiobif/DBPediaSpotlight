@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Soon #StarWars via @reddit https://t.co/sTZuJ6ptE6",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Reddit",
+  "@support": "571",
+  "@surfaceForm": "reddit",
+  "@offset": "20",
+  "@similarityScore": "0.9999997920723945",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "675577559292248065",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

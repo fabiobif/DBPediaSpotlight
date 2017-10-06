@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @PeterTownsend7: #tcot\"#islam #ccot Pres Barack #Obama '#ISIS Speak for No Religion'? Not quite.  https://t.co/Y9qC09Zrl6 \",",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.9950763605574254E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9992735154892997",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.1150608743077959",
+   "@URI": "http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant",
+   "@support": "574",
+   "@surfaceForm": "ISIS",
+   "@offset": "60",
+   "@similarityScore": "0.8228419445312588",
+   "@types": ""
+  }
+ ],
+ "tweet": "675578333673861121",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

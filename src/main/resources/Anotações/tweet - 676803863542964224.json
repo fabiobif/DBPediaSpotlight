@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Another batch of cakes in the oven - still leaning towards a #StarWars #Christmas themed decoration!!",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.2587517901434145E-4",
+  "@URI": "http://dbpedia.org/resource/Christmas",
+  "@support": "17277",
+  "@surfaceForm": "Christmas",
+  "@offset": "72",
+  "@similarityScore": "0.9998724613546328",
+  "@types": "DBpedia:Holiday"
+ }],
+ "tweet": "676803863542964224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ABCFpll: Watch the @StarWars #PopUpSanta surprise from #PLL's @KeeganAllen! Don't forget to see #TheForceAwakens THIS Friday! https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.008068319519246425",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9855056679130463",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.003354668670452957",
+   "@URI": "http://dbpedia.org/resource/Phase-locked_loop",
+   "@support": "163",
+   "@surfaceForm": "PLL",
+   "@offset": "60",
+   "@similarityScore": "0.9966563423186419",
+   "@types": ""
+  }
+ ],
+ "tweet": "676783188866441216",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

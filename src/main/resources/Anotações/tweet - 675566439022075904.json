@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@leo80475770 @NBCNews #Trump is a businessman. Business means work. Latinos like to work.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.10201555030066031",
+  "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+  "@support": "300085",
+  "@surfaceForm": "Latinos",
+  "@offset": "68",
+  "@similarityScore": "0.9007152374008686",
+  "@types": ""
+ }],
+ "tweet": "675566439022075904",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "@POTUS #Obama Perhaps if all #Muslims are punished then some or most Muslims will take a stand against #RadicalIslam #WakeUpAmerica #Change",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.997001991051606E-4",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "1",
+   "@similarityScore": "0.9992120440041511",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.017949344780579038",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "30",
+   "@similarityScore": "0.9822128952786978",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.017949344780579038",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "69",
+   "@similarityScore": "0.9822128952786978",
+   "@types": ""
+  }
+ ],
+ "tweet": "675573679061774336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

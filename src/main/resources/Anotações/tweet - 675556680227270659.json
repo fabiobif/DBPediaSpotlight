@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RealJamesWoods: So any #Trump supporter could have this little coward arrested for making a death threat, correct? https://t.co/Q8SzTYbâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.009083228619444567",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9794897180197865",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675556680227270659",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

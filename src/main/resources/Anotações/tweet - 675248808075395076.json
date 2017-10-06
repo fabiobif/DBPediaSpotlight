@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @reFocusZone: Hey Liberals, no mention of THIS official poll? I wonder why.  https://t.co/66SytbrFjV   via @Jim_Watford #tcot #ukip #refâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00267811111149801",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9943524059476551",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/UK_Independence_Party",
+   "@support": "969",
+   "@surfaceForm": "ukip",
+   "@offset": "130",
+   "@similarityScore": "0.9999999972959017",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675248808075395076",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

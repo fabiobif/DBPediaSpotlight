@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Ktywack1: ðŸš\u201aðŸ\u2019¨#TrumpWinningðŸš\u201aðŸ\u2019¨ Let's #WakeUpAmerica ðŸ\u2021ºðŸ\u2021¸ #TrumpTruth #Trumpâ?¤ï¸?USA  #WhyISupportTrump ðŸ\u2021ºðŸ\u2021¸ Super Tuesday 79DaysðŸš\u201aðŸ\u2019¨ https://t.co/kâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.047025646472162695",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9377567145369853",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.0395906966348136E-4",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "98",
+   "@similarityScore": "0.9997462526997628",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.5472562225659318",
+   "@URI": "http://dbpedia.org/resource/Super_Tuesday",
+   "@support": "257",
+   "@surfaceForm": "Super Tuesday",
+   "@offset": "130",
+   "@similarityScore": "0.6434378746025848",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577495433945088",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

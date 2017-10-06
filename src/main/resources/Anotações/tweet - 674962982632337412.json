@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Say hello to a #stormtrooper!  #sw #starwars #lego https://t.co/BFpzrOhgco",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.29491438954079896",
+  "@URI": "http://dbpedia.org/resource/Stormtrooper_(Star_Wars)",
+  "@support": "186",
+  "@surfaceForm": "stormtrooper",
+  "@offset": "16",
+  "@similarityScore": "0.7680768655264447",
+  "@types": ""
+ }],
+ "tweet": "674962982632337412",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

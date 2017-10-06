@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "In less than 14 hours, you, too, can binge-watch all six 'Star Wars' films https://t.co/SL7wkLtJwV #starwars #storystream #pr",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02608041492697318",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "58",
+  "@similarityScore": "0.9735625062255319",
+  "@types": ""
+ }],
+ "tweet": "677036720429207552",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @u2iKRK: Watch our facebook tomorrow, we'll have a few #starwars inspired #macbook stickers to give away :) https://t.co/2qXmRWiJWl",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00275846528936982",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9949918116879947",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.9446038594302595E-5",
+   "@URI": "http://dbpedia.org/resource/MacBook",
+   "@support": "494",
+   "@surfaceForm": "macbook",
+   "@offset": "78",
+   "@similarityScore": "0.9999705314924435",
+   "@types": "DBpedia:Device,DBpedia:InformationAppliance"
+  }
+ ],
+ "tweet": "677036562333499392",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

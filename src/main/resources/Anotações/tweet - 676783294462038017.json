@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Elreynetwork: Christmas comes early this year. #TheForceAwakens in 3 days! Art by @RMcQArchives. #starwars #McQuarrieMonday https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.08266346412321116",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9016240417491087",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.004043068545495109",
+   "@URI": "http://dbpedia.org/resource/Christmas",
+   "@support": "17277",
+   "@surfaceForm": "Christmas",
+   "@offset": "18",
+   "@similarityScore": "0.9955383168158402",
+   "@types": "DBpedia:Holiday"
+  }
+ ],
+ "tweet": "676783294462038017",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

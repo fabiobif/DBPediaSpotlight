@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT â\u2020ª #Trump This is actual #Libertarian faggotry. There's something wrong w/ you when you perpetuate Establishmentâ\u20ac¦ https://t.co/o5S036TEdh",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.009939904195915722",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9889023039224032",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.3004105853985762",
+   "@URI": "http://dbpedia.org/resource/Libertarianism",
+   "@support": "2849",
+   "@surfaceForm": "Libertarian",
+   "@offset": "30",
+   "@similarityScore": "0.7687727566872927",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569116867117057",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

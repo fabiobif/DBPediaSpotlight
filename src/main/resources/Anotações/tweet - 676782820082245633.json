@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @kemettler: Hey Tampa Bay, have any friends drinking that #StarWars haterade? Refusing to see #TheForceAwakens? Email me! kmettler@tampaâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015489880919429542",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9743488097419425",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.2676496087872334",
+   "@URI": "http://dbpedia.org/resource/Tampa_Bay",
+   "@support": "1310",
+   "@surfaceForm": "Tampa Bay",
+   "@offset": "19",
+   "@similarityScore": "0.7181402420205354",
+   "@types": ""
+  }
+ ],
+ "tweet": "676782820082245633",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

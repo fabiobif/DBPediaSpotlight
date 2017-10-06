@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @501stLegion: Kathleen Kennedy greeting members of the #501st @501SCG at the @starwars #TheForceAwakens red carpet premiere! https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05809794173948754",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9146770230760201",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.014129683314681332",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "107",
+   "@similarityScore": "0.9823963423943908",
+   "@types": "DBpedia:Colour"
+  }
+ ],
+ "tweet": "676783971926220800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

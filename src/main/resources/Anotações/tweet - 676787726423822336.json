@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @reeltourshawaii: Our man @colintrevorrow is in the house!!! Bring on Episide 9!!!! #TheForceAwakens https://t.co/v75H595xT5",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.08681369940914925",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9055043989194882",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787726423822336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

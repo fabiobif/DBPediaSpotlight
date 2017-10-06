@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT RT Telegraph: The Chinese Force Awakens trailer is the most spoiler-filled look at #StarWars yet â\u20ac¦ https://t.co/j2ioZi1JVQ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02515803035297302",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9561640036536575",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02515803035297302",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "3",
+   "@similarityScore": "0.9561604068006907",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.6633614619744198",
+   "@URI": "http://dbpedia.org/resource/China",
+   "@support": "124308",
+   "@surfaceForm": "Chinese",
+   "@offset": "21",
+   "@similarityScore": "0.542421377466843",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "674963849016045569",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

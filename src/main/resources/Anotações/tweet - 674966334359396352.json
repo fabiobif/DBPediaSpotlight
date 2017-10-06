@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "8 more Days! Can't Wait! @starwars @disney #Dec18 #StarWars #Disney #LightSide #Rebel #Empireâ\u20ac¦ https://t.co/F9E8nJS324",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003099391702300356",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "disney",
+   "@offset": "36",
+   "@similarityScore": "0.9946447379537328",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.003099391702300356",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "61",
+   "@similarityScore": "0.9946447379537328",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "674966334359396352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

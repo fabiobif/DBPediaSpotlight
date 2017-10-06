@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @comingsoonnet: Nearly 100 photos from the #StarWars: #TheForceAwakens premiere! https://t.co/xnztvMhGLg https://t.co/mcN6Ly7IZo",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.017741675130210376",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9737583607255104",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676780142006542340",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

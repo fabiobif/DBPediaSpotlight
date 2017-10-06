@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Ktywack1: ðŸš\u201aðŸ\u2019¨#TrumpWinningðŸš\u201aðŸ\u2019¨ Let's #WakeUpAmerica ðŸ\u2021ºðŸ\u2021¸ #TrumpTruth #Trumpâ?¤ï¸?USA  #WhyISupportTrump ðŸ\u2021ºðŸ\u2021¸50Days Till Iowa ðŸš\u201aðŸ\u2019¨ðŸ\u2019¨ðŸ\u2019¨ https://t.co/Sr2â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.1376217253772918",
+   "@URI": "http://dbpedia.org/resource/AEC_Regent_III_RT",
+   "@support": "73",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.876519433684897",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.667443630143832E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "98",
+   "@similarityScore": "0.9999039227102786",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "4.029545501921722E-4",
+   "@URI": "http://dbpedia.org/resource/Iowa",
+   "@support": "21644",
+   "@surfaceForm": "Iowa",
+   "@offset": "141",
+   "@similarityScore": "0.9994721016590706",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675576782788128768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

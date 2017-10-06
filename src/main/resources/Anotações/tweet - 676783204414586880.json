@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "So both my Spotify and MBTI Star Wars Match is Yoda, so itâ\u20ac™s basically official. https://t.co/LNQNSX2M6J #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Spotify",
+   "@support": "415",
+   "@surfaceForm": "Spotify",
+   "@offset": "11",
+   "@similarityScore": "0.9999999974192519",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Myers-Briggs_Type_Indicator",
+   "@support": "252",
+   "@surfaceForm": "MBTI",
+   "@offset": "23",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0033863407641017795",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "28",
+   "@similarityScore": "0.9960340532094635",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0022372869474192566",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "47",
+   "@similarityScore": "0.9977564515899381",
+   "@types": ""
+  }
+ ],
+ "tweet": "676783204414586880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

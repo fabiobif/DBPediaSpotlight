@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Zap2it: The #ForceAwakens cast joins @jimmyfallon and The Roots in acapella #StarWars tribute https://t.co/cROF8R5eRU https://t.co/Gysyâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03685797841017331",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.940825124048743",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.555805968068421E-5",
+   "@URI": "http://dbpedia.org/resource/Zap2it",
+   "@support": "448",
+   "@surfaceForm": "Zap2it",
+   "@offset": "4",
+   "@similarityScore": "0.9999844070501754",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  },
+  {
+   "@percentageOfSecondRank": "1.1780730321525435E-8",
+   "@URI": "http://dbpedia.org/resource/The_Roots",
+   "@support": "882",
+   "@surfaceForm": "The Roots",
+   "@offset": "58",
+   "@similarityScore": "0.9999999880942597",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/A_cappella",
+   "@support": "2669",
+   "@surfaceForm": "acapella",
+   "@offset": "71",
+   "@similarityScore": "0.9999999584430279",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036765719363585",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

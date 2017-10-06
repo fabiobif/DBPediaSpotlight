@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "You've outdone yourself with these #StarWars Match playlists, @Spotify.   https://t.co/JtXHy1Glh4 https://t.co/k4nqMFs4Bs",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Spotify",
+  "@support": "415",
+  "@surfaceForm": "Spotify",
+  "@offset": "63",
+  "@similarityScore": "0.9999999984615044",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676803944442519552",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

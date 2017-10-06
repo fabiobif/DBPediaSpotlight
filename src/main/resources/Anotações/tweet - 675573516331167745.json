@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Dem White Crystals https://t.co/wJ9pEP9DF0 via @YouTube #starwars #starwarsrebels",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "4.6330409195597446E-4",
+   "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+   "@support": "300085",
+   "@surfaceForm": "White",
+   "@offset": "4",
+   "@similarityScore": "0.9989929672661001",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.210332149265564E-7",
+   "@URI": "http://dbpedia.org/resource/YouTube",
+   "@support": "16319",
+   "@surfaceForm": "YouTube",
+   "@offset": "48",
+   "@similarityScore": "0.9999992548575781",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675573516331167745",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

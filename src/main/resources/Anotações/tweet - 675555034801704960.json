@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ofccadjust: YEEEESSSSSSSS! Screw them Terrorist supporters. I love you more &amp; more Mr #Trump! You have GUTS!  https://t.co/08GmkxP5H6",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.008773366741780872",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9813392067561649",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675555034801704960",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

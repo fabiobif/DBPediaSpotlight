@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @winstinK: Decided to have a little fun tonight and join @ivirginiamaria  in all the #starwarsâ\u20ac¦ https://t.co/bW5Cek1BVd",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.031035468112396526",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9496374921083807",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675573105838956544",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

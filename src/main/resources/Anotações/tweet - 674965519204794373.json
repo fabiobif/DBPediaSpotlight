@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "It's the season of the force!!! #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.003114395550396872",
+  "@URI": "http://dbpedia.org/resource/Force",
+  "@support": "4917",
+  "@surfaceForm": "force",
+  "@offset": "23",
+  "@similarityScore": "0.9947139098433169",
+  "@types": ""
+ }],
+ "tweet": "674965519204794373",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

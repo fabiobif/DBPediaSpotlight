@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#LoringWirbel an obama radical, is proof the left is like Isis. He said kill #Trump Voters. It is their way or death. Libs/Isis a lot alike",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.1636496254912348",
+   "@URI": "http://dbpedia.org/resource/Isis",
+   "@support": "1389",
+   "@surfaceForm": "Isis",
+   "@offset": "58",
+   "@similarityScore": "0.789745883101283",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.1636496254912348",
+   "@URI": "http://dbpedia.org/resource/Isis",
+   "@support": "1389",
+   "@surfaceForm": "Isis",
+   "@offset": "123",
+   "@similarityScore": "0.789745883101283",
+   "@types": ""
+  }
+ ],
+ "tweet": "675576917102338053",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

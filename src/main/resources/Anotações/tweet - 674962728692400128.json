@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @regentsuni: Is the #starwars force strong with you? Take part in the galaxy-wide survey co-led by Regentâ\u20ac™s @rjmcculloch https://t.co/VVâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02013357140377695",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9623409163627532",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0022439605690471576",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "33",
+   "@similarityScore": "0.9953274419761499",
+   "@types": ""
+  }
+ ],
+ "tweet": "674962728692400128",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

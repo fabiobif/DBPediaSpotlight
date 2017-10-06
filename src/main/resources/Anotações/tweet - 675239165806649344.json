@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Happy birthday @headgeek666!  Is it strange I just woke from a dream where you were reading #TheForceAwakens crawl in my psych class?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.005921468200101418",
+  "@URI": "http://dbpedia.org/resource/Happy_Birthday_to_You",
+  "@support": "138",
+  "@surfaceForm": "Happy birthday",
+  "@offset": "0",
+  "@similarityScore": "0.977716623578741",
+  "@types": ""
+ }],
+ "tweet": "675239165806649344",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

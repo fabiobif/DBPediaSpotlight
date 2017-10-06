@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "My review of #TheForceAwakens. Too much nostalgia, but the young guns make it work: https://t.co/hYer8VRUTi #StarWarsForceAwakens #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.5519263784059043",
+  "@URI": "http://dbpedia.org/resource/Young_Guns_(film)",
+  "@support": "78",
+  "@surfaceForm": "young guns",
+  "@offset": "59",
+  "@similarityScore": "0.6360357575188561",
+  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+ }],
+ "tweet": "677036377553416192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

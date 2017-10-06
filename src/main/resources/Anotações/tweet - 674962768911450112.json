@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @twt_kuching: Beautiful graffiti artwork by Sadiq. #localtalent #art #kuching #starwars https://t.co/c7jGOQLLrc",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.019193861366039306",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9659121083815547",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.6975043179743354E-4",
+   "@URI": "http://dbpedia.org/resource/Graffiti",
+   "@support": "2941",
+   "@surfaceForm": "graffiti",
+   "@offset": "27",
+   "@similarityScore": "0.9995286870049566",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.023754590433832826",
+   "@URI": "http://dbpedia.org/resource/Kuching",
+   "@support": "898",
+   "@surfaceForm": "kuching",
+   "@offset": "73",
+   "@similarityScore": "0.9758850336701919",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "674962768911450112",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

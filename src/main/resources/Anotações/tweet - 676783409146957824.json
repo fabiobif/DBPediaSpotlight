@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "The wonderful cast of #StarWars #TheForceAwakens @ the red carpet premiere in Hollywood! They all looked just... https://t.co/JYDdnyhihh",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013049356551222878",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "55",
+   "@similarityScore": "0.9842875902250744",
+   "@types": "DBpedia:Colour"
+  },
+  {
+   "@percentageOfSecondRank": "7.352343742948325E-4",
+   "@URI": "http://dbpedia.org/resource/Hollywood",
+   "@support": "18153",
+   "@surfaceForm": "Hollywood",
+   "@offset": "78",
+   "@similarityScore": "0.9987614155611733",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "676783409146957824",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

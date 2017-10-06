@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JoshDaviesCEO: Woot! @techradar have covered #StarWars @HitFilmOFFICIAL edition on the front page. https://t.co/G6F91mdbhr Impressive..â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.009437546607733653",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9799563476530216",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/TechRadar",
+   "@support": "60",
+   "@surfaceForm": "techradar",
+   "@offset": "26",
+   "@similarityScore": "0.9999999990517381",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  }
+ ],
+ "tweet": "674961969347174400",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

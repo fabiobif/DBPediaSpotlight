@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "swarsfun: Lego_News1: RT MisterOgel: Lego Star Wars Rocks! #lego #afol #starwars #legostarwars #TheForceAwakens  â\u20ac¦â\u20ac¦ https://t.co/B088CU3uYP",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035983063635092356",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "22",
+  "@similarityScore": "0.9474319620997795",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675295444474437632",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

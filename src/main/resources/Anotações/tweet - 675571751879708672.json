@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SuburbanMomClub: That time I met Harrison Ford &amp; asked what it's like to return to #StarWars. #StarWarsEvent https://t.co/ia2T56PdOp htâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.007920111758233749",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9855572706714985",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.001481097911505443",
+   "@URI": "http://dbpedia.org/resource/Harrison_Ford",
+   "@support": "700",
+   "@surfaceForm": "Harrison Ford",
+   "@offset": "37",
+   "@similarityScore": "0.9985210924896923",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675571751879708672",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

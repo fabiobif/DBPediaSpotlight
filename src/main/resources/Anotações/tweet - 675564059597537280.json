@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#FFRNN #CLASSROOM #PJNET Orly Taitz - Takes case against #Obama to #SupremeCourt #UniteBlue https://t.co/xxil3s1B3S #WeThePeople",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Orly_Taitz",
+  "@support": "100",
+  "@surfaceForm": "Orly Taitz",
+  "@offset": "25",
+  "@similarityScore": "1.0",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "675564059597537280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

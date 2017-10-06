@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Rockband #Status living in a #starwars #Universe performing Jan 16 in #Greenville #TheRadioRoomâ\u20ac¦ https://t.co/1O97YOlZqh",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.79069702781313E-5",
+   "@URI": "http://dbpedia.org/resource/Rock_Band",
+   "@support": "1207",
+   "@surfaceForm": "Rockband",
+   "@offset": "1",
+   "@similarityScore": "0.9999720231323508",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.13874427620332053",
+   "@URI": "http://dbpedia.org/resource/Greenville,_South_Carolina",
+   "@support": "1366",
+   "@surfaceForm": "Greenville",
+   "@offset": "72",
+   "@similarityScore": "0.8109349257243142",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "676802404180877317",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

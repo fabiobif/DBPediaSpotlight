@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "I'm thankful my fantasy football team tanked in the first playoff round so I can now focus 100% on #starwars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004527338310592565",
+   "@URI": "http://dbpedia.org/resource/Fantasy",
+   "@support": "10023",
+   "@surfaceForm": "fantasy",
+   "@offset": "16",
+   "@similarityScore": "0.9913370033983209",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.09245669698888186",
+   "@URI": "http://dbpedia.org/resource/Association_football",
+   "@support": "195520",
+   "@surfaceForm": "football",
+   "@offset": "24",
+   "@similarityScore": "0.9049663057282384",
+   "@types": "DBpedia:Activity,DBpedia:Sport"
+  }
+ ],
+ "tweet": "676787359388684288",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

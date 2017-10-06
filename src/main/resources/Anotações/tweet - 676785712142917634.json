@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: Celebrities are tweeting their (spoiler-free!) reviews of #StarWars: #TheForceAwakens: https://t.co/7F1DkiP7hv https://t.co/yyxvIXbâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.026340055613440615",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9617988479166151",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676785712142917634",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

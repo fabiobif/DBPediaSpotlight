@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SheltonMarie: Muslim is not a religion. It's a group of ppl from around the globe who practice Islam.   #Trump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.005416441453920136",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.990318796843586",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.28895753171611394",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "18",
+   "@similarityScore": "0.7735804736380539",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.019316006356336873",
+   "@URI": "http://dbpedia.org/resource/PPL_(utility)",
+   "@support": "168",
+   "@surfaceForm": "ppl",
+   "@offset": "60",
+   "@similarityScore": "0.9580131853683862",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "1.872247203078828E-4",
+   "@URI": "http://dbpedia.org/resource/Islam",
+   "@support": "33508",
+   "@surfaceForm": "Islam",
+   "@offset": "99",
+   "@similarityScore": "0.9996300253786502",
+   "@types": ""
+  }
+ ],
+ "tweet": "675554757730287616",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

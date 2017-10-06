@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Kodak: Star Wars: #TheForceAwakens is shot on Kodak Motion Picture Film! https://t.co/lu6couvcP5 #KodakProud https://t.co/6Y210lNykX",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015960459003427525",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.97587760711412",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.2601048279525158E-7",
+   "@URI": "http://dbpedia.org/resource/Eastman_Kodak",
+   "@support": "2150",
+   "@surfaceForm": "Kodak",
+   "@offset": "4",
+   "@similarityScore": "0.9999998017132353",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.002041394410309362",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "11",
+   "@similarityScore": "0.9977735817419592",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.2601048279525158E-7",
+   "@URI": "http://dbpedia.org/resource/Eastman_Kodak",
+   "@support": "2150",
+   "@surfaceForm": "Kodak",
+   "@offset": "50",
+   "@similarityScore": "0.9999998035128976",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676784676279738368",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

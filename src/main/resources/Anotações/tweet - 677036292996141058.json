@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @vansskate: Cant take it! 2 days until the release of #StarWars... We should not keep the wise and powerful @cabdragon waiting. https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.024677927744306553",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9287620681186938",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "677036292996141058",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

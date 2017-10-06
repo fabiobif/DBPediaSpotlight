@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "I'd love 2 say that anxiety n expectation r eating m alive, but I'm just keeping my cool til 12/17. #TheForceAwakens https://t.co/N2Te4d2bH9",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015051349959385858",
+   "@URI": "http://dbpedia.org/resource/Anxiety",
+   "@support": "3151",
+   "@surfaceForm": "anxiety",
+   "@offset": "20",
+   "@similarityScore": "0.9848665195501589",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.047585814229943846",
+   "@URI": "http://dbpedia.org/resource/17",
+   "@support": "23",
+   "@surfaceForm": "/17",
+   "@offset": "95",
+   "@similarityScore": "0.9228427313123055",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  }
+ ],
+ "tweet": "675178295806271489",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TrumpedAmerica: Donald J. Trump on Twitter https://t.co/f5uFCjnNvh #POLL #Georgia #Trump #GOP https://t.co/NPxq966vcj",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "8.180366170692966E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9984552482413759",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Twitter",
+   "@support": "10159",
+   "@surfaceForm": "Twitter",
+   "@offset": "39",
+   "@similarityScore": "0.9999999999869544",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.05985774613139708",
+   "@URI": "http://dbpedia.org/resource/Georgia_(U.S._state)",
+   "@support": "33265",
+   "@surfaceForm": "Georgia",
+   "@offset": "78",
+   "@similarityScore": "0.9406289044834901",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "1.507037174934213E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "94",
+   "@similarityScore": "0.9997284504636567",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675568607930089472",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

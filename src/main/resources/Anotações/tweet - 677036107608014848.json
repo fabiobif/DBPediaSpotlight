@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "My kids want this @Lego #StarWars Han Solo and Chewbacca Wristwatch. Would your kids like it? #GiftIdea #affiliate https://t.co/B701s2qr6S",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0017247893941116236",
+   "@URI": "http://dbpedia.org/resource/Lego",
+   "@support": "2597",
+   "@surfaceForm": "Lego",
+   "@offset": "19",
+   "@similarityScore": "0.9980173171140678",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.01690984574098E-4",
+   "@URI": "http://dbpedia.org/resource/Han_Solo",
+   "@support": "545",
+   "@surfaceForm": "Han Solo",
+   "@offset": "34",
+   "@similarityScore": "0.9994985605830699",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Chewbacca",
+   "@support": "467",
+   "@surfaceForm": "Chewbacca",
+   "@offset": "47",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036107608014848",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

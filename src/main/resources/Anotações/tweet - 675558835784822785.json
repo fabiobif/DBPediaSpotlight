@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @learjetter: .@POTUS #OBAMA, you're an embarrassment. #Muslims are lost...#Prayers for your souls!  #Christians #WakeUpAmerica https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004991197000238022",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9909488093395223",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.7263681272042516E-4",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "18",
+   "@similarityScore": "0.9998250661784621",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.01595747193011109",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "58",
+   "@similarityScore": "0.9841773275310404",
+   "@types": ""
+  }
+ ],
+ "tweet": "675558835784822785",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

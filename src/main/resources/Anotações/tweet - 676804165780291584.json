@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @thisisnotp0rn: Carrie Fisher as Princess Leia in Rolling Stone Magazine, 1983. https://t.co/24OGH97qfU #StarWars https://t.co/QGvmSJm23W",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03371668200193629",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9496488513252938",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Carrie_Fisher",
+   "@support": "290",
+   "@surfaceForm": "Carrie Fisher",
+   "@offset": "19",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "2.870193400545054E-5",
+   "@URI": "http://dbpedia.org/resource/Princess_Leia",
+   "@support": "469",
+   "@surfaceForm": "Princess Leia",
+   "@offset": "36",
+   "@similarityScore": "0.9999712988897587",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.721080074380484E-5",
+   "@URI": "http://dbpedia.org/resource/Rolling_Stone",
+   "@support": "12472",
+   "@surfaceForm": "Rolling Stone Magazine",
+   "@offset": "53",
+   "@similarityScore": "0.9999827894954731",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+  }
+ ],
+ "tweet": "676804165780291584",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

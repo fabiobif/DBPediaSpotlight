@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @NumskullDesigns: Morning guys, its all #StarWars out there but there is still a little time for WedNESday!  #Retrogaming #Nintendo httpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03626890792571087",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.950937145215553",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Retrogaming",
+   "@support": "101",
+   "@surfaceForm": "Retrogaming",
+   "@offset": "113",
+   "@similarityScore": "0.9999999923735743",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.023542457980225463",
+   "@URI": "http://dbpedia.org/resource/Nintendo",
+   "@support": "13869",
+   "@surfaceForm": "Nintendo",
+   "@offset": "126",
+   "@similarityScore": "0.9740853387384563",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "677036310129999873",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

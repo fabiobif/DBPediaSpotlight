@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#MovieNews - new character posters from China for #StarWars https://t.co/VFEmhSp1r0",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0015724602971825628",
+  "@URI": "http://dbpedia.org/resource/China",
+  "@support": "124308",
+  "@surfaceForm": "China",
+  "@offset": "40",
+  "@similarityScore": "0.9978972293248709",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "674964843523399681",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

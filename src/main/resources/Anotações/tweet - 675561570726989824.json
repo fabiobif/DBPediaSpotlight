@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @coinabs: #OBAMA has BELIEF that #ISLAM has RIGHT TO #WORLD LEADERSHIP ROLE  HE ACTS to ENSURE #ISLAM gets this POSITION https://t.co/TIâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "4.171819873186388E-4",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9990063041975153",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675561570726989824",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

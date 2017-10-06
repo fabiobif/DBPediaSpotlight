@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @markknoller: Pres Obama also offers up a Hanukkah boast: the latkes \"are excellent here at the White House.\" https://t.co/Ves8R8Io4c",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003978132864895366",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9915107788510141",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "8.027694095655124E-9",
+   "@URI": "http://dbpedia.org/resource/Hanukkah",
+   "@support": "850",
+   "@surfaceForm": "Hanukkah",
+   "@offset": "45",
+   "@similarityScore": "0.9999999919500056",
+   "@types": "DBpedia:Holiday"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Potato_pancake",
+   "@support": "93",
+   "@surfaceForm": "latkes",
+   "@offset": "65",
+   "@similarityScore": "0.9999999999886882",
+   "@types": "DBpedia:Food"
+  },
+  {
+   "@percentageOfSecondRank": "3.6538390391730676E-5",
+   "@URI": "http://dbpedia.org/resource/White_House",
+   "@support": "10548",
+   "@surfaceForm": "White House",
+   "@offset": "99",
+   "@similarityScore": "0.9999365490731262",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"
+  }
+ ],
+ "tweet": "674869415528239104",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I will NOT vote4 GOP I will WRITE in #TRUMP the other option is same as we have now no matter which POLITICAL PUPPET https://t.co/Kn2ZJgWMBY",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.745877491902792E-4",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "17",
+  "@similarityScore": "0.9995648953354219",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675568128206745600",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

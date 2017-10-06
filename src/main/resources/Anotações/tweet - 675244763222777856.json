@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "in 5 days and 4 hours give or take a few minutes I'll be watching the opening moments of #StarWars #TheForceAwakens OMG it's getting real !",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02863964348379611",
+  "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+  "@support": "235",
+  "@surfaceForm": "OMG",
+  "@offset": "116",
+  "@similarityScore": "0.9714694107093613",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+ }],
+ "tweet": "675244763222777856",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

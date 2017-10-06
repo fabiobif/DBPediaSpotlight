@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Iowa Rally was uncomfortable for #Trump. He hates Iowa, still trying to build a ground team and it shows. The crowd was bored. Canned Q &amp;A",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0043848419434843",
+   "@URI": "http://dbpedia.org/resource/Iowa",
+   "@support": "21644",
+   "@surfaceForm": "Iowa",
+   "@offset": "1",
+   "@similarityScore": "0.9909618836726594",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "0.0043848419434843",
+   "@URI": "http://dbpedia.org/resource/Iowa",
+   "@support": "21644",
+   "@surfaceForm": "Iowa",
+   "@offset": "51",
+   "@similarityScore": "0.9909616892195326",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675564690320187392",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

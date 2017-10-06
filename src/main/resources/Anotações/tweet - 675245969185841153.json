@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "all I want right now is to watch #TheForceAwakens &amp; go to Disneyland.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.00684653920933415",
+  "@URI": "http://dbpedia.org/resource/Disneyland",
+  "@support": "3487",
+  "@surfaceForm": "Disneyland",
+  "@offset": "62",
+  "@similarityScore": "0.9922424233249196",
+  "@types": ""
+ }],
+ "tweet": "675245969185841153",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

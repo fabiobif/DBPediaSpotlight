@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @patrick_hostis: Today's Islamic Atrocity @CarmineZozzora #WakeUpAmerica #tcot #NoSharia @Chinookpilot6 @jihadwatchRS #trump #ccot httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015102644066524276",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9732517677272221",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Atrocity_(band)",
+   "@support": "57",
+   "@surfaceForm": "Atrocity",
+   "@offset": "36",
+   "@similarityScore": "0.9999901051838099",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  },
+  {
+   "@percentageOfSecondRank": "0.12929493277589904",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "122",
+   "@similarityScore": "0.8828664950474558",
+   "@types": ""
+  }
+ ],
+ "tweet": "675577004666822656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

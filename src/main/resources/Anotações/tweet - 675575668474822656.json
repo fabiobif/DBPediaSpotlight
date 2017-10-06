@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JessyTrendSKY: Reactions against #Trump continue from world cartoonists #TrumpIsNotMyAmerica #ترا�\u2026ب ح�\u2026�\u201eة ضد https://t.co/lj9TpiCs4M",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.024943831878487928",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9561174657836287",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675575668474822656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "BAM, how awesome is this? :) #theforceawakens Can't believe!! Star Wars Invasion in Germany!!! https://t.co/3m4HpHOKHe #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0026805578130150863",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "62",
+   "@similarityScore": "0.996810607283894",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.011824715394579199",
+   "@URI": "http://dbpedia.org/resource/Germany",
+   "@support": "182228",
+   "@surfaceForm": "Germany",
+   "@offset": "84",
+   "@similarityScore": "0.9867376185315736",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675231856137248768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

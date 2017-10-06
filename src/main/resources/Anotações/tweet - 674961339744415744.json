@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @joshuadeane: Luke and his dad reunited @TwitterAdsUK @OMD_UK #ChristmasTakeOne #starwars #disney #TheForceAwakens #DarthVader https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9395566243007638",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.006077352998470159",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "disney",
+   "@offset": "94",
+   "@similarityScore": "0.9928270675017965",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "674961339744415744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

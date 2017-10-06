@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @VisitAbuDhabi: You could win 3 days #InAbuDhabi with us &amp; @EtihadAirways, VIP #StarWars Premiere tickets &amp; more! Join now: https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.030416976375006018",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9265473750031539",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "9.472849543741808E-4",
+   "@URI": "http://dbpedia.org/resource/Very_Important_Person",
+   "@support": "618",
+   "@surfaceForm": "VIP",
+   "@offset": "82",
+   "@similarityScore": "0.9989563012347172",
+   "@types": ""
+  }
+ ],
+ "tweet": "674962958670106624",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

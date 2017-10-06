@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "ðŸ\u2021¹ï¸?ðŸ\u2021·ï¸?ðŸ\u2021ºï¸?ðŸ\u2021¹ï¸?ðŸ\u2021­ï¸? This is the #US Prez #Obama! AND PM #Trudeau following Obama! https://t.co/utdVgshrfj #uspoli #cdnpoli #Europe #UK Dinesh D'souza",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.09688039929068391",
+   "@URI": "http://dbpedia.org/resource/Roland_Pryzbylewski",
+   "@support": "130",
+   "@surfaceForm": "Prez",
+   "@offset": "52",
+   "@similarityScore": "0.8881195257911187",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter"
+  },
+  {
+   "@percentageOfSecondRank": "1.3359667732413153E-4",
+   "@URI": "http://dbpedia.org/resource/Europe",
+   "@support": "73000",
+   "@surfaceForm": "Europe",
+   "@offset": "140",
+   "@similarityScore": "0.9998012530345961",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Continent,DBpedia:Continent"
+  },
+  {
+   "@percentageOfSecondRank": "0.004141892833001701",
+   "@URI": "http://dbpedia.org/resource/United_Kingdom",
+   "@support": "170647",
+   "@surfaceForm": "UK",
+   "@offset": "148",
+   "@similarityScore": "0.9952824987929987",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675564673417256960",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

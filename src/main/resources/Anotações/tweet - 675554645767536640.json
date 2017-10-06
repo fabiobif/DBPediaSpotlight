@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ub2bad2: Obama Told NSC And FBI To â\u20ac˜Downplayâ\u20ac™ Terrorist Angle Of #SanBernardino  #WakeUpAmerica #Trump https://t.co/zRVI7MXlde via @daiâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.341759304593215E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9997552550473622",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.655451857365467E-6",
+   "@URI": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+   "@support": "15865",
+   "@surfaceForm": "FBI",
+   "@offset": "32",
+   "@similarityScore": "0.9999933444446831",
+   "@types": ""
+  }
+ ],
+ "tweet": "675554645767536640",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

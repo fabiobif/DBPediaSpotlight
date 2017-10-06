@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SusanDunne: See the original #StarWars tonight at #Windsor library. https://t.co/JiPnn5HHOA https://t.co/NGjUMHmvcl",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03837459302024413",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9142411184516537",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674962704126316544",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

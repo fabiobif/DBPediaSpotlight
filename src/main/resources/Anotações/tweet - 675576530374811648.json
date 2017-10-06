@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@realDonaldTrump We're at war, well rather #RadicalIslam is at #war with #USA. WW2 would've been lost if #Obama was president in 1941 !",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.713559147344613E-4",
+  "@URI": "http://dbpedia.org/resource/United_States",
+  "@support": "560750",
+  "@surfaceForm": "USA",
+  "@offset": "74",
+  "@similarityScore": "0.9993429244094552",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675576530374811648",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

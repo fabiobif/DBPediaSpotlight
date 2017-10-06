@@ -1,0 +1,83 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DanScavino: CNN National GOP Poll 10/14-10/17 @realDonaldTrump 27% John Kasich 3% ðŸ\u2018\u2021 KasichðŸ\u2018\u2030$2,500,000.00 ATTACK ADS ðŸ\u2018\u2021 11/27-12/1 #Trumpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.3965830049100447E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9997232579599581",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.538798967505399E-5",
+   "@URI": "http://dbpedia.org/resource/CNN",
+   "@support": "8267",
+   "@surfaceForm": "CNN",
+   "@offset": "16",
+   "@similarityScore": "0.9999636176771922",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.281309244162178E-5",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "29",
+   "@similarityScore": "0.9999233837064139",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/14",
+   "@support": "31",
+   "@surfaceForm": "/14",
+   "@offset": "40",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  },
+  {
+   "@percentageOfSecondRank": "0.04530380320807357",
+   "@URI": "http://dbpedia.org/resource/PDP-10",
+   "@support": "295",
+   "@surfaceForm": "-10",
+   "@offset": "43",
+   "@similarityScore": "0.9518751628240538",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.7948171517307645E-4",
+   "@URI": "http://dbpedia.org/resource/17",
+   "@support": "23",
+   "@surfaceForm": "/17",
+   "@offset": "46",
+   "@similarityScore": "0.9994989564079476",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/John_Kasich",
+   "@support": "169",
+   "@surfaceForm": "John Kasich",
+   "@offset": "71",
+   "@similarityScore": "0.9999999999999432",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/1",
+   "@support": "63",
+   "@surfaceForm": "/1",
+   "@offset": "139",
+   "@similarityScore": "0.9999999999999432",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  }
+ ],
+ "tweet": "675561102185484288",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

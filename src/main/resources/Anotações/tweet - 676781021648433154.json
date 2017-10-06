@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DisneyMusic: George Lucas and family! #TheForceAwakens #StarWars https://t.co/UpBsoKzB3v",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9380197303864292",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.5395559476662028E-5",
+   "@URI": "http://dbpedia.org/resource/George_Lucas",
+   "@support": "1290",
+   "@surfaceForm": "George Lucas",
+   "@offset": "17",
+   "@similarityScore": "0.9999846031870016",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "676781021648433154",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Facism in the #GOP, #Trump now has the official endorsement of the American neo-Nazis! https://t.co/YvepQrorDB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "4.2471075451697035E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "16",
+   "@similarityScore": "0.9989967361755792",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "7.598230887943808E-4",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "American",
+   "@offset": "68",
+   "@similarityScore": "0.9988308836894174",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.12074929716358491",
+   "@URI": "http://dbpedia.org/resource/Neo-Nazism",
+   "@support": "765",
+   "@surfaceForm": "neo-Nazis",
+   "@offset": "77",
+   "@similarityScore": "0.8917970665359171",
+   "@types": ""
+  }
+ ],
+ "tweet": "675248525601587200",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

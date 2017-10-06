@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ShiCooks: Star Wars #Christmas tree https://t.co/y0d8sixoaH  #Japan #StarWars https://t.co/Vpfy7R5USr By @Muzachan RT @ervinjuresa cc: â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03234753534226481",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9524979305199716",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002648057221834487",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "14",
+   "@similarityScore": "0.9967503689687212",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "6.63196338016114E-4",
+   "@URI": "http://dbpedia.org/resource/Christmas_tree",
+   "@support": "1145",
+   "@surfaceForm": "Christmas tree",
+   "@offset": "25",
+   "@similarityScore": "0.9987719024158794",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0022915212997798736",
+   "@URI": "http://dbpedia.org/resource/Japan",
+   "@support": "110722",
+   "@surfaceForm": "Japan",
+   "@offset": "66",
+   "@similarityScore": "0.9975754606420024",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.03234753534226481",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "119",
+   "@similarityScore": "0.9524979305199716",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "676803558746927105",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Hoorah - I don't care - I can't wait ! #StarWars: #TheForceAwakens reviewÂ â\u20ac\u201c a spectacular homecoming https://t.co/iM7lMqCZse",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.6092560629552084E-5",
+  "@URI": "http://dbpedia.org/resource/Homecoming",
+  "@support": "688",
+  "@surfaceForm": "homecoming",
+  "@offset": "93",
+  "@similarityScore": "0.9999438239679125",
+  "@types": ""
+ }],
+ "tweet": "677037145148792832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

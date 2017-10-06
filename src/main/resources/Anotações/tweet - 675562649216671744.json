@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "â\u20acœ@SebastianJRusso: The PATRIOTIC Party https://t.co/d3uAzAOrQHâ\u20ac? #Trump needs to win in a landslide. Then he can change party from within.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.37777737349679086",
+  "@URI": "http://dbpedia.org/resource/Patriotic_Party",
+  "@support": "50",
+  "@surfaceForm": "PATRIOTIC Party",
+  "@offset": "25",
+  "@similarityScore": "0.7200534627811143",
+  "@types": ""
+ }],
+ "tweet": "675562649216671744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

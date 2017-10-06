@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I enjoy the new #StarWars film but I am left ultimately underwhelmed &amp; annoyed by being forced to see it in 3D.   -America   #TheoryWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.18163901983724304",
+  "@URI": "http://dbpedia.org/resource/3D_computer_graphics",
+  "@support": "4021",
+  "@surfaceForm": "3D",
+  "@offset": "112",
+  "@similarityScore": "0.8347996285455325",
+  "@types": ""
+ }],
+ "tweet": "674966949839970305",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

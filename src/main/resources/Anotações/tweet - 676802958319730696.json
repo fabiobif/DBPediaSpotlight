@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: See all the red carpet looks from the #StarWars: #TheForceAwakens world premiere ✨: https://t.co/rKHEGuWaOw https://t.co/xkDelevwrh",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02803102461729549",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9556622067502937",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.01364997854993376",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "20",
+   "@similarityScore": "0.9813923258878229",
+   "@types": "DBpedia:Colour"
+  }
+ ],
+ "tweet": "676802958319730696",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

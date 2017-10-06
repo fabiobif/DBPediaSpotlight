@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "That's the most fun part for being a Star Wars fan for me. #Ep7 #TFA #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "6.413635266021547E-4",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "37",
+  "@similarityScore": "0.9992217782879458",
+  "@types": ""
+ }],
+ "tweet": "675178658840096768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

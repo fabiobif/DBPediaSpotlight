@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "Donald Trump Isn't Hitler, Jewish Republican... #trump #tcot #donaldtrump https://t.co/PGzAJvDWSB https://t.co/TKD9s7Izjm",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.948465730815098E-5",
+   "@URI": "http://dbpedia.org/resource/Donald_Trump",
+   "@support": "924",
+   "@surfaceForm": "Donald Trump",
+   "@offset": "0",
+   "@similarityScore": "0.9999605169014514",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "1.099793216369171E-4",
+   "@URI": "http://dbpedia.org/resource/Adolf_Hitler",
+   "@support": "13350",
+   "@surfaceForm": "Hitler",
+   "@offset": "19",
+   "@similarityScore": "0.9998645013440269",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"
+  },
+  {
+   "@percentageOfSecondRank": "0.01246866874105181",
+   "@URI": "http://dbpedia.org/resource/Jews",
+   "@support": "65833",
+   "@surfaceForm": "Jewish",
+   "@offset": "27",
+   "@similarityScore": "0.9849411088324193",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.0551139538601815E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "Republican",
+   "@offset": "34",
+   "@similarityScore": "0.9992829064991121",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "0.1292949327758917",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "49",
+   "@similarityScore": "0.8828664950474558",
+   "@types": ""
+  }
+ ],
+ "tweet": "675562881597890560",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

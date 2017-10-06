@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "DARTH TRUMP - Auralnauts https://t.co/4IVt8ULhLe ~ fucking brilliant! #trump #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003774104324213573",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "DARTH",
+   "@offset": "0",
+   "@similarityScore": "0.9962400859833253",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.12929493277589538",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "71",
+   "@similarityScore": "0.8828664950474558",
+   "@types": ""
+  }
+ ],
+ "tweet": "675560801730764800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

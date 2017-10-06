@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @comingsoonnet: Watch the #StarWars: #TheForceAwakens red carpet premiere! https://t.co/GCYGrGrhxk https://t.co/NUHN5Plb8e",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.018837908739561465",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9698827442738089",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.012203568605977166",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "57",
+   "@similarityScore": "0.9858154962509412",
+   "@types": "DBpedia:Colour"
+  }
+ ],
+ "tweet": "676779979796037632",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

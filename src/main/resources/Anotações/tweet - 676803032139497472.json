@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @YahooMovies: The #StarWars cast reenacts their 1st time watching #TheForceAwakens for us. Full video: https://t.co/B7vujA7X9K https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0074299161499069705",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9814697062456643",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803032139497472",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

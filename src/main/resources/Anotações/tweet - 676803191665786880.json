@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@RogerandJP don't feel bad @JPOnYourRadio I'm 28 and haven't seen any of the #StarWars films, but the ride at Disney kicks ass #truefan",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0031481519967081115",
+  "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+  "@support": "12715",
+  "@surfaceForm": "Disney",
+  "@offset": "110",
+  "@similarityScore": "0.9954305748003656",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676803191665786880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

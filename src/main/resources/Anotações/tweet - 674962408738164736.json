@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "LEGO Star Wars First Order Special Forces TIE fighter 75101 *NEW* https://t.co/fxA3Q4Gjkj #starwars #Lego https://t.co/wYsWwgPp3U",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.07265264721936285",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "5",
+   "@similarityScore": "0.9312043375934461",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.6204890420848516",
+   "@URI": "http://dbpedia.org/resource/Special_forces",
+   "@support": "1825",
+   "@surfaceForm": "Special Forces",
+   "@offset": "27",
+   "@similarityScore": "0.6162728720209794",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/TIE_fighter",
+   "@support": "146",
+   "@surfaceForm": "TIE fighter",
+   "@offset": "42",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.335966515664408E-4",
+   "@URI": "http://dbpedia.org/resource/Lego",
+   "@support": "2597",
+   "@surfaceForm": "Lego",
+   "@offset": "101",
+   "@similarityScore": "0.9993914509099588",
+   "@types": ""
+  }
+ ],
+ "tweet": "674962408738164736",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

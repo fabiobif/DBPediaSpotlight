@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @702sydney: Harrison Ford has arrived! #StarWars #TheForceAwakens @SydOperaHouse https://t.co/946i8NdTRm",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.09361417692822922",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8880501022737254",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.005249741273875963",
+   "@URI": "http://dbpedia.org/resource/Harrison_Ford",
+   "@support": "700",
+   "@surfaceForm": "Harrison Ford",
+   "@offset": "15",
+   "@similarityScore": "0.9947776745636949",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675175760584396800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

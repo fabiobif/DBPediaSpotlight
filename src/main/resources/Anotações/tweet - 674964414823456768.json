@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "#StarWars Vintage Star Wars Return of the Jedi Princess Leia Organa Collectible https://t.co/p0zBVyBOEs",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.196568048885519E-5",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "18",
+   "@similarityScore": "0.9999877889495163",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.6999225613617166E-11",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "42",
+   "@similarityScore": "0.9999999999723173",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Princess_Leia",
+   "@support": "469",
+   "@surfaceForm": "Princess Leia Organa",
+   "@offset": "47",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "674964414823456768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

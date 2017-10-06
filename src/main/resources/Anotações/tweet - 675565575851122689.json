@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@BlackShiite Again, u don't have to be white in order to epitomize white supremacy! #Obama is a perfect example",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "4.11109455130587E-5",
+  "@URI": "http://dbpedia.org/resource/White_supremacy",
+  "@support": "721",
+  "@surfaceForm": "white supremacy",
+  "@offset": "67",
+  "@similarityScore": "0.9999588907188619",
+  "@types": ""
+ }],
+ "tweet": "675565575851122689",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

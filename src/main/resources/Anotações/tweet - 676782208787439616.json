@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @VanessaMerrell: OMG. Tonight was amazing. The new movie was so freakin awesome ðŸ˜? #starwars #starwarspremiere #theforceawakens https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400011463822117",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0015718144148307769",
+   "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+   "@support": "235",
+   "@surfaceForm": "OMG",
+   "@offset": "20",
+   "@similarityScore": "0.9979657340353619",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  }
+ ],
+ "tweet": "676782208787439616",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

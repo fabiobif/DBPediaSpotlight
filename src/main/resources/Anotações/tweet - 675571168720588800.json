@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AppleMusic: 7 days to go. YES. @starwars  #StarWars #TheForceAwakens https://t.co/L3tkEX1zIC https://t.co/oxyZFXViTA",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.05115786566410534",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.920206380609943",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675571168720588800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

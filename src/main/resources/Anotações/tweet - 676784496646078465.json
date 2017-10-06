@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: It's true, all of it: Tweet today with #TwitterAwakens to ask Q's for #TheForceAwakens cast! Live Q&amp;A starts 6p EST. https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0195284064761553",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9703224614034707",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002074995317694818",
+   "@URI": "http://dbpedia.org/resource/Eastern_Time_Zone",
+   "@support": "3994",
+   "@surfaceForm": "EST",
+   "@offset": "130",
+   "@similarityScore": "0.9976441028237392",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784496646078465",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

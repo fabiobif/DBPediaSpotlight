@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CyraceDotCom: United States President Obamaâ\u20ac™s CNIC found at the site of a suicideÂ attack https://t.co/tUI3Akjxmr https://t.co/eKyNsneZdd",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002329180504839313",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9945178892098643",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.2032550983877272E-4",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "United States President",
+   "@offset": "18",
+   "@similarityScore": "0.9998796889666388",
+   "@types": ""
+  }
+ ],
+ "tweet": "674869717878841344",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

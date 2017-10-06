@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@JohnBoyega You should see this @ Narita Airport before you leave 🌠 #Starwars #ChristmasTree https://t.co/xsJZHsA59V",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.026076824303120957",
+  "@URI": "http://dbpedia.org/resource/Narita_International_Airport",
+  "@support": "363",
+  "@surfaceForm": "Narita Airport",
+  "@offset": "34",
+  "@similarityScore": "0.9745858948516393",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,Schema:Airport,DBpedia:Airport"
+ }],
+ "tweet": "675574052044431360",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

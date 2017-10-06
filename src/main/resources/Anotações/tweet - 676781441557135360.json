@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @rickoshea: Just out of the @starwars #TheForceAwakens press screening in Dublin. He has *NAILED IT*. It's like I'm 10 years old again. â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028435123999854837",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9512895070694609",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.022694953182298718",
+   "@URI": "http://dbpedia.org/resource/Dublin",
+   "@support": "31994",
+   "@surfaceForm": "Dublin",
+   "@offset": "77",
+   "@similarityScore": "0.9771164741295828",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  },
+  {
+   "@percentageOfSecondRank": "1.9598452283814315E-4",
+   "@URI": "http://dbpedia.org/resource/Information_technology",
+   "@support": "5610",
+   "@surfaceForm": "IT",
+   "@offset": "100",
+   "@similarityScore": "0.9997902599629364",
+   "@types": ""
+  }
+ ],
+ "tweet": "676781441557135360",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @tgradous: #Obama Broke Laws To Swap 5 #Taliban Leaders #Traitor âž¡ï¸?#Bergdahl https://t.co/e77xvLfR6T #Treason âž¡ï¸? #ImpeachObama https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0044001494541051935",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9898050410012067",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.378876806646791E-7",
+   "@URI": "http://dbpedia.org/resource/Taliban",
+   "@support": "7873",
+   "@surfaceForm": "Taliban",
+   "@offset": "43",
+   "@similarityScore": "0.9999989417005879",
+   "@types": ""
+  }
+ ],
+ "tweet": "675564195207913472",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

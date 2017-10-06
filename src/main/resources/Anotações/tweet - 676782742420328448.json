@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @jordanwinery: This IS the cab you're looking for. https://t.co/F6EXYnAtvt  #StarWars #TheForceAwakens #R2D2 #Wine https://t.co/MTclzNZmâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400093252358541",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/R2-D2",
+   "@support": "318",
+   "@surfaceForm": "R2D2",
+   "@offset": "107",
+   "@similarityScore": "0.9999998975398564",
+   "@types": ""
+  }
+ ],
+ "tweet": "676782742420328448",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

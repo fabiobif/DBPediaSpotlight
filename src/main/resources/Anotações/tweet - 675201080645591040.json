@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Plans for attending to the next #LaTERCA geek gathering, Saturday right after the release of #TheForceAwakens. Months without dropping by...",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.1023689952007353E-4",
+  "@URI": "http://dbpedia.org/resource/Geek",
+  "@support": "365",
+  "@surfaceForm": "geek",
+  "@offset": "41",
+  "@similarityScore": "0.9996896960468141",
+  "@types": ""
+ }],
+ "tweet": "675201080645591040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#starwars #leia #princessleia #starwarscosplay #movieexcitement #sexyselfie #nicelegs @ Death Star https://t.co/FNilacKOcj",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.6466208090709465E-5",
+   "@URI": "http://dbpedia.org/resource/Princess_Leia",
+   "@support": "469",
+   "@surfaceForm": "leia",
+   "@offset": "11",
+   "@similarityScore": "0.999963509196418",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.551934089803791",
+   "@URI": "http://dbpedia.org/resource/Death_Star_(novel)",
+   "@support": "57",
+   "@surfaceForm": "Death Star",
+   "@offset": "88",
+   "@similarityScore": "0.644353602357925",
+   "@types": ""
+  }
+ ],
+ "tweet": "675575811127255040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}
