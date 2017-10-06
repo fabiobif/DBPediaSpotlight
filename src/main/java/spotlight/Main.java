@@ -14,6 +14,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.http.HttpEntity;
@@ -43,13 +45,14 @@ public class Main {
 //        String function = "candidates";
         String function = "annotate";
         String lang = "en";
+        List<String> tweetsId = new ArrayList<>();
 
         BufferedReader br;
 
         String anotacaoes = "";
+        File arquivo;
         URI uri;
         try {
-            File arquivo;
             BufferedWriter buffW;
             //le arq de tweets
             br = new BufferedReader(new FileReader("src/main/resources/downloaded.tsv"));
@@ -73,12 +76,16 @@ public class Main {
 
                 //Cria arquivos para gravar anotações
                 arquivo = new File("src/main/resources/Anotações/tweet - " + text.split("\t")[0] + ".json");
-                if(!arquivo.exists())
+                if (!arquivo.exists()) {
                     arquivo.createNewFile();
-                
+                }
+
                 JSONObject json = new JSONObject(EntityUtils.toString(entity, "UTF-8"));
                 json.put("tweet", text.split("\t")[0]);
-                anotacaoes = json.toString(1);
+                anotacaoes = json.toString();
+//                anotacaoes = json.toString(1);  USAR ESSE CASO QUEIRA ARQUIVO IDENTADO
+
+                tweetsId.add(text.split("\t")[0]);
 
                 buffW = new BufferedWriter(new FileWriter(arquivo));
                 buffW.write(anotacaoes);
@@ -93,9 +100,10 @@ public class Main {
         }
 
         //Ler arq com regra ouro
+        JSONArray array = null;
         try {
             br = new BufferedReader(new FileReader("src/main/resources/microposts2016-neel-test_neel.gs"));
-            JSONArray array = new JSONArray();
+            array = new JSONArray();
             JSONObject object;
             while (br.ready()) {
                 text = br.readLine();
@@ -118,5 +126,23 @@ public class Main {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
 
+        for (String tweet : tweetsId) {
+            try {
+                br = new BufferedReader(new FileReader("src/main/resources/Anotações/tweet - " + tweet + ".json"));
+                while (br.ready()) {
+                    JSONObject json = new JSONObject(br.readLine());
+                    for (Object obj : array) {
+                        if(((JSONObject) obj).get("id").equals(tweet)){
+                            //TODO: comparar elementos
+                        }
+                    }
+                }
+            } catch (FileNotFoundException ex) {
+                Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            } catch (IOException ex) {
+                Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            
+        }
     }
 }
