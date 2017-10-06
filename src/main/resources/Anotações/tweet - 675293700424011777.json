@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Obama #Whitehouse Obama administration reportedly readies proposed expansion of background checks  @FollowNewsNow",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.87360173548746E-4",
-  "@URI": "http://dbpedia.org/resource/Presidency_of_Barack_Obama",
-  "@support": "1255",
-  "@surfaceForm": "Obama administration",
-  "@offset": "19",
-  "@similarityScore": "0.999010184478441",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
- }],
- "tweet": "675293700424011777",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Obama #Whitehouse Obama administration reportedly readies proposed expansion of background checks  @FollowNewsNow","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.87360173548746E-4","@URI":"http://dbpedia.org/resource/Presidency_of_Barack_Obama","@support":"1255","@surfaceForm":"Obama administration","@offset":"19","@similarityScore":"0.999010184478441","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"}],"tweet":"675293700424011777","@sparql":"","@policy":"whitelist"}

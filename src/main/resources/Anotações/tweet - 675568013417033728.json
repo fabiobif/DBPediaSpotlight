@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@Jerusalem_Post THIS #REALLY #DOES #MAKE #SENSE=MUSLIM=ISLAM FROM SAUDI=PRINCE ALWALEED CALLS #CHRISTIAN #TRUMP A DISGRACE&amp;B NOT PRESIDENT!!",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.019819678355509004",
-  "@URI": "http://dbpedia.org/resource/Saudi_Arabia",
-  "@support": "14880",
-  "@surfaceForm": "SAUDI",
-  "@offset": "66",
-  "@similarityScore": "0.9805583519793791",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675568013417033728",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@Jerusalem_Post THIS #REALLY #DOES #MAKE #SENSE=MUSLIM=ISLAM FROM SAUDI=PRINCE ALWALEED CALLS #CHRISTIAN #TRUMP A DISGRACE&amp;B NOT PRESIDENT!!","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.019819678355509004","@URI":"http://dbpedia.org/resource/Saudi_Arabia","@support":"14880","@surfaceForm":"SAUDI","@offset":"66","@similarityScore":"0.9805583519793791","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675568013417033728","@sparql":"","@policy":"whitelist"}

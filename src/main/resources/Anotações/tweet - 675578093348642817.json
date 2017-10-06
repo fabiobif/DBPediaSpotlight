@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#StarWars Star Wars The Force Awakens 2 Pack 3.75 Action Figures Complete Set Of 7 https://t.co/WeMiU6ffdx #Episode",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.001138239789583816",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "10",
-  "@similarityScore": "0.9981354506453337",
-  "@types": ""
- }],
- "tweet": "675578093348642817",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#StarWars Star Wars The Force Awakens 2 Pack 3.75 Action Figures Complete Set Of 7 https://t.co/WeMiU6ffdx #Episode","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.001138239789583816","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"10","@similarityScore":"0.9981354506453337","@types":""}],"tweet":"675578093348642817","@sparql":"","@policy":"whitelist"}

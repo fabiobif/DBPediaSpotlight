@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "My Star Wars Match is Kylo Ren. Who's Yours? https://t.co/WNtbj8STwA #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002235537371086178",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "3",
-  "@similarityScore": "0.9973386930491179",
-  "@types": ""
- }],
- "tweet": "676781281808687104",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"My Star Wars Match is Kylo Ren. Who's Yours? https://t.co/WNtbj8STwA #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002235537371086178","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"3","@similarityScore":"0.9973386930491179","@types":""}],"tweet":"676781281808687104","@sparql":"","@policy":"whitelist"}

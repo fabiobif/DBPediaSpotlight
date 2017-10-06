@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#StarWars is coming ♥ https://t.co/9iSnvoRDPM",
- "@support": "20",
- "@types": "",
- "tweet": "676803913065095169",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#StarWars is coming ♥ https://t.co/9iSnvoRDPM","@support":"20","@types":"","tweet":"676803913065095169","@sparql":"","@policy":"whitelist"}

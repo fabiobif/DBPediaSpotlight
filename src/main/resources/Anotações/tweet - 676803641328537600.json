@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Rise and shine, it's Force Awakens time!! Fear not friends, will not post any spoilers. Just general impression of awesomeness ðŸ˜? #StarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.6535970552784863",
-  "@URI": "http://dbpedia.org/resource/Spoiler_(media)",
-  "@support": "117",
-  "@surfaceForm": "spoilers",
-  "@offset": "78",
-  "@similarityScore": "0.5334670407891808",
-  "@types": ""
- }],
- "tweet": "676803641328537600",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Rise and shine, it's Force Awakens time!! Fear not friends, will not post any spoilers. Just general impression of awesomeness ðŸ˜? #StarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.6535970552784863","@URI":"http://dbpedia.org/resource/Spoiler_(media)","@support":"117","@surfaceForm":"spoilers","@offset":"78","@similarityScore":"0.5334670407891808","@types":""}],"tweet":"676803641328537600","@sparql":"","@policy":"whitelist"}

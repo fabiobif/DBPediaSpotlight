@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @newswatchcanada: Two thumbs up: #StarWars: #TheForceAwakens premiere crowd cheers for familiar, new faces  https://t.co/1W7vvKw9w9 httpâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.015240669200935619",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9711666840986759",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676784419085131776",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @newswatchcanada: Two thumbs up: #StarWars: #TheForceAwakens premiere crowd cheers for familiar, new faces  https://t.co/1W7vvKw9w9 httpâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.015240669200935619","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9711666840986759","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676784419085131776","@sparql":"","@policy":"whitelist"}

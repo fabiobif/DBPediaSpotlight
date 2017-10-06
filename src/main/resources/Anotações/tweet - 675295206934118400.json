@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I have a piece in this NYC show. Fly in and have a pint on 12/16. #ny #starwars #guinness #theforce https://t.co/RmWYx50aYG",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "7.457956433341181E-4",
-  "@URI": "http://dbpedia.org/resource/Guinness",
-  "@support": "1416",
-  "@surfaceForm": "guinness",
-  "@offset": "81",
-  "@similarityScore": "0.9987788228738997",
-  "@types": "DBpedia:Food,DBpedia:Beverage"
- }],
- "tweet": "675295206934118400",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I have a piece in this NYC show. Fly in and have a pint on 12/16. #ny #starwars #guinness #theforce https://t.co/RmWYx50aYG","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"7.457956433341181E-4","@URI":"http://dbpedia.org/resource/Guinness","@support":"1416","@surfaceForm":"guinness","@offset":"81","@similarityScore":"0.9987788228738997","@types":"DBpedia:Food,DBpedia:Beverage"}],"tweet":"675295206934118400","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "How much money do you thing #StarWars #TheForceAwakens will make in 1 year including Merchandising #Bitcoin #auspol",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Bitcoin",
-  "@support": "627",
-  "@surfaceForm": "Bitcoin",
-  "@offset": "100",
-  "@similarityScore": "0.9999999911939597",
-  "@types": "DBpedia:Currency"
- }],
- "tweet": "675184435751448577",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"How much money do you thing #StarWars #TheForceAwakens will make in 1 year including Merchandising #Bitcoin #auspol","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Bitcoin","@support":"627","@surfaceForm":"Bitcoin","@offset":"100","@similarityScore":"0.9999999911939597","@types":"DBpedia:Currency"}],"tweet":"675184435751448577","@sparql":"","@policy":"whitelist"}

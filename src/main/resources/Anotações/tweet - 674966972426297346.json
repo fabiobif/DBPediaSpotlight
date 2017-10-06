@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @GQdotcoza: See your favourite #StarWars characters busting some serious style: https://t.co/0GamVzyoPU https://t.co/SCIc0e8PJO",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02993747576217587",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9471828470865323",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674966972426297346",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @GQdotcoza: See your favourite #StarWars characters busting some serious style: https://t.co/0GamVzyoPU https://t.co/SCIc0e8PJO","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02993747576217587","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9471828470865323","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674966972426297346","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Calling all #StarWars fans! #WIN this exclusive prize to celebrate #TheForceAwakens  https://t.co/bTQKmyerDM https://t.co/LOhCLlRem2",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.21967023007641664",
-  "@URI": "http://dbpedia.org/resource/WIN_Television",
-  "@support": "278",
-  "@surfaceForm": "WIN",
-  "@offset": "29",
-  "@similarityScore": "0.8068693666120996",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675233061068398593",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Calling all #StarWars fans! #WIN this exclusive prize to celebrate #TheForceAwakens  https://t.co/bTQKmyerDM https://t.co/LOhCLlRem2","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.21967023007641664","@URI":"http://dbpedia.org/resource/WIN_Television","@support":"278","@surfaceForm":"WIN","@offset":"29","@similarityScore":"0.8068693666120996","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675233061068398593","@sparql":"","@policy":"whitelist"}

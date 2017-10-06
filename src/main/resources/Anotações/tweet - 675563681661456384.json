@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Ali responds to #Trumpâ\u20ac™s call to ban Muslims from entering... https://t.co/bH7i8aehxu",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.015342029803547094",
-  "@URI": "http://dbpedia.org/resource/Muslim",
-  "@support": "31672",
-  "@surfaceForm": "Muslims",
-  "@offset": "39",
-  "@similarityScore": "0.9846806981348084",
-  "@types": ""
- }],
- "tweet": "675563681661456384",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Ali responds to #Trumpâ\u20ac™s call to ban Muslims from entering... https://t.co/bH7i8aehxu","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.015342029803547094","@URI":"http://dbpedia.org/resource/Muslim","@support":"31672","@surfaceForm":"Muslims","@offset":"39","@similarityScore":"0.9846806981348084","@types":""}],"tweet":"675563681661456384","@sparql":"","@policy":"whitelist"}

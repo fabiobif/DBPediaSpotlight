@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@scout1881 That would be cool to see Lou Dobbs moderate the next debate. He will ask questions we want answers too. #TrumpðŸ\u2021ºðŸ\u2021¸",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Lou_Dobbs",
-  "@support": "127",
-  "@surfaceForm": "Lou Dobbs",
-  "@offset": "37",
-  "@similarityScore": "1.0",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
- }],
- "tweet": "675554301457145856",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@scout1881 That would be cool to see Lou Dobbs moderate the next debate. He will ask questions we want answers too. #TrumpðŸ\u2021ºðŸ\u2021¸","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Lou_Dobbs","@support":"127","@surfaceForm":"Lou Dobbs","@offset":"37","@similarityScore":"1.0","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"}],"tweet":"675554301457145856","@sparql":"","@policy":"whitelist"}

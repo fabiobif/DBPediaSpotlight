@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@realetybytes #TheForceAwakens OR who's going to replace Spock... #WakeUpAmerica",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "6.12262102726155E-5",
-  "@URI": "http://dbpedia.org/resource/Spock",
-  "@support": "2104",
-  "@surfaceForm": "Spock",
-  "@offset": "57",
-  "@similarityScore": "0.9999013718007355",
-  "@types": ""
- }],
- "tweet": "675224296587976704",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@realetybytes #TheForceAwakens OR who's going to replace Spock... #WakeUpAmerica","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"6.12262102726155E-5","@URI":"http://dbpedia.org/resource/Spock","@support":"2104","@surfaceForm":"Spock","@offset":"57","@similarityScore":"0.9999013718007355","@types":""}],"tweet":"675224296587976704","@sparql":"","@policy":"whitelist"}

@@ -1,0 +1,31 @@
+Tweet ID:676779896174153728
+Tweet: RT @jess_schlag: Look at this video for my schools trip to see Star Wars #theForceAwakens https://t.co/ZATZr1alR3 @JimmyFallon @GMA @6ABC
+Palavra: GMA
+OffSet: 128
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/GMA_Network
+ Regra Ouro:http://dbpedia.org/resource/Good_Morning_America
+
+Palavra: 6ABC
+OffSet: 133
+ACHOU MESMA URL: http://dbpedia.org/resource/WPVI-TV
+
+Palavra: Star Wars
+OffSet: 63
+ACHOU MESMA URL: http://dbpedia.org/resource/Star_Wars
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: theForceAwakens
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: JimmyFallon
+URI na regra ouro: http://dbpedia.org/resource/Jimmy_Fallon
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: jess_schlag
+URI na regra ouro: NIL124
+Type: Person
+

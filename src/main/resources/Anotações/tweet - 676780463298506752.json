@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Eli Monsterrr | ReverbNation https://t.co/dRJGnZa1Jz #TheForceAwakens #InternationalTeaDay",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/ReverbNation",
-  "@support": "47",
-  "@surfaceForm": "ReverbNation",
-  "@offset": "16",
-  "@similarityScore": "0.9999999505838287",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "676780463298506752",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Eli Monsterrr | ReverbNation https://t.co/dRJGnZa1Jz #TheForceAwakens #InternationalTeaDay","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/ReverbNation","@support":"47","@surfaceForm":"ReverbNation","@offset":"16","@similarityScore":"0.9999999505838287","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"676780463298506752","@sparql":"","@policy":"whitelist"}

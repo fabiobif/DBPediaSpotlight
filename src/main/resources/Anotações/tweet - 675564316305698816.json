@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@TheStateDept can't find #emails of top #Clinton IT staffer https://t.co/PGGe7e6M6S  SHOCKER ! The @StateDept is owned by #Obama &amp; #Soros.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "4.3004279759654174E-5",
-  "@URI": "http://dbpedia.org/resource/Information_technology",
-  "@support": "5610",
-  "@surfaceForm": "IT",
-  "@offset": "49",
-  "@similarityScore": "0.999955656286877",
-  "@types": ""
- }],
- "tweet": "675564316305698816",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@TheStateDept can't find #emails of top #Clinton IT staffer https://t.co/PGGe7e6M6S  SHOCKER ! The @StateDept is owned by #Obama &amp; #Soros.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"4.3004279759654174E-5","@URI":"http://dbpedia.org/resource/Information_technology","@support":"5610","@surfaceForm":"IT","@offset":"49","@similarityScore":"0.999955656286877","@types":""}],"tweet":"675564316305698816","@sparql":"","@policy":"whitelist"}

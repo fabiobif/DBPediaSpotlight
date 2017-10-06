@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Way2Wonderland: Make America Great (Again?!?) #Trump https://t.co/J8ZDsMgGmI",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.011783375952478328",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9770830435914105",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675575517060272128",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Way2Wonderland: Make America Great (Again?!?) #Trump https://t.co/J8ZDsMgGmI","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.011783375952478328","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9770830435914105","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675575517060272128","@sparql":"","@policy":"whitelist"}

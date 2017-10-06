@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "so HYPED for Star Wars. #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0017804812496026194",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "13",
-  "@similarityScore": "0.9978792680961219",
-  "@types": ""
- }],
- "tweet": "676784905720844288",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"so HYPED for Star Wars. #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0017804812496026194","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"13","@similarityScore":"0.9978792680961219","@types":""}],"tweet":"676784905720844288","@sparql":"","@policy":"whitelist"}

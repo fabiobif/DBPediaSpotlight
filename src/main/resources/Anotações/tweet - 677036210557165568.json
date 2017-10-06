@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I'M SO EXCITED FOR #StarWars #TheForceAwakens I WONT SURVIVE THIS LOOOOOONG DAY !",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/I'm_So_Excited",
-  "@support": "24",
-  "@surfaceForm": "I'M SO EXCITED",
-  "@offset": "0",
-  "@similarityScore": "1.0",
-  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
- }],
- "tweet": "677036210557165568",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I'M SO EXCITED FOR #StarWars #TheForceAwakens I WONT SURVIVE THIS LOOOOOONG DAY !","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/I'm_So_Excited","@support":"24","@surfaceForm":"I'M SO EXCITED","@offset":"0","@similarityScore":"1.0","@types":"Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"}],"tweet":"677036210557165568","@sparql":"","@policy":"whitelist"}

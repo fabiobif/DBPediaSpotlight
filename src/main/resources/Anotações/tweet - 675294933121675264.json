@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "5 Lessons Real Estate Agents Can Learn From Star Wars -- via @ImmoAfrica #starwars https://t.co/XRboP8bA8r https://t.co/gPt9i8dkP2",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0072969325008528435",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "44",
-  "@similarityScore": "0.9923647894884482",
-  "@types": ""
- }],
- "tweet": "675294933121675264",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"5 Lessons Real Estate Agents Can Learn From Star Wars -- via @ImmoAfrica #starwars https://t.co/XRboP8bA8r https://t.co/gPt9i8dkP2","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0072969325008528435","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"44","@similarityScore":"0.9923647894884482","@types":""}],"tweet":"675294933121675264","@sparql":"","@policy":"whitelist"}

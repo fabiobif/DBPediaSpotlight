@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @StarWarsUK: Watch todayâ\u20ac™s @StarWarsUK  #TheForceAwakens European Premiere livestream from 5pm here https://t.co/RPeak8k7Kx",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01384342993165787",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9745924441190441",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036664846446592",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @StarWarsUK: Watch todayâ\u20ac™s @StarWarsUK  #TheForceAwakens European Premiere livestream from 5pm here https://t.co/RPeak8k7Kx","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01384342993165787","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9745924441190441","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036664846446592","@sparql":"","@policy":"whitelist"}

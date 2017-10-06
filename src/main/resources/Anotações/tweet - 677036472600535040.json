@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Etsy listing available in my shop - Celebrate #starwars by grabbing a limited edition print. https://t.co/WMWo8r1vHO",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Etsy",
-  "@support": "62",
-  "@surfaceForm": "Etsy",
-  "@offset": "0",
-  "@similarityScore": "0.9999999764980319",
-  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
- }],
- "tweet": "677036472600535040",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Etsy listing available in my shop - Celebrate #starwars by grabbing a limited edition print. https://t.co/WMWo8r1vHO","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Etsy","@support":"62","@surfaceForm":"Etsy","@offset":"0","@similarityScore":"0.9999999764980319","@types":"Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"}],"tweet":"677036472600535040","@sparql":"","@policy":"whitelist"}

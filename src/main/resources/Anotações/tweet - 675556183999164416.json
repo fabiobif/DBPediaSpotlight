@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @GHalv: #Trump --&gt; FAIL!! https://t.co/xEDKS58O44",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.028257328510794894",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9494670698301256",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675556183999164416",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @GHalv: #Trump --&gt; FAIL!! https://t.co/xEDKS58O44","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.028257328510794894","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9494670698301256","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675556183999164416","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @THR: #StarWars #TheForceAwakens: Film Review https://t.co/pwJaKv6xTF https://t.co/BjddF6qEMm",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03328370534412049",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9524411595083346",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036852591759360",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @THR: #StarWars #TheForceAwakens: Film Review https://t.co/pwJaKv6xTF https://t.co/BjddF6qEMm","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03328370534412049","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9524411595083346","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036852591759360","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The Best Moments From The 'Star Wars' Red Carpet https://t.co/JLGN589BZO #TheForceAwakens https://t.co/MSjz3ScBAG",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0031126516248301986",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "27",
-  "@similarityScore": "0.9961273996115382",
-  "@types": ""
- }],
- "tweet": "676783526935666688",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The Best Moments From The 'Star Wars' Red Carpet https://t.co/JLGN589BZO #TheForceAwakens https://t.co/MSjz3ScBAG","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0031126516248301986","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"27","@similarityScore":"0.9961273996115382","@types":""}],"tweet":"676783526935666688","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "That's crazy, even I support #Trump and I'm sure this will be good for Muslims. So dumb people. https://t.co/5Bem9fMwGB",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.006231977233962765",
-  "@URI": "http://dbpedia.org/resource/Muslim",
-  "@support": "31672",
-  "@surfaceForm": "Muslims",
-  "@offset": "71",
-  "@similarityScore": "0.9935923785819596",
-  "@types": ""
- }],
- "tweet": "675574962472820736",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"That's crazy, even I support #Trump and I'm sure this will be good for Muslims. So dumb people. https://t.co/5Bem9fMwGB","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.006231977233962765","@URI":"http://dbpedia.org/resource/Muslim","@support":"31672","@surfaceForm":"Muslims","@offset":"71","@similarityScore":"0.9935923785819596","@types":""}],"tweet":"675574962472820736","@sparql":"","@policy":"whitelist"}

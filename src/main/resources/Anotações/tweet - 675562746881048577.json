@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @jerrydoyle: Is the media to blame for #Trump's over the top comments? https://t.co/kZ5ES9qoXc @AnitaFinlay connects the dots https://t.â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0018345859491635948",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9953944993797196",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675562746881048577",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @jerrydoyle: Is the media to blame for #Trump's over the top comments? https://t.co/kZ5ES9qoXc @AnitaFinlay connects the dots https://t.â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0018345859491635948","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9953944993797196","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675562746881048577","@sparql":"","@policy":"whitelist"}

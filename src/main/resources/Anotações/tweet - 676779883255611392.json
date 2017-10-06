@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@fitzman73 I'm not joking when I say I actually feel like a kid before Christmas. This is going to be THAT special. #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.001800205422865598",
-  "@URI": "http://dbpedia.org/resource/Christmas",
-  "@support": "17277",
-  "@surfaceForm": "Christmas",
-  "@offset": "71",
-  "@similarityScore": "0.9978016178482825",
-  "@types": "DBpedia:Holiday"
- }],
- "tweet": "676779883255611392",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@fitzman73 I'm not joking when I say I actually feel like a kid before Christmas. This is going to be THAT special. #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.001800205422865598","@URI":"http://dbpedia.org/resource/Christmas","@support":"17277","@surfaceForm":"Christmas","@offset":"71","@similarityScore":"0.9978016178482825","@types":"DBpedia:Holiday"}],"tweet":"676779883255611392","@sparql":"","@policy":"whitelist"}

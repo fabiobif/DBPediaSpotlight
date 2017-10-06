@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Whistleblower could have Prevented #SanBernadinoShooting but #Obama &amp; #Hillary Terminated him! Confiscated Files on that very mosque!!!!",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "7.234067187289977E-5",
-  "@URI": "http://dbpedia.org/resource/Mosque",
-  "@support": "9226",
-  "@surfaceForm": "mosque",
-  "@offset": "130",
-  "@similarityScore": "0.9998946589184268",
-  "@types": ""
- }],
- "tweet": "675576391765655552",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Whistleblower could have Prevented #SanBernadinoShooting but #Obama &amp; #Hillary Terminated him! Confiscated Files on that very mosque!!!!","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"7.234067187289977E-5","@URI":"http://dbpedia.org/resource/Mosque","@support":"9226","@surfaceForm":"mosque","@offset":"130","@similarityScore":"0.9998946589184268","@types":""}],"tweet":"675576391765655552","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Ha, I'm Yoda! https://t.co/7WA6QQZU1g #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0011380682451171463",
-  "@URI": "http://dbpedia.org/resource/Yoda",
-  "@support": "527",
-  "@surfaceForm": "Yoda",
-  "@offset": "8",
-  "@similarityScore": "0.9986468758537849",
-  "@types": ""
- }],
- "tweet": "676780604894126080",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Ha, I'm Yoda! https://t.co/7WA6QQZU1g #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0011380682451171463","@URI":"http://dbpedia.org/resource/Yoda","@support":"527","@surfaceForm":"Yoda","@offset":"8","@similarityScore":"0.9986468758537849","@types":""}],"tweet":"676780604894126080","@sparql":"","@policy":"whitelist"}

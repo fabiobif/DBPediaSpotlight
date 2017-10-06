@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "CHECK THIS OUT, #OBAMA! @GOP @THEDEMOCRATS https://t.co/efxfVCUP4T",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "4.885989682867602E-5",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "25",
-  "@similarityScore": "0.999856465238108",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675293403664388096",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"CHECK THIS OUT, #OBAMA! @GOP @THEDEMOCRATS https://t.co/efxfVCUP4T","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"4.885989682867602E-5","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"25","@similarityScore":"0.999856465238108","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675293403664388096","@sparql":"","@policy":"whitelist"}

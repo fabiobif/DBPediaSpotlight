@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @kossougo: If the divisive message of #Trump resonates with #Republicans, then it is a recipe for disaster for the #Gop. They will lose â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.033129433014652224",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9427192536242452",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675248617695916033",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @kossougo: If the divisive message of #Trump resonates with #Republicans, then it is a recipe for disaster for the #Gop. They will lose â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.033129433014652224","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9427192536242452","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675248617695916033","@sparql":"","@policy":"whitelist"}

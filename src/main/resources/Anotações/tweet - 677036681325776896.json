@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Glad to say that I'm alive to see episode 7. 😊 #StarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.23911394403363156",
-  "@URI": "http://dbpedia.org/resource/I'm_Alive_(Celine_Dion_song)",
-  "@support": "27",
-  "@surfaceForm": "I'm alive",
-  "@offset": "17",
-  "@similarityScore": "0.6807676336277968",
-  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
- }],
- "tweet": "677036681325776896",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Glad to say that I'm alive to see episode 7. 😊 #StarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.23911394403363156","@URI":"http://dbpedia.org/resource/I'm_Alive_(Celine_Dion_song)","@support":"27","@surfaceForm":"I'm alive","@offset":"17","@similarityScore":"0.6807676336277968","@types":"Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"}],"tweet":"677036681325776896","@sparql":"","@policy":"whitelist"}

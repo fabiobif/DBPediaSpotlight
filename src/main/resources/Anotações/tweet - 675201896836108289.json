@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Made Great in Britain!! https://t.co/I1L7jSB99p #StarWars #film #acting #britain #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.6392901721556209",
-  "@URI": "http://dbpedia.org/resource/Great_Britain",
-  "@support": "21547",
-  "@surfaceForm": "britain",
-  "@offset": "73",
-  "@similarityScore": "0.5300557039254683",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Island"
- }],
- "tweet": "675201896836108289",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Made Great in Britain!! https://t.co/I1L7jSB99p #StarWars #film #acting #britain #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.6392901721556209","@URI":"http://dbpedia.org/resource/Great_Britain","@support":"21547","@surfaceForm":"britain","@offset":"73","@similarityScore":"0.5300557039254683","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Island"}],"tweet":"675201896836108289","@sparql":"","@policy":"whitelist"}

@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "This week is all about #StarWars #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "tweet": "676784386931560448",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"This week is all about #StarWars #TheForceAwakens","@support":"20","@types":"","tweet":"676784386931560448","@sparql":"","@policy":"whitelist"}

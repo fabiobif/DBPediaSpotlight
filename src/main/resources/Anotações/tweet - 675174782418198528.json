@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TheForceAwakens Creature Shop! #StarWars  https://t.co/KcbuqhGe3j",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Jim_Henson's_Creature_Shop",
-  "@support": "92",
-  "@surfaceForm": "Creature Shop",
-  "@offset": "17",
-  "@similarityScore": "0.9999999999793658",
-  "@types": ""
- }],
- "tweet": "675174782418198528",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TheForceAwakens Creature Shop! #StarWars  https://t.co/KcbuqhGe3j","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Jim_Henson's_Creature_Shop","@support":"92","@surfaceForm":"Creature Shop","@offset":"17","@similarityScore":"0.9999999999793658","@types":""}],"tweet":"675174782418198528","@sparql":"","@policy":"whitelist"}

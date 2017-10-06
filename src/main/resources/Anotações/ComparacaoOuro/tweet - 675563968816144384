@@ -1,0 +1,20 @@
+Tweet ID:675563968816144384
+Tweet: #Trump gets #Trumped by Paris Hilton #TrumpFacts #Trump2016 #GOP https://t.co/0OQNCpNoJj
+Palavra: GOP
+OffSet: 61
+ACHOU MESMA URL: http://dbpedia.org/resource/Republican_Party_(United_States)
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Trump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+Palavra: Paris Hilton
+OffSet: 24
+ACHOU MESMA URL: http://dbpedia.org/resource/Paris_Hilton
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Trump2016
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump_presidential_campaign,_2016
+Type: Organization
+

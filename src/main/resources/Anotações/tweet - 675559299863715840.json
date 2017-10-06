@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump University president, Mr Black, giving his inaugural address. #Trump2016 #GOP #GOPDebate https://t.co/UfZfReuJoR",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "6.225389099569103E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "81",
-  "@similarityScore": "0.9990795156760464",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675559299863715840",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump University president, Mr Black, giving his inaugural address. #Trump2016 #GOP #GOPDebate https://t.co/UfZfReuJoR","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"6.225389099569103E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"81","@similarityScore":"0.9990795156760464","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675559299863715840","@sparql":"","@policy":"whitelist"}

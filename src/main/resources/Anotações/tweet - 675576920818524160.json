@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Every behind-the-scenes shot of Kenny Baker on the set of #StarWars looks like someone's thrown him in a dustbin. https://t.co/triFZSRYb5",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.5754844348004097E-4",
-  "@URI": "http://dbpedia.org/resource/Waste_container",
-  "@support": "235",
-  "@surfaceForm": "dustbin",
-  "@offset": "105",
-  "@similarityScore": "0.9998395234573857",
-  "@types": ""
- }],
- "tweet": "675576920818524160",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Every behind-the-scenes shot of Kenny Baker on the set of #StarWars looks like someone's thrown him in a dustbin. https://t.co/triFZSRYb5","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.5754844348004097E-4","@URI":"http://dbpedia.org/resource/Waste_container","@support":"235","@surfaceForm":"dustbin","@offset":"105","@similarityScore":"0.9998395234573857","@types":""}],"tweet":"675576920818524160","@sparql":"","@policy":"whitelist"}

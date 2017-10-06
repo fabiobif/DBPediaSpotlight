@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Got through the first 3 episodes of Star Wars. Now the last three will be for tomorrow. :) preparing for #TheForceAwakens #StarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.007313063738157264",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "36",
-  "@similarityScore": "0.9923304071030953",
-  "@types": ""
- }],
- "tweet": "675243957597663232",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Got through the first 3 episodes of Star Wars. Now the last three will be for tomorrow. :) preparing for #TheForceAwakens #StarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.007313063738157264","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"36","@similarityScore":"0.9923304071030953","@types":""}],"tweet":"675243957597663232","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump maintains poll lead among Republicans after call to ban Muslims entering the US https://t.co/4ckld4F9yg #tcot https://t.co/Ujbl7LXODh",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01723632610394309",
-  "@URI": "http://dbpedia.org/resource/Muslim",
-  "@support": "31672",
-  "@surfaceForm": "Muslims",
-  "@offset": "63",
-  "@similarityScore": "0.982916013720875",
-  "@types": ""
- }],
- "tweet": "675568159928135680",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump maintains poll lead among Republicans after call to ban Muslims entering the US https://t.co/4ckld4F9yg #tcot https://t.co/Ujbl7LXODh","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01723632610394309","@URI":"http://dbpedia.org/resource/Muslim","@support":"31672","@surfaceForm":"Muslims","@offset":"63","@similarityScore":"0.982916013720875","@types":""}],"tweet":"675568159928135680","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Obama's Terrorism Speech, Translated Into Candor https://t.co/RWWXkMJ21o  Hilariously Pitiful #Obama https://t.co/xTPzAEWsjQ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.46688401746598746",
-  "@URI": "http://dbpedia.org/resource/Candor_(village),_New_York",
-  "@support": "46",
-  "@surfaceForm": "Candor",
-  "@offset": "42",
-  "@similarityScore": "0.5331087823404147",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Village"
- }],
- "tweet": "675562551103643648",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Obama's Terrorism Speech, Translated Into Candor https://t.co/RWWXkMJ21o  Hilariously Pitiful #Obama https://t.co/xTPzAEWsjQ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.46688401746598746","@URI":"http://dbpedia.org/resource/Candor_(village),_New_York","@support":"46","@surfaceForm":"Candor","@offset":"42","@similarityScore":"0.5331087823404147","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Village"}],"tweet":"675562551103643648","@sparql":"","@policy":"whitelist"}

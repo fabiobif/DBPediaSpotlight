@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Obama #dream for America #Venezuela seizes warehouses packed with medical goods, food https://t.co/zbEv47pTWc NO Middle Class there #PJnet",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.285545986914947E-5",
-  "@URI": "http://dbpedia.org/resource/Venezuela",
-  "@support": "23477",
-  "@surfaceForm": "Venezuela",
-  "@offset": "27",
-  "@similarityScore": "0.99987656291879",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675577961324503040",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Obama #dream for America #Venezuela seizes warehouses packed with medical goods, food https://t.co/zbEv47pTWc NO Middle Class there #PJnet","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.285545986914947E-5","@URI":"http://dbpedia.org/resource/Venezuela","@support":"23477","@surfaceForm":"Venezuela","@offset":"27","@similarityScore":"0.99987656291879","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675577961324503040","@sparql":"","@policy":"whitelist"}

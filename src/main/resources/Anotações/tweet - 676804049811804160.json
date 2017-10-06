@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Ready for action today! May the force be with you.  @stancesocks #starwars #stancesocks @ketchumkennok https://t.co/yUoIf1lAyq",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004396177192822023",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "32",
-  "@similarityScore": "0.9940583306924929",
-  "@types": ""
- }],
- "tweet": "676804049811804160",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Ready for action today! May the force be with you.  @stancesocks #starwars #stancesocks @ketchumkennok https://t.co/yUoIf1lAyq","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004396177192822023","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"32","@similarityScore":"0.9940583306924929","@types":""}],"tweet":"676804049811804160","@sparql":"","@policy":"whitelist"}

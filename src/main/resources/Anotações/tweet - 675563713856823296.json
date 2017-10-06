@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Obamaâ\u20ac™s radical agenda to flood #US w/ #Refugees. Read this. #RT https://t.co/hUM11V9FyD @SecureFreedom #tcot x https://t.co/FmJsFVERAG",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0022899274325805697",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "65",
-  "@similarityScore": "0.9955693353376913",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675563713856823296",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Obamaâ\u20ac™s radical agenda to flood #US w/ #Refugees. Read this. #RT https://t.co/hUM11V9FyD @SecureFreedom #tcot x https://t.co/FmJsFVERAG","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0022899274325805697","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"65","@similarityScore":"0.9955693353376913","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675563713856823296","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ThomasStorai: 5 days to go ! #TheForceAwakens https://t.co/0pUFkL59y0",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.028336026515072853",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9385088151331579",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675233323342569472",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ThomasStorai: 5 days to go ! #TheForceAwakens https://t.co/0pUFkL59y0","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.028336026515072853","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9385088151331579","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675233323342569472","@sparql":"","@policy":"whitelist"}

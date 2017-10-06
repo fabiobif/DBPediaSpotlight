@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "My Star Wars Match is Finn. Who's Yours? https://t.co/uvXsna5DU3 #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004364839638761613",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "3",
-  "@similarityScore": "0.99481699231211",
-  "@types": ""
- }],
- "tweet": "676784290680733696",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"My Star Wars Match is Finn. Who's Yours? https://t.co/uvXsna5DU3 #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004364839638761613","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"3","@similarityScore":"0.99481699231211","@types":""}],"tweet":"676784290680733696","@sparql":"","@policy":"whitelist"}

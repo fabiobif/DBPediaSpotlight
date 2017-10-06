@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Trending - New #StarWars #TheForceAwakens mini-feature focuses on IMAX format https://t.co/NPi9fx74zx https://t.co/XaxiVa4Mlr",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "3.6809295064312134E-4",
-  "@URI": "http://dbpedia.org/resource/IMAX",
-  "@support": "1999",
-  "@surfaceForm": "IMAX",
-  "@offset": "66",
-  "@similarityScore": "0.9995737704564774",
-  "@types": ""
- }],
- "tweet": "676786489674612736",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Trending - New #StarWars #TheForceAwakens mini-feature focuses on IMAX format https://t.co/NPi9fx74zx https://t.co/XaxiVa4Mlr","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"3.6809295064312134E-4","@URI":"http://dbpedia.org/resource/IMAX","@support":"1999","@surfaceForm":"IMAX","@offset":"66","@similarityScore":"0.9995737704564774","@types":""}],"tweet":"676786489674612736","@sparql":"","@policy":"whitelist"}

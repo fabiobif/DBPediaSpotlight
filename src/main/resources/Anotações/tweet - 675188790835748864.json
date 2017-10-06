@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT The fucking feels every fucking time I watch the trailer 😭😭😭 #TheForceAwakens #StarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02234070816865254",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9641304874174932",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675188790835748864",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT The fucking feels every fucking time I watch the trailer 😭😭😭 #TheForceAwakens #StarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02234070816865254","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9641304874174932","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675188790835748864","@sparql":"","@policy":"whitelist"}

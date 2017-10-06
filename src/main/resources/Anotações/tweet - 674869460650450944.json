@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Things4WhitePpl: Calling Obama a pussy on live television https://t.co/1XszAJ84Tl",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0013222439953844195",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9973645681800188",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674869460650450944",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Things4WhitePpl: Calling Obama a pussy on live television https://t.co/1XszAJ84Tl","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0013222439953844195","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9973645681800188","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674869460650450944","@sparql":"","@policy":"whitelist"}

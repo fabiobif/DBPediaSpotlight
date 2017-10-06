@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "TheWebsterMiami : BLK DNM coat and hoodie blkdnm #BLKDNM #StarWars - Available now at #TheWebster #TheWebsterMiamiâ\u20ac¦ â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Hoodie",
-  "@support": "136",
-  "@surfaceForm": "hoodie",
-  "@offset": "35",
-  "@similarityScore": "0.9999994738237737",
-  "@types": ""
- }],
- "tweet": "676803476886839297",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"TheWebsterMiami : BLK DNM coat and hoodie blkdnm #BLKDNM #StarWars - Available now at #TheWebster #TheWebsterMiamiâ\u20ac¦ â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Hoodie","@support":"136","@surfaceForm":"hoodie","@offset":"35","@similarityScore":"0.9999994738237737","@types":""}],"tweet":"676803476886839297","@sparql":"","@policy":"whitelist"}

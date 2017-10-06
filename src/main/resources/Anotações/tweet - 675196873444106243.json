@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @DaisyRidleyNews: Short interview with #daisyridley from @KellyandMichael https://t.co/LZjUrkNlSA #TheForceAwakens https://t.co/LLkekd6Wâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002985445595478566",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9942240118622807",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675196873444106243",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @DaisyRidleyNews: Short interview with #daisyridley from @KellyandMichael https://t.co/LZjUrkNlSA #TheForceAwakens https://t.co/LLkekd6Wâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002985445595478566","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9942240118622807","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675196873444106243","@sparql":"","@policy":"whitelist"}

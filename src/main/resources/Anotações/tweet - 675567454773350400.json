@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @JohnnyHavock: #Chipotle will kill you. #Trump will save you. #Dads4Trump  https://t.co/JSsapvnJlY",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.021025627446616166",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9630982053839539",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675567454773350400",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @JohnnyHavock: #Chipotle will kill you. #Trump will save you. #Dads4Trump  https://t.co/JSsapvnJlY","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.021025627446616166","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9630982053839539","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675567454773350400","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @theCouponista: Exclusive #FirstLook at the #StarWars #TheForceAwakens Global Press Junket - TONS of exclusive pics! #StarWarsEvent httpâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.003190826892549679",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9956671160536708",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675210855991091201",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @theCouponista: Exclusive #FirstLook at the #StarWars #TheForceAwakens Global Press Junket - TONS of exclusive pics! #StarWarsEvent httpâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.003190826892549679","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9956671160536708","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675210855991091201","@sparql":"","@policy":"whitelist"}

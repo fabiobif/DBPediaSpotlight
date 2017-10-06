@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TheForceAwakens if your force awakens for more than 4 hours consult a doctor",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004656571135995035",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "25",
-  "@similarityScore": "0.992798532127128",
-  "@types": ""
- }],
- "tweet": "676784129288093696",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TheForceAwakens if your force awakens for more than 4 hours consult a doctor","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004656571135995035","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"25","@similarityScore":"0.992798532127128","@types":""}],"tweet":"676784129288093696","@sparql":"","@policy":"whitelist"}

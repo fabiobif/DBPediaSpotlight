@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "PerezHilton : This #StarWars reunion at #TheForceAwakens premiere is guaranteed to give yoâ\u20ac¦ https://t.co/uCClJutVRJ) https://t.co/DomMJHDixd",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Perez_Hilton",
-  "@support": "331",
-  "@surfaceForm": "PerezHilton",
-  "@offset": "0",
-  "@similarityScore": "0.9999138756115244",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
- }],
- "tweet": "676787805561974785",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"PerezHilton : This #StarWars reunion at #TheForceAwakens premiere is guaranteed to give yoâ\u20ac¦ https://t.co/uCClJutVRJ) https://t.co/DomMJHDixd","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Perez_Hilton","@support":"331","@surfaceForm":"PerezHilton","@offset":"0","@similarityScore":"0.9999138756115244","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"}],"tweet":"676787805561974785","@sparql":"","@policy":"whitelist"}

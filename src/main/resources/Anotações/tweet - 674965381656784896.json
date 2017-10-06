@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @marginal_error: #30daysOfStarWarsTshirts Day 23 30 #StarWars Tshirts for 30 days until #TheForceAwakens @aniistoll @good_wifey https://â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.020361764986075007",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9673080272388543",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674965381656784896",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @marginal_error: #30daysOfStarWarsTshirts Day 23 30 #StarWars Tshirts for 30 days until #TheForceAwakens @aniistoll @good_wifey https://â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.020361764986075007","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9673080272388543","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674965381656784896","@sparql":"","@policy":"whitelist"}

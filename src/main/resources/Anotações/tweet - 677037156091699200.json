@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "It's a trap!!!! #StarWarsForceAwakens #StarWars #Spoiler // @IGN @verge https://t.co/CM7P2mFWUA",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.7871737036078455E-5",
-  "@URI": "http://dbpedia.org/resource/IGN",
-  "@support": "10090",
-  "@surfaceForm": "IGN",
-  "@offset": "61",
-  "@similarityScore": "0.9999820717246621",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "677037156091699200",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"It's a trap!!!! #StarWarsForceAwakens #StarWars #Spoiler // @IGN @verge https://t.co/CM7P2mFWUA","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.7871737036078455E-5","@URI":"http://dbpedia.org/resource/IGN","@support":"10090","@surfaceForm":"IGN","@offset":"61","@similarityScore":"0.9999820717246621","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"677037156091699200","@sparql":"","@policy":"whitelist"}

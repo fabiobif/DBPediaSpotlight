@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Liam said @starwars #TheForceAwakens @DepressedDarth @sterkinekor @capegate @GamesRadar @DisneyStudios @LucasFilmLtd https://t.co/C9SMeMJe1Q",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/GamesRadar",
-  "@support": "1211",
-  "@surfaceForm": "GamesRadar",
-  "@offset": "77",
-  "@similarityScore": "0.9999994970678315",
-  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
- }],
- "tweet": "677036631887642624",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Liam said @starwars #TheForceAwakens @DepressedDarth @sterkinekor @capegate @GamesRadar @DisneyStudios @LucasFilmLtd https://t.co/C9SMeMJe1Q","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/GamesRadar","@support":"1211","@surfaceForm":"GamesRadar","@offset":"77","@similarityScore":"0.9999994970678315","@types":"Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"}],"tweet":"677036631887642624","@sparql":"","@policy":"whitelist"}

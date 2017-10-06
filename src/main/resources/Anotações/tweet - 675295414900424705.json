@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "What's the best #StarWars original film?",
- "@support": "20",
- "@types": "",
- "tweet": "675295414900424705",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"What's the best #StarWars original film?","@support":"20","@types":"","tweet":"675295414900424705","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @TiffanysTweets: This made my heart sing... Thank you #JohnWilliams, @starwars #TheForceAwakens cast, @theroots &amp; @jimmyfallon https://tâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.035069912916232494",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9399002113750594",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036901115777025",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @TiffanysTweets: This made my heart sing... Thank you #JohnWilliams, @starwars #TheForceAwakens cast, @theroots &amp; @jimmyfallon https://tâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.035069912916232494","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9399002113750594","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036901115777025","@sparql":"","@policy":"whitelist"}

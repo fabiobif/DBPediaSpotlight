@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@MissingSignals You're my hero.  I know what you'll be doing this weekend.  #StarWars",
- "@support": "20",
- "@types": "",
- "tweet": "676802702622531584",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@MissingSignals You're my hero.  I know what you'll be doing this weekend.  #StarWars","@support":"20","@types":"","tweet":"676802702622531584","@sparql":"","@policy":"whitelist"}

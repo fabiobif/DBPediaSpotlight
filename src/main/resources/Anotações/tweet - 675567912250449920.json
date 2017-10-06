@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Our latest on the state of #Trump's image at #Dubai development. W @jongambrellAP  https://t.co/32kAJHFNEl",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "2.3907694594897956E-5",
-  "@URI": "http://dbpedia.org/resource/Dubai",
-  "@support": "10164",
-  "@surfaceForm": "Dubai",
-  "@offset": "46",
-  "@similarityScore": "0.9999684219580393",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
- }],
- "tweet": "675567912250449920",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Our latest on the state of #Trump's image at #Dubai development. W @jongambrellAP  https://t.co/32kAJHFNEl","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"2.3907694594897956E-5","@URI":"http://dbpedia.org/resource/Dubai","@support":"10164","@surfaceForm":"Dubai","@offset":"46","@similarityScore":"0.9999684219580393","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"}],"tweet":"675567912250449920","@sparql":"","@policy":"whitelist"}

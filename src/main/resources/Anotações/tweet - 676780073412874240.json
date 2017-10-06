@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The 6 day countdown to #TheForceAwakens ends today @starwars #ReturnOfTheJedi #bluray",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Blu-ray_Disc",
-  "@support": "5728",
-  "@surfaceForm": "bluray",
-  "@offset": "79",
-  "@similarityScore": "0.9999508901493024",
-  "@types": ""
- }],
- "tweet": "676780073412874240",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The 6 day countdown to #TheForceAwakens ends today @starwars #ReturnOfTheJedi #bluray","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Blu-ray_Disc","@support":"5728","@surfaceForm":"bluray","@offset":"79","@similarityScore":"0.9999508901493024","@types":""}],"tweet":"676780073412874240","@sparql":"","@policy":"whitelist"}

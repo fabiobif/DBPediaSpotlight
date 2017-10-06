@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Essay: On 'spoiling' #TheForceAwakens on @Medium. https://t.co/c2iRVCswTH #starwars #spoilers #predictions",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.4344110234708082",
-  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
-  "@support": "248",
-  "@surfaceForm": "spoilers",
-  "@offset": "85",
-  "@similarityScore": "0.6852214217414482",
-  "@types": ""
- }],
- "tweet": "675175389170434050",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Essay: On 'spoiling' #TheForceAwakens on @Medium. https://t.co/c2iRVCswTH #starwars #spoilers #predictions","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.4344110234708082","@URI":"http://dbpedia.org/resource/Spoiler_(aeronautics)","@support":"248","@surfaceForm":"spoilers","@offset":"85","@similarityScore":"0.6852214217414482","@types":""}],"tweet":"675175389170434050","@sparql":"","@policy":"whitelist"}

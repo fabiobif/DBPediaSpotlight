@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @TrekkerTalk: #TrekkerTalk Ep 12 #StarWars - Insights from @bri_reno @ProfessorAlan @JbakeR2D2 @ruthmreis https://t.co/ElDTBQbXnj https:â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03296904036922768",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9275259425869398",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676803973311934465",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @TrekkerTalk: #TrekkerTalk Ep 12 #StarWars - Insights from @bri_reno @ProfessorAlan @JbakeR2D2 @ruthmreis https://t.co/ElDTBQbXnj https:â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03296904036922768","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9275259425869398","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676803973311934465","@sparql":"","@policy":"whitelist"}

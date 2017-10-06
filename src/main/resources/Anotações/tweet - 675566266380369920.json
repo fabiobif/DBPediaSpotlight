@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@realDonaldTrump Win the election in 2016, take the White House in 2017! #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.17713113119803E-5",
-  "@URI": "http://dbpedia.org/resource/White_House",
-  "@support": "10548",
-  "@surfaceForm": "White House",
-  "@offset": "52",
-  "@similarityScore": "0.9998625042822777",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"
- }],
- "tweet": "675566266380369920",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@realDonaldTrump Win the election in 2016, take the White House in 2017! #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.17713113119803E-5","@URI":"http://dbpedia.org/resource/White_House","@support":"10548","@surfaceForm":"White House","@offset":"52","@similarityScore":"0.9998625042822777","@types":"Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"}],"tweet":"675566266380369920","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@realDonaldTrump  HatersSayingHe's DividingUSAfalseTrumpMovement UnitingPeopleRIghtLeft,IndAllRaces&amp;Never B4VotersUniting 2Vote #Trump POTUS",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.3994027983792808E-4",
-  "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
-  "@support": "33769",
-  "@surfaceForm": "POTUS",
-  "@offset": "139",
-  "@similarityScore": "0.9997781045759613",
-  "@types": ""
- }],
- "tweet": "675561456281231364",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@realDonaldTrump  HatersSayingHe's DividingUSAfalseTrumpMovement UnitingPeopleRIghtLeft,IndAllRaces&amp;Never B4VotersUniting 2Vote #Trump POTUS","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.3994027983792808E-4","@URI":"http://dbpedia.org/resource/President_of_the_United_States","@support":"33769","@surfaceForm":"POTUS","@offset":"139","@similarityScore":"0.9997781045759613","@types":""}],"tweet":"675561456281231364","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Who wants a recap? https://t.co/2jEeRovVqR The best ever. #StarWarsForceAwakens #StarWars #LEGO",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "8.944135817769894E-4",
-  "@URI": "http://dbpedia.org/resource/Lego",
-  "@support": "2597",
-  "@surfaceForm": "LEGO",
-  "@offset": "91",
-  "@similarityScore": "0.99887087893513",
-  "@types": ""
- }],
- "tweet": "677036225522462720",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Who wants a recap? https://t.co/2jEeRovVqR The best ever. #StarWarsForceAwakens #StarWars #LEGO","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"8.944135817769894E-4","@URI":"http://dbpedia.org/resource/Lego","@support":"2597","@surfaceForm":"LEGO","@offset":"91","@similarityScore":"0.99887087893513","@types":""}],"tweet":"677036225522462720","@sparql":"","@policy":"whitelist"}

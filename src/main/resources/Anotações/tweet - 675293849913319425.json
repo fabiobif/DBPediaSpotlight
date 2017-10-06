@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#President #Obama welcomes Syrian #scientist refugee featured on 'Humans of #NewYork'  https://t.co/rTfgMMJUfu https://t.co/hCczb6bxGT",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.062040675671741645",
-  "@URI": "http://dbpedia.org/resource/Syria",
-  "@support": "24148",
-  "@surfaceForm": "Syrian",
-  "@offset": "27",
-  "@similarityScore": "0.9403723206146851",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675293849913319425",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#President #Obama welcomes Syrian #scientist refugee featured on 'Humans of #NewYork'  https://t.co/rTfgMMJUfu https://t.co/hCczb6bxGT","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.062040675671741645","@URI":"http://dbpedia.org/resource/Syria","@support":"24148","@surfaceForm":"Syrian","@offset":"27","@similarityScore":"0.9403723206146851","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675293849913319425","@sparql":"","@policy":"whitelist"}

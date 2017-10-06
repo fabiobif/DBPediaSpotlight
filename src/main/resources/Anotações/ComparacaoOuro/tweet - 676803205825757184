@@ -1,0 +1,22 @@
+Tweet ID:676803205825757184
+Tweet: RT @EW: Find out if you're more a Padawan or Jedi Master by taking this ultimate #StarWars quiz: https://t.co/OIgMdTCYtn https://t.co/EfXRAâ€¦
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: EW
+URI na regra ouro: http://dbpedia.org/resource/Entertainment_Weekly
+Type: Organization
+
+Palavra: Jedi Master
+OffSet: 45
+ACHOU MESMA URL: http://dbpedia.org/resource/Jedi
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: StarWars
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+
+Palavra: Padawan
+OffSet: 34
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Jedi
+ Regra Ouro:NIL9
+

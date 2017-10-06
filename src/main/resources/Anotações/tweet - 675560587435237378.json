@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @sevigny_rob: Anyone but #Trump is more of the same and we will have lost the chance to save America 4 our kids &amp; grand kids! #WakeUpAmeâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0129977153802102",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9759331063566198",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675560587435237378",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @sevigny_rob: Anyone but #Trump is more of the same and we will have lost the chance to save America 4 our kids &amp; grand kids! #WakeUpAmeâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0129977153802102","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9759331063566198","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675560587435237378","@sparql":"","@policy":"whitelist"}

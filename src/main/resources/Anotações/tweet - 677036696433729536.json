@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "D-DAY ! #StarWars #Leréveildelaforce # https://t.co/BM9m05KQc8",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.006807889178762801",
-  "@URI": "http://dbpedia.org/resource/Normandy_landings",
-  "@support": "3827",
-  "@surfaceForm": "D-DAY",
-  "@offset": "0",
-  "@similarityScore": "0.9873511407512792",
-  "@types": "Schema:Event,DBpedia:Event,DBpedia:MilitaryConflict"
- }],
- "tweet": "677036696433729536",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"D-DAY ! #StarWars #Leréveildelaforce # https://t.co/BM9m05KQc8","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.006807889178762801","@URI":"http://dbpedia.org/resource/Normandy_landings","@support":"3827","@surfaceForm":"D-DAY","@offset":"0","@similarityScore":"0.9873511407512792","@types":"Schema:Event,DBpedia:Event,DBpedia:MilitaryConflict"}],"tweet":"677036696433729536","@sparql":"","@policy":"whitelist"}

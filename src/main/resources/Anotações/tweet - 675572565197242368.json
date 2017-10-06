@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "It Will Be A #StarWars Christmas https://t.co/donsz4ITdF via @benspark",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002561020673012921",
-  "@URI": "http://dbpedia.org/resource/Christmas",
-  "@support": "17277",
-  "@surfaceForm": "Christmas",
-  "@offset": "23",
-  "@similarityScore": "0.9972806551773917",
-  "@types": "DBpedia:Holiday"
- }],
- "tweet": "675572565197242368",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"It Will Be A #StarWars Christmas https://t.co/donsz4ITdF via @benspark","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002561020673012921","@URI":"http://dbpedia.org/resource/Christmas","@support":"17277","@surfaceForm":"Christmas","@offset":"23","@similarityScore":"0.9972806551773917","@types":"DBpedia:Holiday"}],"tweet":"675572565197242368","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@starwars , @TelkomZA &amp; @WaltDisneyCo_ Africa partner celebrate the release of â\u20acœStar Wars: #TheForceAwakens â\u20ac? ~ https://t.co/lGm3ga96W9",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.80988897003548E-4",
-  "@URI": "http://dbpedia.org/resource/Africa",
-  "@support": "37699",
-  "@surfaceForm": "Africa",
-  "@offset": "43",
-  "@similarityScore": "0.999375757470178",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Continent,DBpedia:Continent"
- }],
- "tweet": "675242147445088256",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@starwars , @TelkomZA &amp; @WaltDisneyCo_ Africa partner celebrate the release of â\u20acœStar Wars: #TheForceAwakens â\u20ac? ~ https://t.co/lGm3ga96W9","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.80988897003548E-4","@URI":"http://dbpedia.org/resource/Africa","@support":"37699","@surfaceForm":"Africa","@offset":"43","@similarityScore":"0.999375757470178","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Continent,DBpedia:Continent"}],"tweet":"675242147445088256","@sparql":"","@policy":"whitelist"}

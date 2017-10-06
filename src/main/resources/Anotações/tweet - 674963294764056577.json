@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @josephjrose: Getting ready to go on @KXLNews to talk about my @orgeonian column on the @501stLegion #starwars charity costuming group iâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.005777191156699421",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9904927640560846",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674963294764056577",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @josephjrose: Getting ready to go on @KXLNews to talk about my @orgeonian column on the @501stLegion #starwars charity costuming group iâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.005777191156699421","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9904927640560846","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674963294764056577","@sparql":"","@policy":"whitelist"}

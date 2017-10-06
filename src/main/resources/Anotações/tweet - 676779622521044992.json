@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @raisingwhasians: John Boyega Interview @StarWars #TheForceAwakens | Stormtrooper No More #StarWarsEvent https://t.co/Er4WommOew https:/â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002847453321040095",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9948284175671567",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676779622521044992",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @raisingwhasians: John Boyega Interview @StarWars #TheForceAwakens | Stormtrooper No More #StarWarsEvent https://t.co/Er4WommOew https:/â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002847453321040095","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9948284175671567","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676779622521044992","@sparql":"","@policy":"whitelist"}

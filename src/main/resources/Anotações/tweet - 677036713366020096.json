@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#StarWars 4 Tips on Healthy Meal Plans for Weight Loss https://t.co/7suZP6XV0r https://t.co/ET3X48Xoqz https://t.co/vkjuZbrGMM Star Wars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.007290126882198708",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "127",
-  "@similarityScore": "0.9920458606702665",
-  "@types": ""
- }],
- "tweet": "677036713366020096",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#StarWars 4 Tips on Healthy Meal Plans for Weight Loss https://t.co/7suZP6XV0r https://t.co/ET3X48Xoqz https://t.co/vkjuZbrGMM Star Wars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.007290126882198708","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"127","@similarityScore":"0.9920458606702665","@types":""}],"tweet":"677036713366020096","@sparql":"","@policy":"whitelist"}

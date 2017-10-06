@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ifiwere2tweet: #BB8 rolling onto the scene at the #StarWars premiere https://t.co/5xkKZuZLcV",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.012125862876583784",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9740980825956721",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676803983625871360",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ifiwere2tweet: #BB8 rolling onto the scene at the #StarWars premiere https://t.co/5xkKZuZLcV","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.012125862876583784","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9740980825956721","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676803983625871360","@sparql":"","@policy":"whitelist"}

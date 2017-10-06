@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "It's #StarWars day! \\\\o o// \\o/",
- "@support": "20",
- "@types": "",
- "tweet": "677036122711703553",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"It's #StarWars day! \\\\o o// \\o/","@support":"20","@types":"","tweet":"677036122711703553","@sparql":"","@policy":"whitelist"}

@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "StarWarsCount: days until #StarWars #TheForceAwakens https://t.co/6qOJ0F6LZx",
- "@support": "20",
- "@types": "",
- "tweet": "676784841422188544",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"StarWarsCount: days until #StarWars #TheForceAwakens https://t.co/6qOJ0F6LZx","@support":"20","@types":"","tweet":"676784841422188544","@sparql":"","@policy":"whitelist"}

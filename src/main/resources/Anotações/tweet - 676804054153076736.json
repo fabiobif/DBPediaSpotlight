@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#StarWars cookie cutter set give away Free today with any order over $25.coupon code STARWRS https://t.co/tkluW9Mlho https://t.co/1xYM9BYo2P",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.043266926864164654",
-  "@URI": "http://dbpedia.org/resource/Cutter_(boat)",
-  "@support": "1116",
-  "@surfaceForm": "cutter",
-  "@offset": "17",
-  "@similarityScore": "0.9489813918288889",
-  "@types": ""
- }],
- "tweet": "676804054153076736",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#StarWars cookie cutter set give away Free today with any order over $25.coupon code STARWRS https://t.co/tkluW9Mlho https://t.co/1xYM9BYo2P","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.043266926864164654","@URI":"http://dbpedia.org/resource/Cutter_(boat)","@support":"1116","@surfaceForm":"cutter","@offset":"17","@similarityScore":"0.9489813918288889","@types":""}],"tweet":"676804054153076736","@sparql":"","@policy":"whitelist"}

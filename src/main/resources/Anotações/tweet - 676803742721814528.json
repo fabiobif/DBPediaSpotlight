@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @LeaKThompson: Since I couldn't go to the #starwars premiere I did this in front of my #christmastreeâ\u20ac¦ https://t.co/z3PQGFqA5D",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02003886271119707",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9622047140759857",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676803742721814528",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @LeaKThompson: Since I couldn't go to the #starwars premiere I did this in front of my #christmastreeâ\u20ac¦ https://t.co/z3PQGFqA5D","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02003886271119707","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9622047140759857","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676803742721814528","@sparql":"","@policy":"whitelist"}

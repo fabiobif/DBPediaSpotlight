@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@RelaxTim I'll hurt people over that. Dead fuckin' serious. #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Fuck",
-  "@support": "459",
-  "@surfaceForm": "fuckin",
-  "@offset": "43",
-  "@similarityScore": "0.9999974152973871",
-  "@types": ""
- }],
- "tweet": "676783631101227008",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@RelaxTim I'll hurt people over that. Dead fuckin' serious. #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Fuck","@support":"459","@surfaceForm":"fuckin","@offset":"43","@similarityScore":"0.9999974152973871","@types":""}],"tweet":"676783631101227008","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Kat_McNamara: Thanks @aliceandolivia &amp; @louboutinworld for taking me to the Dark Side @StarWars #TheForceAwakens premiere.â?¥ https://t.câ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.07886743352857739",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8903089489324555",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676787299435290624",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Kat_McNamara: Thanks @aliceandolivia &amp; @louboutinworld for taking me to the Dark Side @StarWars #TheForceAwakens premiere.â?¥ https://t.câ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.07886743352857739","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8903089489324555","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676787299435290624","@sparql":"","@policy":"whitelist"}

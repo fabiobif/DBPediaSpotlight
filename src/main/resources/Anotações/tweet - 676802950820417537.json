@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @GREATBritain: #StarWars style. @JW_Anderson talks costumes, characters and iconic designs #StarWarsIsGREAT https://t.co/si5tDPg7cL httpâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0118284263520547",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9798044426133663",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676802950820417537",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @GREATBritain: #StarWars style. @JW_Anderson talks costumes, characters and iconic designs #StarWarsIsGREAT https://t.co/si5tDPg7cL httpâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0118284263520547","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9798044426133663","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676802950820417537","@sparql":"","@policy":"whitelist"}

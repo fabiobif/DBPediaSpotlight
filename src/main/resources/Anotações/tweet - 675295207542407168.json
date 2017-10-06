@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "ONE WEEK TO GO! #Starwars #StarWarsForceAwakens https://t.co/wudRvNIC6m",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "4.7923110314478963E-4",
-  "@URI": "http://dbpedia.org/resource/Go!_(Australian_TV_channel)",
-  "@support": "131",
-  "@surfaceForm": "GO!",
-  "@offset": "12",
-  "@similarityScore": "0.9995209941670146",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675295207542407168",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"ONE WEEK TO GO! #Starwars #StarWarsForceAwakens https://t.co/wudRvNIC6m","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"4.7923110314478963E-4","@URI":"http://dbpedia.org/resource/Go!_(Australian_TV_channel)","@support":"131","@surfaceForm":"GO!","@offset":"12","@similarityScore":"0.9995209941670146","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675295207542407168","@sparql":"","@policy":"whitelist"}

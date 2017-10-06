@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @FayyanFreaks: obama keeps talking about muslims being terrorists. there are 2.6 billion muslims in the world. if we were terrorists, woâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.093280899339959E-4",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9988722024329655",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674869785977491456",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @FayyanFreaks: obama keeps talking about muslims being terrorists. there are 2.6 billion muslims in the world. if we were terrorists, woâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.093280899339959E-4","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9988722024329655","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674869785977491456","@sparql":"","@policy":"whitelist"}

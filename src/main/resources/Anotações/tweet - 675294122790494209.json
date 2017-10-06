@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@Morning_Joe If Chicago Mayor was not a butt buddy of #Obama He would have been forced out by Justice dept. weeks ago.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Mayor_of_Chicago",
-  "@support": "393",
-  "@surfaceForm": "Chicago Mayor",
-  "@offset": "16",
-  "@similarityScore": "0.9999999999797069",
-  "@types": ""
- }],
- "tweet": "675294122790494209",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@Morning_Joe If Chicago Mayor was not a butt buddy of #Obama He would have been forced out by Justice dept. weeks ago.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Mayor_of_Chicago","@support":"393","@surfaceForm":"Chicago Mayor","@offset":"16","@similarityScore":"0.9999999999797069","@types":""}],"tweet":"675294122790494209","@sparql":"","@policy":"whitelist"}

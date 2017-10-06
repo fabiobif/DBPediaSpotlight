@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "My Star Wars Match is BB-8. Who's Yours? https://t.co/8Ai8UaLySi #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.005959384602933577",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "3",
-  "@similarityScore": "0.9928813262598448",
-  "@types": ""
- }],
- "tweet": "676785002483466240",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"My Star Wars Match is BB-8. Who's Yours? https://t.co/8Ai8UaLySi #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.005959384602933577","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"3","@similarityScore":"0.9928813262598448","@types":""}],"tweet":"676785002483466240","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @C_GProductions: We saw #HipHopStarWars trending and thought this fit. @StarWars @bad_robot ENJOY #StarWars #Parody #FunnyVideos https:/â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.00827432544813292",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9833568692497784",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674964663180898305",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @C_GProductions: We saw #HipHopStarWars trending and thought this fit. @StarWars @bad_robot ENJOY #StarWars #Parody #FunnyVideos https:/â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.00827432544813292","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9833568692497784","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674964663180898305","@sparql":"","@policy":"whitelist"}

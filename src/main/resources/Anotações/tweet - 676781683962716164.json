@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Tcann13: Well, the premiere is over and everyone's gone home. What a day. Woosh! #TheForceAwakens https://t.co/fzUkvnCki5",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.007215838640015923",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.986596892584278",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676781683962716164",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Tcann13: Well, the premiere is over and everyone's gone home. What a day. Woosh! #TheForceAwakens https://t.co/fzUkvnCki5","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.007215838640015923","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.986596892584278","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676781683962716164","@sparql":"","@policy":"whitelist"}

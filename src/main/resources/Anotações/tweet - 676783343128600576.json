@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @smoshanthony: BB-8 and I became BB-FFs last night at the #TheForceAwakens premiere. (Got in somehow thanks toâ\u20ac¦ https://t.co/rSftZjz92T",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03708242693002908",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9259843816671834",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676783343128600576",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @smoshanthony: BB-8 and I became BB-FFs last night at the #TheForceAwakens premiere. (Got in somehow thanks toâ\u20ac¦ https://t.co/rSftZjz92T","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03708242693002908","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9259843816671834","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676783343128600576","@sparql":"","@policy":"whitelist"}

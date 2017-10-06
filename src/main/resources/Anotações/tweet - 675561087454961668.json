@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "World according to ... Donald #Trump https://t.co/hmV7oWDbZI",
- "@support": "20",
- "@types": "",
- "tweet": "675561087454961668",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"World according to ... Donald #Trump https://t.co/hmV7oWDbZI","@support":"20","@types":"","tweet":"675561087454961668","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Power to the states: Education law rewrite passes Congress - U.S. News &amp; World Report https://t.co/VKpOUtWPAm",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.016435341489160944",
-  "@URI": "http://dbpedia.org/resource/United_States_Congress",
-  "@support": "19906",
-  "@surfaceForm": "Congress",
-  "@offset": "50",
-  "@similarityScore": "0.9766825645340216",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature"
- }],
- "tweet": "674869796769415169",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Power to the states: Education law rewrite passes Congress - U.S. News &amp; World Report https://t.co/VKpOUtWPAm","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.016435341489160944","@URI":"http://dbpedia.org/resource/United_States_Congress","@support":"19906","@surfaceForm":"Congress","@offset":"50","@similarityScore":"0.9766825645340216","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature"}],"tweet":"674869796769415169","@sparql":"","@policy":"whitelist"}

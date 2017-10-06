@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Gonna watch #TheForceAwakens in MOA this Thursday (8:00PM) and I'm already scared about how I'll get home if the weather stays like this",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02928393500946662",
-  "@URI": "http://dbpedia.org/resource/Minute_of_arc",
-  "@support": "1488",
-  "@surfaceForm": "MOA",
-  "@offset": "32",
-  "@similarityScore": "0.9582976098383195",
-  "@types": ""
- }],
- "tweet": "676786312314138625",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Gonna watch #TheForceAwakens in MOA this Thursday (8:00PM) and I'm already scared about how I'll get home if the weather stays like this","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02928393500946662","@URI":"http://dbpedia.org/resource/Minute_of_arc","@support":"1488","@surfaceForm":"MOA","@offset":"32","@similarityScore":"0.9582976098383195","@types":""}],"tweet":"676786312314138625","@sparql":"","@policy":"whitelist"}

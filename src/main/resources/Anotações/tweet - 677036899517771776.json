@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @BenSpark: A SPOILER FREE review of #StarWars #TheForceAwakens https://t.co/hdZuMDxjDR",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.013944081751116392",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.976617365077848",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036899517771776",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @BenSpark: A SPOILER FREE review of #StarWars #TheForceAwakens https://t.co/hdZuMDxjDR","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.013944081751116392","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.976617365077848","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036899517771776","@sparql":"","@policy":"whitelist"}

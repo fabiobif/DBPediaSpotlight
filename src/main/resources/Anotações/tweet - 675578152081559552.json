@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @BOSSYtxmar55: #TeamTrump #Trump2016  A REAL LAW  BACKS UP #Trump STATEMENT SO \"NOT\" UNCONSTITUTIONAL https://t.co/ze68EtlcfM https://t.â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.007034780518389287",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9872086118171018",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675578152081559552",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @BOSSYtxmar55: #TeamTrump #Trump2016  A REAL LAW  BACKS UP #Trump STATEMENT SO \"NOT\" UNCONSTITUTIONAL https://t.co/ze68EtlcfM https://t.â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.007034780518389287","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9872086118171018","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675578152081559552","@sparql":"","@policy":"whitelist"}

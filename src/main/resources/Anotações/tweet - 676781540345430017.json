@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @blackfilm: Star Power! @JohnBoyega &amp; Chadwick Boseman at #StarWars #TheForceAwakens World Premiere - https://t.co/VBC0ubBxSe https://t.â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.005836844245609003",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9874611810088275",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676781540345430017",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @blackfilm: Star Power! @JohnBoyega &amp; Chadwick Boseman at #StarWars #TheForceAwakens World Premiere - https://t.co/VBC0ubBxSe https://t.â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.005836844245609003","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9874611810088275","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676781540345430017","@sparql":"","@policy":"whitelist"}

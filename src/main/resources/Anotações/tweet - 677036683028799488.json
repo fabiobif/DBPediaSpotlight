@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Our film critic Damon Smith gives #TheForceAwakens 8.5/10 - \"a rollicking and unabashedly old-fashioned battle beyond the stars\"",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004739782980583617",
-  "@URI": "http://dbpedia.org/resource/Film_criticism",
-  "@support": "675",
-  "@surfaceForm": "film critic",
-  "@offset": "4",
-  "@similarityScore": "0.9936920447028317",
-  "@types": ""
- }],
- "tweet": "677036683028799488",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Our film critic Damon Smith gives #TheForceAwakens 8.5/10 - \"a rollicking and unabashedly old-fashioned battle beyond the stars\"","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004739782980583617","@URI":"http://dbpedia.org/resource/Film_criticism","@support":"675","@surfaceForm":"film critic","@offset":"4","@similarityScore":"0.9936920447028317","@types":""}],"tweet":"677036683028799488","@sparql":"","@policy":"whitelist"}

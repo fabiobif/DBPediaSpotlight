@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Kathleen Kennedy's speech from the #TheForceAwakens premiere is incredibly inspiring: https://t.co/3EObdJpZRk https://t.co/DTlR4eaGtl",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.4616405828673265",
-  "@URI": "http://dbpedia.org/resource/Kathleen_Kennedy_(film_producer)",
-  "@support": "61",
-  "@surfaceForm": "Kathleen Kennedy",
-  "@offset": "0",
-  "@similarityScore": "0.6763288799529655",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
- }],
- "tweet": "676783832033583104",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Kathleen Kennedy's speech from the #TheForceAwakens premiere is incredibly inspiring: https://t.co/3EObdJpZRk https://t.co/DTlR4eaGtl","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.4616405828673265","@URI":"http://dbpedia.org/resource/Kathleen_Kennedy_(film_producer)","@support":"61","@surfaceForm":"Kathleen Kennedy","@offset":"0","@similarityScore":"0.6763288799529655","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"}],"tweet":"676783832033583104","@sparql":"","@policy":"whitelist"}

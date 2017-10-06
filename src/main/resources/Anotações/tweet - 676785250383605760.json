@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "In lieu of spoilers from the movie, here are some cupcakes from the afterparty. #theforceawakensâ\u20ac¦ https://t.co/pBrPChMXgh",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.5169889215598246",
-  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
-  "@support": "248",
-  "@surfaceForm": "spoilers",
-  "@offset": "11",
-  "@similarityScore": "0.5859505893523136",
-  "@types": ""
- }],
- "tweet": "676785250383605760",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"In lieu of spoilers from the movie, here are some cupcakes from the afterparty. #theforceawakensâ\u20ac¦ https://t.co/pBrPChMXgh","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.5169889215598246","@URI":"http://dbpedia.org/resource/Spoiler_(aeronautics)","@support":"248","@surfaceForm":"spoilers","@offset":"11","@similarityScore":"0.5859505893523136","@types":""}],"tweet":"676785250383605760","@sparql":"","@policy":"whitelist"}

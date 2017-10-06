@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I am going dark on social media until I've seen #TheForceAwakens. See you all on Friday!",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.397910299270539E-4",
-  "@URI": "http://dbpedia.org/resource/Social_media",
-  "@support": "2206",
-  "@surfaceForm": "social media",
-  "@offset": "19",
-  "@similarityScore": "0.9993494314609438",
-  "@types": ""
- }],
- "tweet": "676784940114190338",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I am going dark on social media until I've seen #TheForceAwakens. See you all on Friday!","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.397910299270539E-4","@URI":"http://dbpedia.org/resource/Social_media","@support":"2206","@surfaceForm":"social media","@offset":"19","@similarityScore":"0.9993494314609438","@types":""}],"tweet":"676784940114190338","@sparql":"","@policy":"whitelist"}

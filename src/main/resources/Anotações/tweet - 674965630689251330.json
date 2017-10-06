@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Is Nano-Piracy the real Force that will Awaken? It is quite possible. #theforceawakens #piracy #starwars https://t.co/1OWfh9SLXz",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.013056932193554693",
-  "@URI": "http://dbpedia.org/resource/Piracy",
-  "@support": "5350",
-  "@surfaceForm": "piracy",
-  "@offset": "88",
-  "@similarityScore": "0.9782127727254664",
-  "@types": ""
- }],
- "tweet": "674965630689251330",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Is Nano-Piracy the real Force that will Awaken? It is quite possible. #theforceawakens #piracy #starwars https://t.co/1OWfh9SLXz","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.013056932193554693","@URI":"http://dbpedia.org/resource/Piracy","@support":"5350","@surfaceForm":"piracy","@offset":"88","@similarityScore":"0.9782127727254664","@types":""}],"tweet":"674965630689251330","@sparql":"","@policy":"whitelist"}

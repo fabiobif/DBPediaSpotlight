@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump shouldn't be banned from going anywhere. EVERY country deserves a chance to pelt eggs at this crazy, sunburnt cabbage-patch doll!",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002601811225813683",
-  "@URI": "http://dbpedia.org/resource/Egg_(food)",
-  "@support": "2375",
-  "@surfaceForm": "eggs",
-  "@offset": "88",
-  "@similarityScore": "0.9919436175316668",
-  "@types": ""
- }],
- "tweet": "675570199110795265",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump shouldn't be banned from going anywhere. EVERY country deserves a chance to pelt eggs at this crazy, sunburnt cabbage-patch doll!","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002601811225813683","@URI":"http://dbpedia.org/resource/Egg_(food)","@support":"2375","@surfaceForm":"eggs","@offset":"88","@similarityScore":"0.9919436175316668","@types":""}],"tweet":"675570199110795265","@sparql":"","@policy":"whitelist"}

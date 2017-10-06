@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Outrage! #Obama Caves on Key Elements of #IranDeal https://t.co/RSHGln51BB @securefreedom @FredFleitz #IAEA https://t.co/aLju09sLS6",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/International_Atomic_Energy_Agency",
-  "@support": "1880",
-  "@surfaceForm": "IAEA",
-  "@offset": "103",
-  "@similarityScore": "0.9999998771175815",
-  "@types": ""
- }],
- "tweet": "675294447760834560",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Outrage! #Obama Caves on Key Elements of #IranDeal https://t.co/RSHGln51BB @securefreedom @FredFleitz #IAEA https://t.co/aLju09sLS6","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/International_Atomic_Energy_Agency","@support":"1880","@surfaceForm":"IAEA","@offset":"103","@similarityScore":"0.9999998771175815","@types":""}],"tweet":"675294447760834560","@sparql":"","@policy":"whitelist"}

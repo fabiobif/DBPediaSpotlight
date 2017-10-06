@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @junebre: In case you wondered #StarWarsForceAwakens #StarWars https://t.co/pPlkOL4Ffy",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.028632727727444088",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9488346281067465",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036739253428224",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @junebre: In case you wondered #StarWarsForceAwakens #StarWars https://t.co/pPlkOL4Ffy","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.028632727727444088","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9488346281067465","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036739253428224","@sparql":"","@policy":"whitelist"}

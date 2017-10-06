@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Would Han Solo say something about who shoot first in Ep.4 in #StarWars #TheForceAwakens ?",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0019286644956370337",
-  "@URI": "http://dbpedia.org/resource/Han_Solo",
-  "@support": "545",
-  "@surfaceForm": "Han Solo",
-  "@offset": "6",
-  "@similarityScore": "0.9980750480509418",
-  "@types": ""
- }],
- "tweet": "675196548867846144",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Would Han Solo say something about who shoot first in Ep.4 in #StarWars #TheForceAwakens ?","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0019286644956370337","@URI":"http://dbpedia.org/resource/Han_Solo","@support":"545","@surfaceForm":"Han Solo","@offset":"6","@similarityScore":"0.9980750480509418","@types":""}],"tweet":"675196548867846144","@sparql":"","@policy":"whitelist"}

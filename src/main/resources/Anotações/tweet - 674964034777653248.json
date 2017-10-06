@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "How the opening of Star Wars was filmed #StarWars #StarWarsForceAwakens https://t.co/dcqjXFT6W3",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.026664233306058868",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "19",
-  "@similarityScore": "0.9727931180404236",
-  "@types": ""
- }],
- "tweet": "674964034777653248",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"How the opening of Star Wars was filmed #StarWars #StarWarsForceAwakens https://t.co/dcqjXFT6W3","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.026664233306058868","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"19","@similarityScore":"0.9727931180404236","@types":""}],"tweet":"674964034777653248","@sparql":"","@policy":"whitelist"}

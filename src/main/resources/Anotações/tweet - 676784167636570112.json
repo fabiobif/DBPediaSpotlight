@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "2 days more #TheForceAwakens no spoilers coming through my tweets now or after Thursday. #MayTheForceBeWithYou https://t.co/zFYOau3yoR",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.19111504332208173",
-  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
-  "@support": "248",
-  "@surfaceForm": "spoilers",
-  "@offset": "32",
-  "@similarityScore": "0.7627890739137342",
-  "@types": ""
- }],
- "tweet": "676784167636570112",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"2 days more #TheForceAwakens no spoilers coming through my tweets now or after Thursday. #MayTheForceBeWithYou https://t.co/zFYOau3yoR","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.19111504332208173","@URI":"http://dbpedia.org/resource/Spoiler_(aeronautics)","@support":"248","@surfaceForm":"spoilers","@offset":"32","@similarityScore":"0.7627890739137342","@types":""}],"tweet":"676784167636570112","@sparql":"","@policy":"whitelist"}

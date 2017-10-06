@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "v @nytopinion  Businesses that license the #Trump brand ought to do some soul searching. https://t.co/yuQJcqmAbs",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.5286653847480006",
-  "@URI": "http://dbpedia.org/resource/Soul_music",
-  "@support": "6691",
-  "@surfaceForm": "soul",
-  "@offset": "73",
-  "@similarityScore": "0.6540179835502457",
-  "@types": "DBpedia:TopicalConcept,DBpedia:Genre,DBpedia:MusicGenre"
- }],
- "tweet": "675573991831154688",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"v @nytopinion  Businesses that license the #Trump brand ought to do some soul searching. https://t.co/yuQJcqmAbs","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.5286653847480006","@URI":"http://dbpedia.org/resource/Soul_music","@support":"6691","@surfaceForm":"soul","@offset":"73","@similarityScore":"0.6540179835502457","@types":"DBpedia:TopicalConcept,DBpedia:Genre,DBpedia:MusicGenre"}],"tweet":"675573991831154688","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Our Ritzy stormtroopers are getting very excited for @StarWars #TheForceAwakens #6Days https://t.co/Y7Wbqxpsas https://t.co/0fms9fLJtY",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.4646661734409456",
-  "@URI": "http://dbpedia.org/resource/Stormtrooper_(Star_Wars)",
-  "@support": "186",
-  "@surfaceForm": "stormtroopers",
-  "@offset": "10",
-  "@similarityScore": "0.6559505402798714",
-  "@types": ""
- }],
- "tweet": "675232372972003328",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Our Ritzy stormtroopers are getting very excited for @StarWars #TheForceAwakens #6Days https://t.co/Y7Wbqxpsas https://t.co/0fms9fLJtY","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.4646661734409456","@URI":"http://dbpedia.org/resource/Stormtrooper_(Star_Wars)","@support":"186","@surfaceForm":"stormtroopers","@offset":"10","@similarityScore":"0.6559505402798714","@types":""}],"tweet":"675232372972003328","@sparql":"","@policy":"whitelist"}

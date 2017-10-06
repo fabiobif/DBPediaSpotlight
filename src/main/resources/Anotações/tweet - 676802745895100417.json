@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Painted a quick #Vader for my #instagramers #starwarsfan #painting #starwars #wayoftheforceâ\u20ac¦ https://t.co/CAhfhszRLf",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.16928861607554077",
-  "@URI": "http://dbpedia.org/resource/Big_Van_Vader",
-  "@support": "443",
-  "@surfaceForm": "Vader",
-  "@offset": "17",
-  "@similarityScore": "0.8281513278425043",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Wrestler"
- }],
- "tweet": "676802745895100417",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Painted a quick #Vader for my #instagramers #starwarsfan #painting #starwars #wayoftheforceâ\u20ac¦ https://t.co/CAhfhszRLf","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.16928861607554077","@URI":"http://dbpedia.org/resource/Big_Van_Vader","@support":"443","@surfaceForm":"Vader","@offset":"17","@similarityScore":"0.8281513278425043","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Wrestler"}],"tweet":"676802745895100417","@sparql":"","@policy":"whitelist"}

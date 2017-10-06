@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "ONE WEEK til the #TheForceAwakens holy effin shit people! #StarWars #nerdproblems",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Effin",
-  "@support": "51",
-  "@surfaceForm": "effin",
-  "@offset": "39",
-  "@similarityScore": "0.9999999381254857",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town"
- }],
- "tweet": "675174429983432704",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"ONE WEEK til the #TheForceAwakens holy effin shit people! #StarWars #nerdproblems","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Effin","@support":"51","@surfaceForm":"effin","@offset":"39","@similarityScore":"0.9999999381254857","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Town"}],"tweet":"675174429983432704","@sparql":"","@policy":"whitelist"}

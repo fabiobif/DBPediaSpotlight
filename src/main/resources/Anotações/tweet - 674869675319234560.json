@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Obama called his favorite song https://t.co/ub81IRa6pw https://t.co/jlN3Ve1TSD #news #Russia",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002917862333986038",
-  "@URI": "http://dbpedia.org/resource/Russia",
-  "@support": "109124",
-  "@surfaceForm": "Russia",
-  "@offset": "86",
-  "@similarityScore": "0.9966622334254579",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "674869675319234560",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Obama called his favorite song https://t.co/ub81IRa6pw https://t.co/jlN3Ve1TSD #news #Russia","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002917862333986038","@URI":"http://dbpedia.org/resource/Russia","@support":"109124","@surfaceForm":"Russia","@offset":"86","@similarityScore":"0.9966622334254579","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"674869675319234560","@sparql":"","@policy":"whitelist"}

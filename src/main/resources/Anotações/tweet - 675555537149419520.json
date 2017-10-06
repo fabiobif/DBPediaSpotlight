@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Politics_PR: Oh this is EPIC! - #Trump https://t.co/6DTF6Pq3V8",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.035069912916232494",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9339835040920587",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675555537149419520",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Politics_PR: Oh this is EPIC! - #Trump https://t.co/6DTF6Pq3V8","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.035069912916232494","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9339835040920587","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675555537149419520","@sparql":"","@policy":"whitelist"}

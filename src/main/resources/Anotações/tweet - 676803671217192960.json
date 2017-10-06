@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Scene in @FamilyGuy @StewieGriffin buzzed going @Disney World I'm Da same about seeing @StarWars #StarWars #TheForce https://t.co/WqjpZJSi49",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.152612789525913E-4",
-  "@URI": "http://dbpedia.org/resource/Walt_Disney_World",
-  "@support": "2037",
-  "@surfaceForm": "Disney World",
-  "@offset": "49",
-  "@similarityScore": "0.999085575658253",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "676803671217192960",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Scene in @FamilyGuy @StewieGriffin buzzed going @Disney World I'm Da same about seeing @StarWars #StarWars #TheForce https://t.co/WqjpZJSi49","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.152612789525913E-4","@URI":"http://dbpedia.org/resource/Walt_Disney_World","@support":"2037","@surfaceForm":"Disney World","@offset":"49","@similarityScore":"0.999085575658253","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"676803671217192960","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @DamianEstrada: TFW you can't contain your excitement because it's #StarWars week!   Fun Fact: He has never seen StarWars... https://t.câ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.013029941358008206",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9757262697835977",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677037170335473665",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @DamianEstrada: TFW you can't contain your excitement because it's #StarWars week!   Fun Fact: He has never seen StarWars... https://t.câ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.013029941358008206","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9757262697835977","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677037170335473665","@sparql":"","@policy":"whitelist"}

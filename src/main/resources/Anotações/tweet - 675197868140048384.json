@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ComicBook_Movie: CHECK OUT The Four New Character Posters For @starwars: #TheForceAwakens Hit https://t.co/N2gors1xi8 https://t.co/Byf6â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0024413549277734685",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9955045977948748",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675197868140048384",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ComicBook_Movie: CHECK OUT The Four New Character Posters For @starwars: #TheForceAwakens Hit https://t.co/N2gors1xi8 https://t.co/Byf6â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0024413549277734685","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9955045977948748","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675197868140048384","@sparql":"","@policy":"whitelist"}

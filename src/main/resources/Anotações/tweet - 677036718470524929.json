@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Stop what you're doing right now and type this into Google: A long time ago in a galaxy far far away (You're welcome, guys) #starwars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0010290536103060369",
-  "@URI": "http://dbpedia.org/resource/Google",
-  "@support": "15257",
-  "@surfaceForm": "Google",
-  "@offset": "52",
-  "@similarityScore": "0.9989398386006781",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "677036718470524929",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Stop what you're doing right now and type this into Google: A long time ago in a galaxy far far away (You're welcome, guys) #starwars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0010290536103060369","@URI":"http://dbpedia.org/resource/Google","@support":"15257","@surfaceForm":"Google","@offset":"52","@similarityScore":"0.9989398386006781","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"677036718470524929","@sparql":"","@policy":"whitelist"}

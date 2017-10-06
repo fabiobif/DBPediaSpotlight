@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @paranerdnicky: The perfect dress for today! ðŸ\u2018Œ #starwars #TheForceAwakens  https://t.co/20o1G5UCKZ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.020009444116958063",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9647871274984993",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675247089723564032",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @paranerdnicky: The perfect dress for today! ðŸ\u2018Œ #starwars #TheForceAwakens  https://t.co/20o1G5UCKZ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.020009444116958063","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9647871274984993","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675247089723564032","@sparql":"","@policy":"whitelist"}

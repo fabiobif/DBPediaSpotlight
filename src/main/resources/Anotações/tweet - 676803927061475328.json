@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#StarWars Characters - As Played by Members of the Cleveland #Browns   https://t.co/p8s4MEN5al",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01525434224757928",
-  "@URI": "http://dbpedia.org/resource/Cleveland",
-  "@support": "16439",
-  "@surfaceForm": "Cleveland",
-  "@offset": "51",
-  "@similarityScore": "0.9805784361166673",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
- }],
- "tweet": "676803927061475328",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#StarWars Characters - As Played by Members of the Cleveland #Browns   https://t.co/p8s4MEN5al","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01525434224757928","@URI":"http://dbpedia.org/resource/Cleveland","@support":"16439","@surfaceForm":"Cleveland","@offset":"51","@similarityScore":"0.9805784361166673","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"}],"tweet":"676803927061475328","@sparql":"","@policy":"whitelist"}

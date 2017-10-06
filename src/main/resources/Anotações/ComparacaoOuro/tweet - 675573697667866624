@@ -1,0 +1,28 @@
+Tweet ID:675573697667866624
+Tweet: #Donald #Trump a disgrace to US: #Saudi prince Bin Talal https://t.co/XHvFQFJcyw https://t.co/KPxEATFOqf
+Palavra: Saudi prince
+OffSet: 34
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/House_of_Saud
+ Regra Ouro:http://dbpedia.org/resource/Saudi_Arabia
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: prince Bin Talal
+URI na regra ouro: http://dbpedia.org/resource/Al-Waleed_bin_Talal
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Donald
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Trump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: US
+URI na regra ouro: http://dbpedia.org/resource/United_States
+Type: Location
+

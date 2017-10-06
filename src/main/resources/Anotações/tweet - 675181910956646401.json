@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @MikeSington: Kind of excited for the new #StarWars movie, so I redecorated my bedroom. #TheForceAwakens https://t.co/GuxeHKuZDQ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02259369766189085",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9604805745661369",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675181910956646401",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @MikeSington: Kind of excited for the new #StarWars movie, so I redecorated my bedroom. #TheForceAwakens https://t.co/GuxeHKuZDQ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02259369766189085","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9604805745661369","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675181910956646401","@sparql":"","@policy":"whitelist"}

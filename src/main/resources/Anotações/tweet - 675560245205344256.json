@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "When historians try and look back at us in 2015, may they only find a selfie stick, Donald #Trump's hair and this. https://t.co/uDrFohsDK5",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Self-portrait",
-  "@support": "324",
-  "@surfaceForm": "selfie",
-  "@offset": "70",
-  "@similarityScore": "0.9999999621440459",
-  "@types": ""
- }],
- "tweet": "675560245205344256",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"When historians try and look back at us in 2015, may they only find a selfie stick, Donald #Trump's hair and this. https://t.co/uDrFohsDK5","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Self-portrait","@support":"324","@surfaceForm":"selfie","@offset":"70","@similarityScore":"0.9999999621440459","@types":""}],"tweet":"675560245205344256","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@LBC @cristo_radio #Trump is a lot of things. Stupid is not one of them.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0910502346177019",
-  "@URI": "http://dbpedia.org/resource/LBC",
-  "@support": "338",
-  "@surfaceForm": "LBC",
-  "@offset": "1",
-  "@similarityScore": "0.8813182086714375",
-  "@types": ""
- }],
- "tweet": "675568849278935040",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@LBC @cristo_radio #Trump is a lot of things. Stupid is not one of them.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0910502346177019","@URI":"http://dbpedia.org/resource/LBC","@support":"338","@surfaceForm":"LBC","@offset":"1","@similarityScore":"0.8813182086714375","@types":""}],"tweet":"675568849278935040","@sparql":"","@policy":"whitelist"}

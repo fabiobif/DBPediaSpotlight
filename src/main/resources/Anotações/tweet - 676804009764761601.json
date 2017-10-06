@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @starwars: Adam Driver makes his apperance on the #StarWars #TheForceAwakens #redcarpet LIVE now on https://t.co/mVXi17qoJk https://t.coâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.023584252694052878",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9652419929654205",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676804009764761601",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @starwars: Adam Driver makes his apperance on the #StarWars #TheForceAwakens #redcarpet LIVE now on https://t.co/mVXi17qoJk https://t.coâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.023584252694052878","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9652419929654205","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676804009764761601","@sparql":"","@policy":"whitelist"}

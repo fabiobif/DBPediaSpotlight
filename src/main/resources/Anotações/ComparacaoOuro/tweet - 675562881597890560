@@ -1,0 +1,32 @@
+Tweet ID:675562881597890560
+Tweet: Donald Trump Isn't Hitler, Jewish Republican... #trump #tcot #donaldtrump https://t.co/PGzAJvDWSB https://t.co/TKD9s7Izjm
+Palavra: Donald Trump
+OffSet: 0
+ACHOU MESMA URL: http://dbpedia.org/resource/Donald_Trump
+
+Palavra: Hitler
+OffSet: 19
+ACHOU MESMA URL: http://dbpedia.org/resource/Adolf_Hitler
+
+Palavra: trump
+OffSet: 49
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Trump
+ Regra Ouro:http://dbpedia.org/resource/Donald_Trump
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: donaldtrump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+Palavra: Jewish
+OffSet: 27
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Jews
+ Regra Ouro:NIL233
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: tcot
+URI na regra ouro: NIL62
+Type: Organization
+

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @padmeorgana93: New The Force awakens Behind the Scenes pictures!!! #TheForceAwakens #DaisyRidley #JohnBoyega https://t.co/OuXL5Sn8gx",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "7.232057731991184E-4",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9986764445110946",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675193807655280641",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @padmeorgana93: New The Force awakens Behind the Scenes pictures!!! #TheForceAwakens #DaisyRidley #JohnBoyega https://t.co/OuXL5Sn8gx","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"7.232057731991184E-4","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9986764445110946","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675193807655280641","@sparql":"","@policy":"whitelist"}

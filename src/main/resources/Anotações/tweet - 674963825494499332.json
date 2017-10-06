@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The Chinese Trailer For The Force Awakens Is The Greatest Star Wars Trailer of All Time - https://t.co/qwZEoCbTj7 #StarWars #ForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0010780913013053975",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "58",
-  "@similarityScore": "0.9987907898398558",
-  "@types": ""
- }],
- "tweet": "674963825494499332",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The Chinese Trailer For The Force Awakens Is The Greatest Star Wars Trailer of All Time - https://t.co/qwZEoCbTj7 #StarWars #ForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0010780913013053975","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"58","@similarityScore":"0.9987907898398558","@types":""}],"tweet":"674963825494499332","@sparql":"","@policy":"whitelist"}

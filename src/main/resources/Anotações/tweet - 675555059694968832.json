@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @yobynnad1127: There's a big difference between #immigrants from yesterday and today.  #illegals #refugees #Trump #Cruz https://t.co/hDRâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.014056412950209582",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9746875488867662",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675555059694968832",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @yobynnad1127: There's a big difference between #immigrants from yesterday and today.  #illegals #refugees #Trump #Cruz https://t.co/hDRâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.014056412950209582","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9746875488867662","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675555059694968832","@sparql":"","@policy":"whitelist"}

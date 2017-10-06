@@ -1,0 +1,37 @@
+Tweet ID:674964590040584192
+Tweet: Working on my illustrator skills #starwars #firstorder #tfa #theforceawakens #sith #stormtrooperâ€¦ https://t.co/7LWoan6g7f
+Palavra: sith
+OffSet: 78
+ACHOU MESMA URL: http://dbpedia.org/resource/Sith
+
+Palavra: illustrator
+OffSet: 14
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Illustrator
+ Regra Ouro:http://dbpedia.org/resource/Adobe_Illustrator
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: stormtrooper
+URI na regra ouro: http://dbpedia.org/resource/Stormtrooper_(Star_Wars)
+Type: Character
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: starwars
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: firstorder
+URI na regra ouro: http://dbpedia.org/resource/First_Order_(Star_Wars)
+Type: Organization
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: tfa
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: theforceawakens
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+

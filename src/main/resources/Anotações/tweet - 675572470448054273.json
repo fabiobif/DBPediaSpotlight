@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#SyedFarook wked with school system. Would U risk UR child's welfare? He Intended 2 go 2 #SanBernadino school next #Trump #tcot #Cruz #RT",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.04380998241241104",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "135",
-  "@similarityScore": "0.9098488735407554",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675572470448054273",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#SyedFarook wked with school system. Would U risk UR child's welfare? He Intended 2 go 2 #SanBernadino school next #Trump #tcot #Cruz #RT","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.04380998241241104","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"135","@similarityScore":"0.9098488735407554","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675572470448054273","@sparql":"","@policy":"whitelist"}

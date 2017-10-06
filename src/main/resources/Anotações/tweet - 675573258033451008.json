@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The muslim in WH has sabotaged the United States of America, on purpose. @realDonaldTrump @DRUDGE_REPORT @OANN #Trump #Trump2016",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.5388013660720012E-5",
-  "@URI": "http://dbpedia.org/resource/United_States",
-  "@support": "560750",
-  "@surfaceForm": "United States",
-  "@offset": "35",
-  "@similarityScore": "0.9999736584799451",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675573258033451008",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The muslim in WH has sabotaged the United States of America, on purpose. @realDonaldTrump @DRUDGE_REPORT @OANN #Trump #Trump2016","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.5388013660720012E-5","@URI":"http://dbpedia.org/resource/United_States","@support":"560750","@surfaceForm":"United States","@offset":"35","@similarityScore":"0.9999736584799451","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675573258033451008","@sparql":"","@policy":"whitelist"}

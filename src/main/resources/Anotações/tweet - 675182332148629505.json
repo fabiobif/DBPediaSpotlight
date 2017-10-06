@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TheForceAwakens Thursday Dec 17 @ 7 &amp; 10pm on our BIG screen.  Awaken in 3D @ 7:30 &amp; 10:30pm.  When will you be... https://t.co/Ay6uqILIo6",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.35166593646894756",
-  "@URI": "http://dbpedia.org/resource/3D_computer_graphics",
-  "@support": "4021",
-  "@surfaceForm": "3D",
-  "@offset": "78",
-  "@similarityScore": "0.677494171414152",
-  "@types": ""
- }],
- "tweet": "675182332148629505",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TheForceAwakens Thursday Dec 17 @ 7 &amp; 10pm on our BIG screen.  Awaken in 3D @ 7:30 &amp; 10:30pm.  When will you be... https://t.co/Ay6uqILIo6","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.35166593646894756","@URI":"http://dbpedia.org/resource/3D_computer_graphics","@support":"4021","@surfaceForm":"3D","@offset":"78","@similarityScore":"0.677494171414152","@types":""}],"tweet":"675182332148629505","@sparql":"","@policy":"whitelist"}

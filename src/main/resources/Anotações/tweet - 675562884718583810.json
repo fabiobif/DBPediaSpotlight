@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Obama Feds Shut Down #Terror Investigation That Could Have Prevented #SanBernardino Attack https://t.co/ESZBOWJdSk via @dailycaller",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.015315533817685162",
-  "@URI": "http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)",
-  "@support": "26",
-  "@surfaceForm": "Shut Down",
-  "@offset": "12",
-  "@similarityScore": "0.9705296211801127",
-  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
- }],
- "tweet": "675562884718583810",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Obama Feds Shut Down #Terror Investigation That Could Have Prevented #SanBernardino Attack https://t.co/ESZBOWJdSk via @dailycaller","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.015315533817685162","@URI":"http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)","@support":"26","@surfaceForm":"Shut Down","@offset":"12","@similarityScore":"0.9705296211801127","@types":"Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"}],"tweet":"675562884718583810","@sparql":"","@policy":"whitelist"}

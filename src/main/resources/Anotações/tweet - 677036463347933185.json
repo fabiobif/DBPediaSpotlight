@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Saggydaddy: I take it @SimonDanczuk won't be going to see #StarWars any time soon. https://t.co/dZ8tZxcSae",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.033243230408488124",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9476486402920765",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036463347933185",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Saggydaddy: I take it @SimonDanczuk won't be going to see #StarWars any time soon. https://t.co/dZ8tZxcSae","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.033243230408488124","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9476486402920765","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036463347933185","@sparql":"","@policy":"whitelist"}

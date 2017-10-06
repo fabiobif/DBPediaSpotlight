@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "'#TheForceAwakens' Star #DaisyRidley Plays Flip Cup With #JimmyFallon https://t.co/ZtyVuY6OqU via @ComplexPop",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Flip_cup",
-  "@support": "22",
-  "@surfaceForm": "Flip Cup",
-  "@offset": "43",
-  "@similarityScore": "0.9999999999937756",
-  "@types": "DBpedia:Activity,DBpedia:Game"
- }],
- "tweet": "675199040708038657",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"'#TheForceAwakens' Star #DaisyRidley Plays Flip Cup With #JimmyFallon https://t.co/ZtyVuY6OqU via @ComplexPop","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Flip_cup","@support":"22","@surfaceForm":"Flip Cup","@offset":"43","@similarityScore":"0.9999999999937756","@types":"DBpedia:Activity,DBpedia:Game"}],"tweet":"675199040708038657","@sparql":"","@policy":"whitelist"}

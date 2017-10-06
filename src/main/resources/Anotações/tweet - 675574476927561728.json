@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "REBELLION: This State Just Voted to Ignore ALL #Obama #ExecutiveOrders https://t.co/ze0E4jK1Sd You go #Arizona show that fuck how it works!!",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "3.459794764271867E-4",
-  "@URI": "http://dbpedia.org/resource/Arizona",
-  "@support": "23576",
-  "@surfaceForm": "Arizona",
-  "@offset": "103",
-  "@similarityScore": "0.9994796689966249",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
- }],
- "tweet": "675574476927561728",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"REBELLION: This State Just Voted to Ignore ALL #Obama #ExecutiveOrders https://t.co/ze0E4jK1Sd You go #Arizona show that fuck how it works!!","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"3.459794764271867E-4","@URI":"http://dbpedia.org/resource/Arizona","@support":"23576","@surfaceForm":"Arizona","@offset":"103","@similarityScore":"0.9994796689966249","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"}],"tweet":"675574476927561728","@sparql":"","@policy":"whitelist"}

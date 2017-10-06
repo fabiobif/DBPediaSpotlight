@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The England Force. #TheForceAwakens  #StarWarsForceAwakens https://t.co/Ayx9d1Pfyi",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01737166022139865",
-  "@URI": "http://dbpedia.org/resource/England",
-  "@support": "153873",
-  "@surfaceForm": "England",
-  "@offset": "4",
-  "@similarityScore": "0.9636920630862627",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "676782742332424193",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The England Force. #TheForceAwakens  #StarWarsForceAwakens https://t.co/Ayx9d1Pfyi","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01737166022139865","@URI":"http://dbpedia.org/resource/England","@support":"153873","@surfaceForm":"England","@offset":"4","@similarityScore":"0.9636920630862627","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"676782742332424193","@sparql":"","@policy":"whitelist"}

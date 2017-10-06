@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @tasalinas: John Boyega plays Finn in #StarWars #TheForceAwakens - on the blog today is my exclusiveâ\u20ac¦ https://t.co/FSsNYNdckL",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.00902953213278367",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9838002331889205",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676784183499464705",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @tasalinas: John Boyega plays Finn in #StarWars #TheForceAwakens - on the blog today is my exclusiveâ\u20ac¦ https://t.co/FSsNYNdckL","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.00902953213278367","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9838002331889205","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676784183499464705","@sparql":"","@policy":"whitelist"}

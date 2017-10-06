@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "My take: #Trump studied, maneuverd til almost 2 late, then pouncd 2 save Amer. Rappoport take: Donald a MSM creation https://t.co/BXILf7ENXT",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.2797428616141328",
-  "@URI": "http://dbpedia.org/resource/Mouvement_Socialiste_Militant",
-  "@support": "149",
-  "@surfaceForm": "MSM",
-  "@offset": "104",
-  "@similarityScore": "0.7361919834337622",
-  "@types": ""
- }],
- "tweet": "675574272161685504",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"My take: #Trump studied, maneuverd til almost 2 late, then pouncd 2 save Amer. Rappoport take: Donald a MSM creation https://t.co/BXILf7ENXT","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.2797428616141328","@URI":"http://dbpedia.org/resource/Mouvement_Socialiste_Militant","@support":"149","@surfaceForm":"MSM","@offset":"104","@similarityScore":"0.7361919834337622","@types":""}],"tweet":"675574272161685504","@sparql":"","@policy":"whitelist"}

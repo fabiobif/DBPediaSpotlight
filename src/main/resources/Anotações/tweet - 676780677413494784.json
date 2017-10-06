@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I keep say just 4 more days...but keep getting new photos on my TL #StarWars #TheForceAwakens https://t.co/1FDwpkV1IG",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.001154290600501094",
-  "@URI": "http://dbpedia.org/resource/Fish_measurement",
-  "@support": "3743",
-  "@surfaceForm": "TL",
-  "@offset": "64",
-  "@similarityScore": "0.9983332557922621",
-  "@types": ""
- }],
- "tweet": "676780677413494784",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I keep say just 4 more days...but keep getting new photos on my TL #StarWars #TheForceAwakens https://t.co/1FDwpkV1IG","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.001154290600501094","@URI":"http://dbpedia.org/resource/Fish_measurement","@support":"3743","@surfaceForm":"TL","@offset":"64","@similarityScore":"0.9983332557922621","@types":""}],"tweet":"676780677413494784","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@seanhannity If Jeb is the answer. The question must be, name the most uncharismatic, non-influential,, boring GOP candidate ever? #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.0891719343402073E-5",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "111",
-  "@similarityScore": "0.9999695473581676",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675560267628040192",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@seanhannity If Jeb is the answer. The question must be, name the most uncharismatic, non-influential,, boring GOP candidate ever? #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.0891719343402073E-5","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"111","@similarityScore":"0.9999695473581676","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675560267628040192","@sparql":"","@policy":"whitelist"}

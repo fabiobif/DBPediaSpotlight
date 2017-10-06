@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Brand Conquest: Mainstreaming your niche like Star Wars https://t.co/SyOWKmUEtU #TheForceAwakens #branding #marketing #infographic @starwars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.38793295831105E-4",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "46",
-  "@similarityScore": "0.9982530542155146",
-  "@types": ""
- }],
- "tweet": "676786431868669952",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Brand Conquest: Mainstreaming your niche like Star Wars https://t.co/SyOWKmUEtU #TheForceAwakens #branding #marketing #infographic @starwars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.38793295831105E-4","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"46","@similarityScore":"0.9982530542155146","@types":""}],"tweet":"676786431868669952","@sparql":"","@policy":"whitelist"}

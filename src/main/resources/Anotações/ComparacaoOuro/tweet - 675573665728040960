@@ -1,0 +1,18 @@
+Tweet ID:675573665728040960
+Tweet: So sick of the lies/cover-up by #Obama administration and @HillaryClinton. #WakeUpAmerica now or it'll be too late! https://t.co/C9566BigkW
+Palavra: Obama administration
+OffSet: 33
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Presidency_of_Barack_Obama
+ Regra Ouro:http://dbpedia.org/resource/Barack_Obama
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: HillaryClinton
+URI na regra ouro: http://dbpedia.org/resource/Hillary_Rodham_Clinton
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: WakeUpAmerica
+URI na regra ouro: NIL24
+Type: Event
+

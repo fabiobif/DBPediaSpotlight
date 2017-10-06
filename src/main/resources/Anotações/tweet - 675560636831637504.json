@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Probably some of #trump's supporters https://t.co/TNNO7tRm2z",
- "@support": "20",
- "@types": "",
- "tweet": "675560636831637504",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Probably some of #trump's supporters https://t.co/TNNO7tRm2z","@support":"20","@types":"","tweet":"675560636831637504","@sparql":"","@policy":"whitelist"}

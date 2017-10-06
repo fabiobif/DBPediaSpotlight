@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "2 new podcasts TODAY in the lead up to #StarWars #TheForceAwakens  https://t.co/qBoXDf8X1e  https://t.co/g8n4m7aVGj https://t.co/dgf510qHQ1",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Podcast",
-  "@support": "3773",
-  "@surfaceForm": "podcasts",
-  "@offset": "6",
-  "@similarityScore": "0.9999998054021452",
-  "@types": ""
- }],
- "tweet": "675574357544931328",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"2 new podcasts TODAY in the lead up to #StarWars #TheForceAwakens  https://t.co/qBoXDf8X1e  https://t.co/g8n4m7aVGj https://t.co/dgf510qHQ1","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Podcast","@support":"3773","@surfaceForm":"podcasts","@offset":"6","@similarityScore":"0.9999998054021452","@types":""}],"tweet":"675574357544931328","@sparql":"","@policy":"whitelist"}

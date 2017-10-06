@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT Nothing like putting together a comprehensive list of #StarWars #Funko Pops and realizing you only have about half of all released.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.006045915160842556",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9846376410464301",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675573976811311104",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT Nothing like putting together a comprehensive list of #StarWars #Funko Pops and realizing you only have about half of all released.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.006045915160842556","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9846376410464301","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675573976811311104","@sparql":"","@policy":"whitelist"}

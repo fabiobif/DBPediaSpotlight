@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @HeyUGuys: #StarWars #TheForceAwakens World Premiere Gallery.  https://t.co/YOVotUWTjO https://t.co/8HMt5Oj9BJ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.008781768859157393",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9837589491044102",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676779562429120512",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @HeyUGuys: #StarWars #TheForceAwakens World Premiere Gallery.  https://t.co/YOVotUWTjO https://t.co/8HMt5Oj9BJ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.008781768859157393","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9837589491044102","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676779562429120512","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@Sam_Crampton @dan_crampton did you know star wars is set space with spaceships!! #iknowright #futuristic #starwars #spoilerdan",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "7.477082766397355E-5",
-  "@URI": "http://dbpedia.org/resource/Star",
-  "@support": "17594",
-  "@surfaceForm": "star",
-  "@offset": "41",
-  "@similarityScore": "0.999821486807895",
-  "@types": ""
- }],
- "tweet": "676802608997212160",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@Sam_Crampton @dan_crampton did you know star wars is set space with spaceships!! #iknowright #futuristic #starwars #spoilerdan","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"7.477082766397355E-5","@URI":"http://dbpedia.org/resource/Star","@support":"17594","@surfaceForm":"star","@offset":"41","@similarityScore":"0.999821486807895","@types":""}],"tweet":"676802608997212160","@sparql":"","@policy":"whitelist"}

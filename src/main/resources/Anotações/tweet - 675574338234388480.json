@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@Lady_Makaveli71 @Lonely_Boner @TantilloKevin He's a #Trump paid like he'll ever be president. LOL",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.017079290991965417",
-  "@URI": "http://dbpedia.org/resource/LOL",
-  "@support": "201",
-  "@surfaceForm": "LOL",
-  "@offset": "95",
-  "@similarityScore": "0.970902054567898",
-  "@types": ""
- }],
- "tweet": "675574338234388480",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@Lady_Makaveli71 @Lonely_Boner @TantilloKevin He's a #Trump paid like he'll ever be president. LOL","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.017079290991965417","@URI":"http://dbpedia.org/resource/LOL","@support":"201","@surfaceForm":"LOL","@offset":"95","@similarityScore":"0.970902054567898","@types":""}],"tweet":"675574338234388480","@sparql":"","@policy":"whitelist"}

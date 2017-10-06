@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Anakin sketch card. Signing off for the day! âœŒï¸? #starwars #theforceawakens #anakin #sketchcardsâ\u20ac¦ https://t.co/13CxVDrbPs",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.18248783034209895",
-  "@URI": "http://dbpedia.org/resource/Darth_Vader",
-  "@support": "1313",
-  "@surfaceForm": "anakin",
-  "@offset": "80",
-  "@similarityScore": "0.8456743984455196",
-  "@types": ""
- }],
- "tweet": "675180486906544128",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Anakin sketch card. Signing off for the day! âœŒï¸? #starwars #theforceawakens #anakin #sketchcardsâ\u20ac¦ https://t.co/13CxVDrbPs","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.18248783034209895","@URI":"http://dbpedia.org/resource/Darth_Vader","@support":"1313","@surfaceForm":"anakin","@offset":"80","@similarityScore":"0.8456743984455196","@types":""}],"tweet":"675180486906544128","@sparql":"","@policy":"whitelist"}

@@ -1,0 +1,28 @@
+Tweet ID:674869443671941120
+Tweet: RT @EntheosShines: Just As Some Parents Have A Favorite Child, Obama Has Favorites (sign at  Egyptian Airport) @chirofrenzy @PatVPeters httâ€¦
+Palavra: Egyptian
+OffSet: 93
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Egypt
+ Regra Ouro:http://dbpedia.org/resource/Egyptians
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Obama
+URI na regra ouro: http://dbpedia.org/resource/Barack_Obama
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: chirofrenzy
+URI na regra ouro: NIL101
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: EntheosShines
+URI na regra ouro: NIL113
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: PatVPeters
+URI na regra ouro: NIL165
+Type: Person
+

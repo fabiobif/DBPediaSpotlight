@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @TB_Times: Reporter @kemettler needs to hear from the anti-#StarWars crowd! If you refuse to see #TheForceAwakens, email her at kmettlerâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0018521732089579052",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9972759396219736",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676782129829781504",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @TB_Times: Reporter @kemettler needs to hear from the anti-#StarWars crowd! If you refuse to see #TheForceAwakens, email her at kmettlerâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0018521732089579052","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9972759396219736","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676782129829781504","@sparql":"","@policy":"whitelist"}

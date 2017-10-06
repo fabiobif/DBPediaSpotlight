@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @screencrushnews: Hereâ\u20ac™s your first look at Carrie Fisherâ\u20ac™s daughter, Bille Lourd, in #TheForceAwakens https://t.co/4LxgXrqkVL https://tâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.030897458139222858",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9528989802512842",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675200362635206656",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @screencrushnews: Hereâ\u20ac™s your first look at Carrie Fisherâ\u20ac™s daughter, Bille Lourd, in #TheForceAwakens https://t.co/4LxgXrqkVL https://tâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.030897458139222858","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9528989802512842","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675200362635206656","@sparql":"","@policy":"whitelist"}

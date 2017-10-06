@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "2 savvy Ladies #ditchandswitch the #Democrats &amp; become part of the #GOP to Support #Trump #democratsfortrump #tcot  https://t.co/g8WGU7UGKL",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.2517173238661762E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "72",
-  "@similarityScore": "0.9997720347842899",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675556589131202560",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"2 savvy Ladies #ditchandswitch the #Democrats &amp; become part of the #GOP to Support #Trump #democratsfortrump #tcot  https://t.co/g8WGU7UGKL","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.2517173238661762E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"72","@similarityScore":"0.9997720347842899","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675556589131202560","@sparql":"","@policy":"whitelist"}

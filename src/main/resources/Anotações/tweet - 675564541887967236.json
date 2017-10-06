@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#OpTrump: Petition to ban #Trump from the UK now has over half a million signatures! https://t.co/6v5LDlkyRr https://t.co/pA2cVf8O5d",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.007993341119077117",
-  "@URI": "http://dbpedia.org/resource/United_Kingdom",
-  "@support": "170647",
-  "@surfaceForm": "UK",
-  "@offset": "42",
-  "@similarityScore": "0.9913418848746968",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675564541887967236",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#OpTrump: Petition to ban #Trump from the UK now has over half a million signatures! https://t.co/6v5LDlkyRr https://t.co/pA2cVf8O5d","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.007993341119077117","@URI":"http://dbpedia.org/resource/United_Kingdom","@support":"170647","@surfaceForm":"UK","@offset":"42","@similarityScore":"0.9913418848746968","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675564541887967236","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Woah this is actually pretty good! Nice! #StarWars #SpiderMan  https://t.co/IDAOvQWsZv",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.013520939881816395",
-  "@URI": "http://dbpedia.org/resource/Nice",
-  "@support": "3547",
-  "@surfaceForm": "Nice",
-  "@offset": "35",
-  "@similarityScore": "0.9836361272612542",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
- }],
- "tweet": "675572528115556352",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Woah this is actually pretty good! Nice! #StarWars #SpiderMan  https://t.co/IDAOvQWsZv","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.013520939881816395","@URI":"http://dbpedia.org/resource/Nice","@support":"3547","@surfaceForm":"Nice","@offset":"35","@similarityScore":"0.9836361272612542","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"}],"tweet":"675572528115556352","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Good to see BB-8 joining us on the swimmer Saturday. We're so on trend. #starwars #swimrun https://t.co/NWAUQ3vpUH",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0011279555596799271",
-  "@URI": "http://dbpedia.org/resource/Swimming_(sport)",
-  "@support": "9108",
-  "@surfaceForm": "swimmer",
-  "@offset": "35",
-  "@similarityScore": "0.9988601809542891",
-  "@types": "DBpedia:Activity,DBpedia:Sport"
- }],
- "tweet": "676803035365056512",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Good to see BB-8 joining us on the swimmer Saturday. We're so on trend. #starwars #swimrun https://t.co/NWAUQ3vpUH","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0011279555596799271","@URI":"http://dbpedia.org/resource/Swimming_(sport)","@support":"9108","@surfaceForm":"swimmer","@offset":"35","@similarityScore":"0.9988601809542891","@types":"DBpedia:Activity,DBpedia:Sport"}],"tweet":"676803035365056512","@sparql":"","@policy":"whitelist"}

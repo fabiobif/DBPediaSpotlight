@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "America at its ugliest. Burned Mosque Worshipers blame #Trump : https://t.co/M8ScyX9SnT #gop #tcot #TeapartyTaliban",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.3422991866987743E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "gop",
-  "@offset": "89",
-  "@similarityScore": "0.9995534471641914",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675564425290498048",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"America at its ugliest. Burned Mosque Worshipers blame #Trump : https://t.co/M8ScyX9SnT #gop #tcot #TeapartyTaliban","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.3422991866987743E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"gop","@offset":"89","@similarityScore":"0.9995534471641914","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675564425290498048","@sparql":"","@policy":"whitelist"}

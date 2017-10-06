@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@FatihRushdi may the force be with you #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0030063316525495523",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "21",
-  "@similarityScore": "0.9948494973732924",
-  "@types": ""
- }],
- "tweet": "675180508331012096",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@FatihRushdi may the force be with you #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0030063316525495523","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"21","@similarityScore":"0.9948494973732924","@types":""}],"tweet":"675180508331012096","@sparql":"","@policy":"whitelist"}

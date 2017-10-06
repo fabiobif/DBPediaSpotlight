@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "In case you need it... Star Wars spoiler blocker -  https://t.co/Bx9cKZTSQJ  #starwars #chrome",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.001629419984432217",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "23",
-  "@similarityScore": "0.9980588479575873",
-  "@types": ""
- }],
- "tweet": "674962107071406080",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"In case you need it... Star Wars spoiler blocker -  https://t.co/Bx9cKZTSQJ  #starwars #chrome","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.001629419984432217","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"23","@similarityScore":"0.9980588479575873","@types":""}],"tweet":"674962107071406080","@sparql":"","@policy":"whitelist"}

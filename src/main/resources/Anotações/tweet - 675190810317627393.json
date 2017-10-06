@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "This time next week I'll be watching #TheForceAwakens!!!!",
- "@support": "20",
- "@types": "",
- "tweet": "675190810317627393",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"This time next week I'll be watching #TheForceAwakens!!!!","@support":"20","@types":"","tweet":"675190810317627393","@sparql":"","@policy":"whitelist"}

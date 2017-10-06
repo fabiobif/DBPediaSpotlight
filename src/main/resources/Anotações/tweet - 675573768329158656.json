@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@TheRabbitHabbit @realDonaldTrump @Alwaleed_Talal yup.They support AlQaeda/ISIS. They're wackos.And #Trump has worked w them for a long time",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.6457770061809679",
-  "@URI": "http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant",
-  "@support": "574",
-  "@surfaceForm": "ISIS",
-  "@offset": "75",
-  "@similarityScore": "0.5594024561059834",
-  "@types": ""
- }],
- "tweet": "675573768329158656",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@TheRabbitHabbit @realDonaldTrump @Alwaleed_Talal yup.They support AlQaeda/ISIS. They're wackos.And #Trump has worked w them for a long time","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.6457770061809679","@URI":"http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant","@support":"574","@surfaceForm":"ISIS","@offset":"75","@similarityScore":"0.5594024561059834","@types":""}],"tweet":"675573768329158656","@sparql":"","@policy":"whitelist"}

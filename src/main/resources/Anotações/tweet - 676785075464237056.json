@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "A hue vo !!! My #StarWars Match is #DarthVader. Who's Yours? https://t.co/hcyWITPLlt #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "7.533408275135537E-4",
-  "@URI": "http://dbpedia.org/resource/Hue",
-  "@support": "556",
-  "@surfaceForm": "hue",
-  "@offset": "2",
-  "@similarityScore": "0.9992465166103748",
-  "@types": ""
- }],
- "tweet": "676785075464237056",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"A hue vo !!! My #StarWars Match is #DarthVader. Who's Yours? https://t.co/hcyWITPLlt #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"7.533408275135537E-4","@URI":"http://dbpedia.org/resource/Hue","@support":"556","@surfaceForm":"hue","@offset":"2","@similarityScore":"0.9992465166103748","@types":""}],"tweet":"676785075464237056","@sparql":"","@policy":"whitelist"}

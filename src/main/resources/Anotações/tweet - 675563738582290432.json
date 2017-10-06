@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I am really enjoying the Republican party meltdown over #Trump Never have a bunch of assholes deserved it more. Except Democrats that is.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.7142368545469797E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "Republican",
-  "@offset": "25",
-  "@similarityScore": "0.9997410646688208",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675563738582290432",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I am really enjoying the Republican party meltdown over #Trump Never have a bunch of assholes deserved it more. Except Democrats that is.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.7142368545469797E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"Republican","@offset":"25","@similarityScore":"0.9997410646688208","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675563738582290432","@sparql":"","@policy":"whitelist"}

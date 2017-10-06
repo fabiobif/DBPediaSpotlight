@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Gr8 Price #Frozen, #Sofia, #StarWars speakers, headphones https://t.co/snpi5gUEiZ @couchpotatoent",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "2.6202979498069694E-5",
-  "@URI": "http://dbpedia.org/resource/Sofia",
-  "@support": "6195",
-  "@surfaceForm": "Sofia",
-  "@offset": "20",
-  "@similarityScore": "0.99989893609146",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
- }],
- "tweet": "674962319940714496",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Gr8 Price #Frozen, #Sofia, #StarWars speakers, headphones https://t.co/snpi5gUEiZ @couchpotatoent","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"2.6202979498069694E-5","@URI":"http://dbpedia.org/resource/Sofia","@support":"6195","@surfaceForm":"Sofia","@offset":"20","@similarityScore":"0.99989893609146","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"}],"tweet":"674962319940714496","@sparql":"","@policy":"whitelist"}

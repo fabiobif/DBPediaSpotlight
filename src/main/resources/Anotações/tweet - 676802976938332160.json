@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Doing any kind of Google search related to #StarWars https://t.co/Ej3Bn0wNl2",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.5351296125252377E-5",
-  "@URI": "http://dbpedia.org/resource/Google",
-  "@support": "15257",
-  "@surfaceForm": "Google",
-  "@offset": "18",
-  "@similarityScore": "0.9999846318727053",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "676802976938332160",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Doing any kind of Google search related to #StarWars https://t.co/Ej3Bn0wNl2","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.5351296125252377E-5","@URI":"http://dbpedia.org/resource/Google","@support":"15257","@surfaceForm":"Google","@offset":"18","@similarityScore":"0.9999846318727053","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"676802976938332160","@sparql":"","@policy":"whitelist"}

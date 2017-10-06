@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Means #Trump is more popular than #Netanyahu in #UK !! LoL That won't actually make any difference with the kingdom  https://t.co/V7BfLhyAmG",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0031231892587943377",
-  "@URI": "http://dbpedia.org/resource/United_Kingdom",
-  "@support": "170647",
-  "@surfaceForm": "UK",
-  "@offset": "49",
-  "@similarityScore": "0.9967384155400191",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675559134595579904",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Means #Trump is more popular than #Netanyahu in #UK !! LoL That won't actually make any difference with the kingdom  https://t.co/V7BfLhyAmG","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0031231892587943377","@URI":"http://dbpedia.org/resource/United_Kingdom","@support":"170647","@surfaceForm":"UK","@offset":"49","@similarityScore":"0.9967384155400191","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675559134595579904","@sparql":"","@policy":"whitelist"}

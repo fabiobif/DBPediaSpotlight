@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @raisingwhasians: Best Moments from the @StarWars #TheForceAwakens Press Event #StarWarsEvent https://t.co/1VXV9NEAU1 @raisingwhasians hâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.016595404505295265",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9772510605249727",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675215846403383296",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @raisingwhasians: Best Moments from the @StarWars #TheForceAwakens Press Event #StarWarsEvent https://t.co/1VXV9NEAU1 @raisingwhasians hâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.016595404505295265","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9772510605249727","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675215846403383296","@sparql":"","@policy":"whitelist"}

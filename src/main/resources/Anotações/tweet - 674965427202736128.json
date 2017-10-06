@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @CollectCantina: One week from tonight! #StarWars #TheForceAwakens https://t.co/1zceYfKCDV",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02133007161698566",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9624997524236334",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674965427202736128",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @CollectCantina: One week from tonight! #StarWars #TheForceAwakens https://t.co/1zceYfKCDV","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02133007161698566","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9624997524236334","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674965427202736128","@sparql":"","@policy":"whitelist"}

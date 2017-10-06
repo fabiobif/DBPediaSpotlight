@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Star Wars promo #StarWarsForceAwakens #TheForceAwakens #StarWars #LukeSkywalker #poster #movie #FelizMartes #Cine https://t.co/uXvXM81W7x",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.8730927933558218E-4",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "0",
-  "@similarityScore": "0.9997959158321627",
-  "@types": ""
- }],
- "tweet": "676803182987735040",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Star Wars promo #StarWarsForceAwakens #TheForceAwakens #StarWars #LukeSkywalker #poster #movie #FelizMartes #Cine https://t.co/uXvXM81W7x","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.8730927933558218E-4","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"0","@similarityScore":"0.9997959158321627","@types":""}],"tweet":"676803182987735040","@sparql":"","@policy":"whitelist"}

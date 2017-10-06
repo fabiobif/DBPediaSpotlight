@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @tarantallegra: I talked to John Boyega about some under-appreciated little movie called #StarWars. https://t.co/6T45tPD2Qn https://t.coâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.005866340192460068",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9889606540253602",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676802949495025664",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @tarantallegra: I talked to John Boyega about some under-appreciated little movie called #StarWars. https://t.co/6T45tPD2Qn https://t.coâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.005866340192460068","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9889606540253602","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676802949495025664","@sparql":"","@policy":"whitelist"}

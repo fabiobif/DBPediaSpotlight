@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#STARWARS #PulseMania at silverbird cinemas on dec 17th. Its a must rep programme.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0013633909993061798",
-  "@URI": "http://dbpedia.org/resource/Digital_Equipment_Corporation",
-  "@support": "1303",
-  "@surfaceForm": "dec",
-  "@offset": "47",
-  "@similarityScore": "0.9976545533285969",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "675295423322570752",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#STARWARS #PulseMania at silverbird cinemas on dec 17th. Its a must rep programme.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0013633909993061798","@URI":"http://dbpedia.org/resource/Digital_Equipment_Corporation","@support":"1303","@surfaceForm":"dec","@offset":"47","@similarityScore":"0.9976545533285969","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"675295423322570752","@sparql":"","@policy":"whitelist"}

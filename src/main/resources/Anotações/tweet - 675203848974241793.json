@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "When you can't decide which lightsaber to bring to #TheForceAwakens movie: https://t.co/Orv4FF79B0",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Lightsaber",
-  "@support": "584",
-  "@surfaceForm": "lightsaber",
-  "@offset": "28",
-  "@similarityScore": "0.9999999627075631",
-  "@types": ""
- }],
- "tweet": "675203848974241793",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"When you can't decide which lightsaber to bring to #TheForceAwakens movie: https://t.co/Orv4FF79B0","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Lightsaber","@support":"584","@surfaceForm":"lightsaber","@offset":"28","@similarityScore":"0.9999999627075631","@types":""}],"tweet":"675203848974241793","@sparql":"","@policy":"whitelist"}

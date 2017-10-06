@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@sexiestpatriot that's not his wife's dildo it's part of #obama's strap-on!",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Dildo",
-  "@support": "287",
-  "@surfaceForm": "dildo",
-  "@offset": "38",
-  "@similarityScore": "0.9999998168822114",
-  "@types": ""
- }],
- "tweet": "675559865155059712",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@sexiestpatriot that's not his wife's dildo it's part of #obama's strap-on!","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Dildo","@support":"287","@surfaceForm":"dildo","@offset":"38","@similarityScore":"0.9999998168822114","@types":""}],"tweet":"675559865155059712","@sparql":"","@policy":"whitelist"}

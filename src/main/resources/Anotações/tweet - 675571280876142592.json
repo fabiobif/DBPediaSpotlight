@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Be aware of TrumpusðŸ˜\u2013ðŸ\u2021ºðŸ\u2021¸.#scary #Trump #DonaldTrump #Christmas https://t.co/MptL2FkYuX",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.562140034329405E-4",
-  "@URI": "http://dbpedia.org/resource/Christmas",
-  "@support": "17277",
-  "@surfaceForm": "Christmas",
-  "@offset": "60",
-  "@similarityScore": "0.9989829390664526",
-  "@types": "DBpedia:Holiday"
- }],
- "tweet": "675571280876142592",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Be aware of TrumpusðŸ˜\u2013ðŸ\u2021ºðŸ\u2021¸.#scary #Trump #DonaldTrump #Christmas https://t.co/MptL2FkYuX","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.562140034329405E-4","@URI":"http://dbpedia.org/resource/Christmas","@support":"17277","@surfaceForm":"Christmas","@offset":"60","@similarityScore":"0.9989829390664526","@types":"DBpedia:Holiday"}],"tweet":"675571280876142592","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Iowa has better Republicans than #Trump thinks. He once again says nothing, rambles and intimidated protesters. Couldn't ask an question?",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002617305895287588",
-  "@URI": "http://dbpedia.org/resource/Iowa",
-  "@support": "21644",
-  "@surfaceForm": "Iowa",
-  "@offset": "1",
-  "@similarityScore": "0.9969011422408721",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
- }],
- "tweet": "675565882945368065",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Iowa has better Republicans than #Trump thinks. He once again says nothing, rambles and intimidated protesters. Couldn't ask an question?","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002617305895287588","@URI":"http://dbpedia.org/resource/Iowa","@support":"21644","@surfaceForm":"Iowa","@offset":"1","@similarityScore":"0.9969011422408721","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"}],"tweet":"675565882945368065","@sparql":"","@policy":"whitelist"}

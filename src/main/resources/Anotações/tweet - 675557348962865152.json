@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump is an idiot. Every time his popularity rates fall, he does something controversial &amp; doesn't realise that eventually he'll lose trust",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01028936554355841",
-  "@URI": "http://dbpedia.org/resource/Trust_law",
-  "@support": "2215",
-  "@surfaceForm": "trust",
-  "@offset": "139",
-  "@similarityScore": "0.9836391920157732",
-  "@types": ""
- }],
- "tweet": "675557348962865152",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump is an idiot. Every time his popularity rates fall, he does something controversial &amp; doesn't realise that eventually he'll lose trust","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01028936554355841","@URI":"http://dbpedia.org/resource/Trust_law","@support":"2215","@surfaceForm":"trust","@offset":"139","@similarityScore":"0.9836391920157732","@types":""}],"tweet":"675557348962865152","@sparql":"","@policy":"whitelist"}

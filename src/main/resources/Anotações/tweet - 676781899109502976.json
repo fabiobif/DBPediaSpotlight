@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ChristmasStarts: #TheForceAwakens #StarWarsÂ New free posters have awakened #ChristmasStartsWithChrist https://t.co/w603dnEHAh https://tâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "8.823265015793338E-4",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9980715289390165",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676781899109502976",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ChristmasStarts: #TheForceAwakens #StarWarsÂ New free posters have awakened #ChristmasStartsWithChrist https://t.co/w603dnEHAh https://tâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"8.823265015793338E-4","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9980715289390165","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676781899109502976","@sparql":"","@policy":"whitelist"}

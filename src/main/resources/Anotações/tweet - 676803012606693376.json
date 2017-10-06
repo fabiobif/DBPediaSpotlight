@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @VogueRunway: The story behind Daisy Ridleyâ\u20ac™s @ChloeFashion dress for the #StarWars premiere: https://t.co/zeYCQ7nhhP",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.011491045243148729",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9788494375717713",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676803012606693376",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @VogueRunway: The story behind Daisy Ridleyâ\u20ac™s @ChloeFashion dress for the #StarWars premiere: https://t.co/zeYCQ7nhhP","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.011491045243148729","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9788494375717713","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676803012606693376","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @DrMartyFox: #Obama Replenished The #Terrorist Troops   #Taliban5 Back At Work   #Treason  #2AðŸ\u2021ºðŸ\u2021¸  https://t.co/vn7G85bGXA https://t.co/5â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0021462336540992626",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9964483961120677",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675293447675232256",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @DrMartyFox: #Obama Replenished The #Terrorist Troops   #Taliban5 Back At Work   #Treason  #2AðŸ\u2021ºðŸ\u2021¸  https://t.co/vn7G85bGXA https://t.co/5â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0021462336540992626","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9964483961120677","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675293447675232256","@sparql":"","@policy":"whitelist"}

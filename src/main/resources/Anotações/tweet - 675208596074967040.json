@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @wilw: Urrr whooor raawwff gaarr. Make your #TheForceAwakens theory w/ @verizonâ\u20ac™s #TheoryWarsÂ https://t.co/RpcYucmFIZ #ad https://t.co/Fâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.026595680206643685",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9452108277949379",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675208596074967040",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @wilw: Urrr whooor raawwff gaarr. Make your #TheForceAwakens theory w/ @verizonâ\u20ac™s #TheoryWarsÂ https://t.co/RpcYucmFIZ #ad https://t.co/Fâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.026595680206643685","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9452108277949379","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675208596074967040","@sparql":"","@policy":"whitelist"}

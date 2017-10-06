@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The Force is strong in WAVE Country! A local man part of the movie franchises history! #wave3news #TheForceAwakens https://t.co/ELzoEf5pxZ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.2790018947211858",
-  "@URI": "http://dbpedia.org/resource/WAVES",
-  "@support": "162",
-  "@surfaceForm": "WAVE",
-  "@offset": "23",
-  "@similarityScore": "0.7236223058994982",
-  "@types": ""
- }],
- "tweet": "676780494877564928",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The Force is strong in WAVE Country! A local man part of the movie franchises history! #wave3news #TheForceAwakens https://t.co/ELzoEf5pxZ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.2790018947211858","@URI":"http://dbpedia.org/resource/WAVES","@support":"162","@surfaceForm":"WAVE","@offset":"23","@similarityScore":"0.7236223058994982","@types":""}],"tweet":"676780494877564928","@sparql":"","@policy":"whitelist"}

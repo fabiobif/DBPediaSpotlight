@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "This image says so much./ Esta imagen dice mucho. #StarWars  #TheForceAwakens #LaFuerzaDesperto https://t.co/NiFol8WCVS",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "8.755036197883175E-4",
-  "@URI": "http://dbpedia.org/resource/Dice",
-  "@support": "2007",
-  "@surfaceForm": "dice",
-  "@offset": "38",
-  "@similarityScore": "0.9989041968500181",
-  "@types": ""
- }],
- "tweet": "676802601690652672",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"This image says so much./ Esta imagen dice mucho. #StarWars  #TheForceAwakens #LaFuerzaDesperto https://t.co/NiFol8WCVS","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"8.755036197883175E-4","@URI":"http://dbpedia.org/resource/Dice","@support":"2007","@surfaceForm":"dice","@offset":"38","@similarityScore":"0.9989041968500181","@types":""}],"tweet":"676802601690652672","@sparql":"","@policy":"whitelist"}

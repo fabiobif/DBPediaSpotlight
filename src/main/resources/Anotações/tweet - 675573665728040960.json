@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "So sick of the lies/cover-up by #Obama administration and @HillaryClinton. #WakeUpAmerica now or it'll be too late! https://t.co/C9566BigkW",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.05093583092190897",
-  "@URI": "http://dbpedia.org/resource/Presidency_of_Barack_Obama",
-  "@support": "1255",
-  "@surfaceForm": "Obama administration",
-  "@offset": "33",
-  "@similarityScore": "0.9512474670802739",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
- }],
- "tweet": "675573665728040960",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"So sick of the lies/cover-up by #Obama administration and @HillaryClinton. #WakeUpAmerica now or it'll be too late! https://t.co/C9566BigkW","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.05093583092190897","@URI":"http://dbpedia.org/resource/Presidency_of_Barack_Obama","@support":"1255","@surfaceForm":"Obama administration","@offset":"33","@similarityScore":"0.9512474670802739","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"}],"tweet":"675573665728040960","@sparql":"","@policy":"whitelist"}

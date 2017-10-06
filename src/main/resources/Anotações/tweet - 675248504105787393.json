@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @grammy620: Fear #Trump? No, we should fear career politicians, the media, and our government. The control they have is frightening.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002038646364323393",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9941833262928638",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675248504105787393",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @grammy620: Fear #Trump? No, we should fear career politicians, the media, and our government. The control they have is frightening.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002038646364323393","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9941833262928638","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675248504105787393","@sparql":"","@policy":"whitelist"}

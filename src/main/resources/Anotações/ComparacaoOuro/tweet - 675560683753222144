@@ -1,0 +1,38 @@
+Tweet ID:675560683753222144
+Tweet: @bigredmatt1011 I liked #Trump, but now I'm pissed. #MegynKelly misled America about Trump, now trump is misleading about #Cruz
+Palavra: trump
+OffSet: 96
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Trump
+ Regra Ouro:http://dbpedia.org/resource/Donald_Trump
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Trump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: MegynKelly
+URI na regra ouro: http://dbpedia.org/resource/Megyn_Kelly
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Trump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Cruz
+URI na regra ouro: http://dbpedia.org/resource/Ted_Cruz
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: America
+URI na regra ouro: http://dbpedia.org/resource/United_States
+Type: Location
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: bigredmatt1011
+URI na regra ouro: NIL91
+Type: Person
+

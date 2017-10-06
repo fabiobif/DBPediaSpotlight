@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @StarWarsAUNZ: Thank you for representing Aussie #StarWars fans @5SOS! We see you becoming the greatest of all the bands. https://t.co/pâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03028946599641444",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9449378113523877",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675575867704143872",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @StarWarsAUNZ: Thank you for representing Aussie #StarWars fans @5SOS! We see you becoming the greatest of all the bands. https://t.co/pâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03028946599641444","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9449378113523877","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675575867704143872","@sparql":"","@policy":"whitelist"}

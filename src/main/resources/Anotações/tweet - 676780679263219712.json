@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TheForceAwakens I may be the only idiot that can't find spoilers when actually seeking them out.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.3277338295523995",
-  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
-  "@support": "248",
-  "@surfaceForm": "spoilers",
-  "@offset": "57",
-  "@similarityScore": "0.6712232115451472",
-  "@types": ""
- }],
- "tweet": "676780679263219712",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TheForceAwakens I may be the only idiot that can't find spoilers when actually seeking them out.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.3277338295523995","@URI":"http://dbpedia.org/resource/Spoiler_(aeronautics)","@support":"248","@surfaceForm":"spoilers","@offset":"57","@similarityScore":"0.6712232115451472","@types":""}],"tweet":"676780679263219712","@sparql":"","@policy":"whitelist"}

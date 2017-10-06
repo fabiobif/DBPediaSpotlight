@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @RightTrackTom: For those who will see #TheForceAwakens before me... Please... https://t.co/3Prkr6WXj5",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.035069912916232494",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9400093252358275",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677037031877443584",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @RightTrackTom: For those who will see #TheForceAwakens before me... Please... https://t.co/3Prkr6WXj5","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.035069912916232494","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9400093252358275","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677037031877443584","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump's well known before entering political arena. His offbeat rhetoric oftentimes over the board remark makes him even more visible. #å·?æŸ³",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.2917760357664378E-4",
-  "@URI": "http://dbpedia.org/resource/Rhetoric",
-  "@support": "2666",
-  "@surfaceForm": "rhetoric",
-  "@offset": "65",
-  "@similarityScore": "0.9998591428023914",
-  "@types": ""
- }],
- "tweet": "675575073068093440",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump's well known before entering political arena. His offbeat rhetoric oftentimes over the board remark makes him even more visible. #å·?æŸ³","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.2917760357664378E-4","@URI":"http://dbpedia.org/resource/Rhetoric","@support":"2666","@surfaceForm":"rhetoric","@offset":"65","@similarityScore":"0.9998591428023914","@types":""}],"tweet":"675575073068093440","@sparql":"","@policy":"whitelist"}

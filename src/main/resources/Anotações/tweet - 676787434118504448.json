@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "May the force (in the premier) be with us #StarWars #TheForceAwakens #LaFuerzaDespertó https://t.co/SNNVsRUlPt",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0030724514156178183",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "8",
-  "@similarityScore": "0.9947840612605819",
-  "@types": ""
- }],
- "tweet": "676787434118504448",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"May the force (in the premier) be with us #StarWars #TheForceAwakens #LaFuerzaDespertó https://t.co/SNNVsRUlPt","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0030724514156178183","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"8","@similarityScore":"0.9947840612605819","@types":""}],"tweet":"676787434118504448","@sparql":"","@policy":"whitelist"}

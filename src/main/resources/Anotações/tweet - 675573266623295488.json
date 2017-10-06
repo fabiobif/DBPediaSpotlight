@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#modi and #obama talked over #hotline for 1 hour. I wonder \"aur batao\" kitni bar bola gaya hoga.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.6749828488452586",
-  "@URI": "http://dbpedia.org/resource/Gaya_district",
-  "@support": "149",
-  "@surfaceForm": "gaya",
-  "@offset": "86",
-  "@similarityScore": "0.5616275347879756",
-  "@types": ""
- }],
- "tweet": "675573266623295488",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#modi and #obama talked over #hotline for 1 hour. I wonder \"aur batao\" kitni bar bola gaya hoga.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.6749828488452586","@URI":"http://dbpedia.org/resource/Gaya_district","@support":"149","@surfaceForm":"gaya","@offset":"86","@similarityScore":"0.5616275347879756","@types":""}],"tweet":"675573266623295488","@sparql":"","@policy":"whitelist"}

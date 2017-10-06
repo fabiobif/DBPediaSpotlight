@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "the new #starwars movie looks so good. https://t.co/hun9Qcpz4m",
- "@support": "20",
- "@types": "",
- "tweet": "674964359181901824",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"the new #starwars movie looks so good. https://t.co/hun9Qcpz4m","@support":"20","@types":"","tweet":"674964359181901824","@sparql":"","@policy":"whitelist"}

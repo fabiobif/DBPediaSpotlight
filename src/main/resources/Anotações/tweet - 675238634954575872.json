@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @AksharPathak: Took a half an hour break from work and made this. For fun. #TheForceAwakens #StarWars https://t.co/iTdk4CEuOh",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.015498467352578706",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9791882900800073",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675238634954575872",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @AksharPathak: Took a half an hour break from work and made this. For fun. #TheForceAwakens #StarWars https://t.co/iTdk4CEuOh","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.015498467352578706","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9791882900800073","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675238634954575872","@sparql":"","@policy":"whitelist"}

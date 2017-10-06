@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump #Clinton Sign a bill against hellsangelspedophiles #Christmas https://t.co/n55xTgZKGs https://t.co/9P2xHIMotX https://t.co/y3tYqL0Fo2",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0049826141527901735",
-  "@URI": "http://dbpedia.org/resource/Christmas",
-  "@support": "17277",
-  "@surfaceForm": "Christmas",
-  "@offset": "59",
-  "@similarityScore": "0.9948286127948724",
-  "@types": "DBpedia:Holiday"
- }],
- "tweet": "675555401195233280",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump #Clinton Sign a bill against hellsangelspedophiles #Christmas https://t.co/n55xTgZKGs https://t.co/9P2xHIMotX https://t.co/y3tYqL0Fo2","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0049826141527901735","@URI":"http://dbpedia.org/resource/Christmas","@support":"17277","@surfaceForm":"Christmas","@offset":"59","@similarityScore":"0.9948286127948724","@types":"DBpedia:Holiday"}],"tweet":"675555401195233280","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The #force beckons: So cool .. https://t.co/RB4PubXudq #starwars #news https://t.co/Ck8vvoeNBZ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "2.994067716393303E-4",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "5",
-  "@similarityScore": "0.9994476077455402",
-  "@types": ""
- }],
- "tweet": "675573752118288384",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The #force beckons: So cool .. https://t.co/RB4PubXudq #starwars #news https://t.co/Ck8vvoeNBZ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"2.994067716393303E-4","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"5","@similarityScore":"0.9994476077455402","@types":""}],"tweet":"675573752118288384","@sparql":"","@policy":"whitelist"}

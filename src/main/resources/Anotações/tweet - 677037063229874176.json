@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Review embargo on #TheForceAwakens is lifted. I'm expecting the internet to break in about five minutes.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.07774265498069859",
-  "@URI": "http://dbpedia.org/resource/Embargo",
-  "@support": "630",
-  "@surfaceForm": "embargo",
-  "@offset": "7",
-  "@similarityScore": "0.9242349610640878",
-  "@types": ""
- }],
- "tweet": "677037063229874176",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Review embargo on #TheForceAwakens is lifted. I'm expecting the internet to break in about five minutes.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.07774265498069859","@URI":"http://dbpedia.org/resource/Embargo","@support":"630","@surfaceForm":"embargo","@offset":"7","@similarityScore":"0.9242349610640878","@types":""}],"tweet":"677037063229874176","@sparql":"","@policy":"whitelist"}

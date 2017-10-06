@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Snarkaroni: How #Trump sees the world. https://t.co/GFp63gl6cw",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0909339560514989",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8788771052143248",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675571966187728896",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Snarkaroni: How #Trump sees the world. https://t.co/GFp63gl6cw","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0909339560514989","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8788771052143248","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675571966187728896","@sparql":"","@policy":"whitelist"}

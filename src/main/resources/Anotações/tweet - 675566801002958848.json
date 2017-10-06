@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Me thinks from watching IOWA rally, Cruz destroyed a trust, gave soft jabs; #Trump is no fool; Cruz guilty tweet https://t.co/85sl1NblJX",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.04046825212432708",
-  "@URI": "http://dbpedia.org/resource/Trust_law",
-  "@support": "2215",
-  "@surfaceForm": "trust",
-  "@offset": "53",
-  "@similarityScore": "0.9449875916615056",
-  "@types": ""
- }],
- "tweet": "675566801002958848",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Me thinks from watching IOWA rally, Cruz destroyed a trust, gave soft jabs; #Trump is no fool; Cruz guilty tweet https://t.co/85sl1NblJX","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.04046825212432708","@URI":"http://dbpedia.org/resource/Trust_law","@support":"2215","@surfaceForm":"trust","@offset":"53","@similarityScore":"0.9449875916615056","@types":""}],"tweet":"675566801002958848","@sparql":"","@policy":"whitelist"}

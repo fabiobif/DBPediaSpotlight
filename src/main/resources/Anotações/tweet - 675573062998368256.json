@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Mybrassroots: Trump is a winner. Must see! Evidence has surfaced of secret film in productionðŸ˜?#WeWantTrump #kellyfile #Trump #2A  httpsâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.011161617151310846",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9774767177617709",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675573062998368256",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Mybrassroots: Trump is a winner. Must see! Evidence has surfaced of secret film in productionðŸ˜?#WeWantTrump #kellyfile #Trump #2A  httpsâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.011161617151310846","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9774767177617709","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675573062998368256","@sparql":"","@policy":"whitelist"}

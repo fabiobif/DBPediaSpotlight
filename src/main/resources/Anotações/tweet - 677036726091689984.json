@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The force awaken ! #starwars https://t.co/u67gRTDW0E",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0030063316525495093",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "4",
-  "@similarityScore": "0.9948494973733065",
-  "@types": ""
- }],
- "tweet": "677036726091689984",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The force awaken ! #starwars https://t.co/u67gRTDW0E","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0030063316525495093","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"4","@similarityScore":"0.9948494973733065","@types":""}],"tweet":"677036726091689984","@sparql":"","@policy":"whitelist"}

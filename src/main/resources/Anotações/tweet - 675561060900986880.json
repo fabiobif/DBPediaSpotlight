@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "- @shahid_siddiqui @HuffPostRelig What #Trump can learn?-\"How to betray &amp; kill own ppl to protect dynastic rule &amp; exploiting religion\" #Gulf",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.20576501892870652",
-  "@URI": "http://dbpedia.org/resource/PPL_(utility)",
-  "@support": "168",
-  "@surfaceForm": "ppl",
-  "@offset": "87",
-  "@similarityScore": "0.7404701247200663",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "675561060900986880",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"- @shahid_siddiqui @HuffPostRelig What #Trump can learn?-\"How to betray &amp; kill own ppl to protect dynastic rule &amp; exploiting religion\" #Gulf","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.20576501892870652","@URI":"http://dbpedia.org/resource/PPL_(utility)","@support":"168","@surfaceForm":"ppl","@offset":"87","@similarityScore":"0.7404701247200663","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"675561060900986880","@sparql":"","@policy":"whitelist"}

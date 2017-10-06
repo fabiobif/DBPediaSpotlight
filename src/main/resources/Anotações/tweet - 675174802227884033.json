@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Star Wars comes out in one week. Meesa hella ready! #StarWars #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004294545892867953",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "0",
-  "@similarityScore": "0.9949000365864379",
-  "@types": ""
- }],
- "tweet": "675174802227884033",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Star Wars comes out in one week. Meesa hella ready! #StarWars #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004294545892867953","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"0","@similarityScore":"0.9949000365864379","@types":""}],"tweet":"675174802227884033","@sparql":"","@policy":"whitelist"}

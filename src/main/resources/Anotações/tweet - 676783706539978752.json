@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "We are so flaming busy this Christmas with #80s #Xmas #Parties  it's AWESOME!!! #TheForceAwakens https://t.co/vxdBl8lSR3",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004317257349699854",
-  "@URI": "http://dbpedia.org/resource/Christmas",
-  "@support": "17277",
-  "@surfaceForm": "Christmas",
-  "@offset": "28",
-  "@similarityScore": "0.9955025053693785",
-  "@types": "DBpedia:Holiday"
- }],
- "tweet": "676783706539978752",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"We are so flaming busy this Christmas with #80s #Xmas #Parties  it's AWESOME!!! #TheForceAwakens https://t.co/vxdBl8lSR3","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004317257349699854","@URI":"http://dbpedia.org/resource/Christmas","@support":"17277","@surfaceForm":"Christmas","@offset":"28","@similarityScore":"0.9955025053693785","@types":"DBpedia:Holiday"}],"tweet":"676783706539978752","@sparql":"","@policy":"whitelist"}

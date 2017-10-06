@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @HeyVivala: How @carrieffisher paved the way for women in #scifi like #TheXFiles' @GillianA https://t.co/5kQY0862Mf #StarWars https://t.â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.08294112873657536",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8881458363839232",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675575908124725248",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @HeyVivala: How @carrieffisher paved the way for women in #scifi like #TheXFiles' @GillianA https://t.co/5kQY0862Mf #StarWars https://t.â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.08294112873657536","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8881458363839232","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675575908124725248","@sparql":"","@policy":"whitelist"}

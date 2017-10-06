@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @sevigny_rob: @DefendingtheUSA @realDonaldTrump @Alwaleed_Talal - Cry Baby who buys our politicians can't  this time.  #WakeUpAmerica Fiâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.021865784534749494",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9636409042893269",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675557723296112640",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @sevigny_rob: @DefendingtheUSA @realDonaldTrump @Alwaleed_Talal - Cry Baby who buys our politicians can't  this time.  #WakeUpAmerica Fiâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.021865784534749494","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9636409042893269","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675557723296112640","@sparql":"","@policy":"whitelist"}

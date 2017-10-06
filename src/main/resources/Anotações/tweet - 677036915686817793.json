@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#STARWARS FINALLY",
- "@support": "20",
- "@types": "",
- "tweet": "677036915686817793",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#STARWARS FINALLY","@support":"20","@types":"","tweet":"677036915686817793","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @colonialwmsburg: The Force is strong in the Historic Area @starwars! #StarWars #TheForceAwakens https://t.co/1BSADX4fOH",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0220122426713756",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9531880997085866",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676802935540453376",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @colonialwmsburg: The Force is strong in the Historic Area @starwars! #StarWars #TheForceAwakens https://t.co/1BSADX4fOH","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0220122426713756","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9531880997085866","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676802935540453376","@sparql":"","@policy":"whitelist"}

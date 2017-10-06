@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "We know #Trump wants to kill your #Internet privacy, but it definitely sounds like #Hillary wants to, too.  FUCK THAT  #ctl #p2 #UniteBlue",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002130087668767711",
-  "@URI": "http://dbpedia.org/resource/Internet_privacy",
-  "@support": "182",
-  "@surfaceForm": "Internet privacy",
-  "@offset": "35",
-  "@similarityScore": "0.9978744399518314",
-  "@types": ""
- }],
- "tweet": "675568864449679362",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"We know #Trump wants to kill your #Internet privacy, but it definitely sounds like #Hillary wants to, too.  FUCK THAT  #ctl #p2 #UniteBlue","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002130087668767711","@URI":"http://dbpedia.org/resource/Internet_privacy","@support":"182","@surfaceForm":"Internet privacy","@offset":"35","@similarityScore":"0.9978744399518314","@types":""}],"tweet":"675568864449679362","@sparql":"","@policy":"whitelist"}

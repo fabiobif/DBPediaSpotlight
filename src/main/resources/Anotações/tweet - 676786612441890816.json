@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I feel the force awakening...excruciatingly slowly over the next 3 days. #theforceawakensâ\u20ac¦ https://t.co/Smw4pmHOfi",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0024556450919823126",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "11",
-  "@similarityScore": "0.9948091888704748",
-  "@types": ""
- }],
- "tweet": "676786612441890816",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I feel the force awakening...excruciatingly slowly over the next 3 days. #theforceawakensâ\u20ac¦ https://t.co/Smw4pmHOfi","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0024556450919823126","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"11","@similarityScore":"0.9948091888704748","@types":""}],"tweet":"676786612441890816","@sparql":"","@policy":"whitelist"}

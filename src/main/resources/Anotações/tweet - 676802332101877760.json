@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @VogueRunway: Gwendoline Christie talks about her #StarWars premiere look: https://t.co/D4u7mit842",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.005900079779181356",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9857459580663002",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676802332101877760",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @VogueRunway: Gwendoline Christie talks about her #StarWars premiere look: https://t.co/D4u7mit842","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.005900079779181356","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9857459580663002","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676802332101877760","@sparql":"","@policy":"whitelist"}

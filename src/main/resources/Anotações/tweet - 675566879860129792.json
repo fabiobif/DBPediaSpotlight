@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@KingSalman 1980 President Carter banned Iranians temporarily from entering the USA. Mr. #Trump plan is no different, it's temporary.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.0074101892288755E-4",
-  "@URI": "http://dbpedia.org/resource/United_States",
-  "@support": "560750",
-  "@surfaceForm": "USA",
-  "@offset": "80",
-  "@similarityScore": "0.9997942422987206",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
- }],
- "tweet": "675566879860129792",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@KingSalman 1980 President Carter banned Iranians temporarily from entering the USA. Mr. #Trump plan is no different, it's temporary.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.0074101892288755E-4","@URI":"http://dbpedia.org/resource/United_States","@support":"560750","@surfaceForm":"USA","@offset":"80","@similarityScore":"0.9997942422987206","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"}],"tweet":"675566879860129792","@sparql":"","@policy":"whitelist"}

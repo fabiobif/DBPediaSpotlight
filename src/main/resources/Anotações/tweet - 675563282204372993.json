@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "One could make a fake @realDonaldTrump account and say horrible things but #Trump beat us to it.",
- "@support": "20",
- "@types": "",
- "tweet": "675563282204372993",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"One could make a fake @realDonaldTrump account and say horrible things but #Trump beat us to it.","@support":"20","@types":"","tweet":"675563282204372993","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TRUMP 2016 CRUZ JUST A SNAKE FOR THE GOP or have they dropped him already. https://t.co/PsnFVavWj8",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "3.7436996247807873E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "38",
-  "@similarityScore": "0.9995530373297075",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675560732495228928",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TRUMP 2016 CRUZ JUST A SNAKE FOR THE GOP or have they dropped him already. https://t.co/PsnFVavWj8","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"3.7436996247807873E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"38","@similarityScore":"0.9995530373297075","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675560732495228928","@sparql":"","@policy":"whitelist"}

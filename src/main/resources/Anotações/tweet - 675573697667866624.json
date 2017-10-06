@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Donald #Trump a disgrace to US: #Saudi prince Bin Talal https://t.co/XHvFQFJcyw https://t.co/KPxEATFOqf",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/House_of_Saud",
-  "@support": "642",
-  "@surfaceForm": "Saudi prince",
-  "@offset": "34",
-  "@similarityScore": "1.0",
-  "@types": ""
- }],
- "tweet": "675573697667866624",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Donald #Trump a disgrace to US: #Saudi prince Bin Talal https://t.co/XHvFQFJcyw https://t.co/KPxEATFOqf","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/House_of_Saud","@support":"642","@surfaceForm":"Saudi prince","@offset":"34","@similarityScore":"1.0","@types":""}],"tweet":"675573697667866624","@sparql":"","@policy":"whitelist"}

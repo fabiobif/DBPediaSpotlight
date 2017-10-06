@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Missing yah mom rn.. #yomama #goteem #TheForceAwakens #gasproject #oil #sex #MyDadWentThere",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.3668763281914916",
-  "@URI": "http://dbpedia.org/resource/Names_of_God_in_Judaism",
-  "@support": "5740",
-  "@surfaceForm": "yah",
-  "@offset": "8",
-  "@similarityScore": "0.6954201364952984",
-  "@types": ""
- }],
- "tweet": "675176121097392137",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Missing yah mom rn.. #yomama #goteem #TheForceAwakens #gasproject #oil #sex #MyDadWentThere","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.3668763281914916","@URI":"http://dbpedia.org/resource/Names_of_God_in_Judaism","@support":"5740","@surfaceForm":"yah","@offset":"8","@similarityScore":"0.6954201364952984","@types":""}],"tweet":"675176121097392137","@sparql":"","@policy":"whitelist"}

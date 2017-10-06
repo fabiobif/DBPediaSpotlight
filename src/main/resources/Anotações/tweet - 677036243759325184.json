@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "My life in a commercial #geeksbegeeks #starwars https://t.co/Ahf3HFlQXm via @YouTube",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "2.1040048691734872E-7",
-  "@URI": "http://dbpedia.org/resource/YouTube",
-  "@support": "16319",
-  "@surfaceForm": "YouTube",
-  "@offset": "77",
-  "@similarityScore": "0.9999995116443812",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "677036243759325184",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"My life in a commercial #geeksbegeeks #starwars https://t.co/Ahf3HFlQXm via @YouTube","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"2.1040048691734872E-7","@URI":"http://dbpedia.org/resource/YouTube","@support":"16319","@surfaceForm":"YouTube","@offset":"77","@similarityScore":"0.9999995116443812","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"677036243759325184","@sparql":"","@policy":"whitelist"}

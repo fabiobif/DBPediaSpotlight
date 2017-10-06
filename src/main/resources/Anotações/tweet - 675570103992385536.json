@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The #GOP members should not allow Donald #Trump to #MisleadUSA again as #GeorgeW did earlier. It is important #America ideals are preserved",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "9.707029430898409E-5",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "5",
-  "@similarityScore": "0.9997359494854896",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675570103992385536",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The #GOP members should not allow Donald #Trump to #MisleadUSA again as #GeorgeW did earlier. It is important #America ideals are preserved","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"9.707029430898409E-5","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"5","@similarityScore":"0.9997359494854896","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675570103992385536","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Oh Sith! @ChrisCapeBlog knocks it out again!! -Mark These Are Not The Droids You're Looking For! https://t.co/gV87EoGQoz  #starwars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01965277256138664",
-  "@URI": "http://dbpedia.org/resource/Sith",
-  "@support": "957",
-  "@surfaceForm": "Sith",
-  "@offset": "3",
-  "@similarityScore": "0.9807260131161423",
-  "@types": ""
- }],
- "tweet": "675295564104204288",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Oh Sith! @ChrisCapeBlog knocks it out again!! -Mark These Are Not The Droids You're Looking For! https://t.co/gV87EoGQoz  #starwars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01965277256138664","@URI":"http://dbpedia.org/resource/Sith","@support":"957","@surfaceForm":"Sith","@offset":"3","@similarityScore":"0.9807260131161423","@types":""}],"tweet":"675295564104204288","@sparql":"","@policy":"whitelist"}

@@ -1,0 +1,28 @@
+Tweet ID:675175760584396800
+Tweet: RT @702sydney: Harrison Ford has arrived! #StarWars #TheForceAwakens @SydOperaHouse https://t.co/946i8NdTRm
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: 702sydney
+URI na regra ouro: http://dbpedia.org/resource/702_ABC_Sydney
+Type: Organization
+
+Palavra: Harrison Ford
+OffSet: 15
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Harrison_Ford
+ Regra Ouro:http://dbpedia.org/resource/Harrison_Ford 
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: StarWars
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: TheForceAwakens
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: SydOperaHouse
+URI na regra ouro: http://dbpedia.org/resource/Sydney_Opera_House
+Type: Location
+

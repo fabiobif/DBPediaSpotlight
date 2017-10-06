@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "â˜\u2022ï¸?Morning people!ðŸ™\u2039ðŸ?» #yummy #coffeetime #coffeelover #theforceawakens #coffeeineed #favorite https://t.co/Jn4jypRkvA",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.008577827515382625",
-  "@URI": "http://dbpedia.org/resource/Yummy_(Kamen_Rider)",
-  "@support": "58",
-  "@surfaceForm": "yummy",
-  "@offset": "31",
-  "@similarityScore": "0.9914937908697183",
-  "@types": ""
- }],
- "tweet": "676786988821925888",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"â˜\u2022ï¸?Morning people!ðŸ™\u2039ðŸ?» #yummy #coffeetime #coffeelover #theforceawakens #coffeeineed #favorite https://t.co/Jn4jypRkvA","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.008577827515382625","@URI":"http://dbpedia.org/resource/Yummy_(Kamen_Rider)","@support":"58","@surfaceForm":"yummy","@offset":"31","@similarityScore":"0.9914937908697183","@types":""}],"tweet":"676786988821925888","@sparql":"","@policy":"whitelist"}

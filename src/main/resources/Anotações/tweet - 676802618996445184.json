@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#StarWars #architecture :Section of Death Star Scene in which L. Skywalker and Leia escape https://t.co/PhS78nVyKG https://t.co/GAmIaFRaCe",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.810842167855689E-5",
-  "@URI": "http://dbpedia.org/resource/Death_Star",
-  "@support": "521",
-  "@surfaceForm": "Death Star",
-  "@offset": "36",
-  "@similarityScore": "0.9999418944426571",
-  "@types": ""
- }],
- "tweet": "676802618996445184",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#StarWars #architecture :Section of Death Star Scene in which L. Skywalker and Leia escape https://t.co/PhS78nVyKG https://t.co/GAmIaFRaCe","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.810842167855689E-5","@URI":"http://dbpedia.org/resource/Death_Star","@support":"521","@surfaceForm":"Death Star","@offset":"36","@similarityScore":"0.9999418944426571","@types":""}],"tweet":"676802618996445184","@sparql":"","@policy":"whitelist"}

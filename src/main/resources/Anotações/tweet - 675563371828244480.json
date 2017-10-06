@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump is WAAAAAY smarter than Paris Hilton! https://t.co/0OQNCpNoJj #Trump2016",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.8060098464664556E-11",
-  "@URI": "http://dbpedia.org/resource/Paris_Hilton",
-  "@support": "742",
-  "@surfaceForm": "Paris Hilton",
-  "@offset": "31",
-  "@similarityScore": "0.9999999999392344",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
- }],
- "tweet": "675563371828244480",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump is WAAAAAY smarter than Paris Hilton! https://t.co/0OQNCpNoJj #Trump2016","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.8060098464664556E-11","@URI":"http://dbpedia.org/resource/Paris_Hilton","@support":"742","@surfaceForm":"Paris Hilton","@offset":"31","@similarityScore":"0.9999999999392344","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"}],"tweet":"675563371828244480","@sparql":"","@policy":"whitelist"}

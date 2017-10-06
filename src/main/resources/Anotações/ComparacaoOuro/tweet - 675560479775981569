@@ -1,0 +1,43 @@
+Tweet ID:675560479775981569
+Tweet: Don't be fooled by media, @realDonaldTrump never said he hates Muslims. #Trump wants to protect Black, White, Hispanic &amp; Muslim Americans.
+Palavra: Hispanic
+OffSet: 110
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+ Regra Ouro:http://dbpedia.org/resource/Hispanic
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: mp; Mu
+URI na regra ouro: http://dbpedia.org/resource/Muslim
+Type: Thing
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: lim Ameri
+URI na regra ouro: http://dbpedia.org/resource/United_States
+Type: Thing
+
+Palavra: Muslims
+OffSet: 63
+ACHOU MESMA URL: http://dbpedia.org/resource/Muslim
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: realDonaldTrump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Trump
+URI na regra ouro: http://dbpedia.org/resource/Donald_Trump
+Type: Person
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: Black
+URI na regra ouro: NIL230
+Type: Thing
+
+Palavra: White
+OffSet: 103
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+ Regra Ouro:NIL238
+

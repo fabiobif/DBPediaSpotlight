@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @timrwebb: Q9. And by far the most important #genuitecchat question -- When are you going to see #TheForceAwakens! :)",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.018104155597753295",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9680891949333198",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676787766160588801",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @timrwebb: Q9. And by far the most important #genuitecchat question -- When are you going to see #TheForceAwakens! :)","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.018104155597753295","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9680891949333198","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676787766160588801","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ClassicStarWars: #StarWars goofing off on set or rehearsing https://t.co/q0xEcSH5t8",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.04520833244313589",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9312918883568537",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675578422043656192",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ClassicStarWars: #StarWars goofing off on set or rehearsing https://t.co/q0xEcSH5t8","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.04520833244313589","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9312918883568537","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675578422043656192","@sparql":"","@policy":"whitelist"}

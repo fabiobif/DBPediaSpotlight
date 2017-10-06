@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#IamYourFather #StarWars   The words every #rescue #dog dreams of hearing! Please take a look @NWDogRescue @Reg_RDR",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.051387652963746E-4",
-  "@URI": "http://dbpedia.org/resource/Dog",
-  "@support": "10004",
-  "@surfaceForm": "dog",
-  "@offset": "52",
-  "@similarityScore": "0.9992841808217757",
-  "@types": "DBpedia:Species,DBpedia:Eukaryote,DBpedia:Animal,DBpedia:Mammal"
- }],
- "tweet": "677037136131043328",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#IamYourFather #StarWars   The words every #rescue #dog dreams of hearing! Please take a look @NWDogRescue @Reg_RDR","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.051387652963746E-4","@URI":"http://dbpedia.org/resource/Dog","@support":"10004","@surfaceForm":"dog","@offset":"52","@similarityScore":"0.9992841808217757","@types":"DBpedia:Species,DBpedia:Eukaryote,DBpedia:Animal,DBpedia:Mammal"}],"tweet":"677037136131043328","@sparql":"","@policy":"whitelist"}

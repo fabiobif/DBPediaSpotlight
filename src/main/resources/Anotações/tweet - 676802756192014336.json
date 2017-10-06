@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "New #StarWars #XWing Ships have arrived!  Find the TIE/fo Fighter and the T-70 here: https://t.co/qGKLNx04DD",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/T-70",
-  "@support": "46",
-  "@surfaceForm": "T-70",
-  "@offset": "74",
-  "@similarityScore": "1.0",
-  "@types": "Schema:Product,DBpedia:Device,DBpedia:Weapon"
- }],
- "tweet": "676802756192014336",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"New #StarWars #XWing Ships have arrived!  Find the TIE/fo Fighter and the T-70 here: https://t.co/qGKLNx04DD","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/T-70","@support":"46","@surfaceForm":"T-70","@offset":"74","@similarityScore":"1.0","@types":"Schema:Product,DBpedia:Device,DBpedia:Weapon"}],"tweet":"676802756192014336","@sparql":"","@policy":"whitelist"}

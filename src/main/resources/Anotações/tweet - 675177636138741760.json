@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @starwars: In 10 days: a new journey begins. #StarWars: #TheForceAwakens https://t.co/Xim92CtY0B",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03823578861905624",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9353383026805303",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675177636138741760",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @starwars: In 10 days: a new journey begins. #StarWars: #TheForceAwakens https://t.co/Xim92CtY0B","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03823578861905624","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9353383026805303","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675177636138741760","@sparql":"","@policy":"whitelist"}

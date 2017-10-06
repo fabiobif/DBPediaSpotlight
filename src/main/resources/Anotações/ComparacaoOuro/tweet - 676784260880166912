@@ -1,0 +1,22 @@
+Tweet ID:676784260880166912
+Tweet: Hollywood awards expert predicts #Oscars success for #TheForceAwakens - the guardian https://t.co/XxqP1OuaWA
+Palavra: Hollywood
+OffSet: 0
+ACHOU MESMA URL: http://dbpedia.org/resource/Hollywood
+
+Palavra: Oscars
+OffSet: 34
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Academy_Award
+ Regra Ouro:http://dbpedia.org/resource/Academy_Awards
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: TheForceAwakens
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: the guardian
+URI na regra ouro: http://dbpedia.org/resource/The_Guardian
+Type: Organization
+

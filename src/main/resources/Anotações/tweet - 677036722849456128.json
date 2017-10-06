@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Amazing experience from @Google for #StarWars TheForceAwakens with the #LightsaberEscape https://t.co/6BwBKtUzmx https://t.co/P2TS0qPK9B",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.7154532589961501E-6",
-  "@URI": "http://dbpedia.org/resource/Google",
-  "@support": "15257",
-  "@surfaceForm": "Google",
-  "@offset": "25",
-  "@similarityScore": "0.999998248762124",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
- }],
- "tweet": "677036722849456128",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Amazing experience from @Google for #StarWars TheForceAwakens with the #LightsaberEscape https://t.co/6BwBKtUzmx https://t.co/P2TS0qPK9B","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.7154532589961501E-6","@URI":"http://dbpedia.org/resource/Google","@support":"15257","@surfaceForm":"Google","@offset":"25","@similarityScore":"0.999998248762124","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"}],"tweet":"677036722849456128","@sparql":"","@policy":"whitelist"}

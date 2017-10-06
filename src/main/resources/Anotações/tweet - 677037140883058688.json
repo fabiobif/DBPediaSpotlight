@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "An ode to the mastermind behind the art of #StarWars and a personal hero #RalphMcQuarrie https://t.co/txQyZmeO0x https://t.co/OItzfKJweW",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.025809622133253957",
-  "@URI": "http://dbpedia.org/resource/Ode",
-  "@support": "437",
-  "@surfaceForm": "ode",
-  "@offset": "3",
-  "@similarityScore": "0.9596035534971467",
-  "@types": ""
- }],
- "tweet": "677037140883058688",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"An ode to the mastermind behind the art of #StarWars and a personal hero #RalphMcQuarrie https://t.co/txQyZmeO0x https://t.co/OItzfKJweW","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.025809622133253957","@URI":"http://dbpedia.org/resource/Ode","@support":"437","@surfaceForm":"ode","@offset":"3","@similarityScore":"0.9596035534971467","@types":""}],"tweet":"677037140883058688","@sparql":"","@policy":"whitelist"}

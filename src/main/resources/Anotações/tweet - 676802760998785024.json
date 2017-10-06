@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "14+ totally kick-ass #StarWars themed vehicles. #ForceAwakens #StarWarsForceAwakens https://t.co/XvPNmNR5dI https://t.co/dI3PCC8KsE",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.08808226248793298",
-  "@URI": "http://dbpedia.org/resource/Kick-Ass_(film)",
-  "@support": "207",
-  "@surfaceForm": "kick-ass",
-  "@offset": "12",
-  "@similarityScore": "0.9042161246164176",
-  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
- }],
- "tweet": "676802760998785024",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"14+ totally kick-ass #StarWars themed vehicles. #ForceAwakens #StarWarsForceAwakens https://t.co/XvPNmNR5dI https://t.co/dI3PCC8KsE","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.08808226248793298","@URI":"http://dbpedia.org/resource/Kick-Ass_(film)","@support":"207","@surfaceForm":"kick-ass","@offset":"12","@similarityScore":"0.9042161246164176","@types":"Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"}],"tweet":"676802760998785024","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "KennethCharter: RT LEGO_Group: Check out life-sized Rey, BB-8 and Kylo Ren from starwars: #TheForceAwakens built oâ\u20ac¦ https://t.co/B088CU3uYP",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.003984199801220569",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "16",
-  "@similarityScore": "0.9927769715940135",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675204987597824000",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"KennethCharter: RT LEGO_Group: Check out life-sized Rey, BB-8 and Kylo Ren from starwars: #TheForceAwakens built oâ\u20ac¦ https://t.co/B088CU3uYP","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.003984199801220569","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"16","@similarityScore":"0.9927769715940135","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675204987597824000","@sparql":"","@policy":"whitelist"}

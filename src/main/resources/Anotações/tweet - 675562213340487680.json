@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Daesh-#ISIS taunts America: â\u20ac˜Bring it on.â\u20ac™ (If #Obama had the cajones to do so WE would - jackwagons!) https://t.co/GFdTanPHXn",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.6388009413427693",
-  "@URI": "http://dbpedia.org/resource/Isis_(band)",
-  "@support": "380",
-  "@surfaceForm": "ISIS",
-  "@offset": "8",
-  "@similarityScore": "0.5207511094276277",
-  "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
- }],
- "tweet": "675562213340487680",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Daesh-#ISIS taunts America: â\u20ac˜Bring it on.â\u20ac™ (If #Obama had the cajones to do so WE would - jackwagons!) https://t.co/GFdTanPHXn","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.6388009413427693","@URI":"http://dbpedia.org/resource/Isis_(band)","@support":"380","@surfaceForm":"ISIS","@offset":"8","@similarityScore":"0.5207511094276277","@types":"Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"}],"tweet":"675562213340487680","@sparql":"","@policy":"whitelist"}

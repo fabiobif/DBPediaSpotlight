@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "This is how the public is responding to Donald #Trump's proposal to ban Muslims from America. Heheheh.... https://t.co/UGGmnL9YnW",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.016182941546777383",
-  "@URI": "http://dbpedia.org/resource/Muslim",
-  "@support": "31672",
-  "@surfaceForm": "Muslims",
-  "@offset": "72",
-  "@similarityScore": "0.9839068379061278",
-  "@types": ""
- }],
- "tweet": "675557683957772288",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"This is how the public is responding to Donald #Trump's proposal to ban Muslims from America. Heheheh.... https://t.co/UGGmnL9YnW","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.016182941546777383","@URI":"http://dbpedia.org/resource/Muslim","@support":"31672","@surfaceForm":"Muslims","@offset":"72","@similarityScore":"0.9839068379061278","@types":""}],"tweet":"675557683957772288","@sparql":"","@policy":"whitelist"}

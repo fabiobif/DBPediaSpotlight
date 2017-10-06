@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @PatriotPass: Support @AlfonZoRachel's ideal Sci-Fi Sword a step up from kid light sabers. https://t.co/2DETX8GaeV #Tcot #StarWars httpsâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.1483419756662402",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8299838577221516",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675575971609624577",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @PatriotPass: Support @AlfonZoRachel's ideal Sci-Fi Sword a step up from kid light sabers. https://t.co/2DETX8GaeV #Tcot #StarWars httpsâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.1483419756662402","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8299838577221516","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675575971609624577","@sparql":"","@policy":"whitelist"}

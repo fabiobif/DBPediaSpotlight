@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @RavenHUWolf: I wonder how that is going to work out for #Obama &amp; #Trudeau Since they \"feel\" they know it \"all\"! #tcot #cpc https://t.coâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.007694685191696013",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9874787651321613",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674869428648038401",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @RavenHUWolf: I wonder how that is going to work out for #Obama &amp; #Trudeau Since they \"feel\" they know it \"all\"! #tcot #cpc https://t.coâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.007694685191696013","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9874787651321613","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674869428648038401","@sparql":"","@policy":"whitelist"}

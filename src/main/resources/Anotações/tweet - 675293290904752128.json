@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @HWL53: #Scalia says some blacks may do better at schools with less rigorous curriculum's! I say #Obama &amp; most of his administration areâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.006378041755019096",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9883352272029899",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675293290904752128",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @HWL53: #Scalia says some blacks may do better at schools with less rigorous curriculum's! I say #Obama &amp; most of his administration areâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.006378041755019096","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9883352272029899","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675293290904752128","@sparql":"","@policy":"whitelist"}

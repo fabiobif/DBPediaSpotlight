@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#IvankaTrump Interview @CNN;#Trump Daughter talks about her father, Watch here â\u2013¶ï¸?https://t.co/5a3BOIdyKU @gqforbes https://t.co/yDCwsiyc0C",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.324773520185785E-5",
-  "@URI": "http://dbpedia.org/resource/CNN",
-  "@support": "8267",
-  "@surfaceForm": "CNN",
-  "@offset": "24",
-  "@similarityScore": "0.9999448833820065",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675554500602630144",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#IvankaTrump Interview @CNN;#Trump Daughter talks about her father, Watch here â\u2013¶ï¸?https://t.co/5a3BOIdyKU @gqforbes https://t.co/yDCwsiyc0C","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.324773520185785E-5","@URI":"http://dbpedia.org/resource/CNN","@support":"8267","@surfaceForm":"CNN","@offset":"24","@similarityScore":"0.9999448833820065","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675554500602630144","@sparql":"","@policy":"whitelist"}

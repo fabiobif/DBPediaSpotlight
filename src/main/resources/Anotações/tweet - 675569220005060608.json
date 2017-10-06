@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": ".@YennehShy Anyone would be insane to not want: low taxes, fair trade, secure borders, Americans 1st for jobs, &amp; jobs back in America #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "3.656508974546034E-5",
-  "@URI": "http://dbpedia.org/resource/Fair_trade",
-  "@support": "919",
-  "@surfaceForm": "fair trade",
-  "@offset": "59",
-  "@similarityScore": "0.9999239295220882",
-  "@types": ""
- }],
- "tweet": "675569220005060608",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":".@YennehShy Anyone would be insane to not want: low taxes, fair trade, secure borders, Americans 1st for jobs, &amp; jobs back in America #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"3.656508974546034E-5","@URI":"http://dbpedia.org/resource/Fair_trade","@support":"919","@surfaceForm":"fair trade","@offset":"59","@similarityScore":"0.9999239295220882","@types":""}],"tweet":"675569220005060608","@sparql":"","@policy":"whitelist"}

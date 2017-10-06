@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": ".@NRO   @realDonaldTrump is not a dangerous buffoon either! Why are you calling names? #Trump2016  #MakeAmericaGreatAgain  #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004439118534975594",
-  "@URI": "http://dbpedia.org/resource/National_Reconnaissance_Office",
-  "@support": "240",
-  "@surfaceForm": "NRO",
-  "@offset": "2",
-  "@similarityScore": "0.9933880661008345",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency"
- }],
- "tweet": "675575045171765248",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":".@NRO   @realDonaldTrump is not a dangerous buffoon either! Why are you calling names? #Trump2016  #MakeAmericaGreatAgain  #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004439118534975594","@URI":"http://dbpedia.org/resource/National_Reconnaissance_Office","@support":"240","@surfaceForm":"NRO","@offset":"2","@similarityScore":"0.9933880661008345","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency"}],"tweet":"675575045171765248","@sparql":"","@policy":"whitelist"}

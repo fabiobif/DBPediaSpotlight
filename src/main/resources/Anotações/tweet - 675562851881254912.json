@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@AnneBayefsky Since when do we listen to Muslim terrorist lecture us?  They really think they can convince us they r not terrorist?  #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.027497321300625033",
-  "@URI": "http://dbpedia.org/resource/Muslim",
-  "@support": "31672",
-  "@surfaceForm": "Muslim",
-  "@offset": "41",
-  "@similarityScore": "0.972982453335144",
-  "@types": ""
- }],
- "tweet": "675562851881254912",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@AnneBayefsky Since when do we listen to Muslim terrorist lecture us?  They really think they can convince us they r not terrorist?  #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.027497321300625033","@URI":"http://dbpedia.org/resource/Muslim","@support":"31672","@surfaceForm":"Muslim","@offset":"41","@similarityScore":"0.972982453335144","@types":""}],"tweet":"675562851881254912","@sparql":"","@policy":"whitelist"}

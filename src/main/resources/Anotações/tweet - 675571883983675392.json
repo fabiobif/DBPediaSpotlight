@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@DarrenJJordan @debdew2 @ChristiChat @realDonaldTrump @TeamTrump16 That says it all! @GOP will not have a party left of they refuse #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.127397448025338E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "86",
-  "@similarityScore": "0.9990367748041786",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675571883983675392",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@DarrenJJordan @debdew2 @ChristiChat @realDonaldTrump @TeamTrump16 That says it all! @GOP will not have a party left of they refuse #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.127397448025338E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"86","@similarityScore":"0.9990367748041786","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675571883983675392","@sparql":"","@policy":"whitelist"}

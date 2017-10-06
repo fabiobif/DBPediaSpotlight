@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "9 Reasons you NEED to see #theforceawakens #starwarsevent #review (no spoilers) https://t.co/nPwnqtJPfh https://t.co/iU7un2Kslq",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.3542576087922453",
-  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
-  "@support": "248",
-  "@surfaceForm": "spoilers",
-  "@offset": "70",
-  "@similarityScore": "0.6777904480013487",
-  "@types": ""
- }],
- "tweet": "677036721473634304",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"9 Reasons you NEED to see #theforceawakens #starwarsevent #review (no spoilers) https://t.co/nPwnqtJPfh https://t.co/iU7un2Kslq","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.3542576087922453","@URI":"http://dbpedia.org/resource/Spoiler_(aeronautics)","@support":"248","@surfaceForm":"spoilers","@offset":"70","@similarityScore":"0.6777904480013487","@types":""}],"tweet":"677036721473634304","@sparql":"","@policy":"whitelist"}

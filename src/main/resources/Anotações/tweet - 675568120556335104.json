@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@LeslieMarshall  When you lie about #Trump you lie about his millions of supporters.  #VOTINGTRUMP   Corrupt #MSM hates Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.16038005842358347",
-  "@URI": "http://dbpedia.org/resource/Mouvement_Socialiste_Militant",
-  "@support": "149",
-  "@surfaceForm": "MSM",
-  "@offset": "110",
-  "@similarityScore": "0.8303961467067025",
-  "@types": ""
- }],
- "tweet": "675568120556335104",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@LeslieMarshall  When you lie about #Trump you lie about his millions of supporters.  #VOTINGTRUMP   Corrupt #MSM hates Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.16038005842358347","@URI":"http://dbpedia.org/resource/Mouvement_Socialiste_Militant","@support":"149","@surfaceForm":"MSM","@offset":"110","@similarityScore":"0.8303961467067025","@types":""}],"tweet":"675568120556335104","@sparql":"","@policy":"whitelist"}

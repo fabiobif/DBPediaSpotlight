@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @PosterPosse: Here's @melbs stunning tribute to @starwars. See more fantastic #StarWars art HERE &gt; https://t.co/XkFZccpXJA https://t.co/â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03345318276458525",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9420552625192699",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676803326722367488",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @PosterPosse: Here's @melbs stunning tribute to @starwars. See more fantastic #StarWars art HERE &gt; https://t.co/XkFZccpXJA https://t.co/â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03345318276458525","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9420552625192699","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676803326722367488","@sparql":"","@policy":"whitelist"}

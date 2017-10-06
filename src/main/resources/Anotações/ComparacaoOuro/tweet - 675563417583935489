@@ -1,0 +1,27 @@
+Tweet ID:675563417583935489
+Tweet: What's 187X more likely to kill you than a terrorist? #trump #gop #tcot #feelthebern https://t.co/LCtpv9kGaR
+Palavra: trump
+OffSet: 55
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Trump
+ Regra Ouro:http://dbpedia.org/resource/Donald_Trump
+
+Palavra: gop
+OffSet: 62
+ACHOU MESMA URL: http://dbpedia.org/resource/Republican_Party_(United_States)
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: 187X
+URI na regra ouro: NIL212
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: feelthebern
+URI na regra ouro: NIL216
+Type: Product
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: tcot
+URI na regra ouro: NIL62
+Type: Organization
+

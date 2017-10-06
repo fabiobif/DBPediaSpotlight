@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Special emoji!!!! #StarWars #TheForceAwakens @cheungl @steflounder https://t.co/ytXbjw8XJp",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Emoji",
-  "@support": "35",
-  "@surfaceForm": "emoji",
-  "@offset": "8",
-  "@similarityScore": "0.9999997519253464",
-  "@types": ""
- }],
- "tweet": "674965414506446848",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Special emoji!!!! #StarWars #TheForceAwakens @cheungl @steflounder https://t.co/ytXbjw8XJp","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Emoji","@support":"35","@surfaceForm":"emoji","@offset":"8","@similarityScore":"0.9999997519253464","@types":""}],"tweet":"674965414506446848","@sparql":"","@policy":"whitelist"}

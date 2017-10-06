@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "This is really good. RT @StarWarsJunk: Fan art #StarWars #TheForceAwakens #rey @dailyridley https://t.co/cuXi1KW0j3",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.016105001079480156",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "21",
-  "@similarityScore": "0.9705569004660584",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675178877610819586",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"This is really good. RT @StarWarsJunk: Fan art #StarWars #TheForceAwakens #rey @dailyridley https://t.co/cuXi1KW0j3","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.016105001079480156","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"21","@similarityScore":"0.9705569004660584","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675178877610819586","@sparql":"","@policy":"whitelist"}

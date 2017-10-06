@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @StarWarsUK: #HarrisonFord opens up on reuniting with the old #StarWars gang in #TheForceAwakens https://t.co/dGR5IzaRKM",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.07321118115025702",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8633860771880121",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674964669925298176",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @StarWarsUK: #HarrisonFord opens up on reuniting with the old #StarWars gang in #TheForceAwakens https://t.co/dGR5IzaRKM","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.07321118115025702","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8633860771880121","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674964669925298176","@sparql":"","@policy":"whitelist"}

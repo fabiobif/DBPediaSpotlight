@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Get your #Trump University gear at the bookstore!! #Trump2016 #GOP",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "2.5828312185839023E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "63",
-  "@similarityScore": "0.9992094479079703",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675557245082599424",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Get your #Trump University gear at the bookstore!! #Trump2016 #GOP","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"2.5828312185839023E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"63","@similarityScore":"0.9992094479079703","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675557245082599424","@sparql":"","@policy":"whitelist"}

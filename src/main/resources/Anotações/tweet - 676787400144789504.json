@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @AVAETC: Coog! Bombarded by CREED fans tonight. So many. Beautiful to see. #StarWarsPremiere #TheForceAwakens https://t.co/5I1cFNyKRT",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0201214650148587",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9646174635770807",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676787400144789504",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @AVAETC: Coog! Bombarded by CREED fans tonight. So many. Beautiful to see. #StarWarsPremiere #TheForceAwakens https://t.co/5I1cFNyKRT","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0201214650148587","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9646174635770807","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676787400144789504","@sparql":"","@policy":"whitelist"}

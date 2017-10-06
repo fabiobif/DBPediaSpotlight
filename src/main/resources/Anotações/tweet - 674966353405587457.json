@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Inspirationf: Follow this video to create awesome #StarWars snowflakes! https://t.co/MS8wy0sFfu https://t.co/tPCzdwtICe",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.012308825877008074",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9697446373197375",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674966353405587457",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Inspirationf: Follow this video to create awesome #StarWars snowflakes! https://t.co/MS8wy0sFfu https://t.co/tPCzdwtICe","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.012308825877008074","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9697446373197375","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674966353405587457","@sparql":"","@policy":"whitelist"}

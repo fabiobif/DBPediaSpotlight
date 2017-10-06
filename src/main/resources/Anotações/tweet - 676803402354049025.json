@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @cesar86424842: TOP 5 Ways #StarWars inspires us  Full Video: https://t.co/J29OZiR7yy https://t.co/uCnpBpr13F",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.013639225097125278",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9645778398267351",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676803402354049025",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @cesar86424842: TOP 5 Ways #StarWars inspires us  Full Video: https://t.co/J29OZiR7yy https://t.co/uCnpBpr13F","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.013639225097125278","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9645778398267351","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676803402354049025","@sparql":"","@policy":"whitelist"}

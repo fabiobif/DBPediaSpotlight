@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Politics_PR: Police Officer Removing A Poster Of #Trump https://t.co/dnQNE8HKEK",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.010641604759809955",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9750986407654366",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675577408456515584",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Politics_PR: Police Officer Removing A Poster Of #Trump https://t.co/dnQNE8HKEK","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.010641604759809955","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9750986407654366","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675577408456515584","@sparql":"","@policy":"whitelist"}

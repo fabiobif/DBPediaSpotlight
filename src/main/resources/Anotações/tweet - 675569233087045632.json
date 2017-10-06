@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Trump  This has been done before; i.e., Silvio Berlusconi  Advantaged if it ushers an end to Political Dynasties/Correctness",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Silvio_Berlusconi",
-  "@support": "1223",
-  "@surfaceForm": "Silvio Berlusconi",
-  "@offset": "41",
-  "@similarityScore": "1.0",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
- }],
- "tweet": "675569233087045632",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Trump  This has been done before; i.e., Silvio Berlusconi  Advantaged if it ushers an end to Political Dynasties/Correctness","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Silvio_Berlusconi","@support":"1223","@surfaceForm":"Silvio Berlusconi","@offset":"41","@similarityScore":"1.0","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"}],"tweet":"675569233087045632","@sparql":"","@policy":"whitelist"}

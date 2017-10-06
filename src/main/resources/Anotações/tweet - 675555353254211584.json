@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "At some point, perhaps when you're being compared to #Hitler by half the country, you drop out of the presidential race. #Trump2016 #Trump",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "6.688899669848953E-5",
-  "@URI": "http://dbpedia.org/resource/Adolf_Hitler",
-  "@support": "13350",
-  "@surfaceForm": "Hitler",
-  "@offset": "54",
-  "@similarityScore": "0.9999014401186233",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"
- }],
- "tweet": "675555353254211584",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"At some point, perhaps when you're being compared to #Hitler by half the country, you drop out of the presidential race. #Trump2016 #Trump","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"6.688899669848953E-5","@URI":"http://dbpedia.org/resource/Adolf_Hitler","@support":"13350","@surfaceForm":"Hitler","@offset":"54","@similarityScore":"0.9999014401186233","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"}],"tweet":"675555353254211584","@sparql":"","@policy":"whitelist"}

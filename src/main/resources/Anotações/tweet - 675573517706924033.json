@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Donald #Trump's latest https://t.co/t1za3o6fe9",
- "@support": "20",
- "@types": "",
- "tweet": "675573517706924033",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Donald #Trump's latest https://t.co/t1za3o6fe9","@support":"20","@types":"","tweet":"675573517706924033","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @RamonStone: 30 years ago... We love @carrieffisher   #TheForceAwakens in 8 days.. https://t.co/MW6xkEwP9g",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.049831636748824695",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8997462530996122",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675189956197879809",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @RamonStone: 30 years ago... We love @carrieffisher   #TheForceAwakens in 8 days.. https://t.co/MW6xkEwP9g","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.049831636748824695","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8997462530996122","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675189956197879809","@sparql":"","@policy":"whitelist"}

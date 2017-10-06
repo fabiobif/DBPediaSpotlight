@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @solarimpulse: #StarWars \"The fastest and lightest hunk of clean junk in the galaxy\" Han #Solar  #TheForceAwakens https://t.co/Du3wZOkSza",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.035069912916232494",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9395965950144232",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676802765847302145",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @solarimpulse: #StarWars \"The fastest and lightest hunk of clean junk in the galaxy\" Han #Solar  #TheForceAwakens https://t.co/Du3wZOkSza","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.035069912916232494","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9395965950144232","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676802765847302145","@sparql":"","@policy":"whitelist"}

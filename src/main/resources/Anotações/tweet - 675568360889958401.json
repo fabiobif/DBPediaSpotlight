@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "one of many understandable reactions upon hearing the #trump outrage of the day https://t.co/YZKJICKwxi",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.20338175971980377",
-  "@URI": "http://dbpedia.org/resource/Trump",
-  "@support": "542",
-  "@surfaceForm": "trump",
-  "@offset": "55",
-  "@similarityScore": "0.818209229613204",
-  "@types": ""
- }],
- "tweet": "675568360889958401",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"one of many understandable reactions upon hearing the #trump outrage of the day https://t.co/YZKJICKwxi","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.20338175971980377","@URI":"http://dbpedia.org/resource/Trump","@support":"542","@surfaceForm":"trump","@offset":"55","@similarityScore":"0.818209229613204","@types":""}],"tweet":"675568360889958401","@sparql":"","@policy":"whitelist"}

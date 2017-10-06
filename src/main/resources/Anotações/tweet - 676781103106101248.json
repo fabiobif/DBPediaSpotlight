@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @PenguinRandomNZ: #HanSolo 1977 vs 2015 - good to see the fashion hasn't changed in 40 years #TheForceAwakens https://t.co/jKbVWJCnAy",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.08944649053503377",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9081199301391977",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676781103106101248",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @PenguinRandomNZ: #HanSolo 1977 vs 2015 - good to see the fashion hasn't changed in 40 years #TheForceAwakens https://t.co/jKbVWJCnAy","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.08944649053503377","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9081199301391977","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676781103106101248","@sparql":"","@policy":"whitelist"}

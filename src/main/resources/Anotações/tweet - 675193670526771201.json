@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TheForceAwakens - #JillandJack use their own force. It's inside all of us https://t.co/LaVzvzF1B7 #Comedy #WebSeries #Adventure",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0038019718502355104",
-  "@URI": "http://dbpedia.org/resource/Force",
-  "@support": "4917",
-  "@surfaceForm": "force",
-  "@offset": "46",
-  "@similarityScore": "0.9940039858551308",
-  "@types": ""
- }],
- "tweet": "675193670526771201",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TheForceAwakens - #JillandJack use their own force. It's inside all of us https://t.co/LaVzvzF1B7 #Comedy #WebSeries #Adventure","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0038019718502355104","@URI":"http://dbpedia.org/resource/Force","@support":"4917","@surfaceForm":"force","@offset":"46","@similarityScore":"0.9940039858551308","@types":""}],"tweet":"675193670526771201","@sparql":"","@policy":"whitelist"}

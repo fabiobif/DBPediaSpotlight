@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Can't wait any more!!!! -5 #StarWars #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.019986112511749237",
-  "@URI": "http://dbpedia.org/resource/Straight-five_engine",
-  "@support": "164",
-  "@surfaceForm": "-5",
-  "@offset": "24",
-  "@similarityScore": "0.9689116680634298",
-  "@types": ""
- }],
- "tweet": "675237712698466304",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Can't wait any more!!!! -5 #StarWars #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.019986112511749237","@URI":"http://dbpedia.org/resource/Straight-five_engine","@support":"164","@surfaceForm":"-5","@offset":"24","@similarityScore":"0.9689116680634298","@types":""}],"tweet":"675237712698466304","@sparql":"","@policy":"whitelist"}

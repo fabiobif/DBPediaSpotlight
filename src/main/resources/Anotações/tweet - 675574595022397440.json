@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "[VIDEO] #Anonymous Declares War on #Trump w/ #OpTrump @TheLipTV @MargaretJHowell @NikZecevic https://t.co/x7Br18Kj7U https://t.co/3M2caQ16Dy",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "7.766383980880836E-4",
-  "@URI": "http://dbpedia.org/resource/Anonymous_(group)",
-  "@support": "940",
-  "@surfaceForm": "Anonymous",
-  "@offset": "9",
-  "@similarityScore": "0.9983733154114642",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
- }],
- "tweet": "675574595022397440",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"[VIDEO] #Anonymous Declares War on #Trump w/ #OpTrump @TheLipTV @MargaretJHowell @NikZecevic https://t.co/x7Br18Kj7U https://t.co/3M2caQ16Dy","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"7.766383980880836E-4","@URI":"http://dbpedia.org/resource/Anonymous_(group)","@support":"940","@surfaceForm":"Anonymous","@offset":"9","@similarityScore":"0.9983733154114642","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation"}],"tweet":"675574595022397440","@sparql":"","@policy":"whitelist"}

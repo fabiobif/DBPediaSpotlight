@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @starwars: Hold on! There are only 10 days left until #StarWars: #TheForceAwakens. https://t.co/p8oH8gYO1f",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.04045595040182782",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9348251750515802",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675227513367437312",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @starwars: Hold on! There are only 10 days left until #StarWars: #TheForceAwakens. https://t.co/p8oH8gYO1f","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.04045595040182782","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9348251750515802","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675227513367437312","@sparql":"","@policy":"whitelist"}

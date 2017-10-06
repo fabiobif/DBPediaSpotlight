@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @townhallcom: Americans Have Bought Over 100 Million Guns During Obama's Presidency https://t.co/dfSs4Ma6eX",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0010719627468293996",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9983580021811376",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674869658902798336",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @townhallcom: Americans Have Bought Over 100 Million Guns During Obama's Presidency https://t.co/dfSs4Ma6eX","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0010719627468293996","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9983580021811376","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674869658902798336","@sparql":"","@policy":"whitelist"}

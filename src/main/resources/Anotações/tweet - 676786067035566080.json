@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ILovesTheDiff: Was just thinking that Tim Peake must be gutted he's going to miss #TheForceAwakens. But no! https://t.co/ZnC58kBRt0",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.1087727149648374",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8771377479786548",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676786067035566080",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ILovesTheDiff: Was just thinking that Tim Peake must be gutted he's going to miss #TheForceAwakens. But no! https://t.co/ZnC58kBRt0","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.1087727149648374","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8771377479786548","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676786067035566080","@sparql":"","@policy":"whitelist"}

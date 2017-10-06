@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Asher_P_Fly: What can I say? This picture says it al!  The #TERRORISTS will exploit the WEAKNESSES that were enhanced by #Obama https:/â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "5.417530258121322E-4",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9990061615983796",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675566699689578496",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Asher_P_Fly: What can I say? This picture says it al!  The #TERRORISTS will exploit the WEAKNESSES that were enhanced by #Obama https:/â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"5.417530258121322E-4","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9990061615983796","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675566699689578496","@sparql":"","@policy":"whitelist"}

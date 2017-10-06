@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Crazy4ComicCon: Warning: Now that #StarWars is not in a galaxy far, far away, prepare to dodge spoiler tweets...  #TheForceAwakens httpâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.02917766709486772",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9546480556529257",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676782232061669376",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Crazy4ComicCon: Warning: Now that #StarWars is not in a galaxy far, far away, prepare to dodge spoiler tweets...  #TheForceAwakens httpâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.02917766709486772","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9546480556529257","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676782232061669376","@sparql":"","@policy":"whitelist"}

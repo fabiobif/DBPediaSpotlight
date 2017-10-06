@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#TheForceAwakens Is it me or do I think Han Solo is going to be dead at the end of TFA? He is doing more PR then any other of the actors",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0010901201270934963",
-  "@URI": "http://dbpedia.org/resource/Han_Solo",
-  "@support": "545",
-  "@surfaceForm": "Han Solo",
-  "@offset": "40",
-  "@similarityScore": "0.998911066918197",
-  "@types": ""
- }],
- "tweet": "675180281108779008",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#TheForceAwakens Is it me or do I think Han Solo is going to be dead at the end of TFA? He is doing more PR then any other of the actors","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0010901201270934963","@URI":"http://dbpedia.org/resource/Han_Solo","@support":"545","@surfaceForm":"Han Solo","@offset":"40","@similarityScore":"0.998911066918197","@types":""}],"tweet":"675180281108779008","@sparql":"","@policy":"whitelist"}

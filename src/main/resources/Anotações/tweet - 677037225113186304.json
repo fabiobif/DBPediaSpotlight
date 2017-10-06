@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @ioana_cis: Sorry @google but this is not the web I want.. #starwars #webcompatibility https://t.co/Nx160tkkis #buuu https://t.co/kMk76iâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.15790341308800954",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8459539972486554",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677037225113186304",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @ioana_cis: Sorry @google but this is not the web I want.. #starwars #webcompatibility https://t.co/Nx160tkkis #buuu https://t.co/kMk76iâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.15790341308800954","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8459539972486554","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677037225113186304","@sparql":"","@policy":"whitelist"}

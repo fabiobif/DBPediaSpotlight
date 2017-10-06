@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @sandyaschneider: Funny you don't find the MSM or Democrats reporting this #Trump https://t.co/qEv32JawFa",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0053463524298516555",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9903538773249498",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675559449201913857",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @sandyaschneider: Funny you don't find the MSM or Democrats reporting this #Trump https://t.co/qEv32JawFa","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0053463524298516555","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9903538773249498","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675559449201913857","@sparql":"","@policy":"whitelist"}

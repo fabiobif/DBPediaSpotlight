@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@Alwaleed_Talal @realDonaldTrump @stacyherbert If #trump cannot win then why the carry on? The electorate decides this, not the media et al.",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.10012192874783708",
-  "@URI": "http://dbpedia.org/resource/Trump",
-  "@support": "542",
-  "@surfaceForm": "trump",
-  "@offset": "51",
-  "@similarityScore": "0.9081702168224314",
-  "@types": ""
- }],
- "tweet": "675575663479230464",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@Alwaleed_Talal @realDonaldTrump @stacyherbert If #trump cannot win then why the carry on? The electorate decides this, not the media et al.","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.10012192874783708","@URI":"http://dbpedia.org/resource/Trump","@support":"542","@surfaceForm":"trump","@offset":"51","@similarityScore":"0.9081702168224314","@types":""}],"tweet":"675575663479230464","@sparql":"","@policy":"whitelist"}

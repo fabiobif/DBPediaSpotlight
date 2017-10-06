@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @Tara_Tainton: It begins NOW: my own personal brand of #StarWars trilogy tribute! https://t.co/Q8POfq2MKZ May the Force be with U.. httpâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.13551033338089524",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8523706252236335",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676804119219302404",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @Tara_Tainton: It begins NOW: my own personal brand of #StarWars trilogy tribute! https://t.co/Q8POfq2MKZ May the Force be with U.. httpâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.13551033338089524","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8523706252236335","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676804119219302404","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT A long tine ago in a galaxy far,far away........ #starwars #google #theforceawakens https://t.co/S441uaYor8",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.05385500311862549",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8915106935673386",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675203559810605056",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT A long tine ago in a galaxy far,far away........ #starwars #google #theforceawakens https://t.co/S441uaYor8","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.05385500311862549","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8915106935673386","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675203559810605056","@sparql":"","@policy":"whitelist"}

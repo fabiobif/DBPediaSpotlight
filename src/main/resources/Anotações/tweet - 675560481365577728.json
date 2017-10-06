@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "For #EVANGELICALS in Iowa, itâ\u20ac™s â\u20ac˜anybody but #TRUMP https://t.co/K4gmu4yGDf #RELIGION https://t.co/6P1T37weRB",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0038881452480918374",
-  "@URI": "http://dbpedia.org/resource/Iowa",
-  "@support": "21644",
-  "@surfaceForm": "Iowa",
-  "@offset": "21",
-  "@similarityScore": "0.9950693596746548",
-  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
- }],
- "tweet": "675560481365577728",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"For #EVANGELICALS in Iowa, itâ\u20ac™s â\u20ac˜anybody but #TRUMP https://t.co/K4gmu4yGDf #RELIGION https://t.co/6P1T37weRB","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0038881452480918374","@URI":"http://dbpedia.org/resource/Iowa","@support":"21644","@surfaceForm":"Iowa","@offset":"21","@similarityScore":"0.9950693596746548","@types":"Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"}],"tweet":"675560481365577728","@sparql":"","@policy":"whitelist"}

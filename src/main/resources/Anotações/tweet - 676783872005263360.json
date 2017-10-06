@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Just nabbed tickets to see @starwars. All is well. #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "tweet": "676783872005263360",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Just nabbed tickets to see @starwars. All is well. #TheForceAwakens","@support":"20","@types":"","tweet":"676783872005263360","@sparql":"","@policy":"whitelist"}

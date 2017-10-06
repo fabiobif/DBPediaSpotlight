@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I'm Luke Skywalker https://t.co/yFwkNH3Bwx #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Luke_Skywalker",
-  "@support": "745",
-  "@surfaceForm": "Luke Skywalker",
-  "@offset": "4",
-  "@similarityScore": "0.9999999999997726",
-  "@types": ""
- }],
- "tweet": "676781731656146944",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I'm Luke Skywalker https://t.co/yFwkNH3Bwx #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Luke_Skywalker","@support":"745","@surfaceForm":"Luke Skywalker","@offset":"4","@similarityScore":"0.9999999999997726","@types":""}],"tweet":"676781731656146944","@sparql":"","@policy":"whitelist"}

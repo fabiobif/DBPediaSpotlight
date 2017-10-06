@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @adaxalg: #StarWars   #SouhailaBenLachhab Follow �\u2018\u2021 @SuhilaBnLachhab   🎺🎵🎤🎧🎹🎻🎼 #�\u2026�\u2021رجا�\u2020_دبي_ا�\u201eسي�\u2020�\u2026ائي https://t.co/akPXjebl5h",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03506991291623449",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9400093252358007",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674965814131433472",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @adaxalg: #StarWars   #SouhailaBenLachhab Follow �\u2018\u2021 @SuhilaBnLachhab   🎺🎵🎤🎧🎹🎻🎼 #�\u2026�\u2021رجا�\u2020_دبي_ا�\u201eسي�\u2020�\u2026ائي https://t.co/akPXjebl5h","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03506991291623449","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9400093252358007","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674965814131433472","@sparql":"","@policy":"whitelist"}

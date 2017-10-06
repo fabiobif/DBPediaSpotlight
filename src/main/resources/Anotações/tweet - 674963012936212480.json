@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I entered to #WIN choice DISNEY luggage from @AmTourister at @ourkidsmom ends 12/18 #Giveaway #HGG #StarWars https://t.co/NWPOKYfQeZ",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.3191813431051321",
-  "@URI": "http://dbpedia.org/resource/WIN_Television",
-  "@support": "278",
-  "@surfaceForm": "WIN",
-  "@offset": "14",
-  "@similarityScore": "0.7493185762973406",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "674963012936212480",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I entered to #WIN choice DISNEY luggage from @AmTourister at @ourkidsmom ends 12/18 #Giveaway #HGG #StarWars https://t.co/NWPOKYfQeZ","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.3191813431051321","@URI":"http://dbpedia.org/resource/WIN_Television","@support":"278","@surfaceForm":"WIN","@offset":"14","@similarityScore":"0.7493185762973406","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"674963012936212480","@sparql":"","@policy":"whitelist"}

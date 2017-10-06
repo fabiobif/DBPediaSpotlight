@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @starwars: Get ready! #StarWars: #TheForceAwakens is here in 8 days. https://t.co/G81TuqA2J0",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.06207030365184119",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.8850830458432398",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675186795387203585",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @starwars: Get ready! #StarWars: #TheForceAwakens is here in 8 days. https://t.co/G81TuqA2J0","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.06207030365184119","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.8850830458432398","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675186795387203585","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "@ZacharyVolin told me he's only seen Star Wars 1-3 once and never the original...We are fixing that starting tonight with 1 #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.002195258001991475",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "37",
-  "@similarityScore": "0.9975592369854769",
-  "@types": ""
- }],
- "tweet": "675203030921388033",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"@ZacharyVolin told me he's only seen Star Wars 1-3 once and never the original...We are fixing that starting tonight with 1 #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.002195258001991475","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"37","@similarityScore":"0.9975592369854769","@types":""}],"tweet":"675203030921388033","@sparql":"","@policy":"whitelist"}

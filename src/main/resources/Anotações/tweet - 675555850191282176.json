@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @LindaSuhler: GOPe better wise up. What do you think #Trump's PISSED OFF supporters will do if you play dirty? You have no CLUE what we'â\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.024479514611769285",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9496372377683648",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675555850191282176",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @LindaSuhler: GOPe better wise up. What do you think #Trump's PISSED OFF supporters will do if you play dirty? You have no CLUE what we'â\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.024479514611769285","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9496372377683648","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675555850191282176","@sparql":"","@policy":"whitelist"}

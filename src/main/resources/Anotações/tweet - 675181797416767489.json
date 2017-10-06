@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "The only movie date I'll allow is #TheForceAwakens nothing else.",
- "@support": "20",
- "@types": "",
- "tweet": "675181797416767489",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"The only movie date I'll allow is #TheForceAwakens nothing else.","@support":"20","@types":"","tweet":"675181797416767489","@sparql":"","@policy":"whitelist"}

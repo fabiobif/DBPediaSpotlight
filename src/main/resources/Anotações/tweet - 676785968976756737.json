@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Now I really want to the Star Wars #TheForceAwakens but not sure I would survive the crowd or if I could even sit still that long -NikkiðŸ\u2019šâ˜˜",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.00693353569326769",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "25",
-  "@similarityScore": "0.9924661849672771",
-  "@types": ""
- }],
- "tweet": "676785968976756737",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Now I really want to the Star Wars #TheForceAwakens but not sure I would survive the crowd or if I could even sit still that long -NikkiðŸ\u2019šâ˜˜","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.00693353569326769","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"25","@similarityScore":"0.9924661849672771","@types":""}],"tweet":"676785968976756737","@sparql":"","@policy":"whitelist"}

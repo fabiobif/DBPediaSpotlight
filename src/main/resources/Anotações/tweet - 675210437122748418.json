@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "$10 --&gt; Kylo Ren Table-Top Artwork w/ Easel by JamesLinckeCreations https://t.co/Gsw8I92qh6 via @Etsy #StarWars #TheForceAwakens #KyloRen",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Etsy",
-  "@support": "62",
-  "@surfaceForm": "Etsy",
-  "@offset": "100",
-  "@similarityScore": "0.9999991766596829",
-  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
- }],
- "tweet": "675210437122748418",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"$10 --&gt; Kylo Ren Table-Top Artwork w/ Easel by JamesLinckeCreations https://t.co/Gsw8I92qh6 via @Etsy #StarWars #TheForceAwakens #KyloRen","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Etsy","@support":"62","@surfaceForm":"Etsy","@offset":"100","@similarityScore":"0.9999991766596829","@types":"Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"}],"tweet":"675210437122748418","@sparql":"","@policy":"whitelist"}

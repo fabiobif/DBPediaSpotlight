@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Oscar Isaac opens up about filming @starwars #TheForceAwakens: https://t.co/ul4zO65gVg",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Oscar_Isaac",
-  "@support": "51",
-  "@surfaceForm": "Oscar Isaac",
-  "@offset": "0",
-  "@similarityScore": "0.9999999999952536",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
- }],
- "tweet": "676784024229126146",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Oscar Isaac opens up about filming @starwars #TheForceAwakens: https://t.co/ul4zO65gVg","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Oscar_Isaac","@support":"51","@surfaceForm":"Oscar Isaac","@offset":"0","@similarityScore":"0.9999999999952536","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"}],"tweet":"676784024229126146","@sparql":"","@policy":"whitelist"}

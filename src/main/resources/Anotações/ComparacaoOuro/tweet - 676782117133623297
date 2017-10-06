@@ -1,0 +1,22 @@
+Tweet ID:676782117133623297
+Tweet: RT @JonErlichman: Star Wars red carpet removed in Hollywood after world premiere #TheForceAwakens https://t.co/7VdHIoN82d
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: JonErlichman
+URI na regra ouro: http://dbpedia.org/resource/Jon_Erlichman
+Type: Person
+
+Palavra: Star Wars
+OffSet: 18
+ACHOU URLs DIFERENTES
+ DBPedia-Spotlight: http://dbpedia.org/resource/Star_Wars
+ Regra Ouro:http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens 
+
+Palavra: Hollywood
+OffSet: 50
+ACHOU MESMA URL: http://dbpedia.org/resource/Hollywood
+
+DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO
+Palavra: TheForceAwakens
+URI na regra ouro: http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens 
+Type: Product
+

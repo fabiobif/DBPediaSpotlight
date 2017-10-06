@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @AlwaysActions: #BREAKING: #News; #Obama calls #SanBernardino #CaliforniaShooting attack an \"act of #Terror\" https://t.co/dUhrFtdqGD httâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "6.630432935974795E-4",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9987043868562488",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "675571577648361472",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @AlwaysActions: #BREAKING: #News; #Obama calls #SanBernardino #CaliforniaShooting attack an \"act of #Terror\" https://t.co/dUhrFtdqGD httâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"6.630432935974795E-4","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9987043868562488","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"675571577648361472","@sparql":"","@policy":"whitelist"}

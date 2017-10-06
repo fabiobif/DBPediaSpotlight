@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Mas info aqu√≠ https://t.co/k0arVUCVQy Forbes: Will #TheForceAwakens have a record-breaking opening weekend? Scott‚\u20ac¶ https://t.co/EY4GVpM1Zx",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "3.2004462718079543E-4",
-  "@URI": "http://dbpedia.org/resource/Forbes",
-  "@support": "4996",
-  "@surfaceForm": "Forbes",
-  "@offset": "39",
-  "@similarityScore": "0.9996065145185581",
-  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
- }],
- "tweet": "676784818114424832",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Mas info aqu√≠ https://t.co/k0arVUCVQy Forbes: Will #TheForceAwakens have a record-breaking opening weekend? Scott‚\u20ac¶ https://t.co/EY4GVpM1Zx","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"3.2004462718079543E-4","@URI":"http://dbpedia.org/resource/Forbes","@support":"4996","@surfaceForm":"Forbes","@offset":"39","@similarityScore":"0.9996065145185581","@types":"Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"}],"tweet":"676784818114424832","@sparql":"","@policy":"whitelist"}

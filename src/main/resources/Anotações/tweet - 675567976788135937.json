@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Chef Josie on Instagram: â\u20acœ#Trump had a plan. Looks like he's working his plan. I wonder if... https://t.co/ddyyPdGhDl",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0",
-  "@URI": "http://dbpedia.org/resource/Instagram",
-  "@support": "399",
-  "@surfaceForm": "Instagram",
-  "@offset": "14",
-  "@similarityScore": "0.9999999917217792",
-  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:Software"
- }],
- "tweet": "675567976788135937",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Chef Josie on Instagram: â\u20acœ#Trump had a plan. Looks like he's working his plan. I wonder if... https://t.co/ddyyPdGhDl","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0","@URI":"http://dbpedia.org/resource/Instagram","@support":"399","@surfaceForm":"Instagram","@offset":"14","@similarityScore":"0.9999999917217792","@types":"Schema:CreativeWork,DBpedia:Work,DBpedia:Software"}],"tweet":"675567976788135937","@sparql":"","@policy":"whitelist"}

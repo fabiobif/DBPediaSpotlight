@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Obama will forever be remembered as the most giving president ever. Of dollars. To members of #Congress. #NoTPP #NoTPA",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.04201586759023601",
-  "@URI": "http://dbpedia.org/resource/United_States_Congress",
-  "@support": "19906",
-  "@surfaceForm": "Congress",
-  "@offset": "96",
-  "@similarityScore": "0.9515710952621167",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature"
- }],
- "tweet": "675571039854862336",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Obama will forever be remembered as the most giving president ever. Of dollars. To members of #Congress. #NoTPP #NoTPA","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.04201586759023601","@URI":"http://dbpedia.org/resource/United_States_Congress","@support":"19906","@surfaceForm":"Congress","@offset":"96","@similarityScore":"0.9515710952621167","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature"}],"tweet":"675571039854862336","@sparql":"","@policy":"whitelist"}

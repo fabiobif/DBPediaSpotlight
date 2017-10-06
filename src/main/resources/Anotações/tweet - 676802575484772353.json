@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @SciFiNow: Enter our #competition for a chance to #win the brand new #StarWars trading card collection from @toppscards https://t.co/Zetâ\u20ac¦",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.3775940419760563",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.6933122030126909",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676802575484772353",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @SciFiNow: Enter our #competition for a chance to #win the brand new #StarWars trading card collection from @toppscards https://t.co/Zetâ\u20ac¦","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.3775940419760563","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.6933122030126909","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676802575484772353","@sparql":"","@policy":"whitelist"}

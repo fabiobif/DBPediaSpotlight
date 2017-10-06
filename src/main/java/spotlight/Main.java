@@ -52,52 +52,49 @@ public class Main {
         String anotacaoes = "";
         File arquivo;
         URI uri;
-        try {
-            BufferedWriter buffW;
-            //le arq de tweets
-            br = new BufferedReader(new FileReader("src/main/resources/downloaded.tsv"));
-            while (br.ready()) {
-
-                text = br.readLine();
-                System.out.println(text.split("\t")[1]);
-                uri = new URIBuilder()
-                        .setScheme("http")
-                        .setHost("model.dbpedia-spotlight.org/")
-                        .setPath(lang + "/" + function)
-                        .addParameter("text", text.split("\t")[1])
-                        .addParameter("confidence", confidence)
-                        .addParameter("support", support)
-                        .build();
-                HttpGet httpget = new HttpGet(uri);
-                httpget.addHeader("Accept", "application/json");
-
-                CloseableHttpResponse response = (CloseableHttpResponse) httpclient.execute(httpget);
-                HttpEntity entity = response.getEntity();
-
-                //Cria arquivos para gravar anotações
-                arquivo = new File("src/main/resources/Anotações/tweet - " + text.split("\t")[0] + ".json");
-                if (!arquivo.exists()) {
-                    arquivo.createNewFile();
-                }
-
-                JSONObject json = new JSONObject(EntityUtils.toString(entity, "UTF-8"));
-                json.put("tweet", text.split("\t")[0]);
-                anotacaoes = json.toString();
-//                anotacaoes = json.toString(1);  USAR ESSE CASO QUEIRA ARQUIVO IDENTADO
-
-                tweetsId.add(text.split("\t")[0]);
-
-                buffW = new BufferedWriter(new FileWriter(arquivo));
-                buffW.write(anotacaoes);
-                buffW.close();
-                EntityUtils.consume(entity);
-            }
-
-            //Escreve anotações em um arquivo
-            br.close();
-        } catch (URISyntaxException | IOException ex) {
-            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
-        }
+//        try {
+//            BufferedWriter buffW;
+//            //le arq de tweets
+//            br = new BufferedReader(new FileReader("src/main/resources/downloaded.tsv"));
+//            while (br.ready()) {
+//
+//                text = br.readLine();
+//                System.out.println(text.split("\t")[1]);
+//                uri = new URIBuilder()
+//                        .setScheme("http")
+//                        .setHost("model.dbpedia-spotlight.org/")
+//                        .setPath(lang + "/" + function)
+//                        .addParameter("text", text.split("\t")[1])
+//                        .addParameter("confidence", confidence)
+//                        .addParameter("support", support)
+//                        .build();
+//                HttpGet httpget = new HttpGet(uri);
+//                httpget.addHeader("Accept", "application/json");
+//
+//                CloseableHttpResponse response = (CloseableHttpResponse) httpclient.execute(httpget);
+//                HttpEntity entity = response.getEntity();
+//
+//                //Cria arquivos para gravar anotações
+//                arquivo = new File("src/main/resources/Anotações/tweet - " + text.split("\t")[0] + ".json");
+//                if (!arquivo.exists()) {
+//                    arquivo.createNewFile();
+//                }
+//
+//                JSONObject json = new JSONObject(EntityUtils.toString(entity, "UTF-8"));
+//                json.put("tweet", text.split("\t")[0]);
+//                anotacaoes = json.toString();
+////                anotacaoes = json.toString(1);  USAR ESSE CASO QUEIRA ARQUIVO IDENTADO
+//
+//                buffW = new BufferedWriter(new FileWriter(arquivo));
+//                buffW.write(anotacaoes);
+//                buffW.close();
+//                EntityUtils.consume(entity);
+//            }
+//
+//            br.close();
+//        } catch (URISyntaxException | IOException ex) {
+//            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+//        }
 
         //Ler arq com regra ouro
         JSONArray array = null;
@@ -107,7 +104,6 @@ public class Main {
             JSONObject object;
             while (br.ready()) {
                 text = br.readLine();
-                System.out.println(text);
                 object = new JSONObject();
                 object.put("id", text.split("\t")[0]);
                 object.put("start", text.split("\t")[1]);
@@ -116,6 +112,10 @@ public class Main {
                 object.put("confidence", text.split("\t")[4]);
                 object.put("type", text.split("\t")[5]);
 
+                if (!tweetsId.contains(text.split("\t")[0])) {
+                    tweetsId.add(text.split("\t")[0]);
+
+                }
                 array.put(object);
             }
             br.close();
@@ -131,39 +131,61 @@ public class Main {
                 br = new BufferedReader(new FileReader("src/main/resources/Anotações/tweet - " + tweet + ".json"));
                 while (br.ready()) {
                     JSONObject json = new JSONObject(br.readLine());
-                    JSONArray resources = new JSONArray(json.getJSONArray("Resources"));
-                    String comparacao = "Tweet :" + tweet + "\n";
+
+                    String comparacao = "Tweet ID:" + tweet + "\nTweet: " + json.getString("@text") + "\n";
+                    arquivo = new File("src/main/resources/Anotações/ComparacaoOuro/tweet - " + tweet);
                     for (Object obj : array) {
                         JSONObject jsonouro = (JSONObject) obj;
 
-                        arquivo = new File("src/main/resources/Anotações/ComparacaoOuro/tweet - " + tweet + ".json");
                         if (!arquivo.exists()) {
                             arquivo.createNewFile();
                         }
                         if (jsonouro.get("id").equals(tweet)) {
                             //TODO: comparar elementos
-                            boolean achou = false;
-                            for (Object resource : resources) {
-                                JSONObject jsonResource = (JSONObject) resource;
-                                if (jsonouro.get("start").equals(jsonResource.get("offset"))
-                                        && jsonouro.get("url").equals(jsonResource.get("@URI"))) {
-                                    //ESCREVER ACHOU MESMA INFORMACAO USANDO chave surfaceform
-                                    achou = true;
-                                } else if (jsonouro.get("start").equals(jsonResource.get("offset"))
-                                        && !jsonouro.get("url").equals(jsonResource.get("@URI"))) {
-                                    //ESCREVER ACHOU INFORMACAO DIFERENTE USANDO chave surfaceform
-                                    achou = true;
-                                }
+                            if (json.has("Resources")) {
+                                boolean achou = false;
+                                int contNaoAchou = 0;
+                                JSONArray resources = new JSONArray(json.getJSONArray("Resources").toString());
+                                for (Object resource : resources) {
+                                    JSONObject jsonResource = (JSONObject) resource;
+                                    if (jsonouro.get("start").equals(jsonResource.get("@offset"))
+                                            && jsonouro.get("url").equals(jsonResource.get("@URI"))) {
 
-                                if(achou == false){
-                                    //ESCREVER QUE DBPEDIA NÃO ACHOU
+                                        comparacao += "Palavra: " + jsonResource.getString("@surfaceForm") + "\n"
+                                                + "OffSet: " + jsonResource.get("@offset") + "\n"
+                                                + "ACHOU MESMA URL: " + jsonResource.get("@URI") + "\n\n";
+                                        achou = true;
+                                    } else if (jsonouro.get("start").equals(jsonResource.get("@offset"))
+                                            && !jsonouro.get("url").equals(jsonResource.get("@URI"))) {
+                                        comparacao += "Palavra: " + jsonResource.getString("@surfaceForm") + "\n"
+                                                + "OffSet: " + jsonResource.get("@offset") + "\n"
+                                                + "ACHOU URLs DIFERENTES\n DBPedia-Spotlight: " + jsonResource.get("@URI") + "\n"
+                                                + " Regra Ouro:" + jsonouro.get("url") + "\n\n";
+                                        achou = true;
+                                    }
+
+                                    if (achou == false) {
+                                        contNaoAchou++;
+                                    }
+                                }
+                                if(contNaoAchou == resources.length()){
+                                    comparacao += "DBPEDIA NÃO ENCONTROU, PORÉM ESTAVA NA REGRA OURO\n"
+                                            + "Palavra: " + json.getString("@text").substring(Integer.parseInt(jsonouro.getString("start")), Integer.parseInt(jsonouro.getString("end"))) +"\n"
+                                            + "URI na regra ouro: " + jsonouro.get("url") + "\n"
+                                            + "Type: " + jsonouro.getString("type")+ "\n\n";
                                 }
                             }
                         }
                     }
-                    arquivo = new File("src/main/resources/Anotações/ComparacaoOuro/tweet - " + tweet + ".json");
-                    if(arquivo.exists()){
-                        //ESCREVER COMPARACOES
+                    arquivo = new File("src/main/resources/Anotações/ComparacaoOuro/tweet - " + tweet);
+                    if (arquivo.exists()) {
+                        BufferedReader buffread = new BufferedReader(new FileReader(arquivo));
+                        while (buffread.ready()) {
+                            comparacao += buffread.readLine() + "\n";
+                        }
+                        BufferedWriter buffW = new BufferedWriter(new FileWriter(arquivo));
+                        buffW.write(comparacao);
+                        buffW.close();
                     }
                 }
                 br.close();

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Here's how you build a proper Death Star #StarWars #Techvadar https://t.co/dS4ScKYebs https://t.co/CPyC3v0jGP",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.1560071131028608",
-  "@URI": "http://dbpedia.org/resource/Death_Star",
-  "@support": "521",
-  "@surfaceForm": "Death Star",
-  "@offset": "30",
-  "@similarityScore": "0.8580165025714684",
-  "@types": ""
- }],
- "tweet": "674965910365564929",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Here's how you build a proper Death Star #StarWars #Techvadar https://t.co/dS4ScKYebs https://t.co/CPyC3v0jGP","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.1560071131028608","@URI":"http://dbpedia.org/resource/Death_Star","@support":"521","@surfaceForm":"Death Star","@offset":"30","@similarityScore":"0.8580165025714684","@types":""}],"tweet":"674965910365564929","@sparql":"","@policy":"whitelist"}

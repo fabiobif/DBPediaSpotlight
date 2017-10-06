@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Obama Pressured Officials to Lie Reports+Just+Exposed+HUGE+San+Bernardino+Cover+Up+That+Comes+Straight+From+The+Top https://t.co/FkQwMWPkZC",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.10071955447623783",
-  "@URI": "http://dbpedia.org/resource/Sophus_Lie",
-  "@support": "253",
-  "@surfaceForm": "Lie",
-  "@offset": "30",
-  "@similarityScore": "0.8002014291341908",
-  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Scientist"
- }],
- "tweet": "675575351041392640",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Obama Pressured Officials to Lie Reports+Just+Exposed+HUGE+San+Bernardino+Cover+Up+That+Comes+Straight+From+The+Top https://t.co/FkQwMWPkZC","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.10071955447623783","@URI":"http://dbpedia.org/resource/Sophus_Lie","@support":"253","@surfaceForm":"Lie","@offset":"30","@similarityScore":"0.8002014291341908","@types":"DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Scientist"}],"tweet":"675575351041392640","@sparql":"","@policy":"whitelist"}

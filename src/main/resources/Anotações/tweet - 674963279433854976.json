@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "I find your lack of cookies disturbing. :D #StarWars  https://t.co/9l8MDrhkJy",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.28466157742561315",
-  "@URI": "http://dbpedia.org/resource/Cookie",
-  "@support": "802",
-  "@surfaceForm": "cookies",
-  "@offset": "20",
-  "@similarityScore": "0.7754081185321869",
-  "@types": "DBpedia:Food"
- }],
- "tweet": "674963279433854976",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"I find your lack of cookies disturbing. :D #StarWars  https://t.co/9l8MDrhkJy","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.28466157742561315","@URI":"http://dbpedia.org/resource/Cookie","@support":"802","@surfaceForm":"cookies","@offset":"20","@similarityScore":"0.7754081185321869","@types":"DBpedia:Food"}],"tweet":"674963279433854976","@sparql":"","@policy":"whitelist"}

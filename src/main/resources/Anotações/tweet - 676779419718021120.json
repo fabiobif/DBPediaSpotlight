@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT @lm_Claire: \"The Force, it's calling to you. Just let it in.\" ðŸ\u2019« #StarWars #TheForceAwakens",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.01883239068545269",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9654477440815696",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "676779419718021120",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT @lm_Claire: \"The Force, it's calling to you. Just let it in.\" ðŸ\u2019« #StarWars #TheForceAwakens","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.01883239068545269","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9654477440815696","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"676779419718021120","@sparql":"","@policy":"whitelist"}

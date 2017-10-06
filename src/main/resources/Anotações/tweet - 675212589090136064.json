@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Sith days to go! @starwars #theforceawakens #EpisodeVII #BB-8",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.0072176187519619045",
-  "@URI": "http://dbpedia.org/resource/Sith",
-  "@support": "957",
-  "@surfaceForm": "Sith",
-  "@offset": "0",
-  "@similarityScore": "0.9928338716892803",
-  "@types": ""
- }],
- "tweet": "675212589090136064",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Sith days to go! @starwars #theforceawakens #EpisodeVII #BB-8","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.0072176187519619045","@URI":"http://dbpedia.org/resource/Sith","@support":"957","@surfaceForm":"Sith","@offset":"0","@similarityScore":"0.9928338716892803","@types":""}],"tweet":"675212589090136064","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Find Your Star Wars Playlist! https://t.co/DQkZeySXcg #TheForceAwakens #SpotifyStarWars",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.004710657592781479",
-  "@URI": "http://dbpedia.org/resource/Star_Wars",
-  "@support": "7640",
-  "@surfaceForm": "Star Wars",
-  "@offset": "10",
-  "@similarityScore": "0.9944086484893562",
-  "@types": ""
- }],
- "tweet": "676784023696490496",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Find Your Star Wars Playlist! https://t.co/DQkZeySXcg #TheForceAwakens #SpotifyStarWars","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.004710657592781479","@URI":"http://dbpedia.org/resource/Star_Wars","@support":"7640","@surfaceForm":"Star Wars","@offset":"10","@similarityScore":"0.9944086484893562","@types":""}],"tweet":"676784023696490496","@sparql":"","@policy":"whitelist"}

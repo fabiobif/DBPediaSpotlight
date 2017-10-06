@@ -1,9 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "Vacation days to use by the end of the year. #StarWars comes out next week...",
- "@support": "20",
- "@types": "",
- "tweet": "674965620996317184",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"Vacation days to use by the end of the year. #StarWars comes out next week...","@support":"20","@types":"","tweet":"674965620996317184","@sparql":"","@policy":"whitelist"}

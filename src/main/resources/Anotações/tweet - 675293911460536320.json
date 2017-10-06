@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Newsweek: #Obama just signed one of the most important #education bills in US history. @DaveRess1 @AliciaPetska https://t.co/ITWhdAe0xx",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "2.6445934834830492E-5",
-  "@URI": "http://dbpedia.org/resource/Newsweek",
-  "@support": "4142",
-  "@surfaceForm": "Newsweek",
-  "@offset": "1",
-  "@similarityScore": "0.9999730203618241",
-  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
- }],
- "tweet": "675293911460536320",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Newsweek: #Obama just signed one of the most important #education bills in US history. @DaveRess1 @AliciaPetska https://t.co/ITWhdAe0xx","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"2.6445934834830492E-5","@URI":"http://dbpedia.org/resource/Newsweek","@support":"4142","@surfaceForm":"Newsweek","@offset":"1","@similarityScore":"0.9999730203618241","@types":"Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"}],"tweet":"675293911460536320","@sparql":"","@policy":"whitelist"}

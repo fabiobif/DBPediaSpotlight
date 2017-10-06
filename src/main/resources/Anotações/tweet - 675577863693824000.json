@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "#Sessions Challenges #Obama, #GOP Leaders: Hold Vote Now on #Obamatrade #pinet #ccot #tcot",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "1.3610715524010964E-4",
-  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
-  "@support": "60935",
-  "@surfaceForm": "GOP",
-  "@offset": "30",
-  "@similarityScore": "0.9998357784387142",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
- }],
- "tweet": "675577863693824000",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"#Sessions Challenges #Obama, #GOP Leaders: Hold Vote Now on #Obamatrade #pinet #ccot #tcot","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"1.3610715524010964E-4","@URI":"http://dbpedia.org/resource/Republican_Party_(United_States)","@support":"60935","@surfaceForm":"GOP","@offset":"30","@similarityScore":"0.9998357784387142","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"}],"tweet":"675577863693824000","@sparql":"","@policy":"whitelist"}

@@ -1,18 +1,1 @@
-{
- "@confidence": "0.5",
- "@text": "RT comingsoonnet: Review of #StarWars: #TheForceAwakens https://t.co/Ohk9Wd6W0t â\u20ac¦ https://t.co/WJyoykSBpQ https://t.co/OApZdgNFTs",
- "@support": "20",
- "@types": "",
- "Resources": [{
-  "@percentageOfSecondRank": "0.03858260251214181",
-  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
-  "@support": "408",
-  "@surfaceForm": "RT",
-  "@offset": "0",
-  "@similarityScore": "0.9452871434758912",
-  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
- }],
- "tweet": "677036261551579136",
- "@sparql": "",
- "@policy": "whitelist"
-}
+{"@confidence":"0.5","@text":"RT comingsoonnet: Review of #StarWars: #TheForceAwakens https://t.co/Ohk9Wd6W0t â\u20ac¦ https://t.co/WJyoykSBpQ https://t.co/OApZdgNFTs","@support":"20","@types":"","Resources":[{"@percentageOfSecondRank":"0.03858260251214181","@URI":"http://dbpedia.org/resource/RT_(TV_network)","@support":"408","@surfaceForm":"RT","@offset":"0","@similarityScore":"0.9452871434758912","@types":"DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"}],"tweet":"677036261551579136","@sparql":"","@policy":"whitelist"}
