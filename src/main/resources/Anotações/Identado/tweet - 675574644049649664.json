@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Miriam2626: #Trump calls for #santa no fly zone after Canadian #Syrianrefugee influx! #Trudeau  #muslim https://t.co/mMV5mVcQv2 https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015415571912385595",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9647006207584378",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.05814868961228466",
+   "@URI": "http://dbpedia.org/resource/Canada",
+   "@support": "200979",
+   "@surfaceForm": "Canadian",
+   "@offset": "58",
+   "@similarityScore": "0.944771848517655",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675574644049649664",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

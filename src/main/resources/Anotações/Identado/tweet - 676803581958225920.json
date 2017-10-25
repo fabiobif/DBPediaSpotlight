@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "May the force be with you. #lego #starwars #vscocam https://t.co/3T9YFp1PZ6",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.004925716805012683",
+  "@URI": "http://dbpedia.org/resource/Force",
+  "@support": "4917",
+  "@surfaceForm": "force",
+  "@offset": "8",
+  "@similarityScore": "0.9904184036201492",
+  "@types": ""
+ }],
+ "tweet": "676803581958225920",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

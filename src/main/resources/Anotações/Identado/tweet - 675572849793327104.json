@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @2AFight: Push for short #Obama speech... #tcot #tgdn #PJNET #ccot #LNYHBT #teaparty #RedNationRising https://t.co/8VgnR0et8P",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.002207484326965922",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.995097529919304",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675572849793327104",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BGibbles: Remember how I thought I was seeing Star Wars early yesterday?  https://t.co/o7XCDm0It5  #StarWars #TheForceAwakens https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.28355690279739754",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.7714109131294633",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0021902753595186794",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "50",
+   "@similarityScore": "0.9972449368709463",
+   "@types": ""
+  }
+ ],
+ "tweet": "676802633575755776",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

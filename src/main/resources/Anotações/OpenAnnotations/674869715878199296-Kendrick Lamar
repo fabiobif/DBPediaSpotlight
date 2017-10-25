@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Kendrick_Lamar
+oa:hasTarget [
+        oa:hasSource 674869715878199296 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 68 ;
+            oa:end 82] ] .

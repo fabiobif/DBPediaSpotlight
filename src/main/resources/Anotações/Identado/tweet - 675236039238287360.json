@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Star Wars The Force Awakens: Bop-it R2-D2 Game - Brand New https://t.co/CG5DXCHqKe #StarWars #TheForceAwakens https://t.co/0Xy1oUkenp",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.040396808997171116",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "0",
+   "@similarityScore": "0.9611704457426203",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/R2-D2",
+   "@support": "318",
+   "@surfaceForm": "R2-D2",
+   "@offset": "36",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.008730438799281828",
+   "@URI": "http://dbpedia.org/resource/Brand_New",
+   "@support": "207",
+   "@surfaceForm": "Brand New",
+   "@offset": "49",
+   "@similarityScore": "0.9867642837158368",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  }
+ ],
+ "tweet": "675236039238287360",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

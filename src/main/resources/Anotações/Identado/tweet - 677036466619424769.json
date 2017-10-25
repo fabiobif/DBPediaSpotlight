@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WhatsOnBrum: IT'S EPIC! â˜\u2026â˜\u2026â˜\u2026â˜\u2026â˜\u2026 'A Long time ago in a galaxy far far away' @StarWars #TheForceAwakens lands in #Birmingham MIDNIGHT httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0420784646438566",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.925413496652708",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.010742162126675043",
+   "@URI": "http://dbpedia.org/resource/Birmingham",
+   "@support": "22851",
+   "@surfaceForm": "Birmingham",
+   "@offset": "124",
+   "@similarityScore": "0.9849884077077404",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "677036466619424769",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

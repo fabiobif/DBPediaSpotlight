@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ScottMendelson: Final '#StarWars #TheForceAwakens Opening Weekend #BoxOffice Prediction via @forbes by @ScottMendelson https://t.co/qFgâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.021389362045452557",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9553188031246327",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676783867513073665",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Digital_LAB: 3am tickets for the Star Wars movie opening day, seriously can't wait  #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.07952333420013864",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.7748695123022288",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.005014474513268543",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "37",
+   "@similarityScore": "0.994777774080422",
+   "@types": ""
+  }
+ ],
+ "tweet": "675574422451953664",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Read  this endorsement by Mark Levin #RT #tcot #Trump #Cruz #ccot #WakeUpAmerica #kellyfile #Hannity  https://t.co/sVNHlQv67j",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.641322446662082E-6",
+   "@URI": "http://dbpedia.org/resource/Mark_Levin",
+   "@support": "177",
+   "@surfaceForm": "Mark Levin",
+   "@offset": "26",
+   "@similarityScore": "0.9999943495351908",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Presenter,DBpedia:RadioHost"
+  },
+  {
+   "@percentageOfSecondRank": "0.028639937716090882",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "38",
+   "@similarityScore": "0.93866311395315",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.5492451973153941",
+   "@URI": "http://dbpedia.org/resource/Sean_Hannity",
+   "@support": "442",
+   "@surfaceForm": "Hannity",
+   "@offset": "93",
+   "@similarityScore": "0.6454743515426979",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675575894543622144",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @io9: Here are the first spoiler-free impressions of #TheForceAwakens, straight from the premiere! https://t.co/HwtSw7PLmQ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025182659748637395",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9545678749023881",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Io9",
+   "@support": "202",
+   "@surfaceForm": "io9",
+   "@offset": "4",
+   "@similarityScore": "0.9999999516740571",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  }
+ ],
+ "tweet": "676779661700046848",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

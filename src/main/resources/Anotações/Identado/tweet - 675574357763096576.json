@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Ur tax money at work- #obama moochers &amp; Looters r living high on the back of decent hard working ppl #PJNET https://t.co/V0mthNju72",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "9.380894864059314E-5",
+   "@URI": "http://dbpedia.org/resource/Ur",
+   "@support": "600",
+   "@surfaceForm": "Ur",
+   "@offset": "0",
+   "@similarityScore": "0.9998082285524682",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.07098473741259445",
+   "@URI": "http://dbpedia.org/resource/PPL_(utility)",
+   "@support": "168",
+   "@surfaceForm": "ppl",
+   "@offset": "101",
+   "@similarityScore": "0.9249327266963849",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675574357763096576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

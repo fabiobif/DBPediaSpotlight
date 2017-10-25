@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @UniversalCore11: We will be attending the #StarWars media screening @DisneyStudios on Tuesday. #TheForceAwakens https://t.co/NGr1CRvcxv",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.018997865585930265",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9700682078890597",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675575520415899648",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

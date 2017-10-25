@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@CarlyFiorina @SCForCarly Carly doesn't miss a beat with CNNs toughest anchor! #PlannedParenthood #Obama #Isis   https://t.co/HLVqLDYSlZ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.06946620599463828",
+  "@URI": "http://dbpedia.org/resource/Isis",
+  "@support": "1389",
+  "@surfaceForm": "Isis",
+  "@offset": "106",
+  "@similarityScore": "0.9113156260036742",
+  "@types": ""
+ }],
+ "tweet": "675569857920901120",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

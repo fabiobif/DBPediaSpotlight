@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "🌠 @blogdiva wait till we find out R2D2's memory was never wiped. then we can have this #starwars slave convo. https://t.co/aBoIR3XEYB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/R2-D2",
+   "@support": "318",
+   "@surfaceForm": "R2D2",
+   "@offset": "37",
+   "@similarityScore": "0.9999999899931993",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.007809511271597338",
+   "@URI": "http://dbpedia.org/resource/Memory",
+   "@support": "7794",
+   "@surfaceForm": "memory",
+   "@offset": "44",
+   "@similarityScore": "0.9842611977896243",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803804101255168",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

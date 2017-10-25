@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Previewing @adventuresci's 7th annual Science of Beer on 12/17. #Craftbeer w #StarWars theme https://t.co/j6S6F1WbCl https://t.co/LYhX2hLulj",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.37116553693286763",
+  "@URI": "http://dbpedia.org/resource/17",
+  "@support": "23",
+  "@surfaceForm": "/17",
+  "@offset": "59",
+  "@similarityScore": "0.6633448044822091",
+  "@types": "DBpedia:TimePeriod,DBpedia:Year"
+ }],
+ "tweet": "674964298892840960",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @joe_nuzz: #Obama is puppet of commander of Qods Force-  #Iranian Revolutionary Guards #Qassem Suleimani killed many #Americans https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.70121471236787E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9985375601006931",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Quds_Force",
+   "@support": "88",
+   "@surfaceForm": "Qods Force",
+   "@offset": "47",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Army_of_the_Guardians_of_the_Islamic_Revolution",
+   "@support": "615",
+   "@surfaceForm": "Iranian Revolutionary Guards",
+   "@offset": "61",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:MilitaryUnit"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Qasem_Soleimani",
+   "@support": "23",
+   "@surfaceForm": "Qassem Suleimani",
+   "@offset": "91",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  }
+ ],
+ "tweet": "675577687981735936",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

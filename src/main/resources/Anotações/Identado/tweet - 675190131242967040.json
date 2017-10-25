@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Goodbye #Twitter, I'll see ya after #StarWars #TheForceAwakens. #nospoilersforthisguy @starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Twitter",
+  "@support": "10159",
+  "@surfaceForm": "Twitter",
+  "@offset": "9",
+  "@similarityScore": "0.9999999624042466",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "675190131242967040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

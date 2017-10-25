@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "@POTUS dude can't you have #Trump accidentally have an accidentðŸ˜?ðŸ\u2018»ðŸ˜ˆðŸ˜? ?? @FBI @CIA @Interpol",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.203321636123974E-5",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "1",
+   "@similarityScore": "0.9999809157356286",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "7.885785491784379E-7",
+   "@URI": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+   "@support": "15865",
+   "@surfaceForm": "FBI",
+   "@offset": "84",
+   "@similarityScore": "0.9999991495573887",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.9248171304752876E-6",
+   "@URI": "http://dbpedia.org/resource/Central_Intelligence_Agency",
+   "@support": "12694",
+   "@surfaceForm": "CIA",
+   "@offset": "89",
+   "@similarityScore": "0.999996157495694",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency"
+  },
+  {
+   "@percentageOfSecondRank": "0.0014950806196194668",
+   "@URI": "http://dbpedia.org/resource/Interpol",
+   "@support": "1364",
+   "@surfaceForm": "Interpol",
+   "@offset": "94",
+   "@similarityScore": "0.998502427703309",
+   "@types": ""
+  }
+ ],
+ "tweet": "675564319656968192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

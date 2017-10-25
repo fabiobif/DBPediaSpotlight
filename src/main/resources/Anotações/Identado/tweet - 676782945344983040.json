@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: Incoming! #StarWars: #TheForceAwakens arrives in 4 days. Get your opening weekend tickets now! https://t.co/vIFfM3CG5N",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.22366164509454084",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.7104978000174829",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676782945344983040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

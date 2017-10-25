@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @beny_benson: Dem Rep: #obama #amnesty Fight Will Decide Who Controls Country for Next 30 Yrs #pjnet #ccot #tcot  https://t.co/Wa0jHZoo9s",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "2.890858229813214E-4",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9995096398391412",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675567325865771008",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

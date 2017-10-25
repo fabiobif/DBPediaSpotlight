@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Or CALL 202-225-3121 for ANY/ALL Rep(s) Senator(s) Dem or GOP! If Staffer Asks Where you're from, TELL 'em USA! @Secca2013 #Trump2016 #Trump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.4582156840096506",
+   "@URI": "http://dbpedia.org/resource/New_York_Republican_State_Committee",
+   "@support": "219",
+   "@surfaceForm": "GOP",
+   "@offset": "58",
+   "@similarityScore": "0.6857692301391006",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.3983596226961625E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "107",
+   "@similarityScore": "0.9999641683886359",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675558398507802624",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

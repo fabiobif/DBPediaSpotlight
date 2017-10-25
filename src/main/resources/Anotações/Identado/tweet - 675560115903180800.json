@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @commondreams: #Obama's Speech Reminded Americans That the #War with #ISIS Is Still Illegal https://t.co/VB8U4S7TUQ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.9777402747078124E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9995357984293007",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Common_Dreams_NewsCenter",
+   "@support": "22",
+   "@surfaceForm": "commondreams",
+   "@offset": "4",
+   "@similarityScore": "0.9999999892668826",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.6811169869966571",
+   "@URI": "http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant",
+   "@support": "574",
+   "@surfaceForm": "ISIS",
+   "@offset": "73",
+   "@similarityScore": "0.501524225678153",
+   "@types": ""
+  }
+ ],
+ "tweet": "675560115903180800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

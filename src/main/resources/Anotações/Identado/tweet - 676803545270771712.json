@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @KiSS925: .@jaxonair : #JosephGordonLevitt wore a fabulous homemade costume to The #StarWars premiere because he's perfect. https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.025182659748637395",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9539686581033678",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803545270771712",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

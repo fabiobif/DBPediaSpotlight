@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RealAlexJones: #Obama working on executive action aimed at #2ndAmendment, admin. says order will be ready in short order. https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.682752124805806E-5",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9999705936289977",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675560645807480832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

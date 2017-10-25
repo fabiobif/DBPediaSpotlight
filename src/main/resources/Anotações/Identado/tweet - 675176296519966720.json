@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Russell Crowe, you lucky S.O.B #7MoreDays #StarWarsTheForceAwakens #StarWars #TheForceAwakens https://t.co/siGQH3nKQQ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Russell_Crowe",
+  "@support": "659",
+  "@surfaceForm": "Russell Crowe",
+  "@offset": "0",
+  "@similarityScore": "0.9999999999922693",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "675176296519966720",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

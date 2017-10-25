@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @oliviafierro: Check out this #StarWars basketball! Want it? Comes w/ tix pkg for @Suns vs Portland 12/11. https://t.co/VODFME85ip",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.027736089058074186",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9364680191767478",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.007449674056599923",
+   "@URI": "http://dbpedia.org/resource/Basketball",
+   "@support": "47805",
+   "@surfaceForm": "basketball",
+   "@offset": "43",
+   "@similarityScore": "0.9925758532587771",
+   "@types": "DBpedia:Activity,DBpedia:Sport"
+  },
+  {
+   "@percentageOfSecondRank": "0.19066339142153257",
+   "@URI": "http://dbpedia.org/resource/Portland,_Oregon",
+   "@support": "14600",
+   "@surfaceForm": "Portland",
+   "@offset": "94",
+   "@similarityScore": "0.7685726918850607",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/11",
+   "@support": "42",
+   "@surfaceForm": "/11",
+   "@offset": "105",
+   "@similarityScore": "0.9999999996039719",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  }
+ ],
+ "tweet": "674965429052416000",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

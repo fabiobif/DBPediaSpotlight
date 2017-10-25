@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/RT_(TV_network)
+oa:hasTarget [
+        oa:hasSource 675231015682646016 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 0 ;
+            oa:end 2] ] .

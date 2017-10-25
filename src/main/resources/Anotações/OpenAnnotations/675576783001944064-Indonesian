@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Indonesia
+oa:hasTarget [
+        oa:hasSource 675576783001944064 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 30 ;
+            oa:end 40] ] .

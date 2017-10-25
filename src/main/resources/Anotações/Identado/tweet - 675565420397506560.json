@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@meridak And still with all of this published proof of #Trump narcissism he continues to lead in most polls. #crazy https://t.co/He4lqx4wjD",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "2.9303361216341273E-4",
+  "@URI": "http://dbpedia.org/resource/Narcissism",
+  "@support": "917",
+  "@surfaceForm": "narcissism",
+  "@offset": "62",
+  "@similarityScore": "0.9997069718253955",
+  "@types": ""
+ }],
+ "tweet": "675565420397506560",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

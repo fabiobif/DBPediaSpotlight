@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "â\u20acœ@Bidenshairplugs: Would you vote for Marco Rubio if he were to become the GOP nominee?â\u20ac? -NOPE, I'd write in #Trump!",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Marco_Rubio",
+   "@support": "132",
+   "@surfaceForm": "Marco Rubio",
+   "@offset": "40",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  },
+  {
+   "@percentageOfSecondRank": "1.742660568743791E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "77",
+   "@similarityScore": "0.999766295462178",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675557639636447232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @VenomousFatman1: Daily reminder... DON'T POST SPOILERS OF THE #TheForceAwakens!!! Think of the rest of us who must wait till Thursday tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.004738172821419423",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9940552462214267",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676779596755390465",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

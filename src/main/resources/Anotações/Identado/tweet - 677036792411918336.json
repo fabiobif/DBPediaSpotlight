@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "General Veers is all class. #StarWars #EmpireStrikesBack #TheForceAwakens Star Wars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/List_of_Star_Wars_characters",
+   "@support": "2430",
+   "@surfaceForm": "General Veers",
+   "@offset": "0",
+   "@similarityScore": "0.9999999999924114",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.002262691249740499",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "74",
+   "@similarityScore": "0.9973064546448754",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036792411918336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

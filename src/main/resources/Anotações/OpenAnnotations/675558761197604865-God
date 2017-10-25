@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/God
+oa:hasTarget [
+        oa:hasSource 675558761197604865 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 62 ;
+            oa:end 65] ] .

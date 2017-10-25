@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Only 5days 17hrs 10mins &amp; some change left to go until #StarWars #TheForceAwakens for me at 6:50am!! *hyperventilating into brown paper bag*",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Hyperventilation",
+  "@support": "200",
+  "@surfaceForm": "hyperventilating",
+  "@offset": "106",
+  "@similarityScore": "0.9999998725819604",
+  "@types": ""
+ }],
+ "tweet": "675206348997582848",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

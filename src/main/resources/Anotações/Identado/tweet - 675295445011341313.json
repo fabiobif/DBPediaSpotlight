@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "â\u20acœ@people: A woman built the perfect #StarWars costume for her dog https://t.co/VJRQwNZB0t https://t.co/nmNROB7diRâ\u20ac?@guacomole123",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "6.11407130318896E-5",
+  "@URI": "http://dbpedia.org/resource/Dog",
+  "@support": "10004",
+  "@surfaceForm": "dog",
+  "@offset": "64",
+  "@similarityScore": "0.9998734117787974",
+  "@types": "DBpedia:Species,DBpedia:Eukaryote,DBpedia:Animal,DBpedia:Mammal"
+ }],
+ "tweet": "675295445011341313",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

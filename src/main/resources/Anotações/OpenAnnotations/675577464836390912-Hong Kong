@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Hong_Kong
+oa:hasTarget [
+        oa:hasSource 675577464836390912 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 31 ;
+            oa:end 40] ] .

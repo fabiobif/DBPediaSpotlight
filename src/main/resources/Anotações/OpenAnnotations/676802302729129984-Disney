@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/The_Walt_Disney_Company
+oa:hasTarget [
+        oa:hasSource 676802302729129984 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 64 ;
+            oa:end 70] ] .

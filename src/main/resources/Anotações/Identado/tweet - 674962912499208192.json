@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Here's a Brand New International 'Star Wars' Trailer https://t.co/8LikXD7jNs #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.008970535525492087",
+   "@URI": "http://dbpedia.org/resource/Brand_New",
+   "@support": "207",
+   "@surfaceForm": "Brand New",
+   "@offset": "9",
+   "@similarityScore": "0.9864052472586696",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  },
+  {
+   "@percentageOfSecondRank": "0.0022061155457941285",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "34",
+   "@similarityScore": "0.9975836915529919",
+   "@types": ""
+  }
+ ],
+ "tweet": "674962912499208192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

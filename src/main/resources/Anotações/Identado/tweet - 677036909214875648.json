@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "*Gives a hard side eye to all the media outlets posting reviews at exactly 12am - now that the #starwars #forceawakens embargo is lifted*",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.04030170742662912",
+  "@URI": "http://dbpedia.org/resource/Embargo",
+  "@support": "630",
+  "@surfaceForm": "embargo",
+  "@offset": "119",
+  "@similarityScore": "0.9577404702631047",
+  "@types": ""
+ }],
+ "tweet": "677036909214875648",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

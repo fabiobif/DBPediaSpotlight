@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AWAKEALERT: @Ian56789 The ISIS Godfathers â\u2013º#Obama, #Saudi King Salman #Cameron &amp; another is #Erdogan  https://t.co/XDmpPv8SIc https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.006245660510647566",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9896684662280231",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.13299135100364007",
+   "@URI": "http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant",
+   "@support": "574",
+   "@surfaceForm": "ISIS",
+   "@offset": "30",
+   "@similarityScore": "0.832889360149741",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569580903940096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

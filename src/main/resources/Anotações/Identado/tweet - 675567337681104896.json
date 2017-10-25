@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"Electing [#Trump] would be like asking the clown at a childâ\u20ac™s birthday party to start juggling chainsaws.\" https://t.co/R1xau5h8PM @kaj33",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0014352267336081295",
+   "@URI": "http://dbpedia.org/resource/Clown",
+   "@support": "1058",
+   "@surfaceForm": "clown",
+   "@offset": "44",
+   "@similarityScore": "0.9984672769941286",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "6.8742814284025155E-6",
+   "@URI": "http://dbpedia.org/resource/Juggling",
+   "@support": "777",
+   "@surfaceForm": "juggling",
+   "@offset": "89",
+   "@similarityScore": "0.9999931243988174",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.4570732010842627E-7",
+   "@URI": "http://dbpedia.org/resource/Chainsaw",
+   "@support": "420",
+   "@surfaceForm": "chainsaws",
+   "@offset": "98",
+   "@similarityScore": "0.9999997540199121",
+   "@types": ""
+  }
+ ],
+ "tweet": "675567337681104896",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

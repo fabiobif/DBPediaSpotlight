@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @dboxcinema: @starwars #TheForceAwakens opens Friday in D-BOX! Experience the journey with all your senses! #DBOX @dboxcinema https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05225090097877909",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8987621169973784",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/D-Box_Technologies",
+   "@support": "34",
+   "@surfaceForm": "D-BOX",
+   "@offset": "59",
+   "@similarityScore": "0.9696331775811476",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676786375480451072",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

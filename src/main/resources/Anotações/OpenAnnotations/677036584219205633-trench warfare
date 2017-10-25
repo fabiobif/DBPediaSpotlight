@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Trench_warfare
+oa:hasTarget [
+        oa:hasSource 677036584219205633 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 24 ;
+            oa:end 38] ] .

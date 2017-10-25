@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @unitextiles: #StarWars official bedding #giveaway! #Follow &amp; RT to #win! Closes 14/12 #competition #prize #free #TheForceAwakens https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.011601968527225951",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9712442607423514",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.011601968527225951",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "69",
+   "@similarityScore": "0.9712442607423514",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/12",
+   "@support": "47",
+   "@surfaceForm": "/12",
+   "@offset": "90",
+   "@similarityScore": "0.9999999997025384",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  }
+ ],
+ "tweet": "675571469053657088",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

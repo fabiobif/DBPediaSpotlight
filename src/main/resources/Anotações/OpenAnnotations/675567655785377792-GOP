@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Republican_Party_(United_States)
+oa:hasTarget [
+        oa:hasSource 675567655785377792 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 125 ;
+            oa:end 128] ] .

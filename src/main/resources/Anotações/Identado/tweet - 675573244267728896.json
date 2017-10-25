@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @hopenothate: How #Trump has gone farther than #Europeâ\u20ac™s #farright, and who got himÂ there, via @globeandmail (HT @CasMudde)  https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0031723305768029623",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.995215159941452",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675573244267728896",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

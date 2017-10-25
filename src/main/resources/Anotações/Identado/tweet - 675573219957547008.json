@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Donald #Trump kicked off the #Scottish green https://t.co/LRNNyIaa3w via @POLITICOEurope",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.041603142979480125",
+  "@URI": "http://dbpedia.org/resource/Scotland",
+  "@support": "81988",
+  "@surfaceForm": "Scottish",
+  "@offset": "30",
+  "@similarityScore": "0.9590775557300448",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675573219957547008",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

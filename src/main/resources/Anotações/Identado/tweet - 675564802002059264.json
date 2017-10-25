@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CindyBlackwel12: Please Read &amp; Pass This On.  #Trump #Trump2016 #TrumpTrain  @greta @Morning_Joe @foxandfriends @JoeNBC @TheFive #CNN hâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.02576068173452E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.998872103498882",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.2678119593316884E-5",
+   "@URI": "http://dbpedia.org/resource/CNN",
+   "@support": "8267",
+   "@surfaceForm": "CNN",
+   "@offset": "138",
+   "@similarityScore": "0.9999866998894607",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675564802002059264",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

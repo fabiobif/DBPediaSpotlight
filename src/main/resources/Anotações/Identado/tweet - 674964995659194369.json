@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @THR: #StarWars flashback: When no theater wanted to show the movie in 1977 https://t.co/cds8xkqwVj https://t.co/1kSHiYgXTO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.043418057462752915",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9438159141868558",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674964995659194369",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

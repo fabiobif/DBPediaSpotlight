@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "I'm entered to #win a #StarWars #PS4 from @PM_Academy's A Very Merry Star Wars #Sweepstakes  https://t.co/dwxBdORbNS",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/PlayStation_4",
+   "@support": "546",
+   "@surfaceForm": "PS4",
+   "@offset": "33",
+   "@similarityScore": "0.999999695585121",
+   "@types": "DBpedia:Device,DBpedia:InformationAppliance"
+  },
+  {
+   "@percentageOfSecondRank": "0.007402650475857867",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "69",
+   "@similarityScore": "0.991521309896845",
+   "@types": ""
+  }
+ ],
+ "tweet": "676804131193942016",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

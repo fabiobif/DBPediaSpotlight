@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @VisitAbuDhabi: 1 day left to WIN #StarWars - #TheForceAwakens Premiere tickets, 3 days #InAbuDhabi with us &amp; @EtihadAirways &amp; more! httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028742321902352413",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.930820280192345",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.028573380683536258",
+   "@URI": "http://dbpedia.org/resource/WIN_Television",
+   "@support": "278",
+   "@surfaceForm": "WIN",
+   "@offset": "33",
+   "@similarityScore": "0.9136984626276511",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675234242662703108",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

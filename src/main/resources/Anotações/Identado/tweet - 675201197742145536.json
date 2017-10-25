@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I wonder if there are others like me, not quite ready to believe/trust in #TheForceAwakens because of what happened in 1999?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03660914819590528",
+  "@URI": "http://dbpedia.org/resource/Trust_law",
+  "@support": "2215",
+  "@surfaceForm": "trust",
+  "@offset": "65",
+  "@similarityScore": "0.9300582037461601",
+  "@types": ""
+ }],
+ "tweet": "675201197742145536",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

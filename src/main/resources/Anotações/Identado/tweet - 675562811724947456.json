@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @calestous: The World According to Donald #Trump by @alphadesigner https://t.co/BMcIp952I8 https://t.co/xKNfxlM3a8",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.012229679954985547",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9780823271055648",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675562811724947456",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

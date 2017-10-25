@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Reboot_(fiction)
+oa:hasTarget [
+        oa:hasSource 677036548668440576 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 92 ;
+            oa:end 98] ] .

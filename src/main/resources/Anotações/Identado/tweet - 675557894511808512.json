@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Here's what a #Trump Rally looks like. MSM w/ Not show this! #America is sick of Obama admin &amp; politicians #CNN  #RT https://t.co/IOu1Hgy37D",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.15143369165781792",
+   "@URI": "http://dbpedia.org/resource/Mouvement_Socialiste_Militant",
+   "@support": "149",
+   "@surfaceForm": "MSM",
+   "@offset": "39",
+   "@similarityScore": "0.8402264986278445",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.3480778928696814E-5",
+   "@URI": "http://dbpedia.org/resource/CNN",
+   "@support": "8267",
+   "@surfaceForm": "CNN",
+   "@offset": "112",
+   "@similarityScore": "0.9999760303505709",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.420642446465547E-7",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "118",
+   "@similarityScore": "0.9999989530217955",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675557894511808512",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

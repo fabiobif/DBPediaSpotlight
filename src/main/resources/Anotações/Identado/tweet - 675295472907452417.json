@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "A long time ago when #StarWars premiered in Singapore https://t.co/yL0Zf5dKRx via @YahooMovies",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.6079721753244053E-4",
+  "@URI": "http://dbpedia.org/resource/Singapore",
+  "@support": "45243",
+  "@surfaceForm": "Singapore",
+  "@offset": "44",
+  "@similarityScore": "0.9996986279330018",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675295472907452417",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Embargo
+oa:hasTarget [
+        oa:hasSource 677037063229874176 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 7 ;
+            oa:end 14] ] .

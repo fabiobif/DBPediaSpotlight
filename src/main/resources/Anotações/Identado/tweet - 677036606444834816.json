@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Seeing everything George Lucas changed in the #StarWars Blu-rays is disappointing. Really hope Disney releases the original versions one day",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.572341027639664E-7",
+   "@URI": "http://dbpedia.org/resource/George_Lucas",
+   "@support": "1290",
+   "@surfaceForm": "George Lucas",
+   "@offset": "18",
+   "@similarityScore": "0.9999994427122506",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Blu-ray_Disc",
+   "@support": "5728",
+   "@surfaceForm": "Blu-rays",
+   "@offset": "56",
+   "@similarityScore": "0.9999982481848232",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.004102280035693884",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "95",
+   "@similarityScore": "0.9944215013793437",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "677036606444834816",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

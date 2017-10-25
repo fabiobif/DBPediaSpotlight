@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Egypt
+oa:hasTarget [
+        oa:hasSource 674869443671941120 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 93 ;
+            oa:end 101] ] .

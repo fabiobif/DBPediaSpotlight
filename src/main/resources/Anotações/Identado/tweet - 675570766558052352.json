@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Trump lead among #Republicans undiminished in first poll after #Muslim comments https://t.co/lhGjcNMUey #inconceivable",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.029349922186154103",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslim",
+  "@offset": "65",
+  "@similarityScore": "0.9708137055757494",
+  "@types": ""
+ }],
+ "tweet": "675570766558052352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

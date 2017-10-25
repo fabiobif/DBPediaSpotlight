@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"#Trump supporters just sneered at me but I hope some are intelligent enough to keep reading\"  Divisive rhetoric https://t.co/iCGqaYYgPS",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "4.51558394136745E-5",
+  "@URI": "http://dbpedia.org/resource/Rhetoric",
+  "@support": "2666",
+  "@surfaceForm": "rhetoric",
+  "@offset": "104",
+  "@similarityScore": "0.999907902241973",
+  "@types": ""
+ }],
+ "tweet": "675563251216850944",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

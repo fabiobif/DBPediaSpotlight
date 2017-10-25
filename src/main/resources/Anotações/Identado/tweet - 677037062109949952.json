@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "The best #StarWars film in three decades! Our review of Star Wars #TheForceAwakens https://t.co/1tsG93I4Y0 https://t.co/1PpnmBR5Oo",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.006922215562952637",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "56",
+  "@similarityScore": "0.9924903577485447",
+  "@types": ""
+ }],
+ "tweet": "677037062109949952",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

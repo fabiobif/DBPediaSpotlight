@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Nerdist_Industries
+oa:hasTarget [
+        oa:hasSource 676803361577017344 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 109 ;
+            oa:end 116] ] .

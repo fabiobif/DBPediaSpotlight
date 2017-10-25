@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RossKingsland1: Everyone misses this Star Wars lesson from Yoda https://t.co/AwWJTTRhb2 #TheForceAwakens #GrowthHacking #startup https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.039600537124011195",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9419813871880606",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002858348555921779",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "41",
+   "@similarityScore": "0.9966504306510372",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.6686008890537258E-4",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "63",
+   "@similarityScore": "0.9998305867313156",
+   "@types": ""
+  }
+ ],
+ "tweet": "676787560253956096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

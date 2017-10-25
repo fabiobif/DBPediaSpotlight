@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MissAmericaPie: One more Time: #TRUMP said TEMPORARILY SUSPEND ALL FOREIGN #MUSLIM IMMIGRATION TIL FBI CAN DETERMINE HOMELAND THREAT anâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.678148112243822E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9988706435730748",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.114844418173363E-6",
+   "@URI": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+   "@support": "15865",
+   "@surfaceForm": "FBI",
+   "@offset": "103",
+   "@similarityScore": "0.9999987894839756",
+   "@types": ""
+  }
+ ],
+ "tweet": "675248981916704768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

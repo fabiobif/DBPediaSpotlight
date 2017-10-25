@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Writeintrump: Despite rumors, I love the bald eagle that attacked me during my Time photoshoot.  That's why I had him stuffed and put oâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.015697234714879844",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9728387624678253",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Bald_Eagle",
+   "@support": "1479",
+   "@surfaceForm": "bald eagle",
+   "@offset": "45",
+   "@similarityScore": "0.999999999999801",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569228968144896",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

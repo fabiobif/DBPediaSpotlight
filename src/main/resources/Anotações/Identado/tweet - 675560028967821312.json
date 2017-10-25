@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @commondreams: As #Immigrants Mark Frustrating Year for #Obamaâ\u20ac™s Executive Action, Cities and States Can Take Lead https://t.co/TZDFdvoMâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004258066606188682",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9880570974068451",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Common_Dreams_NewsCenter",
+   "@support": "22",
+   "@surfaceForm": "commondreams",
+   "@offset": "4",
+   "@similarityScore": "0.9999999876844755",
+   "@types": ""
+  }
+ ],
+ "tweet": "675560028967821312",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

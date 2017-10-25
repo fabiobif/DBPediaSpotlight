@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BARRYCUDA3: @CAPTDSPAWN5 https://t.co/AMX2pUrj8j MUSLIM #OBAMA'S ANSWER TO THE SOARING BLACK ON BLACK MURDER RATES IN THE INNER CITIES=â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0011816747903232176",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.997316578595382",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675575914852388865",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

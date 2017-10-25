@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @NukedTheFridge: #RETWEET &amp; #FOLLOW @NukeTheFridge for a chance to win a #StarWars #Episode7 Captain Phasma #funkopop MTFBWY https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.938974671657002",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675577147424047104",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

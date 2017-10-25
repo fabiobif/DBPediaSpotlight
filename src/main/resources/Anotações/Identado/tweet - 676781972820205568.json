@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@BridgetFitz I have take the best defense I can on this. A) don't read anything star wars for next 24hrs and b) see #TheForceAwakens at 12am",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.7860210351137233E-4",
+  "@URI": "http://dbpedia.org/resource/Star",
+  "@support": "17594",
+  "@surfaceForm": "star",
+  "@offset": "80",
+  "@similarityScore": "0.9995097147198166",
+  "@types": ""
+ }],
+ "tweet": "676781972820205568",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

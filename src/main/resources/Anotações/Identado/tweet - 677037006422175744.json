@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SuperPRGuy: As if I didn't love @google already ... Go #Google \"A long time ago in a galaxy far far away\" And start grinning ... #StarWâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05411290185087643",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9050033212897766",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0010518065128982184",
+   "@URI": "http://dbpedia.org/resource/Google",
+   "@support": "15257",
+   "@surfaceForm": "Google",
+   "@offset": "60",
+   "@similarityScore": "0.9988333389225754",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "677037006422175744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

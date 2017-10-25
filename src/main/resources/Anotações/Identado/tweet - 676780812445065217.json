@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JenHerranz: My Star Wars Match is Padme Amidala. Who's Yours? ðŸ˜Ž https://t.co/aSeMtICKz3 #TheForceAwakens #SpotifyStarWars (Estaba claro)",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03960053712400895",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9424514318887545",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "7.108905413609353E-7",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "19",
+   "@similarityScore": "0.9999991514591974",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Padmé_Amidala",
+   "@support": "196",
+   "@surfaceForm": "Padme Amidala",
+   "@offset": "38",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.012661427958011943",
+   "@URI": "http://dbpedia.org/resource/Claro_Americas",
+   "@support": "101",
+   "@surfaceForm": "claro",
+   "@offset": "137",
+   "@similarityScore": "0.9648171191254243",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676780812445065217",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT hetenate:  MediaMarktArena \"Great kid, don't get cocky.\" - Han Solo #TheForceAwakens #win  â\u20ac\u201d Hete Nate [SDMN] (hetenate) December 11, 20â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02685187377934993",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9446287143046013",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.7304868596095188E-5",
+   "@URI": "http://dbpedia.org/resource/Han_Solo",
+   "@support": "545",
+   "@surfaceForm": "Han Solo",
+   "@offset": "62",
+   "@similarityScore": "0.9999826954305038",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.1127464158859666E-8",
+   "@URI": "http://dbpedia.org/resource/High_Energy_Transient_Explorer",
+   "@support": "26",
+   "@surfaceForm": "Hete",
+   "@offset": "98",
+   "@similarityScore": "0.9999999688725443",
+   "@types": ""
+  }
+ ],
+ "tweet": "675225265396711424",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

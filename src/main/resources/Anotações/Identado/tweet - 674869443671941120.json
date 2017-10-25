@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EntheosShines: Just As Some Parents Have A Favorite Child, Obama Has Favorites (sign at  Egyptian Airport) @chirofrenzy @PatVPeters httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.005872440514720699",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9871951727786338",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.09389021791583345",
+   "@URI": "http://dbpedia.org/resource/Egypt",
+   "@support": "44280",
+   "@surfaceForm": "Egyptian",
+   "@offset": "93",
+   "@similarityScore": "0.828086768830208",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "674869443671941120",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

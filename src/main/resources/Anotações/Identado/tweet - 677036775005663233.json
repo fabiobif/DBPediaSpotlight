@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Celebrate #StarWars #StarWarsForceAwakens with a limited #Yoda print #art #drawing  https://t.co/U6rg5JNzj4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "6.456044843833992E-4",
+  "@URI": "http://dbpedia.org/resource/Yoda",
+  "@support": "527",
+  "@surfaceForm": "Yoda",
+  "@offset": "58",
+  "@similarityScore": "0.998982540552477",
+  "@types": ""
+ }],
+ "tweet": "677036775005663233",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

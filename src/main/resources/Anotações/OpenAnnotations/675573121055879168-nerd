@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Nerd
+oa:hasTarget [
+        oa:hasSource 675573121055879168 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 101 ;
+            oa:end 105] ] .

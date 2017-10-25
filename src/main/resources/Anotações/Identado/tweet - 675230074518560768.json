@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT He's nearly as excited about #StarWars as I am.   #theforceawakens #ANewHopeâ\u20ac¦ https://t.co/IuEQ73TAQu",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.940014171205338",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675230074518560768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

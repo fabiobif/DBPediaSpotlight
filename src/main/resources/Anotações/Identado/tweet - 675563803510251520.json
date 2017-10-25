@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CindyBlackwel12: WOW! #Trump supporters fire back at @LindseyGrahamSC.  DON'T MESS WITH US! #Trump2016 #greta https://t.co/J1QIzDovHb hâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.016185361048334717",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9660830116367507",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0051526281985707495",
+   "@URI": "http://dbpedia.org/resource/WOW!",
+   "@support": "55",
+   "@surfaceForm": "WOW!",
+   "@offset": "21",
+   "@similarityScore": "0.9948726192047341",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Multi_Emulator_Super_System",
+   "@support": "35",
+   "@surfaceForm": "MESS",
+   "@offset": "82",
+   "@similarityScore": "0.9999962534979241",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:Software"
+  }
+ ],
+ "tweet": "675563803510251520",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

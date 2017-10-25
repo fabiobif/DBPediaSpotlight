@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "For those of you who are obsessed w/ #StarWars but can't watch it ASAP, get this. It blocks all #StarWarsSpoilers!  https://t.co/U4jQcZQLi7",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0049063591093098345",
+  "@URI": "http://dbpedia.org/resource/ASAP_(variety_show)",
+  "@support": "210",
+  "@surfaceForm": "ASAP",
+  "@offset": "66",
+  "@similarityScore": "0.9915405617418536",
+  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow"
+ }],
+ "tweet": "676802412007440384",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

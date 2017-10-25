@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/DVD
+oa:hasTarget [
+        oa:hasSource 676802699548098561 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 53 ;
+            oa:end 56] ] .

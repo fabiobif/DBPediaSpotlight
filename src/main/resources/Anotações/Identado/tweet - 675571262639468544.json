@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ThatJamesKahn: Don't miss your shot at the amazing #StarWars perks at the #WSB campaign! https://t.co/8KHfdpT3O0!  #indiefilm https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.021464867833193024",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.962317584001037",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.00404391206103238",
+   "@URI": "http://dbpedia.org/resource/WSB_(AM)",
+   "@support": "150",
+   "@surfaceForm": "WSB",
+   "@offset": "79",
+   "@similarityScore": "0.9950614265130221",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:RadioStation,DBpedia:RadioStation"
+  }
+ ],
+ "tweet": "675571262639468544",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

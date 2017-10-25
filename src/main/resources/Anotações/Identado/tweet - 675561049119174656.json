@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AWAKEALERT: US Actions to bring about â\u20ac˜#Nuclear Holocaust,â\u20ac™ \"#Obama is clinically insane\" - Billington https://t.co/fkkYXRHi7v https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.009611697426159868",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9877019362052574",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.06284224319731292",
+   "@URI": "http://dbpedia.org/resource/Nuclear_holocaust",
+   "@support": "147",
+   "@surfaceForm": "Nuclear Holocaust",
+   "@offset": "46",
+   "@similarityScore": "0.9408734046635358",
+   "@types": ""
+  }
+ ],
+ "tweet": "675561049119174656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

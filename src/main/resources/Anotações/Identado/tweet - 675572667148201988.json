@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "ðŸš\u201aðŸ\u2019¨#TrumpWinningðŸš\u201aðŸ\u2019¨ Let's #WakeUpAmerica ðŸ\u2021ºðŸ\u2021¸ #TrumpTruth #Trumpâ?¤ï¸?USA  #WhyISupportTrump ðŸ\u2021ºðŸ\u2021¸50Days Till Iowa ðŸš\u201aðŸ\u2019¨ðŸ\u2019¨ðŸ\u2019¨ https://t.co/k5SStyXRKN",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "4.2462208098417487E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "84",
+   "@similarityScore": "0.9998827487095499",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "4.029545501921837E-4",
+   "@URI": "http://dbpedia.org/resource/Iowa",
+   "@support": "21644",
+   "@surfaceForm": "Iowa",
+   "@offset": "127",
+   "@similarityScore": "0.9994721016590422",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675572667148201988",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

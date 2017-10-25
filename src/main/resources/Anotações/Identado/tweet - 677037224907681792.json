@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @blm03: Star Wars The Force Awakens Review With A Storm Troopers Cupcakes Recipe https://t.co/U0ljpRRHqO #starwars https://t.co/3dY1m5C2â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024535597421990515",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9677506837115193",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.3205562086254338E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "11",
+   "@similarityScore": "0.9998474929642394",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.11633772410251313",
+   "@URI": "http://dbpedia.org/resource/Sturmabteilung",
+   "@support": "1390",
+   "@surfaceForm": "Storm Troopers",
+   "@offset": "53",
+   "@similarityScore": "0.8957862641299434",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency"
+  }
+ ],
+ "tweet": "677037224907681792",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

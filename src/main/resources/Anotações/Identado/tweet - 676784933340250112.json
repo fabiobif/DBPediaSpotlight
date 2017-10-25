@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SnowinRI: At 5:30 PT @verizon to present the Star Wars: #TheForceAwakens premiere livestreamÂ https://t.co/fkazkCbFDq #VZWBuzz https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.023462574402672215",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9596823443146828",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.05295908091509015",
+   "@URI": "http://dbpedia.org/resource/Pacific_Time_Zone",
+   "@support": "1111",
+   "@surfaceForm": "PT",
+   "@offset": "22",
+   "@similarityScore": "0.895006635242534",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.05416228654911636",
+   "@URI": "http://dbpedia.org/resource/Verizon_Communications",
+   "@support": "1690",
+   "@surfaceForm": "verizon",
+   "@offset": "26",
+   "@similarityScore": "0.9480826682319284",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.002480927185222934",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "49",
+   "@similarityScore": "0.9971568304063766",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784933340250112",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

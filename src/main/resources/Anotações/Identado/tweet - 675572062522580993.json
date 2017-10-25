@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ZOO: .@ZOO strikes back with @joeyfisher_ &amp; @MissEmmaGlover's Bra Wars! #StarWars  https://t.co/XGWOhMfJQT https://t.co/Q8serjBME1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028622121510763647",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9584118005650648",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Multi_Fibre_Arrangement",
+   "@support": "29",
+   "@surfaceForm": "Bra Wars",
+   "@offset": "70",
+   "@similarityScore": "0.9999998986788279",
+   "@types": ""
+  }
+ ],
+ "tweet": "675572062522580993",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Yoda. Who's Yours? https://t.co/ZgmVUC3IKc #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.005670844157532178",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.9933764245254014",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0015554035628386122",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "22",
+   "@similarityScore": "0.998423019918606",
+   "@types": ""
+  }
+ ],
+ "tweet": "676783619671777280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

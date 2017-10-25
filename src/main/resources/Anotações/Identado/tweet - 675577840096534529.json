@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#StarWars: The Empire Strikes Back STILL never gets old to watch. One of the best sequels ever. (4/4)",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.4372519459950695E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars_Episode_V:_The_Empire_Strikes_Back",
+   "@support": "286",
+   "@surfaceForm": "The Empire Strikes Back",
+   "@offset": "11",
+   "@similarityScore": "0.9996607477184473",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/4",
+   "@support": "41",
+   "@surfaceForm": "/4",
+   "@offset": "98",
+   "@similarityScore": "0.9999999957344698",
+   "@types": "DBpedia:TimePeriod,DBpedia:Year"
+  }
+ ],
+ "tweet": "675577840096534529",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

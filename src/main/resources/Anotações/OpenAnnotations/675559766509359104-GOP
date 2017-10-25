@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/New_York_Republican_State_Committee
+oa:hasTarget [
+        oa:hasSource 675559766509359104 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 73 ;
+            oa:end 76] ] .

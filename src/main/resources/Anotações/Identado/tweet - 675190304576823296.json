@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @gaynycdad: #Giveaway - $100 Fandango Collectible #StarWars Gift Card! @Fandango #FandangoFamily #TheForceAwakens https://t.co/ndlnBTwJuD",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028385289298782992",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9587663633390048",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.6008293022527241",
+   "@URI": "http://dbpedia.org/resource/Fandango",
+   "@support": "145",
+   "@surfaceForm": "Fandango",
+   "@offset": "32",
+   "@similarityScore": "0.5153946089863518",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.6008293022527241",
+   "@URI": "http://dbpedia.org/resource/Fandango",
+   "@support": "145",
+   "@surfaceForm": "Fandango",
+   "@offset": "75",
+   "@similarityScore": "0.5153941333723484",
+   "@types": ""
+  }
+ ],
+ "tweet": "675190304576823296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

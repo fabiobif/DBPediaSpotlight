@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @pattonoswalt: After watching @carrieffisher on the red carpet tonight, I want a stand-alone #StarWars movie called LEIA DON'T GIVE A FUâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.019637879775221394",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9685204441029633",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0028800070659212693",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "55",
+   "@similarityScore": "0.994996979633723",
+   "@types": "DBpedia:Colour"
+  },
+  {
+   "@percentageOfSecondRank": "6.335186303250139E-5",
+   "@URI": "http://dbpedia.org/resource/Princess_Leia",
+   "@support": "469",
+   "@surfaceForm": "LEIA",
+   "@offset": "119",
+   "@similarityScore": "0.9999366521501982",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803424726462465",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

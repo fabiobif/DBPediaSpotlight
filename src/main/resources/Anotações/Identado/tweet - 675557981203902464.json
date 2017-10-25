@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@toadmeister @tyronesmitty43 with respect... #trump was ll make ðŸ\u2021ºðŸ\u2021¸great",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.10508416974272672",
+  "@URI": "http://dbpedia.org/resource/Trump",
+  "@support": "542",
+  "@surfaceForm": "trump",
+  "@offset": "46",
+  "@similarityScore": "0.9007693605047261",
+  "@types": ""
+ }],
+ "tweet": "675557981203902464",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

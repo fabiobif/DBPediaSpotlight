@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "The #force beckons: My Secret Santa's HUGE Package! .. https://t.co/dlSNzf9eoA #starwars #news https://t.co/SvrsUMB333",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0041453824728660904",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "5",
+   "@similarityScore": "0.9933585559507848",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.05192762398990256",
+   "@URI": "http://dbpedia.org/resource/Secret_Santa",
+   "@support": "38",
+   "@surfaceForm": "Secret Santa",
+   "@offset": "23",
+   "@similarityScore": "0.9327133521636654",
+   "@types": ""
+  }
+ ],
+ "tweet": "674963775016058880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

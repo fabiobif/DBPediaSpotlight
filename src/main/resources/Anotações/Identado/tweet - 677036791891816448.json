@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @seattletimes: Our @starwars #theforceawakens review is up! Is the new episode worth the hype? https://t.co/rsVvlGA9tx https://t.co/TyCGâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03311588756603229",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9526222071712199",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "677036791891816448",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

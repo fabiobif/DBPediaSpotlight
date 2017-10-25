@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RealD3D: How would #yoda describe #StarWars #inRealD3D? Answer and RT to enter to win this #TheForceAwakens poster! https://t.co/SkQMkrâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01673575206291153",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9700868844899624",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.291378493051222E-5",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "yoda",
+   "@offset": "24",
+   "@similarityScore": "0.9999703356609461",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.01673575206291153",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "71",
+   "@similarityScore": "0.9700868844899624",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675236134826455040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

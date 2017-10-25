@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "...and here I thought the new Star Wars was only opening next week.   #intimeyouwillcallmemaster #theforceawakens... https://t.co/iaLwREoet2",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.007256970352733457",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "30",
+  "@similarityScore": "0.9920613127236787",
+  "@types": ""
+ }],
+ "tweet": "675233794681610240",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

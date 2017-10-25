@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Sr_Politics: The legal fate of Obamacare: Round 4 https://t.co/BWdacxULD7 #ACA #Obama #Politics #SCOTUS @lylden reports https://t.co/yRâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "4.54861874853926E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9991944916517487",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act",
+   "@support": "1118",
+   "@surfaceForm": "Obamacare",
+   "@offset": "35",
+   "@similarityScore": "0.9999999999965894",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569441967616000",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

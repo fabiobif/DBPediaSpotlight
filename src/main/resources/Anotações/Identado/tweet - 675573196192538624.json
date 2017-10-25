@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DailyBrewNews: Go To College Music Video  (With First Lady Michelle... #obama #flotusbars #usa https://t.co/CjztYvfQBs https://t.co/x2wâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0026514195062468924",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9924435768157328",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.4128902575540953",
+   "@URI": "http://dbpedia.org/resource/First_Lady",
+   "@support": "1207",
+   "@surfaceForm": "First Lady",
+   "@offset": "52",
+   "@similarityScore": "0.7076459165869293",
+   "@types": ""
+  }
+ ],
+ "tweet": "675573196192538624",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

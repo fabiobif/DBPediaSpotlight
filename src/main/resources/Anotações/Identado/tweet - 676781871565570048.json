@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @GlennWhipp: Quite simply: This is the STAR WARS movie you're looking for. #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.039600537124007816",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9420188169999557",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676781871565570048",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

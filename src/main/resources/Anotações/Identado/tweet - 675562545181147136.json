@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Trump Just got back from Iowa, great people!  @FollowNewsNow",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0037206742356796375",
+  "@URI": "http://dbpedia.org/resource/Iowa",
+  "@support": "21644",
+  "@surfaceForm": "Iowa",
+  "@offset": "26",
+  "@similarityScore": "0.9949003526541269",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+ }],
+ "tweet": "675562545181147136",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

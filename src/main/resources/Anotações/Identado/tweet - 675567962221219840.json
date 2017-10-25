@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "They DDOS'd one of #Trump s websites earlier . Slow clap. That will show em who's boss. #OpTrump https://t.co/RUFAbOexv4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Applause",
+  "@support": "63",
+  "@surfaceForm": "Slow clap",
+  "@offset": "47",
+  "@similarityScore": "0.9999999998859437",
+  "@types": ""
+ }],
+ "tweet": "675567962221219840",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

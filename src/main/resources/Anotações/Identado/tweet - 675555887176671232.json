@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#trump is a business man, if there isn't money to be made or benefit to be reaped he wouldn't be a part of it. Bad press is good press.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.13555844966178981",
+  "@URI": "http://dbpedia.org/resource/Trump",
+  "@support": "542",
+  "@surfaceForm": "trump",
+  "@offset": "1",
+  "@similarityScore": "0.8787923826721904",
+  "@types": ""
+ }],
+ "tweet": "675555887176671232",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

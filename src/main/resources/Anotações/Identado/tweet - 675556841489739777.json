@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Wutevuh: \"DITCH AND SWITCH NOW\" to vote for Donald #Trump in the primaries  The Viewers View how to : https://t.co/fc3oVCS66Y https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.011001306821492803",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9770468764470309",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675556841489739777",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

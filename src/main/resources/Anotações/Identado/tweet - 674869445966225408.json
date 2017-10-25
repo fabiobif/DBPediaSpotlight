@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BRios82: So far Trump has insulted Women, Mexicans, Muslims, Veterans/POW's, President Obama, and the Disabled. If you still support hiâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0010670480488703556",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9971922911436066",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.015391218122430078",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "56",
+   "@similarityScore": "0.9847864834835881",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0015802511862413938",
+   "@URI": "http://dbpedia.org/resource/Prisoner_of_war",
+   "@support": "6212",
+   "@surfaceForm": "POW",
+   "@offset": "74",
+   "@similarityScore": "0.998255010198617",
+   "@types": ""
+  }
+ ],
+ "tweet": "674869445966225408",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

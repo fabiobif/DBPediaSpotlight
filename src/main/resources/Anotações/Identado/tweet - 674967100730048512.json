@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Check out these fun #Starwars gift ideas! Sure to make a Star Wars fan happy this holiday. https://t.co/FIS2OwVXKV",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.2529500211116653E-4",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "57",
+  "@similarityScore": "0.9998478735016635",
+  "@types": ""
+ }],
+ "tweet": "674967100730048512",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

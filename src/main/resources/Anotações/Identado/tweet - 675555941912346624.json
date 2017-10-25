@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "What's 35,000X more likely to kill you than a terrorist? #trump #gop #tcot #feelthebern https://t.co/TwWQ2gddFH",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.12929493277589904",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "58",
+   "@similarityScore": "0.8828664950474558",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.1110902493516395E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "gop",
+   "@offset": "65",
+   "@similarityScore": "0.9993931163775981",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675555941912346624",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Fandango
+oa:hasTarget [
+        oa:hasSource 675190304576823296 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 75 ;
+            oa:end 83] ] .

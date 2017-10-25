@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @eVANDOpriyanto: #TheForceAwakens Premiere in Indonesia... #TheRaid are ready!!! @StarWarsJunk @MakingStarWars @starwarsnewsnet  https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025182659748637395",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9547527364671634",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "7.707092724618082E-4",
+   "@URI": "http://dbpedia.org/resource/Indonesia",
+   "@support": "38140",
+   "@surfaceForm": "Indonesia",
+   "@offset": "49",
+   "@similarityScore": "0.9990916318529148",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "676786634092883968",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

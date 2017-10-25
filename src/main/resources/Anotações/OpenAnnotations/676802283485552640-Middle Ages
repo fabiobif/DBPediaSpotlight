@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Middle_Ages
+oa:hasTarget [
+        oa:hasSource 676802283485552640 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 36 ;
+            oa:end 47] ] .

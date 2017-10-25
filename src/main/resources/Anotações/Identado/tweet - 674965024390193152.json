@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "That time I stood next to #HarrisonFord #starwarsevent #TBT #starwars #theforceawakens #haâ\u20ac¦ https://t.co/S77nQlIuHr https://t.co/SIFLGl6h2R",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Tributyltin",
+  "@support": "64",
+  "@surfaceForm": "TBT",
+  "@offset": "56",
+  "@similarityScore": "0.9999998213610173",
+  "@types": ""
+ }],
+ "tweet": "674965024390193152",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

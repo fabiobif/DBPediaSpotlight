@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Singapore
+oa:hasTarget [
+        oa:hasSource 675295472907452417 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 44 ;
+            oa:end 53] ] .

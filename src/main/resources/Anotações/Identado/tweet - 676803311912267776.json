@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Ticket and seat has been booked! Tomorrow, the force awakens! #StarWarsForceAwakens #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.004046806466436724",
+  "@URI": "http://dbpedia.org/resource/Force",
+  "@support": "4917",
+  "@surfaceForm": "force",
+  "@offset": "47",
+  "@similarityScore": "0.9932576623183823",
+  "@types": ""
+ }],
+ "tweet": "676803311912267776",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Extremely rare #StarWars perks available at https://t.co/8KHfdpT3O0! #film #WSB #gogofilm #RevengeoftheJedi https://t.co/aU8gOo1cCb",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.005008865298964257",
+  "@URI": "http://dbpedia.org/resource/WSB_(AM)",
+  "@support": "150",
+  "@surfaceForm": "WSB",
+  "@offset": "76",
+  "@similarityScore": "0.9932517226164794",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:RadioStation,DBpedia:RadioStation"
+ }],
+ "tweet": "674966909805338625",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

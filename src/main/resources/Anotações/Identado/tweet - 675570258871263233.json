@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "@steph93065 @tworoses77 @realDonaldTrump @CalFreedomMom We wait long enough they'll blame #trump for global warming? &amp; #Benghazi #Trump2016",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.11784175311349486",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "91",
+   "@similarityScore": "0.8923675085896924",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "6.132618603169665E-5",
+   "@URI": "http://dbpedia.org/resource/Global_warming",
+   "@support": "4972",
+   "@surfaceForm": "global warming",
+   "@offset": "101",
+   "@similarityScore": "0.999883394680894",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "4.521519898610066E-5",
+   "@URI": "http://dbpedia.org/resource/Benghazi",
+   "@support": "1442",
+   "@surfaceForm": "Benghazi",
+   "@offset": "124",
+   "@similarityScore": "0.9999046605897534",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "675570258871263233",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

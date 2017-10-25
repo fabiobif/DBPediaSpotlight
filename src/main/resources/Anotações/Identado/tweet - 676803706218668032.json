@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @najimasri: Just in time for #theforceawakens #starwars #slickwraps #galactic #google #nexus6p #huaweiâ\u20ac¦ https://t.co/8UP3DyNtx6 https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.04616867789861103",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9120578658051594",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803706218668032",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @jakodeleon: #TheForceAwakens is one of those rare films you dont ever wish to spoil in any way because you want others to experience itâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02159191725564046",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9621430920606743",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787398856970241",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

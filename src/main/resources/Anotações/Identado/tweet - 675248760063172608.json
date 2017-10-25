@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AmericanLizzy: #TRUMP and his supporters are the NEW REPUBLICAN PARTY - Thank you @realDonaldTrump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0011860702231031959",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9973237900989642",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675248760063172608",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

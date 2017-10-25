@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@STL_Blonde I know you supported #Trump at the beginning and then Huckabee.  You changed your mind because of the facts that Trump is bad",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.06034391979609326",
+  "@URI": "http://dbpedia.org/resource/Mike_Huckabee",
+  "@support": "614",
+  "@surfaceForm": "Huckabee",
+  "@offset": "66",
+  "@similarityScore": "0.9430901770045281",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+ }],
+ "tweet": "675569243337990144",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

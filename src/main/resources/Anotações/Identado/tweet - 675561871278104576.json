@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WarriorWorld: How the great Ronald Reagan handled a heckler. We need a tough &amp; smart leader again #MakeAmericaGreatAgain #Trump https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.053259134973886096",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9217918249667356",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.2654099047812075E-6",
+   "@URI": "http://dbpedia.org/resource/Ronald_Reagan",
+   "@support": "9376",
+   "@surfaceForm": "Ronald Reagan",
+   "@offset": "32",
+   "@similarityScore": "0.9999943836382079",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  }
+ ],
+ "tweet": "675561871278104576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

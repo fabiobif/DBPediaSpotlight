@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@965ampradio #TheForceAwakens I'm moving to Florida on Saturday would love to say goodbye to my friends seeing that movie Friday. #iheartamp",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "8.321111035058163E-4",
+  "@URI": "http://dbpedia.org/resource/Florida",
+  "@support": "60271",
+  "@surfaceForm": "Florida",
+  "@offset": "44",
+  "@similarityScore": "0.9984930919351949",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+ }],
+ "tweet": "676782079762440192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

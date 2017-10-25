@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SydneyCycleway: This scoundrel spotted in Sydney last week. May the forks be with you Star Wars fans! #sydneyrides #TheForceAwakens httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024085668388850307",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9637184988387789",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.294530789134303E-4",
+   "@URI": "http://dbpedia.org/resource/Sydney",
+   "@support": "47205",
+   "@surfaceForm": "Sydney",
+   "@offset": "46",
+   "@similarityScore": "0.9990945055804723",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  },
+  {
+   "@percentageOfSecondRank": "7.324151387163704E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "90",
+   "@similarityScore": "0.9991113956835105",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036022820016128",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

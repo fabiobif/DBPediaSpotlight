@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @nightlyshow: Stay strong, @mikeyardcomedy. https://t.co/H8FoiMZgng #Trump #Obama https://t.co/19daSyCc4X",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.006589030990804284",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.98809953109352",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675569087796391936",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

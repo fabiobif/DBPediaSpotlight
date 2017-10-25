@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "Great weather, great beer, star wars....what more? #beer #redhill #starwars #tastingpaddleâ\u20ac¦ https://t.co/EALRPYms1U",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.6050760315335546E-5",
+   "@URI": "http://dbpedia.org/resource/Beer",
+   "@support": "6828",
+   "@surfaceForm": "beer",
+   "@offset": "21",
+   "@similarityScore": "0.9998951953335617",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.9647866809753187E-4",
+   "@URI": "http://dbpedia.org/resource/Star",
+   "@support": "17594",
+   "@surfaceForm": "star",
+   "@offset": "27",
+   "@similarityScore": "0.9995128275045863",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "5.6050760315335546E-5",
+   "@URI": "http://dbpedia.org/resource/Beer",
+   "@support": "6828",
+   "@surfaceForm": "beer",
+   "@offset": "52",
+   "@similarityScore": "0.9998951953335617",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.3294051684692607",
+   "@URI": "http://dbpedia.org/resource/Redhill,_Surrey",
+   "@support": "387",
+   "@surfaceForm": "redhill",
+   "@offset": "58",
+   "@similarityScore": "0.6605181516622926",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "675574361495998466",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

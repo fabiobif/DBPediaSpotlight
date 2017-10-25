@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @susiwallner: Do it or don't.  #starwars #theforceawakens #startup #entrepreneurship https://t.co/2MY9UNuRWB",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03926892559921159",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9119509077514354",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.008478471132752E-4",
+   "@URI": "http://dbpedia.org/resource/Entrepreneurship",
+   "@support": "5549",
+   "@surfaceForm": "entrepreneurship",
+   "@offset": "71",
+   "@similarityScore": "0.9993958938095673",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784809276936193",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

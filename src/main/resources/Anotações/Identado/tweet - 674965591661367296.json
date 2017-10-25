@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @emirates: Star Wars is coming soon to Emirates. Enjoy #StarWars Episodes 1 to 6 on ice from January 2016. https://t.co/lzrxEeEej8",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.030056828256876063",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.958228941354792",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.04058318073355597",
+   "@URI": "http://dbpedia.org/resource/United_Arab_Emirates",
+   "@support": "8173",
+   "@surfaceForm": "emirates",
+   "@offset": "4",
+   "@similarityScore": "0.9609993089856312",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.0049809756787037515",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "14",
+   "@similarityScore": "0.9948183904251179",
+   "@types": ""
+  }
+ ],
+ "tweet": "674965591661367296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

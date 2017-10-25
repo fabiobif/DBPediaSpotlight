@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Aw yeah!!! Thank you @MiniMartTalk and @bgamegiveaway! #StarWars #PewPew https://t.co/y2sbvcnN9S",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0604941659073592",
+  "@URI": "http://dbpedia.org/resource/Yeah!_(Usher_song)",
+  "@support": "111",
+  "@surfaceForm": "yeah!",
+  "@offset": "3",
+  "@similarityScore": "0.9404473339793457",
+  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
+ }],
+ "tweet": "674961187709161475",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

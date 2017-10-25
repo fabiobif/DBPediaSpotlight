@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT RT dreamabstract: Puzzlewood from a visit in 2012 recent filming location for #starwars #puzzlewood https://t.co/KRTCQk3d0c",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02027403127191568",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.962789131620111",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02027403127191568",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "3",
+   "@similarityScore": "0.962789131620111",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675577677793927168",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

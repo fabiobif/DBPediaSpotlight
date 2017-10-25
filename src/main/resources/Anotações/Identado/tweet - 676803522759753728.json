@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Crazy behind the scene facts about Star Wars, this is GUD!!  #starwars https://t.co/bMItWxgz18",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014014152030030636",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "35",
+  "@similarityScore": "0.9853548305106855",
+  "@types": ""
+ }],
+ "tweet": "676803522759753728",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

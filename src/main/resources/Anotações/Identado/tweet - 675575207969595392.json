@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @petrock915: ðŸ\u2019\u201d USA no longer land of free &amp; brave. W/o compassion u cant  be either. The real #YouAintNoAmericanBro r #trump fans https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0148551093555634",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9620205644715525",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "8.029471226366085E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "21",
+   "@similarityScore": "0.999816330671334",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.10076364389474789",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "129",
+   "@similarityScore": "0.895754639040374",
+   "@types": ""
+  }
+ ],
+ "tweet": "675575207969595392",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Google
+oa:hasTarget [
+        oa:hasSource 677036722849456128 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 25 ;
+            oa:end 31] ] .

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JustinHammer3: Now this is my kinda Elf on a Shelf... #TheForceAwakens https://t.co/ulsC2J0SAW",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9400093252358275",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.462988295224261",
+   "@URI": "http://dbpedia.org/resource/Elf_Aquitaine",
+   "@support": "159",
+   "@surfaceForm": "Elf",
+   "@offset": "40",
+   "@similarityScore": "0.5384122683206147",
+   "@types": ""
+  }
+ ],
+ "tweet": "675214777619206145",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

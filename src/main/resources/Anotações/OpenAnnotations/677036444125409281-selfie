@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Self-portrait
+oa:hasTarget [
+        oa:hasSource 677036444125409281 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 79 ;
+            oa:end 85] ] .

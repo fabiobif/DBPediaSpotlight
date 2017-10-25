@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "The Wildest (and Most Wildly Inaccurate) Rumors About 'Star Wars: The Phantom Menace' - https://t.co/Xt37UdhfYV via @YahooMovies #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Star_Wars_Episode_I:_The_Phantom_Menace",
+  "@support": "110",
+  "@surfaceForm": "Star Wars: The Phantom Menace",
+  "@offset": "55",
+  "@similarityScore": "1.0",
+  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+ }],
+ "tweet": "674965812747223040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

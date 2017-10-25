@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Harrison Ford Settles His Feud with Chewbacca - SOOOO FUNNYY!!! #StarWars #Wokkie #HanSolo #Funny #Geek https://t.co/oH9ptt9610 via @YouTube",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.870016913531488E-6",
+   "@URI": "http://dbpedia.org/resource/Harrison_Ford",
+   "@support": "700",
+   "@surfaceForm": "Harrison Ford",
+   "@offset": "0",
+   "@similarityScore": "0.9999971299913257",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Chewbacca",
+   "@support": "467",
+   "@surfaceForm": "Chewbacca",
+   "@offset": "36",
+   "@similarityScore": "0.9999999721399607",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "1.4856616824767322E-8",
+   "@URI": "http://dbpedia.org/resource/YouTube",
+   "@support": "16319",
+   "@surfaceForm": "YouTube",
+   "@offset": "133",
+   "@similarityScore": "0.9999999655166226",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "676803491520638976",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

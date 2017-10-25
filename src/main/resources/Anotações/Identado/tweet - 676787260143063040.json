@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @jimmyfallon: Tonight: @mark_wahlberg, @billburr, music from @SherylCrow, + something fun for #StarWars fans! Don't miss!! #FallonTonighâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.032626139596982434",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9408209299067178",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787260143063040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "Don't be fooled by media, @realDonaldTrump never said he hates Muslims. #Trump wants to protect Black, White, Hispanic &amp; Muslim Americans.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.011182187012046584",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "63",
+   "@similarityScore": "0.988785113411393",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.001663882004209289",
+   "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+   "@support": "300085",
+   "@surfaceForm": "White",
+   "@offset": "103",
+   "@similarityScore": "0.997379597693466",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.003923772653882834",
+   "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+   "@support": "300085",
+   "@surfaceForm": "Hispanic",
+   "@offset": "110",
+   "@similarityScore": "0.9935065288526532",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Islam_in_the_United_States",
+   "@support": "242",
+   "@surfaceForm": "Muslim Americans",
+   "@offset": "125",
+   "@similarityScore": "0.9999999999965326",
+   "@types": "DBpedia:EthnicGroup"
+  }
+ ],
+ "tweet": "675560479775981569",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

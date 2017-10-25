@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "In such a fast paced galaxy, it's important for Jedi masters to keep up-to-date #continouslearning #starwars #zurich https://t.co/DaV9MxHxtj",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi masters",
+   "@offset": "48",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.00736660712202672",
+   "@URI": "http://dbpedia.org/resource/Zurich",
+   "@support": "8733",
+   "@surfaceForm": "zurich",
+   "@offset": "110",
+   "@similarityScore": "0.9884415860181354",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "676802983837962240",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

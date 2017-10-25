@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @rossr122: Poll: 70% of Republicans Think Trump Will Be Nominee. #TRUMP #TRUMP2016 #MAKEAMERICAGREATAGAIN  https://t.co/XvVzvgWYYn via @â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.008726752597535713",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9842948575354614",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675554167125970946",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

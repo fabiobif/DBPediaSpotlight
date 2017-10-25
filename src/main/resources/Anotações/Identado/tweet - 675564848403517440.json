@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DumpTrump22: OH MY - Angry Donny Trump drops 12 percentage points in poll - LET FREEDOM RING - https://t.co/0SyICw00E4 #Trump #DumpTrump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.00512164752072858",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9886976066422819",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.005115849643042249",
+   "@URI": "http://dbpedia.org/resource/Ohio",
+   "@support": "47628",
+   "@surfaceForm": "OH",
+   "@offset": "17",
+   "@similarityScore": "0.9926144323460827",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675564848403517440",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

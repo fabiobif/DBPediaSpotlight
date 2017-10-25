@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT RT Suns: Tomorrow is StarWars night! Get ready with a look at our last #StarWars Night! https://t.co/YyjFbSlbxe https://t.co/3FiDjPWboR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003415003688847513",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9936877513305048",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.003415003688847513",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "3",
+   "@similarityScore": "0.9936872240111491",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "674963828241776640",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

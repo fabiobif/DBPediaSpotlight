@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#tcot\"#islam #ccot Pres Barack #Obama '#ISIS Speak for No Religion'? Not quite.  https://t.co/Y9qC09Zrl6 \",",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.11506087430778936",
+  "@URI": "http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant",
+  "@support": "574",
+  "@surfaceForm": "ISIS",
+  "@offset": "40",
+  "@similarityScore": "0.8228419445312588",
+  "@types": ""
+ }],
+ "tweet": "675577132442116096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

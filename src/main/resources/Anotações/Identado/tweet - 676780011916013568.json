@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @picturehouses: There's been a disturbance in the force: https://t.co/ok02yEyszw #StarWars #TheForceAwakens https://t.co/tvPx5MmQXo",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02515803035297302",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9561604068006907",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0014874566099000346",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "53",
+   "@similarityScore": "0.9975348592198816",
+   "@types": ""
+  }
+ ],
+ "tweet": "676780011916013568",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

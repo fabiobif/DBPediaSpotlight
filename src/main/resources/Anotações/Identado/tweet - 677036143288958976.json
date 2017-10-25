@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @fantasysite: #StarWars 1983 Kenner, Star Wars Return Of The Jedi , Gamorrean Guard https://t.co/xRMnuX9ueU",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0717924147272162",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9094378005608463",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.777984872208237E-4",
+   "@URI": "http://dbpedia.org/resource/Kenner_Products",
+   "@support": "360",
+   "@surfaceForm": "Kenner",
+   "@offset": "32",
+   "@similarityScore": "0.9995221822372462",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "2.2330229043344007E-6",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "40",
+   "@similarityScore": "0.9999971748978966",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Star_Wars_Episode_VI:_Return_of_the_Jedi",
+   "@support": "292",
+   "@surfaceForm": "Return Of The Jedi",
+   "@offset": "50",
+   "@similarityScore": "1.0",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/List_of_Star_Wars_species_(F\u2013J)",
+   "@support": "380",
+   "@surfaceForm": "Gamorrean",
+   "@offset": "71",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036143288958976",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

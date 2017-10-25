@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HerUniverse: When your daughter loves #Chewbacca and she also loves princesses. #StarWars https://t.co/8qCStr8sss",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.031658121214206254",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9454783413743396",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Chewbacca",
+   "@support": "467",
+   "@surfaceForm": "Chewbacca",
+   "@offset": "43",
+   "@similarityScore": "0.9999999832468519",
+   "@types": ""
+  }
+ ],
+ "tweet": "674964747549151233",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

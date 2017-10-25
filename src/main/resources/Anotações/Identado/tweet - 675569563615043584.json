@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @joe_nuzz: Investigation: Barack #Obama Broke Laws To Swap Five #Taliban Leaders For Bowe #Bergdahl https://t.co/elsVaXMqSv",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0010739947000619498",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9980242251298053",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "9.084632391783141E-7",
+   "@URI": "http://dbpedia.org/resource/Taliban",
+   "@support": "7873",
+   "@surfaceForm": "Taliban",
+   "@offset": "68",
+   "@similarityScore": "0.9999988474325326",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569563615043584",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/R2-D2
+oa:hasTarget [
+        oa:hasSource 676783709664727040 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 17 ;
+            oa:end 22] ] .

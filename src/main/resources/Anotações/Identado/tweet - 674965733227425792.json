@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @latimes: #StarWars, the line awakens https://t.co/XTDNYMnTxE   Countdown to #TheForceAwakens: 7 days https://t.co/cVooIs194x",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05115786566410534",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.920206380609943",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.5418338338465934",
+   "@URI": "http://dbpedia.org/resource/Countdown_(Australian_TV_series)",
+   "@support": "409",
+   "@surfaceForm": "Countdown",
+   "@offset": "67",
+   "@similarityScore": "0.5119921338382716",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow"
+  }
+ ],
+ "tweet": "674965733227425792",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

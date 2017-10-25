@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @araijain: #StarWars II - Attack Of The Clones - Facts #DisneyAfrica https://t.co/ZASm9F8hLu #TheLifesWay @indiblogger",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.019349698604573026",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9708450370527848",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Star_Wars_Episode_II:_Attack_of_the_Clones",
+   "@support": "87",
+   "@surfaceForm": "Attack Of The Clones",
+   "@offset": "29",
+   "@similarityScore": "1.0",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+  }
+ ],
+ "tweet": "677036322717061120",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

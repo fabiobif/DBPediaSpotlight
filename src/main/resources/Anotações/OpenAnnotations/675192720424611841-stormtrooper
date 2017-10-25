@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Stormtrooper_(Star_Wars)
+oa:hasTarget [
+        oa:hasSource 675192720424611841 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 118 ;
+            oa:end 130] ] .

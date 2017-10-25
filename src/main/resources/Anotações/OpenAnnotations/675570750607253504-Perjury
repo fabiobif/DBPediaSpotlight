@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Perjury
+oa:hasTarget [
+        oa:hasSource 675570750607253504 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 118 ;
+            oa:end 125] ] .

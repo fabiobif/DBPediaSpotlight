@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Copa90: If you love #StarWars, football, tifo &amp; flares, then this is the video for you! https://t.co/O9CqbI6Qwn https://t.co/c4fEtDMUpN",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014306803944364899",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9670716972442168",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.009995066018684572",
+   "@URI": "http://dbpedia.org/resource/Association_football",
+   "@support": "195520",
+   "@surfaceForm": "football",
+   "@offset": "35",
+   "@similarityScore": "0.988906249135428",
+   "@types": "DBpedia:Activity,DBpedia:Sport"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Tifo",
+   "@support": "55",
+   "@surfaceForm": "tifo",
+   "@offset": "45",
+   "@similarityScore": "0.9999999990983497",
+   "@types": ""
+  }
+ ],
+ "tweet": "676802628328779777",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

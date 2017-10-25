@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Link_(The_Legend_of_Zelda)
+oa:hasTarget [
+        oa:hasSource 675184766430375937 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 85 ;
+            oa:end 89] ] .

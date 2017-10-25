@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/WAR_(wrestling_promotion)
+oa:hasTarget [
+        oa:hasSource 676781310724202496 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 57 ;
+            oa:end 60] ] .

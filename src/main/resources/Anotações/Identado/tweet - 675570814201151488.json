@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ruhtyt: Ali responds to #Trumpâ\u20ac™s call to ban Muslims from entering... https://t.co/RyYbv4Q3Iy",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.005384253684054704",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.992007623249823",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.015342029803547529",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "51",
+   "@similarityScore": "0.9846806981348364",
+   "@types": ""
+  }
+ ],
+ "tweet": "675570814201151488",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

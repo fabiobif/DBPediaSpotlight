@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"It's very much the kind of movie [the fans have] been looking for\" - George Lucas throwing some serious shade at fans over #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "7.442005601034307E-7",
+  "@URI": "http://dbpedia.org/resource/George_Lucas",
+  "@support": "1290",
+  "@surfaceForm": "George Lucas",
+  "@offset": "70",
+  "@similarityScore": "0.9999992557279355",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "676784799026184193",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

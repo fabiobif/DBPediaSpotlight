@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: Target is in range! Only one week remains until #StarWars: #TheForceAwakens. Tickets available now. https://t.co/aXzOsff0YG",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.029411744219474383",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9552294177775256",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675571039925985280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

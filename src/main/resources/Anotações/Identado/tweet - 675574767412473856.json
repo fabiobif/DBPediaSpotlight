@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "This is FUNNY as hell !!!  #LMFAO #LMAO #LOL #FUNNY #HUMOR #JOKES #SMILES #HAPPY #LAUGH #LAUGHATTACK  #trump https://t.co/I3mo8TFnh1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/LMFAO",
+   "@support": "349",
+   "@surfaceForm": "LMFAO",
+   "@offset": "28",
+   "@similarityScore": "0.999999909927571",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  },
+  {
+   "@percentageOfSecondRank": "2.592681667072908E-7",
+   "@URI": "http://dbpedia.org/resource/LOL",
+   "@support": "201",
+   "@surfaceForm": "LOL",
+   "@offset": "41",
+   "@similarityScore": "0.9999995229213142",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.605907153789304",
+   "@URI": "http://dbpedia.org/resource/Suit_(cards)",
+   "@support": "1147",
+   "@surfaceForm": "trump",
+   "@offset": "103",
+   "@similarityScore": "0.6219081035323336",
+   "@types": ""
+  }
+ ],
+ "tweet": "675574767412473856",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "CLICK IN &amp; WATCH: Tracee Ellis Ross talk #blackish, #Obama, Yiddish &amp; more w/@kingsthings https://t.co/Ue9kBLuJpQ https://t.co/LDiBoIp4OS",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Tracee_Ellis_Ross",
+   "@support": "25",
+   "@surfaceForm": "Tracee Ellis Ross",
+   "@offset": "22",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "2.4692661050484846E-4",
+   "@URI": "http://dbpedia.org/resource/Yiddish_language",
+   "@support": "4985",
+   "@surfaceForm": "Yiddish",
+   "@offset": "64",
+   "@similarityScore": "0.9995451928127742",
+   "@types": "Schema:Language,DBpedia:Language"
+  }
+ ],
+ "tweet": "675571040588718080",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

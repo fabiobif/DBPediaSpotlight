@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Fey and Poehler Killing It With Star Wars #Parody #starwars #TinaFey #AmyPoehler https://t.co/5JS1pkoBAP #celebrity #celebnews",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.199332249383069E-4",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "32",
+  "@similarityScore": "0.999602572654957",
+  "@types": ""
+ }],
+ "tweet": "674965691603267585",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

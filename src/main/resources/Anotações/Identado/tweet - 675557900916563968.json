@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@Reince #TRUMP #TRUMP2016 #MakeAmericaGreatAgain #DonaldTrump WE STAND WITH YOU NOT THE GOP/RNC! https://t.co/M9O9E2l05D",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.0058207027307354E-6",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "88",
+  "@similarityScore": "0.9999970956697665",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675557900916563968",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

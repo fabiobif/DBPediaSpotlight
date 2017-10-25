@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Christmas_ornament
+oa:hasTarget [
+        oa:hasSource 676803741174001665 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 61 ;
+            oa:end 68] ] .

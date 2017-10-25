@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Radio_Disney
+oa:hasTarget [
+        oa:hasSource 676779985441570817 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 103 ;
+            oa:end 115] ] .

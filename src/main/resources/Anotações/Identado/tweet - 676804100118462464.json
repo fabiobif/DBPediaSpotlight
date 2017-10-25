@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@LEtoysInc omg, my grandson would love this!! #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.47516412478320685",
+  "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+  "@support": "235",
+  "@surfaceForm": "omg",
+  "@offset": "11",
+  "@similarityScore": "0.6744105573510958",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+ }],
+ "tweet": "676804100118462464",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

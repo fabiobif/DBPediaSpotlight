@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Mace Windu. Who's Yours? https://t.co/vQH4DWkePz #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.0077459533878246E-5",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.9999760354809644",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mace_Windu",
+   "@support": "127",
+   "@surfaceForm": "Mace Windu",
+   "@offset": "22",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785538414870528",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

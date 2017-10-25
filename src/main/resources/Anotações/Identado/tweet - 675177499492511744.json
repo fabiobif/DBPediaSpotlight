@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TheSWU: .@60Minutes visits a #TheForceAwakens scoring session with &amp; previews music from the film: https://t.co/CciTu3BtRR https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.022519416046009724",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9583414840074713",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675177499492511744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

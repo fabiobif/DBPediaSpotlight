@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "This #StarWars fic video...OMG it's hysterical and sweet at the same time. Love Wars. \"..angry people rioting\" Lmao! https://t.co/RAeL54HtWW",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.29500978471403005",
+  "@URI": "http://dbpedia.org/resource/OMG_(song)",
+  "@support": "48",
+  "@surfaceForm": "OMG",
+  "@offset": "27",
+  "@similarityScore": "0.7696737793162788",
+  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
+ }],
+ "tweet": "677036466556370944",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

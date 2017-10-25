@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Randy_Martinez: Custom #PrincessLeia art https://t.co/xjuJ5uY8gu #StarWars #Marvel #comicbook #TheForceAwakens #christmasgifts https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02045126275902397",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9504174495081484",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.007557480498379946",
+   "@URI": "http://dbpedia.org/resource/Marvel_Comics",
+   "@support": "10186",
+   "@surfaceForm": "Marvel",
+   "@offset": "80",
+   "@similarityScore": "0.9922914733890484",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Publisher"
+  }
+ ],
+ "tweet": "675238973690785793",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

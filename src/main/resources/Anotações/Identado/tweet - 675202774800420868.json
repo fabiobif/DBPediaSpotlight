@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TheMarySue: Order it, Chewie! Alamo Drafthouse's #StarWars #TheForceAwakens menu takes us to hyperspace: https://t.co/ZBOpmpqmb1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.06999090894636235",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.902119457936173",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.0142996310925664E-4",
+   "@URI": "http://dbpedia.org/resource/Hyperspace_(science_fiction)",
+   "@support": "417",
+   "@surfaceForm": "hyperspace",
+   "@offset": "97",
+   "@similarityScore": "0.999551931669391",
+   "@types": ""
+  }
+ ],
+ "tweet": "675202774800420868",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

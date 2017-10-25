@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Happy #StarWars week! Ever wonder what was going on with Uncle Owen's dad? Check out .@WHMPodcast's rant on Ep2 https://t.co/9iJMMkAokT",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/List_of_Star_Wars_characters",
+  "@support": "2430",
+  "@surfaceForm": "Uncle Owen",
+  "@offset": "57",
+  "@similarityScore": "0.9999999997914415",
+  "@types": ""
+ }],
+ "tweet": "676803956626984961",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

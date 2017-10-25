@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WheelnDealMama: Inside the #StarWars: #TheForceAwakens Press Junket in LA: EXCLUSIVE Pictures https://t.co/PqOUf67cje #StarWarsEvent htâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.00670515101850554",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.990113832227834",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675179433469345792",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

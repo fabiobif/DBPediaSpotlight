@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "THIAGO LIMA. BOUNTY HUNTER. My Star Wars Match is Boba Fett. Who's Yours? https://t.co/CGaEcj0RvT #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.147124833033414E-8",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "31",
+   "@similarityScore": "0.9999999863075574",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Boba_Fett",
+   "@support": "304",
+   "@surfaceForm": "Boba Fett",
+   "@offset": "50",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784308451942402",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

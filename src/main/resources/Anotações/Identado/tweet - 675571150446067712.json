@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "its another #lego #adventcalendar opening... perhaps something for my #starwars #stormtrooper https://t.co/5qOHasBDkm",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.28752089062541136",
+  "@URI": "http://dbpedia.org/resource/Stormtrooper_(Star_Wars)",
+  "@support": "186",
+  "@surfaceForm": "stormtrooper",
+  "@offset": "81",
+  "@similarityScore": "0.7730822772146179",
+  "@types": ""
+ }],
+ "tweet": "675571150446067712",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

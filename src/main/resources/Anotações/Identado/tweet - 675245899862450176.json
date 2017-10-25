@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @NaukriSePareshn: #TheForceAwakens will be the biggest movie of all time Read here- https://t.co/MIR00kVRlv #StarWars #StarWarsEvent httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.03324323040848907",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9445873947236676",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675245899862450176",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

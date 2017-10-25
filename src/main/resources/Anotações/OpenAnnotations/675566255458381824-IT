@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Information_technology
+oa:hasTarget [
+        oa:hasSource 675566255458381824 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 93 ;
+            oa:end 95] ] .

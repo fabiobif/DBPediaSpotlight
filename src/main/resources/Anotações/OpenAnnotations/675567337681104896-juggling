@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Juggling
+oa:hasTarget [
+        oa:hasSource 675567337681104896 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 89 ;
+            oa:end 97] ] .

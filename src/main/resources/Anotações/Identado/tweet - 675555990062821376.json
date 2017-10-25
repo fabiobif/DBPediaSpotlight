@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @yobynnad1127: The more @realDonaldTrump speaks, the more I love him. I'm fed up with the establishment, the media and political correctâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0011052738004869154",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9978179743170247",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675555990062821376",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

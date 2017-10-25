@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DonaldTrumpWall: @realDonaldTrump needs a right hand man like @tedcruz #IOWA #Allies #Kasich is causing major damage to #TRUMP in #OHIO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.046668557170280046",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9423329057705232",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.040047638891034174",
+   "@URI": "http://dbpedia.org/resource/Allies_of_World_War_II",
+   "@support": "9553",
+   "@surfaceForm": "Allies",
+   "@offset": "82",
+   "@similarityScore": "0.9270850318593876",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.654282259932413E-4",
+   "@URI": "http://dbpedia.org/resource/Ohio",
+   "@support": "47628",
+   "@surfaceForm": "OHIO",
+   "@offset": "135",
+   "@similarityScore": "0.9996323175407054",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675561273552150528",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

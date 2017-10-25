@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ghameli: Prez Barack Obamaâ\u20ac™s favourite song of the year is by Kendrick Lamar https://t.co/ZmRODDCcpp https://t.co/WLD5vWVcDi",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.011733388176887793",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9801334119625632",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.14312551893740708",
+   "@URI": "http://dbpedia.org/resource/Roland_Pryzbylewski",
+   "@support": "130",
+   "@surfaceForm": "Prez",
+   "@offset": "13",
+   "@similarityScore": "0.8491684335964952",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter"
+  },
+  {
+   "@percentageOfSecondRank": "4.838750155306942E-5",
+   "@URI": "http://dbpedia.org/resource/Kendrick_Lamar",
+   "@support": "505",
+   "@surfaceForm": "Kendrick Lamar",
+   "@offset": "68",
+   "@similarityScore": "0.9999516148396825",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:MusicalArtist"
+  }
+ ],
+ "tweet": "674869715878199296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

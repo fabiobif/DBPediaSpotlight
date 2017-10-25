@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Kylo is a sweet girl who will be #adoptable around Christmas. #RPNC #StarWars #dogs #adopt https://t.co/cNu7QQNTve https://t.co/iwS4kPtQQX",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.004595541810418988",
+  "@URI": "http://dbpedia.org/resource/Christmas",
+  "@support": "17277",
+  "@surfaceForm": "Christmas",
+  "@offset": "51",
+  "@similarityScore": "0.9953269545683534",
+  "@types": "DBpedia:Holiday"
+ }],
+ "tweet": "674966888158400515",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Donâ\u20ac™t be fooled by the media. @realDonaldTrump NEVER said he hates Muslims. #Trump wants to make All Americans safe https://t.co/qO0LRaoR97",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.009587064236361154",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslims",
+  "@offset": "69",
+  "@similarityScore": "0.9904170677163349",
+  "@types": ""
+ }],
+ "tweet": "675573626540859392",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Alamo @Drafthouse unveils #StarWars-themed menu https://t.co/c28WjP39Jz https://t.co/8azTV3v6c1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.6862028637013894",
+  "@URI": "http://dbpedia.org/resource/Alamo_Mission_in_San_Antonio",
+  "@support": "577",
+  "@surfaceForm": "Alamo",
+  "@offset": "0",
+  "@similarityScore": "0.5445251535121595",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"
+ }],
+ "tweet": "674963203856670721",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

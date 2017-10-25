@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @popchips: 7 days til #TheForceAwakens. here's your chance to be snack ready.RT for a chance to win our LE #StarWars popchips! https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.051157865664106794",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9190897372905831",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Popchips",
+   "@support": "25",
+   "@surfaceForm": "popchips",
+   "@offset": "4",
+   "@similarityScore": "0.9999997439327658",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Popchips",
+   "@support": "25",
+   "@surfaceForm": "popchips",
+   "@offset": "120",
+   "@similarityScore": "0.9999997439327658",
+   "@types": ""
+  }
+ ],
+ "tweet": "675571065670668288",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

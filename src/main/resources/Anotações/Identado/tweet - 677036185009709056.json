@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @castrito81: #starwars  Find the differences! @starwars @StarWarsIT @StarWarsUK https://t.co/tNeIgnLelw",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02741607992135287",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.952452814028921",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "677036185009709056",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#bb8?  More like bae-bae8. That little droid has won my heart. #TheForceAwakens  #StarWarsForceAwakens #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0016975423291919602",
+  "@URI": "http://dbpedia.org/resource/Droid_(robot)",
+  "@support": "266",
+  "@surfaceForm": "droid",
+  "@offset": "39",
+  "@similarityScore": "0.9972580947545393",
+  "@types": ""
+ }],
+ "tweet": "676786386830270465",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

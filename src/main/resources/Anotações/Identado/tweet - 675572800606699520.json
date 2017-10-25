@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@Cutto1 @RedcliffeScott New hashtag #Trump for Australia.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.330425247048411E-4",
+   "@URI": "http://dbpedia.org/resource/Hashtag",
+   "@support": "244",
+   "@surfaceForm": "hashtag",
+   "@offset": "28",
+   "@similarityScore": "0.9996669815352425",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0037358895758422407",
+   "@URI": "http://dbpedia.org/resource/Australia",
+   "@support": "163976",
+   "@surfaceForm": "Australia",
+   "@offset": "47",
+   "@similarityScore": "0.9946899533213194",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675572800606699520",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

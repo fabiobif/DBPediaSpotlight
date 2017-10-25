@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LandmarkLTC: Follow us &amp; #RT for a chance to win a #StarWars #TheForceAwakens character poster set! Winner chosen 12/21! https://t.co/7â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02857974984152247",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9391277439686136",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02857974984152247",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "34",
+   "@similarityScore": "0.9391277439686136",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "677037222445654016",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

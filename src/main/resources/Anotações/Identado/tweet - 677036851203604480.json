@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WMPolice: Here for you this Christmas, we are. If you need us call 101 or 999 in an emergency. #ForceAwakens #StarWars https://t.co/ncgâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01661194038359979",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9694359696458811",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.004464231986671159",
+   "@URI": "http://dbpedia.org/resource/Christmas",
+   "@support": "17277",
+   "@surfaceForm": "Christmas",
+   "@offset": "32",
+   "@similarityScore": "0.9953013261362074",
+   "@types": "DBpedia:Holiday"
+  }
+ ],
+ "tweet": "677036851203604480",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

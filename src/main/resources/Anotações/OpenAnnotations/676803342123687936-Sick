@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Sick_(Loaded_album)
+oa:hasTarget [
+        oa:hasSource 676803342123687936 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 13 ;
+            oa:end 17] ] .

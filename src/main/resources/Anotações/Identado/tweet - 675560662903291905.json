@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TrussElise: #Trump will represent ALL Citizens of the U.S. red and yellow, brown, black and white...all need security &amp; jobs. https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.006670254315073475",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9871773997584643",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.0243208149369112E-4",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "63",
+   "@similarityScore": "0.9997534502892844",
+   "@types": "DBpedia:Colour"
+  }
+ ],
+ "tweet": "675560662903291905",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

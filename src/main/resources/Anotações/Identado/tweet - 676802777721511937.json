@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "It's time for the light and dark side to commence battle for the best #cappuccino. #cafenero #costa #jedi #starwars https://t.co/8zG2e4ooJ9",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Cappuccino",
+  "@support": "168",
+  "@surfaceForm": "cappuccino",
+  "@offset": "71",
+  "@similarityScore": "0.9999999612437883",
+  "@types": "DBpedia:Food,DBpedia:Beverage"
+ }],
+ "tweet": "676802777721511937",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

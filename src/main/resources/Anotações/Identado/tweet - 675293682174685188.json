@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DrMartyFox: The #NoFlyList Trap   If No One On The #NoFlyList Can Have A Gun   #Obama Can Put #Patriots On The List &amp; Disarm Us https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0014336979863192676",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9968855069175151",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.026903846567954498",
+   "@URI": "http://dbpedia.org/resource/New_England_Patriots",
+   "@support": "5407",
+   "@surfaceForm": "Patriots",
+   "@offset": "99",
+   "@similarityScore": "0.8650373918408522",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:SportsTeam,DBpedia:SportsTeam,DBpedia:AmericanFootballTeam"
+  },
+  {
+   "@percentageOfSecondRank": "4.859330833962435E-7",
+   "@URI": "http://dbpedia.org/resource/Disarm",
+   "@support": "24",
+   "@surfaceForm": "Disarm",
+   "@offset": "126",
+   "@similarityScore": "0.9999995140448776",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
+  }
+ ],
+ "tweet": "675293682174685188",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

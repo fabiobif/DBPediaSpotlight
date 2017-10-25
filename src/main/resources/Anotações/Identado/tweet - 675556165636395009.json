@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @barbdahlia: Are you a working American voting 4 #Trump? Remember the thousands of #workers who built his casinos &amp; hotels he BANKRUPTEDâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.09233653388663211",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9114237120036233",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.037200122079171E-4",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "American",
+   "@offset": "34",
+   "@similarityScore": "0.9995009641004436",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "2.62750454240415E-4",
+   "@URI": "http://dbpedia.org/resource/Casino",
+   "@support": "4495",
+   "@surfaceForm": "casinos",
+   "@offset": "109",
+   "@similarityScore": "0.9997282733287182",
+   "@types": ""
+  }
+ ],
+ "tweet": "675556165636395009",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

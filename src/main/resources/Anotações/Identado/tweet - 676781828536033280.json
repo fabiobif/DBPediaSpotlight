@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @solarimpulse: #StarWars Are you a Jedi Master or a Sith Lord? #TheForceAwakens https://t.co/DXCVWkmNHV",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.030023716217149894",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9481595935639422",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi Master",
+   "@offset": "38",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "Sith Lord",
+   "@offset": "55",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676781828536033280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Don't mess with a guy with a fake lightsaber toy #starwars #phhhoto #TheForceAwakens https://t.co/j69WX614Zx",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Lightsaber",
+  "@support": "584",
+  "@surfaceForm": "lightsaber",
+  "@offset": "34",
+  "@similarityScore": "0.9999997393845261",
+  "@types": ""
+ }],
+ "tweet": "675185113395798017",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

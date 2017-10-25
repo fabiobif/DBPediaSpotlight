@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @momendeavors: Ready for Star Wars #TheForceAwakens? We threw a party with this fun themed candy bar! Theâ\u20ac¦ https://t.co/KyGKRoow4L",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.027562108770092273",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9573373583038839",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.417573809067627E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "28",
+   "@similarityScore": "0.9996913914956358",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "6.468378137588695E-8",
+   "@URI": "http://dbpedia.org/resource/Chocolate_bar",
+   "@support": "305",
+   "@surfaceForm": "candy bar",
+   "@offset": "94",
+   "@similarityScore": "0.9999999353156589",
+   "@types": ""
+  }
+ ],
+ "tweet": "675177380391084032",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

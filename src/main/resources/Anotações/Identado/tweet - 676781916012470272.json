@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Han Solo. Who's Yours? https://t.co/DyLVhg0amn #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.019849119169444065",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.9801904493672259",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0250004068721181",
+   "@URI": "http://dbpedia.org/resource/Han_Solo",
+   "@support": "545",
+   "@surfaceForm": "Han Solo",
+   "@offset": "22",
+   "@similarityScore": "0.9756093688236195",
+   "@types": ""
+  }
+ ],
+ "tweet": "676781916012470272",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

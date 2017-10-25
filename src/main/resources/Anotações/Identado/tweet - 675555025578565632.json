@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AnonyOps: #OpTrump: Petition to ban #Trump from the UK now has over half a million signatures! https://t.co/6xTyGxLkW5 https://t.co/leqâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02322693426857579",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.959329905241973",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.005444514867541708",
+   "@URI": "http://dbpedia.org/resource/United_Kingdom",
+   "@support": "170647",
+   "@surfaceForm": "UK",
+   "@offset": "56",
+   "@similarityScore": "0.9940357339871679",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675555025578565632",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

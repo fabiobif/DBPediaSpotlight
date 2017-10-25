@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "In his #StarWars story, @shovonc's fears: Supposing it sucks? What if it sucks? Oh please God donâ\u20ac™t let it suck https://t.co/LSq4FtgUmq",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.012139543058982115",
+  "@URI": "http://dbpedia.org/resource/God",
+  "@support": "25183",
+  "@surfaceForm": "God",
+  "@offset": "90",
+  "@similarityScore": "0.9751850562254494",
+  "@types": ""
+ }],
+ "tweet": "675578349595459584",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

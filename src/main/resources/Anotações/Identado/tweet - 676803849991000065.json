@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Lots of ppl borrowing the original #StarWars films, leading to a heated staff debate: what is the correct viewing order? 1-6, or 4-6,1-3?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.3657964004158312",
+   "@URI": "http://dbpedia.org/resource/PPL_(utility)",
+   "@support": "168",
+   "@surfaceForm": "ppl",
+   "@offset": "8",
+   "@similarityScore": "0.6966659141043279",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.05718181318377231",
+   "@URI": "http://dbpedia.org/resource/Flat-four_engine",
+   "@support": "230",
+   "@surfaceForm": "4-",
+   "@offset": "129",
+   "@similarityScore": "0.9459109027345727",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803849991000065",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

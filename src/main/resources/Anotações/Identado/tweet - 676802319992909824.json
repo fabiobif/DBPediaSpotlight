@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MTVNews: 11 Spoiler-Free Fan Reactions From The #StarWars Premiere https://t.co/akgsjvXvc7 https://t.co/D2kyIzBrKW",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014932265045102887",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9659728311683367",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676802319992909824",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

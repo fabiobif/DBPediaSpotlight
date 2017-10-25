@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @zephyrwon2001: @akaXochi @Edpilkington  yeah #Trump, you're winning, just like #CharlieSheen, \"Winning\". #Idiot",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9398853940634897",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675558931096322048",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

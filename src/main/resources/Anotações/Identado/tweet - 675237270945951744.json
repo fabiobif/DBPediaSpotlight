@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @STrebeccatan: Stomp feet, #Yoda must #dance #starwars #MayTheForceBeWithYou #TheForceAwakens #STORMTROOPER #R2D2 #C3PO #japan https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024753835952984096",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9567654788846132",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.6899809357468508E-7",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "31",
+   "@similarityScore": "0.999999721056479",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/R2-D2",
+   "@support": "318",
+   "@surfaceForm": "R2D2",
+   "@offset": "112",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/C-3PO",
+   "@support": "276",
+   "@surfaceForm": "C3PO",
+   "@offset": "118",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "675237270945951744",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: Mark Hamill visits children's hospital with Darth Vader, stormtroopers &amp; R2-D2: https://t.co/mf2ytAXdk2 â?¤ï¸? #StarWars https://t.co/0â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.4569629004428988",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.6618917585025093",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mark_Hamill",
+   "@support": "360",
+   "@surfaceForm": "Mark Hamill",
+   "@offset": "8",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Darth_Vader",
+   "@support": "1313",
+   "@surfaceForm": "Darth Vader",
+   "@offset": "52",
+   "@similarityScore": "1.0",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "6.2725405205965E-6",
+   "@URI": "http://dbpedia.org/resource/Stormtrooper_(Star_Wars)",
+   "@support": "186",
+   "@surfaceForm": "stormtroopers",
+   "@offset": "65",
+   "@similarityScore": "0.9999937274956254",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/R2-D2",
+   "@support": "318",
+   "@surfaceForm": "R2-D2",
+   "@offset": "85",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676804151179927552",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

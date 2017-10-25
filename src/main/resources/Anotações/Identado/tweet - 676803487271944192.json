@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @visarity: #StarWars ad for #Target made with #elbe3D template in no time! Check out more here: https://t.co/A1LjAO1dFR #webgl https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014038922934513776",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9745063402456163",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/WebGL",
+   "@support": "114",
+   "@surfaceForm": "webgl",
+   "@offset": "124",
+   "@similarityScore": "0.99999996701979",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:Software"
+  }
+ ],
+ "tweet": "676803487271944192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

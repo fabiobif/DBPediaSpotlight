@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Investigation: Barack #Obama Broke Laws To Swap Five #Taliban Leaders For Bowe #Bergdahl https://t.co/elsVaXMqSv",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.7882348511701316E-6",
+  "@URI": "http://dbpedia.org/resource/Taliban",
+  "@support": "7873",
+  "@surfaceForm": "Taliban",
+  "@offset": "54",
+  "@similarityScore": "0.9999977312686369",
+  "@types": ""
+ }],
+ "tweet": "675565162150105088",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

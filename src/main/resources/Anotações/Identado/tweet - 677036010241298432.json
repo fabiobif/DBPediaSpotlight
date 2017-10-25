@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Movie Review ~ @starwars: #TheForceAwakens - no spoilers here, folks! @LambThe #thelambâ\u20ac¦ https://t.co/sQAMkDrlZI https://t.co/BVuCiWeK6q",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.16793307196628235",
+  "@URI": "http://dbpedia.org/resource/Spoiler_(media)",
+  "@support": "117",
+  "@surfaceForm": "spoilers",
+  "@offset": "48",
+  "@similarityScore": "0.8334862530589111",
+  "@types": ""
+ }],
+ "tweet": "677036010241298432",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

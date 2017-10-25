@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "U know what I just realized. Luke Skywalker could most likely have turned to the dark side. Just... Think about it. ðŸ¤\u201d#TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Luke_Skywalker",
+  "@support": "745",
+  "@surfaceForm": "Luke Skywalker",
+  "@offset": "29",
+  "@similarityScore": "1.0",
+  "@types": ""
+ }],
+ "tweet": "675209130953547776",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

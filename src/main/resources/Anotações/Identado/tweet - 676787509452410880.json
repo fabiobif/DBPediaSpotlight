@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @CBCNews: \"My brain just melted.\" #StarWars fans rave in early, spoiler-free #TheForceAwakens reviews https://t.co/uJBewMSXp0 https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.07366852935042005",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9161557394328084",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.051806928476845135",
+   "@URI": "http://dbpedia.org/resource/Brain",
+   "@support": "10026",
+   "@surfaceForm": "brain",
+   "@offset": "17",
+   "@similarityScore": "0.9465384694017517",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.03473616739190682",
+   "@URI": "http://dbpedia.org/resource/Rave",
+   "@support": "911",
+   "@surfaceForm": "rave",
+   "@offset": "52",
+   "@similarityScore": "0.9663148219300481",
+   "@types": ""
+  }
+ ],
+ "tweet": "676787509452410880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @eladsinned: Never heard: \"My Dad supports #Trump so I'll be paying my own tuition from now on.\" #Dads4Trump #DadKorps #Happening",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.011545283545136396",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9755874291932843",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675566749731844096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @tates5a: CONFIRMED: More people support @BernieSanders vs #Trump, but gets 1/23rd news https://t.co/669z7vRb7N #FeelTheBern https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.07415059771945187",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9178492317747492",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675567948124192768",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

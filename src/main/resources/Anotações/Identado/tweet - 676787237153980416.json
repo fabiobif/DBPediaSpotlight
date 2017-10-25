@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @jiodeleon: So this happened tonight. #TheForceAwakens Philippines premiere! 😮 https://t.co/DwdlVTt2Pd",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02518265974863668",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.954789630609884",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.5167539152886042E-5",
+   "@URI": "http://dbpedia.org/resource/Philippines",
+   "@support": "57158",
+   "@surfaceForm": "Philippines",
+   "@offset": "58",
+   "@similarityScore": "0.9999529341107347",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "676787237153980416",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

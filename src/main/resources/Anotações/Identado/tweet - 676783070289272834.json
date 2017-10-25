@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HinckleyLIFE: #StarWars #theforceawakens ...'The Force, it's calling to you! ... In theatres Thursday! ... #HinckleyLIFE #Hinckley httpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.018832390685452154",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9654477440815422",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.018753697494472806",
+   "@URI": "http://dbpedia.org/resource/Hinckley",
+   "@support": "450",
+   "@surfaceForm": "Hinckley",
+   "@offset": "126",
+   "@similarityScore": "0.9777172011554252",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "676783070289272834",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

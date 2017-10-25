@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#HarrisonFord greeted fans at a #StarWars: #TheForceAwakens fan event at #SydneyOperaHouse in #Australia Thursday https://t.co/FDgNjmhsiN",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.004746150339012997",
+  "@URI": "http://dbpedia.org/resource/Australia",
+  "@support": "163976",
+  "@surfaceForm": "Australia",
+  "@offset": "95",
+  "@similarityScore": "0.9934199519901931",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675232943640563713",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "My review of @starwars #TheForceAwakens for the @denverpost: JJ Abrams conducts a brilliant space symphony, at last https://t.co/wX2gjeif9s",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/J._J._Abrams",
+  "@support": "445",
+  "@surfaceForm": "JJ Abrams",
+  "@offset": "61",
+  "@similarityScore": "0.9999999999999716",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+ }],
+ "tweet": "677036385295990784",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

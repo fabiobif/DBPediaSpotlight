@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @littlebytesnews: #Trump stoops to gutter politicsâ?©Trump qstns .@TedCruz's faith,attacks him for supporting free market energy  https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01129822863746293",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9838371239843867",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.958105689502442E-4",
+   "@URI": "http://dbpedia.org/resource/Free_market",
+   "@support": "1611",
+   "@surfaceForm": "free market",
+   "@offset": "113",
+   "@similarityScore": "0.999069578648888",
+   "@types": ""
+  }
+ ],
+ "tweet": "675554631968247808",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

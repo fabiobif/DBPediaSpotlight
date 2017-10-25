@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I ♥ London Underground https://t.co/SKGlbDlbl1  #TransportforLondon #Trump #Trump2016 #thoughtsfortheday #allfaiths",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.069384806615966E-5",
+  "@URI": "http://dbpedia.org/resource/London_Underground",
+  "@support": "3496",
+  "@surfaceForm": "London Underground",
+  "@offset": "6",
+  "@similarityScore": "0.9999343359021636",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,DBpedia:RouteOfTransportation,DBpedia:PublicTransitSystem"
+ }],
+ "tweet": "675564901121826816",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

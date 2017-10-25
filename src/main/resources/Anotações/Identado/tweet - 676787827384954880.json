@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DomSherwood1: At the @starwars #theforceawakens premier!!! Had such a good time! Thanks to ted_baker for theâ\u20ac¦ https://t.co/WQG3SWgzhV",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.011491942515011549",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9800412075425081",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787827384954880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

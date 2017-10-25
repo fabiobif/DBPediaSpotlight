@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RealD3DUK: #FreebieFriday great for #TheForceAwakens fans. Follow us to find out how you can get your own #StarWarsCardboard https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.022951086596188122",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9598105976864374",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675213990201528321",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

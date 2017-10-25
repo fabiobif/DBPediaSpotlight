@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#StarWars Fan Film: STAR WARS: Clash Of The Force: A lost Star Wars saga film shot in 1985 and only completed ... https://t.co/td61knBj0e",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.1452817550315743",
+   "@URI": "http://dbpedia.org/resource/The_Clash",
+   "@support": "1915",
+   "@surfaceForm": "Clash",
+   "@offset": "31",
+   "@similarityScore": "0.8703603665151087",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  },
+  {
+   "@percentageOfSecondRank": "0.006094842031927368",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "58",
+   "@similarityScore": "0.9937542619119591",
+   "@types": ""
+  }
+ ],
+ "tweet": "676804028689354752",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

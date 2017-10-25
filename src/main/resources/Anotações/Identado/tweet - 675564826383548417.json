@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#Orban #Farage #LePen #Putin #Trump: 5 words supernatural antidote for all of the world current poisons",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Nigel_Farage",
+  "@support": "159",
+  "@surfaceForm": "Farage",
+  "@offset": "8",
+  "@similarityScore": "0.9999997140978234",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+ }],
+ "tweet": "675564826383548417",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

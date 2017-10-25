@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "People like Trump and his ilk did not have to wait for San Bernardino attack to unleash hatred of Muslims or Arabs. #Trump #GOPDebate",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.16064633893870509",
+   "@URI": "http://dbpedia.org/resource/San_Bernardino,_California",
+   "@support": "1898",
+   "@surfaceForm": "San Bernardino",
+   "@offset": "55",
+   "@similarityScore": "0.8467794621909214",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  },
+  {
+   "@percentageOfSecondRank": "0.057885158877067674",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "98",
+   "@similarityScore": "0.9451823023170721",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.8041221464241946E-4",
+   "@URI": "http://dbpedia.org/resource/Arab_people",
+   "@support": "16444",
+   "@surfaceForm": "Arabs",
+   "@offset": "109",
+   "@similarityScore": "0.9991387118289297",
+   "@types": ""
+  }
+ ],
+ "tweet": "675575999782850560",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

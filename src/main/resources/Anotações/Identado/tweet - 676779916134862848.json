@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DarrenCriss: Lock S-Foils in attack position! (suited up and ready to go with funkwox to #TheForceAwakensâ\u20ac¦ https://t.co/pTN3WpAk0i",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.017296419039839826",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9627704913012584",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676779916134862848",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

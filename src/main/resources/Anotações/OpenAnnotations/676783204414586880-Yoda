@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Yoda
+oa:hasTarget [
+        oa:hasSource 676783204414586880 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 47 ;
+            oa:end 51] ] .

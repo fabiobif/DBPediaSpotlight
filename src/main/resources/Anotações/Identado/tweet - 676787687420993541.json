@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "A toast to friendship \"Iechyd  Da\" #StarWars #theforceawakens #lego #tomoswatkin #brewery #thegreatalesofwales... https://t.co/G5CGeQMHsc",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.012038038059552626",
+  "@URI": "http://dbpedia.org/resource/Brewery",
+  "@support": "3917",
+  "@surfaceForm": "brewery",
+  "@offset": "82",
+  "@similarityScore": "0.9880069065360972",
+  "@types": ""
+ }],
+ "tweet": "676787687420993541",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

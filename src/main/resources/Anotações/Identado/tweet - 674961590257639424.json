@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@TIME fuck you time don't you DARE try shitting on #StarWars you pathetically outdated SHIT of a company!",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.743809918439978E-5",
+   "@URI": "http://dbpedia.org/resource/Time_(magazine)",
+   "@support": "11898",
+   "@surfaceForm": "TIME",
+   "@offset": "1",
+   "@similarityScore": "0.999925420642939",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+  },
+  {
+   "@percentageOfSecondRank": "0.08505624714196702",
+   "@URI": "http://dbpedia.org/resource/Drug_Abuse_Resistance_Education",
+   "@support": "100",
+   "@surfaceForm": "DARE",
+   "@offset": "30",
+   "@similarityScore": "0.9121391088280408",
+   "@types": ""
+  }
+ ],
+ "tweet": "674961590257639424",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

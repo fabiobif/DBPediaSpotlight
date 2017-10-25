@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Sith
+oa:hasTarget [
+        oa:hasSource 676804114735570944 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 60 ;
+            oa:end 69] ] .

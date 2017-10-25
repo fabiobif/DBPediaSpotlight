@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @anethux: Sick of hearing about #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0350699129162315",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.939977263484766",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.47214682616098386",
+   "@URI": "http://dbpedia.org/resource/Sick_(Loaded_album)",
+   "@support": "26",
+   "@surfaceForm": "Sick",
+   "@offset": "13",
+   "@similarityScore": "0.6193273265206434",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album"
+  }
+ ],
+ "tweet": "676803342123687936",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

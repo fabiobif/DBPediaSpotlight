@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Chewbacca
+oa:hasTarget [
+        oa:hasSource 674964747549151233 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 43 ;
+            oa:end 52] ] .

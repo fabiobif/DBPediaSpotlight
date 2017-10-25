@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @UnileverWorld: \"May the 100% clean force be with you\" @Avaaz  #StarWars #COP21 #go100percent  https://t.co/kG5QoTuMXR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025158030352972306",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9561185559667205",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002144973712779995",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "39",
+   "@similarityScore": "0.9965472833459508",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Avaaz",
+   "@support": "106",
+   "@surfaceForm": "Avaaz",
+   "@offset": "59",
+   "@similarityScore": "0.9999999406962292",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Non-ProfitOrganisation"
+  }
+ ],
+ "tweet": "675295100956745728",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

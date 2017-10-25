@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "The Sith Are Back #dec18 #starwars #theforceawakens #thegangsback #sith #jedi #theforce #darthvader https://t.co/g3wZKLX7Jz",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004663848056531131",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "Sith",
+   "@offset": "4",
+   "@similarityScore": "0.9953578021618635",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.004663848056531131",
+   "@URI": "http://dbpedia.org/resource/Sith",
+   "@support": "957",
+   "@surfaceForm": "sith",
+   "@offset": "67",
+   "@similarityScore": "0.9953578021618635",
+   "@types": ""
+  }
+ ],
+ "tweet": "676783292906016772",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

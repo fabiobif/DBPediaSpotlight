@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Flying back home to #pune on the 17th but will travel to #mumbai on the 18th for #StarWars to watch it @IMAX 😎",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "8.905148629730749E-5",
+  "@URI": "http://dbpedia.org/resource/IMAX",
+  "@support": "1999",
+  "@surfaceForm": "IMAX",
+  "@offset": "104",
+  "@similarityScore": "0.9999019819992859",
+  "@types": ""
+ }],
+ "tweet": "675571165574791168",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

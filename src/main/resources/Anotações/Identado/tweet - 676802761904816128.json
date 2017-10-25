@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT anthonycumia: Saw #StarWars tonight. Got a shot of the final scene. Amazing! https://t.co/4kTzUbTKgf  https://t.co/qb2oBrVXE1",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.017694839989999156",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9683221783042715",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676802761904816128",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

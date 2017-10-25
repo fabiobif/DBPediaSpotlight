@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Star Wars tomorrow #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0029670008016691794",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "0",
+  "@similarityScore": "0.9964709916196629",
+  "@types": ""
+ }],
+ "tweet": "677036909462429696",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

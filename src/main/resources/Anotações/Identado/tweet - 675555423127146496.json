@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "THOIS BUMPER STICKER WILL LOOK GREAT UNTIL THE #GOP NOMINATES SOMEONE ELSE!! #TRUMP!! HATE!! ME!! LOVE!! #TCOT  https://t.co/PnlgIZlYYR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.7868093858097853E-4",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "48",
+  "@similarityScore": "0.9997759628627746",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675555423127146496",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

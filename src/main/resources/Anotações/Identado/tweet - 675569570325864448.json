@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Croatansound: #Trump has some bad info, #Cruz is for neither subsidies on ethanol or oil, see his detailed video on it #Iowa https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.010681270013049585",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9764138465284449",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.5492710968089399",
+   "@URI": "http://dbpedia.org/resource/Ethanol",
+   "@support": "5543",
+   "@surfaceForm": "ethanol",
+   "@offset": "78",
+   "@similarityScore": "0.5742395466043554",
+   "@types": "DBpedia:ChemicalSubstance,DBpedia:ChemicalCompound"
+  },
+  {
+   "@percentageOfSecondRank": "7.160254551151855E-4",
+   "@URI": "http://dbpedia.org/resource/Iowa",
+   "@support": "21644",
+   "@surfaceForm": "Iowa",
+   "@offset": "124",
+   "@similarityScore": "0.9991400439288618",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  }
+ ],
+ "tweet": "675569570325864448",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

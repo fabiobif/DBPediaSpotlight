@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HLNTV: Celebs tweet first - spoiler free! -  reviews of #StarWars #TheForceAwakens: https://t.co/ROrVmwyJYF https://t.co/ZvQ14IPQVl",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.013944081751116787",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9766173650778203",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676780823929049088",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

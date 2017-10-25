@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RealJamesWoods: #HillaryClinton is #Obama's third term...  https://t.co/TKNYmTD0EC",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0075815584113636016",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9853617783684685",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675562021488885760",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

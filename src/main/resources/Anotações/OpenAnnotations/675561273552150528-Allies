@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Allies_of_World_War_II
+oa:hasTarget [
+        oa:hasSource 675561273552150528 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 82 ;
+            oa:end 88] ] .

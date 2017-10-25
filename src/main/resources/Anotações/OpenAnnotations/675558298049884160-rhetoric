@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Rhetoric
+oa:hasTarget [
+        oa:hasSource 675558298049884160 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 39 ;
+            oa:end 47] ] .

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @big1037: Enter to #WIN #ForceAwakens tix! FOLLOW @big1037, RETWEET this + REPLY with your fav #StarWars character! https://t.co/AuDJ3Olâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05744543890676411",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9230945934002788",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02190742184400684",
+   "@URI": "http://dbpedia.org/resource/WIN_Television",
+   "@support": "278",
+   "@surfaceForm": "WIN",
+   "@offset": "23",
+   "@similarityScore": "0.9412512469640956",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675577851383570432",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

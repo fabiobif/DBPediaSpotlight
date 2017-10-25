@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Fingers crossed that this is more than lip service #malick #starwars https://t.co/27H4ca4gTk",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.34845056713960193",
+  "@URI": "http://dbpedia.org/resource/Lip",
+  "@support": "380",
+  "@surfaceForm": "lip",
+  "@offset": "39",
+  "@similarityScore": "0.6991367824714203",
+  "@types": "DBpedia:AnatomicalStructure"
+ }],
+ "tweet": "674963903546302465",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

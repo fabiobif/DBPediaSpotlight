@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Looking for some kind of #StarWars primer/crash course on first six films, for the novice spouse. Current knowledge - something about Force?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.11862850486648702",
+  "@URI": "http://dbpedia.org/resource/Primer_(molecular_biology)",
+  "@support": "405",
+  "@surfaceForm": "primer",
+  "@offset": "35",
+  "@similarityScore": "0.7088126018266655",
+  "@types": ""
+ }],
+ "tweet": "677036366111367168",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

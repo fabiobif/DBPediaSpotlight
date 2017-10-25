@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/ASAP_(variety_show)
+oa:hasTarget [
+        oa:hasSource 676802412007440384 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 66 ;
+            oa:end 70] ] .

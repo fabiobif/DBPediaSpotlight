@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@JoyAnnReid @ShanChan_37 @sickjew Nixon? Hell, W &amp; Cheney were having PETA protestors followed! I shudder to think what #Trump would do.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0025539672695538917",
+   "@URI": "http://dbpedia.org/resource/Hell",
+   "@support": "3842",
+   "@surfaceForm": "Hell",
+   "@offset": "41",
+   "@similarityScore": "0.9940949867581541",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.201084981531314E-5",
+   "@URI": "http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals",
+   "@support": "1359",
+   "@surfaceForm": "PETA",
+   "@offset": "74",
+   "@similarityScore": "0.999977985028077",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Non-ProfitOrganisation"
+  }
+ ],
+ "tweet": "675563048866680832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

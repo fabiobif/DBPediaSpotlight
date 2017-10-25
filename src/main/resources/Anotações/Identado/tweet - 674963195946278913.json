@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RyanAdil: Hilarious '#StarWars' parody features Donald #Trump as Darth Vader https://t.co/QOrefk3CqE",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024054848430380797",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9525158231284905",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Darth_Vader",
+   "@support": "1313",
+   "@surfaceForm": "Darth Vader",
+   "@offset": "69",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "674963195946278913",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

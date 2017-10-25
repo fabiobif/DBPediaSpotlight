@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HerdingNerfs: Please retweet and help a member of our Star Wars family share in our experience of seeing #TheForceAwakens  https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013508291000251752",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9744378816180282",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0012440633033785357",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "58",
+   "@similarityScore": "0.9985551948097862",
+   "@types": ""
+  }
+ ],
+ "tweet": "675178959752077312",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

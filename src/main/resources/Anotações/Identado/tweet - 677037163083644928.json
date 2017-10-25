@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "People who see racial themes in the original Star Wars trilogy are really overestimating the depth of those films. #StarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.006698536830516171",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "45",
+  "@similarityScore": "0.9911769819748862",
+  "@types": ""
+ }],
+ "tweet": "677037163083644928",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

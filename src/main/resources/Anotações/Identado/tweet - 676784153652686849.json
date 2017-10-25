@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "Watching the #StarWars movies.Just finished Ep.2 &amp; still love that #yoda lightsaber battle! Yoda in his prime? #GOAT #Jedi #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "2.1075067838506753E-10",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "yoda",
+   "@offset": "72",
+   "@similarityScore": "0.9999999997490931",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Lightsaber",
+   "@support": "584",
+   "@surfaceForm": "lightsaber",
+   "@offset": "77",
+   "@similarityScore": "0.9999999999998579",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "2.1075067838506753E-10",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "Yoda",
+   "@offset": "96",
+   "@similarityScore": "0.9999999997490931",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "7.64868647837097E-12",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "122",
+   "@similarityScore": "0.9999999999921556",
+   "@types": ""
+  }
+ ],
+ "tweet": "676784153652686849",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

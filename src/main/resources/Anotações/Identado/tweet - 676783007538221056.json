@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @carrieffisher: Oh Luke, donâ\u20ac™t ask for the moon, we have the force. #TheForceAwakens https://t.co/TBOCASFsy0",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.025158030352973735",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9548114800447358",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.001337461328235255",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "66",
+   "@similarityScore": "0.9974878380530046",
+   "@types": ""
+  }
+ ],
+ "tweet": "676783007538221056",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

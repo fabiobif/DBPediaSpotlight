@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @comingsoonnet: International #StarWars: #TheForceAwakens trailer offers new footage https://t.co/1ev2CgPoUZ https://t.co/6Mdrv2KpKO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.002518581443977763",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.993692327392814",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675238762306252800",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

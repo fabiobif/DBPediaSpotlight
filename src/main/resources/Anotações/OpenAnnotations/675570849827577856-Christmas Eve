@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Christmas_Eve
+oa:hasTarget [
+        oa:hasSource 675570849827577856 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 54 ;
+            oa:end 67] ] .

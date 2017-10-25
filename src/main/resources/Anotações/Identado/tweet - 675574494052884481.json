@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": ".@tedcruz - time to MAN UPâ\u20ac¦  Your #Trump pandering must endâ\u20ac¦  Supporters getting frustrated -- GROW a pair.  c.c. @amandacarpenter #CruzCrew",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0697585181634052",
+  "@URI": "http://dbpedia.org/resource/MAN_SE",
+  "@support": "559",
+  "@surfaceForm": "MAN",
+  "@offset": "20",
+  "@similarityScore": "0.9276532716645876",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "675574494052884481",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

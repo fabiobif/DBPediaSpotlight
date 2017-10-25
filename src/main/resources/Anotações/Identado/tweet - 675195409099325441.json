@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsAUNZ: #HarrisonFord poses for a selfie with @JayLagaaia andâ\u20ac¦a few friends at the #StarWars #TheForceAwakens Fan Event. https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03713184734749295",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9466253020228373",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Self-portrait",
+   "@support": "324",
+   "@surfaceForm": "selfie",
+   "@offset": "44",
+   "@similarityScore": "0.999999994999996",
+   "@types": ""
+  }
+ ],
+ "tweet": "675195409099325441",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

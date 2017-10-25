@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Eastern_Time_Zone
+oa:hasTarget [
+        oa:hasSource 676784496646078465 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 130 ;
+            oa:end 133] ] .

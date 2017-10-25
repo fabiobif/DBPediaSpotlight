@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Enter to #win a #PS4 #StarWars Battlefront Gaming Bundle at @JetSetting_Mom ! #giveaway #gaming #gamer https://t.co/fyDVFaKe6K",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/PlayStation_4",
+  "@support": "546",
+  "@surfaceForm": "PS4",
+  "@offset": "17",
+  "@similarityScore": "0.999999999359602",
+  "@types": "DBpedia:Device,DBpedia:InformationAppliance"
+ }],
+ "tweet": "674962597343444994",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Just saw #DonaldTrump on #cspan #Iowa  #cspanchat will you be airing the debates #gop  #Trump had a good crowd.  #Trump2016 #MerryChristmas",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "8.187293601275014E-4",
+   "@URI": "http://dbpedia.org/resource/Iowa",
+   "@support": "21644",
+   "@surfaceForm": "Iowa",
+   "@offset": "33",
+   "@similarityScore": "0.9988195632041109",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "1.1234940342204759E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "gop",
+   "@offset": "82",
+   "@similarityScore": "0.9997534213242184",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675566400589664257",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

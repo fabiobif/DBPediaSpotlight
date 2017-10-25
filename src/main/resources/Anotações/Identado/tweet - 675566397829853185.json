@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "#BreakingNews: Donald #Trump is a Democratic secret agent! https://t.co/pTxBNfzEBu",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.139113092447262E-4",
+   "@URI": "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+   "@support": "48247",
+   "@surfaceForm": "Democratic",
+   "@offset": "34",
+   "@similarityScore": "0.9992776750959814",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "5.706697447912074E-4",
+   "@URI": "http://dbpedia.org/resource/Espionage",
+   "@support": "4158",
+   "@surfaceForm": "secret agent",
+   "@offset": "45",
+   "@similarityScore": "0.9980842458541841",
+   "@types": ""
+  }
+ ],
+ "tweet": "675566397829853185",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @arcticninja: #StarWars reviews hit in ten minutes! https://t.co/XHTxJgvhEP",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.022021973003503687",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.965699054136952",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "677036522701324288",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

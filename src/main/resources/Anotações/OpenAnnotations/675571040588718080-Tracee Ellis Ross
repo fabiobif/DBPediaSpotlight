@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Tracee_Ellis_Ross
+oa:hasTarget [
+        oa:hasSource 675571040588718080 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 22 ;
+            oa:end 39] ] .

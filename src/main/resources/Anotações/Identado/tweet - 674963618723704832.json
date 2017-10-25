@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "An epic saga \"may the force be with you\" #StarWars I'm very excited #StarWarsForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0021855308440294706",
+  "@URI": "http://dbpedia.org/resource/Force",
+  "@support": "4917",
+  "@surfaceForm": "force",
+  "@offset": "22",
+  "@similarityScore": "0.9944713246510993",
+  "@types": ""
+ }],
+ "tweet": "674963618723704832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

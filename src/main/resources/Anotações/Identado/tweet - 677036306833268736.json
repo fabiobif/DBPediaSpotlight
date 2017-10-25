@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @vulture: See #TheForceAwakens cast, @JimmyFallon &amp; @TheRoots do an a cappella #StarWars music medley: https://t.co/8bCLHRdT46 https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03262613959698336",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9409141836239637",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02230406769428311",
+   "@URI": "http://dbpedia.org/resource/Vulture",
+   "@support": "635",
+   "@surfaceForm": "vulture",
+   "@offset": "4",
+   "@similarityScore": "0.9557427238757688",
+   "@types": "DBpedia:Species,DBpedia:Eukaryote,DBpedia:Animal,DBpedia:Bird"
+  }
+ ],
+ "tweet": "677036306833268736",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

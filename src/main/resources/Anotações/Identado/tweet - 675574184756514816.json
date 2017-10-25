@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @kateclinton: Donald Trump, MAKE AMERICA GRATEFUL, and drop out. #KateClinton #Trump",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014075759572540168",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9718791553344281",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.237086408262064E-5",
+   "@URI": "http://dbpedia.org/resource/Donald_Trump",
+   "@support": "924",
+   "@surfaceForm": "Donald Trump",
+   "@offset": "17",
+   "@similarityScore": "0.9999776296362439",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "675574184756514816",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "@nflnetwork sorry viking fans but Vader says @AZCardinals are the winners tonight. #TNFRealFans #starwars #cardinals https://t.co/iNmWwZBn5U",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.009892463082709487",
+   "@URI": "http://dbpedia.org/resource/Vikings",
+   "@support": "7737",
+   "@surfaceForm": "viking",
+   "@offset": "18",
+   "@similarityScore": "0.9881589436663145",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0823584768818966",
+   "@URI": "http://dbpedia.org/resource/Big_Van_Vader",
+   "@support": "443",
+   "@surfaceForm": "Vader",
+   "@offset": "34",
+   "@similarityScore": "0.9045869800672309",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Wrestler"
+  },
+  {
+   "@percentageOfSecondRank": "0.0033269999280847555",
+   "@URI": "http://dbpedia.org/resource/Cardinal_(Catholicism)",
+   "@support": "10093",
+   "@surfaceForm": "cardinals",
+   "@offset": "107",
+   "@similarityScore": "0.9929555589616141",
+   "@types": ""
+  }
+ ],
+ "tweet": "674963044787576833",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

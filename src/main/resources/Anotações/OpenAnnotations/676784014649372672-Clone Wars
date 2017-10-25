@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Clone_Wars_(Star_Wars)
+oa:hasTarget [
+        oa:hasSource 676784014649372672 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 116 ;
+            oa:end 126] ] .

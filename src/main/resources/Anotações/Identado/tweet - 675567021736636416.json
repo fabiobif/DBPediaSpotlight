@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WYVeteran: #TRUMP is one GIANT HEAP OF PURE USDA APPROVED BULLSHIT! Fucking coward DRAFT DODGING RACIST SCUMBAG! #nhpolitics https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.2952311103317581",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.7356804980189173",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.873149676384377E-6",
+   "@URI": "http://dbpedia.org/resource/United_States_Department_of_Agriculture",
+   "@support": "3210",
+   "@surfaceForm": "USDA",
+   "@offset": "48",
+   "@similarityScore": "0.9999879919407902",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:GovernmentOrganization,DBpedia:GovernmentAgency"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Penn_&_Teller:_Bullshit!",
+   "@support": "49",
+   "@surfaceForm": "BULLSHIT!",
+   "@offset": "62",
+   "@similarityScore": "0.9999999999997726",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow"
+  }
+ ],
+ "tweet": "675567021736636416",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

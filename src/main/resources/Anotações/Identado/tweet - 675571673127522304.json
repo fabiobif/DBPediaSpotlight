@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @4MrBreitbart: @LindaSuhler @ChristiChat No matter if you're 4  #Trump #Cruz or #Carson  apparently \"they\" (@GOP e)  .............STILL â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.022470949274133796",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9614355140695433",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "8.477859615419805E-5",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "112",
+   "@similarityScore": "0.9997204429753055",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675571673127522304",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

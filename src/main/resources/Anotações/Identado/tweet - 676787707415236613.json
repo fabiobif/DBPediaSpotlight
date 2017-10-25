@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "So who invented the Death Star?  https://t.co/y2be0p8KjM #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.22510654590542456",
+  "@URI": "http://dbpedia.org/resource/Death_Star",
+  "@support": "521",
+  "@surfaceForm": "Death Star",
+  "@offset": "20",
+  "@similarityScore": "0.807250136282071",
+  "@types": ""
+ }],
+ "tweet": "676787707415236613",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

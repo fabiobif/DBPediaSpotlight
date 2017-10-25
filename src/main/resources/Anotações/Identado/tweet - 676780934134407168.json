@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BBCRadio4: How to explain Star Wars in 90 seconds: https://t.co/41WKJJrR4A #R4in4 #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.13236456935954896",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.8247163922025484",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0017417754796147926",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "30",
+   "@similarityScore": "0.9977430078650343",
+   "@types": ""
+  }
+ ],
+ "tweet": "676780934134407168",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

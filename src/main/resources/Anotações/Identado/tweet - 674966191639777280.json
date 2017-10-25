@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "the peanuts slaying 😊 look at the beautiful duo at the Tokyo #starwars event https://t.co/Ph5OvX3n6v",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03286780704473977",
+   "@URI": "http://dbpedia.org/resource/Peanut",
+   "@support": "1788",
+   "@surfaceForm": "peanuts",
+   "@offset": "4",
+   "@similarityScore": "0.9675168112939186",
+   "@types": "DBpedia:Species,DBpedia:Eukaryote,DBpedia:Plant"
+  },
+  {
+   "@percentageOfSecondRank": "5.182648626284005E-4",
+   "@URI": "http://dbpedia.org/resource/Tokyo",
+   "@support": "22990",
+   "@surfaceForm": "Tokyo",
+   "@offset": "58",
+   "@similarityScore": "0.999169217908426",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "674966191639777280",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

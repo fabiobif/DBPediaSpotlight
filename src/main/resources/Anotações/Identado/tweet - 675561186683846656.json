@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "@POTUS #Obama You've given rise to the fear &amp; division in #USA Good job!! If that was your plan you &amp; #Democrats be proud #WakeUpAmerica",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.5024767103119635E-4",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "1",
+   "@similarityScore": "0.9998492093391245",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0034178330859442824",
+   "@URI": "http://dbpedia.org/resource/Division_(military)",
+   "@support": "9639",
+   "@surfaceForm": "division",
+   "@offset": "50",
+   "@similarityScore": "0.9952714305843425",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "8.836042861496758E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "63",
+   "@similarityScore": "0.9997755825370211",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675561186683846656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

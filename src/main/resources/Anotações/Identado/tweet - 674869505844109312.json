@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AnnCoulter: Et tu, Gov? That's EXACTLY what Obama said about your criticism of Benghazi attack. You were right &amp; so is Trump. https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0024998190608568655",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9953466005481216",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.030175401905171442",
+   "@URI": "http://dbpedia.org/resource/Benghazi",
+   "@support": "1442",
+   "@surfaceForm": "Benghazi",
+   "@offset": "83",
+   "@similarityScore": "0.9705001781177114",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "674869505844109312",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

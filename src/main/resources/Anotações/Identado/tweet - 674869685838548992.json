@@ -1,0 +1,74 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @sokeijarhead: The left throwing the Hitler mantra around about trump but obama fits the Hitler persona more than trump! Hitler was alliâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.008711435468989098",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9835314471095321",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.7091079927542715E-5",
+   "@URI": "http://dbpedia.org/resource/Adolf_Hitler",
+   "@support": "13350",
+   "@surfaceForm": "Hitler",
+   "@offset": "40",
+   "@similarityScore": "0.9999428755658364",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"
+  },
+  {
+   "@percentageOfSecondRank": "1.3597333690582313E-4",
+   "@URI": "http://dbpedia.org/resource/Mantra",
+   "@support": "1367",
+   "@surfaceForm": "mantra",
+   "@offset": "47",
+   "@similarityScore": "0.9998636665741634",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.25407470847121044",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "67",
+   "@similarityScore": "0.7957103647045699",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.7091079927542715E-5",
+   "@URI": "http://dbpedia.org/resource/Adolf_Hitler",
+   "@support": "13350",
+   "@surfaceForm": "Hitler",
+   "@offset": "92",
+   "@similarityScore": "0.9999428755658364",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"
+  },
+  {
+   "@percentageOfSecondRank": "0.25407470847121044",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "117",
+   "@similarityScore": "0.7957109393835943",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.7091079927542715E-5",
+   "@URI": "http://dbpedia.org/resource/Adolf_Hitler",
+   "@support": "13350",
+   "@surfaceForm": "Hitler",
+   "@offset": "124",
+   "@similarityScore": "0.9999428755658364",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Politician,DBpedia:President"
+  }
+ ],
+ "tweet": "674869685838548992",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

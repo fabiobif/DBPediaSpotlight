@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SuperheroSteel: YOU WALK AROUND ALL WEEK SINGING LIKE A LOUNGE LIZARD! ðŸ˜\u201a #BillMurray #StarWars #TheForceAwakens #snl https://t.co/IbAN8â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.021330071616986267",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9556470906407206",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803916797894656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

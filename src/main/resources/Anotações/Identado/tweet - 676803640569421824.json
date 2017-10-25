@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"Do or do not, there is no try.\" - Yoda #StarWars #JediNights",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0011380682451171463",
+  "@URI": "http://dbpedia.org/resource/Yoda",
+  "@support": "527",
+  "@surfaceForm": "Yoda",
+  "@offset": "35",
+  "@similarityScore": "0.9986468758537849",
+  "@types": ""
+ }],
+ "tweet": "676803640569421824",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

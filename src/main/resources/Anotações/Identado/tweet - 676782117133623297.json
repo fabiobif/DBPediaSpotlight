@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JonErlichman: Star Wars red carpet removed in Hollywood after world premiere #TheForceAwakens https://t.co/7VdHIoN82d",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02495076428042135",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9656649393791001",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.007173175977559111",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "18",
+   "@similarityScore": "0.9925871659581113",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.011425046879394739",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "28",
+   "@similarityScore": "0.9869631693820798",
+   "@types": "DBpedia:Colour"
+  },
+  {
+   "@percentageOfSecondRank": "0.003961808035830982",
+   "@URI": "http://dbpedia.org/resource/Hollywood",
+   "@support": "18153",
+   "@surfaceForm": "Hollywood",
+   "@offset": "50",
+   "@similarityScore": "0.9958996079275418",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement"
+  }
+ ],
+ "tweet": "676782117133623297",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

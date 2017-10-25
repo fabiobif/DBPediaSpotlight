@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/List_of_Tom_and_Jerry_characters
+oa:hasTarget [
+        oa:hasSource 675574700685291521 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 21 ;
+            oa:end 29] ] .

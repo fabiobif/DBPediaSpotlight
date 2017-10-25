@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#FunFriday Must be the hair piece! A Bald Eagle Attacked #Donald #Trump During A Photo Shooâ\u20ac¦ https://t.co/wWHE4R0NZ4 https://t.co/ienyWVofeU",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.009617965089988892",
+  "@URI": "http://dbpedia.org/resource/Bald_Eagle",
+  "@support": "1479",
+  "@surfaceForm": "Bald Eagle",
+  "@offset": "37",
+  "@similarityScore": "0.985059339760906",
+  "@types": ""
+ }],
+ "tweet": "675554428733284352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

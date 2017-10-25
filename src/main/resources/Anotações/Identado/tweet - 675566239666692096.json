@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TarekFatah: Texas Muslims force Islamic cleric to resign after he says he supports #Trump's proposal to ban Muslim immigration. https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003005605667934097",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9913470364023694",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0015588002666626802",
+   "@URI": "http://dbpedia.org/resource/Texas",
+   "@support": "84324",
+   "@surfaceForm": "Texas",
+   "@offset": "16",
+   "@similarityScore": "0.9964807780799821",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "0.045006432552210145",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "22",
+   "@similarityScore": "0.9541487997996128",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.008042593841623034",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "30",
+   "@similarityScore": "0.9877318018209171",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.07303613081169127",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "112",
+   "@similarityScore": "0.9315855384800366",
+   "@types": ""
+  }
+ ],
+ "tweet": "675566239666692096",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

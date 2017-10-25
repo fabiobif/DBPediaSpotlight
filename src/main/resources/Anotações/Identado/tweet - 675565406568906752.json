@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@GOVUK In 1980 President Carter banned Iranians temporarily from entering the USA. Mr. #Trump plan is no different, it's temporary.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.0303445923026519E-4",
+  "@URI": "http://dbpedia.org/resource/United_States",
+  "@support": "560750",
+  "@surfaceForm": "USA",
+  "@offset": "78",
+  "@similarityScore": "0.9997882084601738",
+  "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+ }],
+ "tweet": "675565406568906752",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

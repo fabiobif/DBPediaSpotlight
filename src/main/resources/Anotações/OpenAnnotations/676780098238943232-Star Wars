@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Star_Wars
+oa:hasTarget [
+        oa:hasSource 676780098238943232 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 3 ;
+            oa:end 12] ] .

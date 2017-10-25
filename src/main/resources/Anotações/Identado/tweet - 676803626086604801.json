@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @amhaunted: Think about this: new #StarWars must earn $1.5 billion to be success https://t.co/EUn61UEQPY We have our tickets! https://t.â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.05999787147012479",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8622350768914546",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803626086604801",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

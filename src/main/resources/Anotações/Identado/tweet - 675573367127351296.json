@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Kondiotis: Could you imagine Barack Hussein #Obama issuing this warning in #America ? Vote for @realDonaldTrump he has #balls https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "9.601409162048971E-5",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9998115601910996",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675573367127351296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

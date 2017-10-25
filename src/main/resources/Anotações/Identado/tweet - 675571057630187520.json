@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Hellfire_Helen: @dynamite8503 please don't generalize my race and I won't do the same. I'm white and I despise #trump. He has no empathâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02805348349714042",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9509663565432496",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.17036434917367838",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "116",
+   "@similarityScore": "0.8519748976528736",
+   "@types": ""
+  }
+ ],
+ "tweet": "675571057630187520",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

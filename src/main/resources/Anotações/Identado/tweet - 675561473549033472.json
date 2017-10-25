@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "One thing is certain: #Trump has cinched the votes of all those who fear solar panels will suck up all the energy from the sun.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0070050434650183735",
+  "@URI": "http://dbpedia.org/resource/Solar_panel",
+  "@support": "1233",
+  "@surfaceForm": "solar panels",
+  "@offset": "73",
+  "@similarityScore": "0.984965332092782",
+  "@types": ""
+ }],
+ "tweet": "675561473549033472",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

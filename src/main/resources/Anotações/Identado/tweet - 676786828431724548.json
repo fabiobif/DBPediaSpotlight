@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SLSC: Only two showtimes left to see #TheForceAwakens opening weekend in the OMNIMAX! 6 &amp; 8:30pm on 12/18! Tickets: https://t.co/eSIQk5â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.10089006989080691",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.7466273915875032",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/IMAX",
+   "@support": "1999",
+   "@surfaceForm": "OMNIMAX",
+   "@offset": "81",
+   "@similarityScore": "0.9999999997295959",
+   "@types": ""
+  }
+ ],
+ "tweet": "676786828431724548",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

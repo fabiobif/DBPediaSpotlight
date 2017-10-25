@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Swimming_(sport)
+oa:hasTarget [
+        oa:hasSource 676803035365056512 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 35 ;
+            oa:end 42] ] .

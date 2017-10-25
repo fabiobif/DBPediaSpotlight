@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @merlotmommy: I Attended the Top Secret #StarWars Press Junket #StarWarsEvent  #theforceawakens https://t.co/qtQROAw1tY https://t.co/M65â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.015977416102026045",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9807236407755121",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675193315239809024",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

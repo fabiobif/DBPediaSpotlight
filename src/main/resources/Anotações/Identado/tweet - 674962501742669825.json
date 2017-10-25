@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TheSWU: .@russellcrowe has seen a portion of #StarWars #TheForceAwakens &amp; calls it \"spectacular\": https://t.co/FFHSCxAbd3 https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.07363057413899644",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8939800909190327",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674962501742669825",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

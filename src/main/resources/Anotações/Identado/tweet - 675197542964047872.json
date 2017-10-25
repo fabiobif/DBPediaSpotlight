@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @frncissdominc: If anybody wants to @ me for Christmas, these three will work. #StarWars #TheForceAwakens https://t.co/RJXKSUCIgi",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0327754132527099",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9487710935026508",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.004447932749565501",
+   "@URI": "http://dbpedia.org/resource/Christmas",
+   "@support": "17277",
+   "@surfaceForm": "Christmas",
+   "@offset": "48",
+   "@similarityScore": "0.9952889597365207",
+   "@types": "DBpedia:Holiday"
+  }
+ ],
+ "tweet": "675197542964047872",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

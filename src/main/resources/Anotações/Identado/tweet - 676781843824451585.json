@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @adamfgoldberg: Ranking: 1. Empire Strikes Back. 2. Force Awakens. 3. A New Hope. 4. Return of the Jedi. 5 - 8 Prequels. Thank you JJ. #â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003392661182414099",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.994448525184221",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.8637548830990716E-9",
+   "@URI": "http://dbpedia.org/resource/Jedi",
+   "@support": "2742",
+   "@surfaceForm": "Jedi",
+   "@offset": "102",
+   "@similarityScore": "0.9999999976934077",
+   "@types": ""
+  }
+ ],
+ "tweet": "676781843824451585",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

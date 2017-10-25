@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Hope I don't have one of these moments with #theforceawakens Simpsons  3x12 I Married Marge https://t.co/Wg78k5WV3c via @YouTube",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "8.319199313081088E-8",
+  "@URI": "http://dbpedia.org/resource/YouTube",
+  "@support": "16319",
+  "@surfaceForm": "YouTube",
+  "@offset": "121",
+  "@similarityScore": "0.9999998069049711",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676785600599629824",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

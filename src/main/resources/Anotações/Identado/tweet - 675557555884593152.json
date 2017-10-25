@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @john_dipaolo: @realDonaldTrump @ahernandez85a   And exactly how many Syrian refugees did Saudi Arabia take @Alwaleed_Talal ?  #NoSyrianâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004568226807935042",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9917554086740048",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.040826552332157214",
+   "@URI": "http://dbpedia.org/resource/Syria",
+   "@support": "24148",
+   "@surfaceForm": "Syrian",
+   "@offset": "73",
+   "@similarityScore": "0.9596207163462465",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "5.882911771801712E-4",
+   "@URI": "http://dbpedia.org/resource/Saudi_Arabia",
+   "@support": "14880",
+   "@surfaceForm": "Saudi Arabia",
+   "@offset": "93",
+   "@similarityScore": "0.9994018139582171",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675557555884593152",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

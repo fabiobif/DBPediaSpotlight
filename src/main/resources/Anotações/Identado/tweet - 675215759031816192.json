@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @donnyosmond: https://t.co/VPWyduksZt #DaisyRidley \"I'll Make a Man Out of You\" at @starwars #theforceawakens press conf https://t.co/DLâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02802168701777706",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9655206546119113",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675215759031816192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

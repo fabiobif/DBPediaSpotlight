@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @axlejazzo: @realDonaldTrump @ComatoseJeb I will vot indie if #Trump chooses. I follow #trump2016",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.939869861532928",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Voice_onset_time",
+   "@support": "69",
+   "@surfaceForm": "vot",
+   "@offset": "52",
+   "@similarityScore": "0.9999997868433127",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569754451480577",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

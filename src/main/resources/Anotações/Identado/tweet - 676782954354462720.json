@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @markreihill: I'm going to avoid social media until I see @starwars -the fear of spoilers is too great! #TheForceAwakens #KyloRen https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004936462271067466",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.989166728556887",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0012294288493582693",
+   "@URI": "http://dbpedia.org/resource/Social_media",
+   "@support": "2206",
+   "@surfaceForm": "social media",
+   "@offset": "36",
+   "@similarityScore": "0.9986311618941621",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.06902377078499514",
+   "@URI": "http://dbpedia.org/resource/Spoiler_(media)",
+   "@support": "117",
+   "@surfaceForm": "spoilers",
+   "@offset": "84",
+   "@similarityScore": "0.9168034802014305",
+   "@types": ""
+  }
+ ],
+ "tweet": "676782954354462720",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

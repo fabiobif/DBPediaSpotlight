@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Should we worried about #Trump? @NewYorker https://t.co/Y6iqe23ClZ On #trump and #Muslims -&gt; https://t.co/tDHbT2ukol",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.12929493277588802",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "71",
+   "@similarityScore": "0.8828664950474809",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.035564633245828176",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "82",
+   "@similarityScore": "0.965516666077242",
+   "@types": ""
+  }
+ ],
+ "tweet": "675561284306251776",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

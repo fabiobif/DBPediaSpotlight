@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TrussElise: Conservatives,Dems,independents alike all want #Trump.There is no1 else. #MakeAmericaGreatAgain\" STUMP 4the USA VOTE https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.014025984097654397",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9744118962510805",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.129310994341943E-4",
+   "@URI": "http://dbpedia.org/resource/Conservative_Party_(UK)",
+   "@support": "22839",
+   "@surfaceForm": "Conservatives",
+   "@offset": "16",
+   "@similarityScore": "0.9984259185599892",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "0.013200461349476326",
+   "@URI": "http://dbpedia.org/resource/Defensively_Equipped_Merchant_Ship",
+   "@support": "106",
+   "@surfaceForm": "Dems",
+   "@offset": "30",
+   "@similarityScore": "0.9869632838316038",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.43984920395344E-5",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "124",
+   "@similarityScore": "0.999879770462767",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675556229465292801",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Blu-ray_Disc
+oa:hasTarget [
+        oa:hasSource 675238427441422336 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 77 ;
+            oa:end 84] ] .

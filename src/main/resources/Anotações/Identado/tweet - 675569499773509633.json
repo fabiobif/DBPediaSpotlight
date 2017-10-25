@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "https://t.co/bdC5GRxTuQ STILL think #Trump is #Conservative #Republican or the like?¿  #WakeUpAmerica #tcot #teaparty",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.041624282795644174",
+   "@URI": "http://dbpedia.org/resource/Conservative_Party_(UK)",
+   "@support": "22839",
+   "@surfaceForm": "Conservative",
+   "@offset": "47",
+   "@similarityScore": "0.9146466267025786",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  },
+  {
+   "@percentageOfSecondRank": "4.8784216634696793E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "Republican",
+   "@offset": "61",
+   "@similarityScore": "0.9990439376365252",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675569499773509633",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Bonn1eGreer: \"..embarrassing for even #Nazis to think you're over the top about immigration\" via @FelicityMorse #Trump #hahahaha  httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028101343201494874",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.959682930307386",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.07451742252586337",
+   "@URI": "http://dbpedia.org/resource/Nazism",
+   "@support": "18852",
+   "@surfaceForm": "Nazis",
+   "@offset": "43",
+   "@similarityScore": "0.9192997678679201",
+   "@types": ""
+  }
+ ],
+ "tweet": "675555205568663553",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

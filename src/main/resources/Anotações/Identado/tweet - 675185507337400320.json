@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @comiczeroes: Here's four new character posters for #StarWars: #TheForceAwakens featuring Rey, Finn, Han Solo, Leia &amp; Kylo Ren. https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "6.602520671005088E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9986364284376548",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.15993278653623696",
+   "@URI": "http://dbpedia.org/resource/Finn_(album)",
+   "@support": "219",
+   "@surfaceForm": "Finn",
+   "@offset": "98",
+   "@similarityScore": "0.7898322852163355",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,Schema:MusicAlbum,DBpedia:Album"
+  },
+  {
+   "@percentageOfSecondRank": "3.675180893882451E-7",
+   "@URI": "http://dbpedia.org/resource/Han_Solo",
+   "@support": "545",
+   "@surfaceForm": "Han Solo",
+   "@offset": "104",
+   "@similarityScore": "0.9999996324820692",
+   "@types": ""
+  }
+ ],
+ "tweet": "675185507337400320",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

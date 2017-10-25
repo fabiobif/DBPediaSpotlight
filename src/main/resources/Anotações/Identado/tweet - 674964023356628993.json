@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @weatherchannel: May the warmth be with you! 23 states could see record highs Saturday, how warm it could get on @AMHQ! #StarWars https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014438050560466842",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.973668257625388",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674964023356628993",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

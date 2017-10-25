@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TeamTommy_PH: Good company and good vibes ðŸ˜š #FillYourGalaxywithWonder #NightofWonder#Team4 #MaytheFOURcebewithyou! #starwars #nasâ\u20ac¦ httpâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.027155083070426682",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9616825467446296",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674961652920356864",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

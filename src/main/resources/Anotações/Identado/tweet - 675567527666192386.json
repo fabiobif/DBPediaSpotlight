@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @anissira: Ford tells #Trump his role as US president in a film 'was just a movie' https://t.co/DFHtS8E72r",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.011384023887661666",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.974985270304035",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.01560893075050351",
+   "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+   "@support": "13785",
+   "@surfaceForm": "Ford",
+   "@offset": "14",
+   "@similarityScore": "0.9806229124074655",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675567527666192386",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

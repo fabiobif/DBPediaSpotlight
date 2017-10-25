@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Suns: What happens when you combine @50cent, #StarWars and introductions at an @NBA game? This. https://t.co/FwYpbbnA2x",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.028956322462212407",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9347327929215042",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "6.158573515701216E-4",
+   "@URI": "http://dbpedia.org/resource/National_Basketball_Association",
+   "@support": "22697",
+   "@surfaceForm": "NBA",
+   "@offset": "84",
+   "@similarityScore": "0.9991062616291037",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:SportsLeague,DBpedia:BasketballLeague"
+  }
+ ],
+ "tweet": "675571036537028611",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

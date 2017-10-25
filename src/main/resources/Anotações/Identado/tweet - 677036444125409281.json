@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "On my way to the premiere of #starwarstheforceawakens !! @starwars #sw #selca #selfie #starwarsâ\u20ac¦ https://t.co/8ParRIbhcJ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Self-portrait",
+  "@support": "324",
+  "@surfaceForm": "selfie",
+  "@offset": "79",
+  "@similarityScore": "0.9999996301106764",
+  "@types": ""
+ }],
+ "tweet": "677036444125409281",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

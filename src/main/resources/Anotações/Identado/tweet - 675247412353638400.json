@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "What do you call a Jedi in denial?â\u20ac¦ Obi-Wan Cannot Be https://t.co/ir5DP5OLF9 #ForceAwakens #StarWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.9545810202383143E-5",
+  "@URI": "http://dbpedia.org/resource/Jedi",
+  "@support": "2742",
+  "@surfaceForm": "Jedi",
+  "@offset": "19",
+  "@similarityScore": "0.9999799851034781",
+  "@types": ""
+ }],
+ "tweet": "675247412353638400",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

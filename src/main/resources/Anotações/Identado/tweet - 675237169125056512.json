@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Colton_perryy: The anticipation for star wars is killing me #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.023741893578239102",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9645362168228521",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.9328232768399858E-4",
+   "@URI": "http://dbpedia.org/resource/Star",
+   "@support": "17594",
+   "@surfaceForm": "star",
+   "@offset": "40",
+   "@similarityScore": "0.9996340975631988",
+   "@types": ""
+  }
+ ],
+ "tweet": "675237169125056512",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

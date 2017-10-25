@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @momendeavors: Star Wars #TheForceAwakens will BLOW your mind! A #nospoilers review: https://t.co/5Obc6e36EX #StarWarsEvent https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.04356702529522823",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9450957556948383",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.007964733155208138",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "18",
+   "@similarityScore": "0.9918777202417047",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036706974048256",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JustinSayne722: I'm watching the Star Wars world premiere red carpet special in case you're wondering about my level of geek.  #TheForcâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.020379968252924475",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9687701261713756",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.757796805222987E-5",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "37",
+   "@similarityScore": "0.9999588886928185",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0047667727858639215",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "62",
+   "@similarityScore": "0.9941318005103981",
+   "@types": "DBpedia:Colour"
+  },
+  {
+   "@percentageOfSecondRank": "9.8815109486205E-6",
+   "@URI": "http://dbpedia.org/resource/Geek",
+   "@support": "365",
+   "@surfaceForm": "geek",
+   "@offset": "124",
+   "@similarityScore": "0.9999901133831646",
+   "@types": ""
+  }
+ ],
+ "tweet": "676786542971498496",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

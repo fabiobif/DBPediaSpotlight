@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @GMA: Last night at the @StarWars: #TheForceAwakens premiere, George Lucas and J.J. Abrams embraced. https://t.co/SLh13kc0y0",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.19049841341642942",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.826040707813494",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0018384642386416895",
+   "@URI": "http://dbpedia.org/resource/GMA_Network",
+   "@support": "2205",
+   "@surfaceForm": "GMA",
+   "@offset": "4",
+   "@similarityScore": "0.9974930999273608",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,DBpedia:BroadcastNetwork"
+  },
+  {
+   "@percentageOfSecondRank": "1.6342620272580073E-6",
+   "@URI": "http://dbpedia.org/resource/George_Lucas",
+   "@support": "1290",
+   "@surfaceForm": "George Lucas",
+   "@offset": "65",
+   "@similarityScore": "0.9999983655823995",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "676782849660469248",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

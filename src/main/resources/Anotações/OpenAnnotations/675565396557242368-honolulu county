@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Honolulu_County,_Hawaii
+oa:hasTarget [
+        oa:hasSource 675565396557242368 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 84 ;
+            oa:end 99] ] .

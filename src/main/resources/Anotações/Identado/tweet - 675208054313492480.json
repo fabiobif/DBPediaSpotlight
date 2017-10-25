@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Hermann22: Why am I being this ridiculous with #TheForceAwakens ??? Easy...I've waited essentially my entire life to see the sequel to â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.037632158698895926",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8930576846727669",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675208054313492480",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

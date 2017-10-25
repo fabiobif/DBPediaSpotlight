@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Social_media
+oa:hasTarget [
+        oa:hasSource 676784940114190338 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 19 ;
+            oa:end 31] ] .

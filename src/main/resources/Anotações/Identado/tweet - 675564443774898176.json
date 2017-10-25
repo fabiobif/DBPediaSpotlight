@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @GOPTeens: #Teens: How many #guns has #Obama stolen from YOUR #family?  #Fave for LESS than 100 ðŸ\u201d« #Retweet for MORE than 100 ðŸ\u201d«ðŸ\u201d«",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.01735944336729007",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.969559196694633",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675564443774898176",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @barbarachai: No spoilers, but the audience applauded 14 times. Inside the world premiere of #StarWars: #TheForceAwakens @benfritz httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.010250250522441143",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9810962177632254",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676781614932877312",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

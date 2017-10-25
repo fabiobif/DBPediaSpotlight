@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ChristiChat: â­?ï¸?ï¸?@realDonaldTrump  THIS IS WHAT A LEADER LOOKS LIKE  #TCOT #TRUMP #Trump2016 #TrumpIsRight #MakeAmericaGreatAgain https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02453605951471419",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9569792325227204",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675567967564787713",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

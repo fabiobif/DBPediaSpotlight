@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Star Wars: The Force Awakens (Episode VII) Review https://t.co/Qj7iVGigEj #StarWars #StarWarsEvent #TheForceAwakens https://t.co/BBhiIDoA4l",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.07766418111975851",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "0",
+  "@similarityScore": "0.9277825998328674",
+  "@types": ""
+ }],
+ "tweet": "677036929435570176",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

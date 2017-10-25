@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "omg his, This is good https://t.co/0CEv5BDIaD #StarWarsForceAwakens #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.12551545320050628",
+  "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+  "@support": "235",
+  "@surfaceForm": "omg",
+  "@offset": "0",
+  "@similarityScore": "0.8856562168856135",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+ }],
+ "tweet": "675576909229506560",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

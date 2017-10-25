@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RoyalMailStamps: Celebrate the UK release of The Force Awakens with a #StarWars Special Stamp Sheet. RT &amp; follow by 4pm for your chanceâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013215465097233786",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9734669646696628",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002172534684001169",
+   "@URI": "http://dbpedia.org/resource/United_Kingdom",
+   "@support": "170647",
+   "@surfaceForm": "UK",
+   "@offset": "35",
+   "@similarityScore": "0.9975149298199922",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.013215465097233786",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "105",
+   "@similarityScore": "0.9734669646696628",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "676803868647399424",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Barack_Obama
+oa:hasTarget [
+        oa:hasSource 674869562576396288 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 91 ;
+            oa:end 103] ] .

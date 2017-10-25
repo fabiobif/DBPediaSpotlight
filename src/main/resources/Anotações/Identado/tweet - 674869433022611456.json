@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DanPeroni: Seriously though, if Trump succeeds Obama, it's the equivalent of Sven Goran Erikkson being replaced by someone like I dunnoâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.06348785956478484",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9320481641162597",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674869433022611456",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

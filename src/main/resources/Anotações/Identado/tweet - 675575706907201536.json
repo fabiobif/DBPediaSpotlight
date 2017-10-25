@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @singingbush: Disney Studios Star Wars Launch Bay #StarWars #Christmas2015 @starwars @FLTripGuides @VISITFLORIDA ðŸŽ\u201eðŸŽ\u201eðŸŽ\u2026ðŸŽ\u2026 https://t.co/0GEjQâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.022440589355186755",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9675494569351918",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.005226871495184073",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "17",
+   "@similarityScore": "0.9921132063737299",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.012749434913886451",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "32",
+   "@similarityScore": "0.9864917537778229",
+   "@types": ""
+  }
+ ],
+ "tweet": "675575706907201536",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

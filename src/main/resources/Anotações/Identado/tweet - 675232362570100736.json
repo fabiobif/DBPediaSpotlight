@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Watching the Star Wars trailer over and over again at the cinema. What a time to be alive. Not long now. #theforceawakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "5.536560901662185E-4",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "13",
+  "@similarityScore": "0.9994048705178163",
+  "@types": ""
+ }],
+ "tweet": "675232362570100736",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

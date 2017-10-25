@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Disney stopped all movie theater employees from watching Star Wars: The Force Awakens early https://t.co/1OGS5R8Uap #starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.001675279498490956",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "0",
+   "@similarityScore": "0.9975922322435035",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "7.157646955047985E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "57",
+   "@similarityScore": "0.999212648039234",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803997009743876",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

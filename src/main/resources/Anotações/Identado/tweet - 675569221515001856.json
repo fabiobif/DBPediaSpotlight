@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "UH OH! #Trump is in trouble! #Anonymous Goes After #DonaldTrump | TechCrunch https://t.co/bfq5QF6WO2 https://t.co/HkHqJxkGVH",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.003092062839210121",
+   "@URI": "http://dbpedia.org/resource/Ohio",
+   "@support": "47628",
+   "@surfaceForm": "OH",
+   "@offset": "3",
+   "@similarityScore": "0.9944978774613498",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "0.0014673138755286713",
+   "@URI": "http://dbpedia.org/resource/Anonymous_(group)",
+   "@support": "940",
+   "@surfaceForm": "Anonymous",
+   "@offset": "30",
+   "@similarityScore": "0.9966765341923711",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/TechCrunch",
+   "@support": "568",
+   "@surfaceForm": "TechCrunch",
+   "@offset": "66",
+   "@similarityScore": "0.9999999658618327",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:WebPage,DBpedia:Website"
+  }
+ ],
+ "tweet": "675569221515001856",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

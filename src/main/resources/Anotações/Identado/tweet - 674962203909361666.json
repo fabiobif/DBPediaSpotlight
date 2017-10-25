@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MarshallJulius: You know Dasher and Lumpy and Itchy and Malla. But do you recall the most famous wookiee of all? #StarWars https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.93989625484375",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.469087478866922E-6",
+   "@URI": "http://dbpedia.org/resource/Chewbacca",
+   "@support": "467",
+   "@surfaceForm": "Malla",
+   "@offset": "60",
+   "@similarityScore": "0.9999929399791332",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Wookiee",
+   "@support": "152",
+   "@surfaceForm": "wookiee",
+   "@offset": "101",
+   "@similarityScore": "0.9999997275400376",
+   "@types": ""
+  }
+ ],
+ "tweet": "674962203909361666",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

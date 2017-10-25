@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @opener_festival: December 16th â\u20ac\u201c Awakens! Announcement! Last visit in @RadiowaTrojka this year. Wed,7PM. #opener2016 #TheForceAwakens hâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.13994648734373522",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.8437886498505845",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676783497206452224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

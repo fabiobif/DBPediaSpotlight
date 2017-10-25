@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@utrcenter You under estimate the power of the dark side. #TheForceAwakens @trutherbotgray #TrutherbotArmy #botsec Pls RT #t4a #CulZ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.07446617883788757",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "119",
+   "@similarityScore": "0.8985179594749202",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Suzuki_LC10_engine",
+   "@support": "42",
+   "@surfaceForm": "t4a",
+   "@offset": "123",
+   "@similarityScore": "0.9999999645428097",
+   "@types": ""
+  }
+ ],
+ "tweet": "675221921462681601",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

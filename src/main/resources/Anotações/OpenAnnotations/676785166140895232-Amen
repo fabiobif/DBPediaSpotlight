@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Amen
+oa:hasTarget [
+        oa:hasSource 676785166140895232 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 0 ;
+            oa:end 4] ] .

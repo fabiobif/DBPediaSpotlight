@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @GettyVIP: The boys are back in town. #StarWars #TheForceAwakens https://t.co/maFv2ekGMG https://t.co/9prIJI6Mox",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.04103547578451662",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9270652978856447",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676787106442645504",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

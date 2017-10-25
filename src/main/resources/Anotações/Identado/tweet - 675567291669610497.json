@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "FOLLOW RT #TRUMPSUPPORTER @TrussElise GO TRUMP! #Trump2016 #TrumpTrain #SCTeamTrump #MakeAmericaGreatAgain #Trump  https://t.co/N4vNLtthyr",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.035069912916232494",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "7",
+  "@similarityScore": "0.9400093252358275",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675567291669610497",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

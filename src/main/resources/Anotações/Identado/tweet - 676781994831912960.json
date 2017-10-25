@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "ðŸ\u201c· .@MatthewDaddario at #StarWars #TheForceAwakens premiere Part 1 #Shadowhunters Photo : Getty Images https://t.co/LVLghZyOnr",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Getty_Images",
+  "@support": "223",
+  "@surfaceForm": "Getty Images",
+  "@offset": "92",
+  "@similarityScore": "1.0",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676781994831912960",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

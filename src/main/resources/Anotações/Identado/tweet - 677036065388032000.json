@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @nerdist: We're home! Enjoy our SPOILER-FREE review of #StarWars #TheForceAwakens: https://t.co/M59cOcOmud #NerdistAwakens https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03858260251214071",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9452871434758643",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.020833120440957E-4",
+   "@URI": "http://dbpedia.org/resource/Nerdist_Industries",
+   "@support": "116",
+   "@surfaceForm": "nerdist",
+   "@offset": "4",
+   "@similarityScore": "0.9994980898032588",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036065388032000",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

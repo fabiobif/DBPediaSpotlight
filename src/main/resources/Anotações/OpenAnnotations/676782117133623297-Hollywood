@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Hollywood
+oa:hasTarget [
+        oa:hasSource 676782117133623297 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 50 ;
+            oa:end 59] ] .

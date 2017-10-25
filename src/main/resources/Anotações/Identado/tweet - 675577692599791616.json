@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT RT TheNerdFu: Enter, you will.  WIN, you might! Check out our #StarWars Giveaway!! https://t.co/WwB75v20Zu https://t.co/tbxZE4yB7w",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.05744543890676411",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.922976946783667",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.05744543890676411",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "3",
+   "@similarityScore": "0.9229722694555554",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02190742184400622",
+   "@URI": "http://dbpedia.org/resource/WIN_Television",
+   "@support": "278",
+   "@surfaceForm": "WIN",
+   "@offset": "35",
+   "@similarityScore": "0.9412512469641222",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675577692599791616",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

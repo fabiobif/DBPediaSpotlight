@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Magical_Mystery_Tour_(film)
+oa:hasTarget [
+        oa:hasSource 677036487217569792 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 36 ;
+            oa:end 56] ] .

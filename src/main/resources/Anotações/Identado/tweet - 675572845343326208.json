@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ClassicStarWars: #StarWars Kenner #Landspeeder die-cast vehicle carded https://t.co/14TmLOydgj",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.3851924398499304",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.6900472541310845",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0036198844611815026",
+   "@URI": "http://dbpedia.org/resource/Kenner_Products",
+   "@support": "360",
+   "@surfaceForm": "Kenner",
+   "@offset": "31",
+   "@similarityScore": "0.9963908727930693",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Landspeeder",
+   "@support": "24",
+   "@surfaceForm": "Landspeeder",
+   "@offset": "39",
+   "@similarityScore": "0.9999999846046422",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.11425023577572517",
+   "@URI": "http://dbpedia.org/resource/Die-cast_toy",
+   "@support": "212",
+   "@surfaceForm": "die-cast",
+   "@offset": "51",
+   "@similarityScore": "0.8943820935381551",
+   "@types": ""
+  }
+ ],
+ "tweet": "675572845343326208",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

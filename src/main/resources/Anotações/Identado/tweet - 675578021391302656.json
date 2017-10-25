@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @wessmith123: #Trump's Lucky He Was Born Rich -Or He'd Be Living In A Cardboard Box. #Muslim #morningjoe #UniteBlue #TNTweeters â¤µï¸? httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.01051472581031039",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9793584742127447",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.04258421920119407",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "89",
+   "@similarityScore": "0.9587464924403793",
+   "@types": ""
+  }
+ ],
+ "tweet": "675578021391302656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Prisoner_of_war
+oa:hasTarget [
+        oa:hasSource 674869445966225408 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 74 ;
+            oa:end 77] ] .

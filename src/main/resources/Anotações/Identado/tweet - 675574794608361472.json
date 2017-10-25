@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "You can hardly #trump the real motherfucker.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.17795024727554262",
+   "@URI": "http://dbpedia.org/resource/Trump",
+   "@support": "542",
+   "@surfaceForm": "trump",
+   "@offset": "16",
+   "@similarityScore": "0.8465039470794812",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Motherfucker",
+   "@support": "76",
+   "@surfaceForm": "motherfucker",
+   "@offset": "31",
+   "@similarityScore": "0.9999998800824771",
+   "@types": ""
+  }
+ ],
+ "tweet": "675574794608361472",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

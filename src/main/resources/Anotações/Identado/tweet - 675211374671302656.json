@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @sweatynerdnews: There is a significant spoiler doing the rounds regarding #TheForceAwakens, I decided not to run a story on it. We are â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.02361669262500274",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9579984289926211",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675211374671302656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

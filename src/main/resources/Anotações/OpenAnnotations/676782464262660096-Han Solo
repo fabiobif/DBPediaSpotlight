@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Han_Solo
+oa:hasTarget [
+        oa:hasSource 676782464262660096 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 22 ;
+            oa:end 30] ] .

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @comingsoonnet: Check out #HotToys' #Rey and #BB8 figures from #StarWars #TheForceAwakens! https://t.co/eWhDtU6ADw https://t.co/DJufGZdcâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.023243456381559925",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9592866215575965",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675571720216952832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

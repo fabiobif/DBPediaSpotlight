@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Lego #starwars @ Times Square, Hong Kong https://t.co/08SK9fyF4w",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0044826752340588576",
+   "@URI": "http://dbpedia.org/resource/Lego",
+   "@support": "2597",
+   "@surfaceForm": "Lego",
+   "@offset": "0",
+   "@similarityScore": "0.9948586987568767",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.39285939756519456",
+   "@URI": "http://dbpedia.org/resource/Times_Square_(Hong_Kong)",
+   "@support": "29",
+   "@surfaceForm": "Times Square",
+   "@offset": "17",
+   "@similarityScore": "0.7166834189357191",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building,Schema:ShoppingCenter,DBpedia:ShoppingMall"
+  },
+  {
+   "@percentageOfSecondRank": "9.525944967166216E-4",
+   "@URI": "http://dbpedia.org/resource/Hong_Kong",
+   "@support": "51972",
+   "@surfaceForm": "Hong Kong",
+   "@offset": "31",
+   "@similarityScore": "0.9971828114486883",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675577464836390912",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

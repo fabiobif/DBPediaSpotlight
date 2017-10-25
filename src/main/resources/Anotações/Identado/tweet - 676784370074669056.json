@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "ONE MORE NIGHT TO GO #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.3141213881902837",
+  "@URI": "http://dbpedia.org/resource/One_More_Night_(Maroon_5_song)",
+  "@support": "41",
+  "@surfaceForm": "ONE MORE NIGHT",
+  "@offset": "0",
+  "@similarityScore": "0.7165255273230806",
+  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:MusicalWork,DBpedia:Single"
+ }],
+ "tweet": "676784370074669056",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

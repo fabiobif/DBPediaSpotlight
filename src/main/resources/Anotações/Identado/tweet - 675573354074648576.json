@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Backstage: Watch 19-year-old @carrieffisher audition for #StarWars! https://t.co/BOd7b7zazA https://t.co/APXEPqL2tQ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.017531569301972943",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9688704737210065",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675573354074648576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

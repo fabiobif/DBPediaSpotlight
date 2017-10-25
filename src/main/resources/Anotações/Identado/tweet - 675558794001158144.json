@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Greg389: Officers claim Donald #Trump is RIGHT about policing in London https://t.co/AhbQdwxfxA     @realDonaldTrump #sun7 #amagenda #aâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.019193048690897517",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9770545785278583",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.5598667795032774E-4",
+   "@URI": "http://dbpedia.org/resource/London",
+   "@support": "158140",
+   "@surfaceForm": "London",
+   "@offset": "69",
+   "@similarityScore": "0.9992042851986538",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  }
+ ],
+ "tweet": "675558794001158144",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

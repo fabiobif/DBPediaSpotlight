@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @newyorkolizer: #President #Obama welcomes Syrian #scientist refugee featured on 'Humans of #NewYork'  https://t.co/rTfgMMJUfu https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.8961580898743023E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9995964639358683",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.062040675671743414",
+   "@URI": "http://dbpedia.org/resource/Syria",
+   "@support": "24148",
+   "@surfaceForm": "Syrian",
+   "@offset": "46",
+   "@similarityScore": "0.9403723206146584",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675294026380242944",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

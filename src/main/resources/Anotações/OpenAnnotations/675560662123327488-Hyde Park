@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Hyde_Park,_London
+oa:hasTarget [
+        oa:hasSource 675560662123327488 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 78 ;
+            oa:end 87] ] .

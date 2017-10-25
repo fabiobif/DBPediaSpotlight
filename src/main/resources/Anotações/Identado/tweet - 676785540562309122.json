@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Chewbacca. Who's Yours? https://t.co/wzPVtvl6aR #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.817208558620445E-5",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.9999544386622743",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Chewbacca",
+   "@support": "467",
+   "@surfaceForm": "Chewbacca",
+   "@offset": "22",
+   "@similarityScore": "0.9999999842122521",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785540562309122",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

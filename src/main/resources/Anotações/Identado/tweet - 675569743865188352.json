@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @RT_com: Muhammad #Ali takes swing at #Trump, calls #ISIS â\u20ac˜misguided murderersâ\u20ac™  https://t.co/rnyDdUGMfC https://t.co/ciDNIYjChE",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.026252067116424554",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9492847663737932",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.060604063991659E-5",
+   "@URI": "http://dbpedia.org/resource/Muhammad",
+   "@support": "16121",
+   "@surfaceForm": "Muhammad",
+   "@offset": "12",
+   "@similarityScore": "0.9999862782062343",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.5992938588089065",
+   "@URI": "http://dbpedia.org/resource/Isis_(band)",
+   "@support": "380",
+   "@surfaceForm": "ISIS",
+   "@offset": "56",
+   "@similarityScore": "0.5723070892337163",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  }
+ ],
+ "tweet": "675569743865188352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

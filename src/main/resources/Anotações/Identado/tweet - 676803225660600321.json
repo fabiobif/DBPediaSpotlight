@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @WWEGraves: I'm not supposed to tell you this, but the new #StarWars ends with Jar Jar Binks winning everything.   #spoileralert",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.06274092268093431",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9137139843062375",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803225660600321",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

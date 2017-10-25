@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @bueti: Jennifer Rubin inching towards Republican self-criticism under pressure by #Trump phenomenon: 6 things weâ\u20ac™ve learned https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.04769836570455581",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9085774215756042",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.3488750018876002E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "Republican",
+   "@offset": "42",
+   "@similarityScore": "0.9996682198741385",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675575150704726017",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

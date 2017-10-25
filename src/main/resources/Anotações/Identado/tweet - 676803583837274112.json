@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "A little advice for websites. I for one will boycott all #news sites the even say #StarWars until I watch it. And no reddit. #NoSpoilers",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Reddit",
+  "@support": "571",
+  "@surfaceForm": "reddit",
+  "@offset": "117",
+  "@similarityScore": "0.9999999999241425",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "676803583837274112",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

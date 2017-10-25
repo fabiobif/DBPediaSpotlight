@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Padme Amidala. Who's Yours? https://t.co/fhyAQ0hwjJ #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "9.909604383804137E-7",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.9999988171595536",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Padmé_Amidala",
+   "@support": "196",
+   "@surfaceForm": "Padme Amidala",
+   "@offset": "22",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676780700717162496",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

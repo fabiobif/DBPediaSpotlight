@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @owillis: \"Effective immediately, this executive order demands the death penalty for the release of #TheForceAwakens spoilers\" https://tâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.008277335068568294",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9833128293908394",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0024149561579612975",
+   "@URI": "http://dbpedia.org/resource/Executive_order",
+   "@support": "1012",
+   "@surfaceForm": "executive order",
+   "@offset": "42",
+   "@similarityScore": "0.997324705101942",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.001865953144198773",
+   "@URI": "http://dbpedia.org/resource/Capital_punishment",
+   "@support": "8828",
+   "@surfaceForm": "death penalty",
+   "@offset": "70",
+   "@similarityScore": "0.9970552497141744",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.7168521522314625",
+   "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
+   "@support": "248",
+   "@surfaceForm": "spoilers",
+   "@offset": "120",
+   "@similarityScore": "0.5502987614948437",
+   "@types": ""
+  }
+ ],
+ "tweet": "676780920473391108",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

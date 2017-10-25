@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Rove: Wore my choker tonight. @starwars #TheForceAwakens https://t.co/dABxaspnwZ",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9392624866735744",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.2913204863326715E-4",
+   "@URI": "http://dbpedia.org/resource/Rove_(TV_series)",
+   "@support": "291",
+   "@surfaceForm": "Rove",
+   "@offset": "4",
+   "@similarityScore": "0.9997275888033134",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:TelevisionShow"
+  }
+ ],
+ "tweet": "677036096572678144",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

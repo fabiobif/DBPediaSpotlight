@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Wutevuh: #IvankaTrump Interview @CNN;#Trump Daughter talks about her father, Watch here â\u2013¶ï¸?https://t.co/5a3BOIdyKU @gqforbes https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "5.8985609128570316E-6",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9999892062158325",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "1.563625525201987E-4",
+   "@URI": "http://dbpedia.org/resource/CNN",
+   "@support": "8267",
+   "@surfaceForm": "CNN",
+   "@offset": "37",
+   "@similarityScore": "0.9998432404426524",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "675554735479324672",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

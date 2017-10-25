@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Ford tells #Trump his role as US president in a film 'was just a movie' https://t.co/DFHtS8E72r",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.019069338788459674",
+  "@URI": "http://dbpedia.org/resource/Ford_Motor_Company",
+  "@support": "13785",
+  "@surfaceForm": "Ford",
+  "@offset": "0",
+  "@similarityScore": "0.9764283848053054",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+ }],
+ "tweet": "675567395285635072",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

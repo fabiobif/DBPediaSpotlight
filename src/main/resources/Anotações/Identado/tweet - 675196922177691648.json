@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @DaisyRidleyNews: A few new shots from #TheForceAwakens with #DaisyRidley https://t.co/30zqj0WCsU",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.028110334914088514",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9512350319296218",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675196922177691648",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

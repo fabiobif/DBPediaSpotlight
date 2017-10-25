@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @brixtonbuzz: #TheForceAwakens with a free #StarWars party &amp; 2 midnight screenings at #Brixtonâ\u20ac™s @RitzyCinema on Wednesday night https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.030536757566790636",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9582585654692742",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676786765420711936",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

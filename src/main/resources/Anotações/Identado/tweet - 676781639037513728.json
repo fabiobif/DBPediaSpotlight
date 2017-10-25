@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ShadowhuntersTV: OMG the #Shadowhunters cast looks amazing at the @StarWars: #TheForceAwakens red carpet premiere! https://t.co/Vg7auQjâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02803102461729549",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9558978791369634",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.002339629239640604",
+   "@URI": "http://dbpedia.org/resource/Object_Management_Group",
+   "@support": "235",
+   "@surfaceForm": "OMG",
+   "@offset": "21",
+   "@similarityScore": "0.9975636314509343",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation"
+  },
+  {
+   "@percentageOfSecondRank": "0.012200183847456431",
+   "@URI": "http://dbpedia.org/resource/Red",
+   "@support": "3081",
+   "@surfaceForm": "red",
+   "@offset": "98",
+   "@similarityScore": "0.986095304220308",
+   "@types": "DBpedia:Colour"
+  }
+ ],
+ "tweet": "676781639037513728",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)
+oa:hasTarget [
+        oa:hasSource 675567627922575360 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 26 ;
+            oa:end 35] ] .

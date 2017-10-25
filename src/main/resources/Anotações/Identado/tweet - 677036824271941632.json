@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Abu Dhabi feels the force... #StarWars #Aldar https://t.co/KhNhGnlXJd",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.07303707157069561",
+   "@URI": "http://dbpedia.org/resource/Abu_Dhabi",
+   "@support": "3247",
+   "@surfaceForm": "Abu Dhabi",
+   "@offset": "0",
+   "@similarityScore": "0.9297995285832495",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,Schema:City,DBpedia:City"
+  },
+  {
+   "@percentageOfSecondRank": "0.003623073821809682",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "20",
+   "@similarityScore": "0.9919914897257133",
+   "@types": ""
+  }
+ ],
+ "tweet": "677036824271941632",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

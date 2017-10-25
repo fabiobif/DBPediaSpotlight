@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Variety_(magazine)
+oa:hasTarget [
+        oa:hasSource 676803421815508993 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 4 ;
+            oa:end 11] ] .

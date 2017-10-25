@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Here you go @john_boyega. These pics always look better with the lightsaber glowing ðŸ\u2018?ðŸ?» #StarWars #TheForceAwakens #â\u20ac¦ https://t.co/KWS8YJ6dvR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Lightsaber",
+  "@support": "584",
+  "@surfaceForm": "lightsaber",
+  "@offset": "65",
+  "@similarityScore": "0.9999999918096592",
+  "@types": ""
+ }],
+ "tweet": "675213231309352960",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

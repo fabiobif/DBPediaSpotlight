@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Don't forget students: cheer on the #Trump university football team in the Fraud Bowl! Tickets are surprisingly expensive #Trump2016 #GOP",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.6772131682903214",
+   "@URI": "http://dbpedia.org/resource/American_football",
+   "@support": "48625",
+   "@surfaceForm": "football",
+   "@offset": "54",
+   "@similarityScore": "0.5765657991166878",
+   "@types": "DBpedia:Activity,DBpedia:Sport"
+  },
+  {
+   "@percentageOfSecondRank": "4.746681199279613E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "134",
+   "@similarityScore": "0.9993625940290121",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675558818319831040",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

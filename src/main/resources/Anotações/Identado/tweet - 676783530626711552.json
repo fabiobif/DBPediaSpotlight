@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Forbes: Will #TheForceAwakens have a record-breaking opening weekend? @ScottMendelson's prediction: https://t.co/eZo4oXCvfV https://t.câ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.024073176850197577",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9505172622496952",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.3837910424470913E-4",
+   "@URI": "http://dbpedia.org/resource/Forbes",
+   "@support": "4996",
+   "@surfaceForm": "Forbes",
+   "@offset": "4",
+   "@similarityScore": "0.9996118352754423",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+  }
+ ],
+ "tweet": "676783530626711552",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

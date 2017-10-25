@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StewartGardiner: This time next week I will be awake. Force awake. Less than a week to @starwars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014504501094681882",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.976323714062994",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675232427418263552",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

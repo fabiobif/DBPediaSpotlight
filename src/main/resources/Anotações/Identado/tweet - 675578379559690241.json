@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "There's been at least 5 hate crimes against Muslims since those #Trump comments 2 vandalism and 3 assaults and I believe there were more.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "8.189967354142056E-5",
+   "@URI": "http://dbpedia.org/resource/Hate_crime",
+   "@support": "828",
+   "@surfaceForm": "hate crimes",
+   "@offset": "24",
+   "@similarityScore": "0.999899418527679",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.015360233074189662",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "44",
+   "@similarityScore": "0.9846815129589577",
+   "@types": ""
+  }
+ ],
+ "tweet": "675578379559690241",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

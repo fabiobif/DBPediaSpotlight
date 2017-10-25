@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Margn222: I get so sick of people proselytizing on American Values when they are speaking against them. #Bush, #Clinton, #Obama.  Cluelâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0012177883913200517",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9977715809699793",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0021606079208924306",
+   "@URI": "http://dbpedia.org/resource/Proselytism",
+   "@support": "499",
+   "@surfaceForm": "proselytizing",
+   "@offset": "38",
+   "@similarityScore": "0.9967485380138162",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0022068972304702832",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "American",
+   "@offset": "55",
+   "@similarityScore": "0.9974391279585249",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  }
+ ],
+ "tweet": "675573544777031680",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

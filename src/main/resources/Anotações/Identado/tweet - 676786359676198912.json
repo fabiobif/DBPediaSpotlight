@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @arminvanbuuren: May Embrace be with you #StarWars #TheForceAwakens #Embrace https://t.co/RAgf97xygr",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.035069912916232494",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9398089280757526",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.15312110258864517",
+   "@URI": "http://dbpedia.org/resource/Embrace_(English_band)",
+   "@support": "143",
+   "@surfaceForm": "Embrace",
+   "@offset": "24",
+   "@similarityScore": "0.766561142381006",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  },
+  {
+   "@percentageOfSecondRank": "0.15312110258864517",
+   "@URI": "http://dbpedia.org/resource/Embrace_(English_band)",
+   "@support": "143",
+   "@surfaceForm": "Embrace",
+   "@offset": "72",
+   "@similarityScore": "0.766561142381006",
+   "@types": "Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band"
+  }
+ ],
+ "tweet": "676786359676198912",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

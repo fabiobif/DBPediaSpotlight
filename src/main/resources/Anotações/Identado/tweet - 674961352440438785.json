@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Someone at work 3D printed me a Stormtrooper Buddha. #so happy #starwars https://t.co/5G1CsRqRuP",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.1684537111866955E-8",
+   "@URI": "http://dbpedia.org/resource/3D_printing",
+   "@support": "417",
+   "@surfaceForm": "3D printed",
+   "@offset": "16",
+   "@similarityScore": "0.9999999883090426",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.016842197307013532",
+   "@URI": "http://dbpedia.org/resource/Gautama_Buddha",
+   "@support": "8618",
+   "@surfaceForm": "Buddha",
+   "@offset": "45",
+   "@similarityScore": "0.9823256264537583",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "674961352440438785",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

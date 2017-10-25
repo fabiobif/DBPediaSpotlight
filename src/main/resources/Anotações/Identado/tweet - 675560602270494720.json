@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Barack Obama gives federal employees part of Christmas Eve off - 6 On Your Side https://t.co/JsvQznLpSG #Obama",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.0636345412494072E-4",
+   "@URI": "http://dbpedia.org/resource/Barack_Obama",
+   "@support": "14695",
+   "@surfaceForm": "Barack Obama",
+   "@offset": "0",
+   "@similarityScore": "0.9998237191853186",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  },
+  {
+   "@percentageOfSecondRank": "0.029097552098517578",
+   "@URI": "http://dbpedia.org/resource/Federal_government_of_the_United_States",
+   "@support": "7839",
+   "@surfaceForm": "federal",
+   "@offset": "19",
+   "@similarityScore": "0.9578759905455643",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.03132551370513774",
+   "@URI": "http://dbpedia.org/resource/Christmas_Eve",
+   "@support": "1617",
+   "@surfaceForm": "Christmas Eve",
+   "@offset": "45",
+   "@similarityScore": "0.9695137969386965",
+   "@types": "DBpedia:Holiday"
+  }
+ ],
+ "tweet": "675560602270494720",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "NewsinPix https://t.co/84Dn8gOmZe us. #education #Obama #politics #Children #USATODAY #goodtimes https://t.co/Wo6bYodniG",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/USA_Today",
+  "@support": "5000",
+  "@surfaceForm": "USATODAY",
+  "@offset": "77",
+  "@similarityScore": "0.9999267096674364",
+  "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper"
+ }],
+ "tweet": "675295357505376257",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

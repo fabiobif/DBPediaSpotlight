@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+oa:hasTarget [
+        oa:hasSource 675566439022075904 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 68 ;
+            oa:end 75] ] .

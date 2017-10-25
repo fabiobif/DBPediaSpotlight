@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "News From Around The World: Video: US first lady Michelle Obama sings rap song about going to college #Obama... https://t.co/M4OIPpwkjA",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Michelle_Obama",
+   "@support": "645",
+   "@surfaceForm": "Michelle Obama",
+   "@offset": "49",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:OfficeHolder"
+  },
+  {
+   "@percentageOfSecondRank": "0.6705614980224477",
+   "@URI": "http://dbpedia.org/resource/Rapping",
+   "@support": "7924",
+   "@surfaceForm": "rap",
+   "@offset": "70",
+   "@similarityScore": "0.5964976372199414",
+   "@types": ""
+  }
+ ],
+ "tweet": "675564737485250561",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

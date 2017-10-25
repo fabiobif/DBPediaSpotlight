@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @dumpmrtrump: Dopey #Trump had to borrow Daddy's money to start a business. Couldn't do it on his own - #losers #truth #operationdumptruâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.011685695488375268",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9801857403236052",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675555991392550913",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

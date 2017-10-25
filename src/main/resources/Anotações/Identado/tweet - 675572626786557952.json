@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@renaisscience #Kennedy made a statement and short after that he was shot! So is #Trump doing at the moment about Muslims and #refugees!",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0046531858915723",
+  "@URI": "http://dbpedia.org/resource/Muslim",
+  "@support": "31672",
+  "@surfaceForm": "Muslims",
+  "@offset": "114",
+  "@similarityScore": "0.9952853619606454",
+  "@types": ""
+ }],
+ "tweet": "675572626786557952",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

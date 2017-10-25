@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT Get a $100 Fandango #StarWars Card On Us (Offer Ends 12/18) - See Star Wars #TheForceAwakens Movie Early. https://t.co/ch5aDLRbYv dangeâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.08643181202010508",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9026864608132512",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.08434159119547095",
+   "@URI": "http://dbpedia.org/resource/Fandango_(ticket_service)",
+   "@support": "59",
+   "@surfaceForm": "Fandango",
+   "@offset": "14",
+   "@similarityScore": "0.875252825557727",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "5.195326617595162E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "69",
+   "@similarityScore": "0.9988498175700052",
+   "@types": ""
+  }
+ ],
+ "tweet": "675188773341274116",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

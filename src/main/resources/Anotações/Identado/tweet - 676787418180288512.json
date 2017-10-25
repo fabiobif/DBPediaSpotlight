@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @emmajshipley: Fine selection of #StarWars Christmas gifts on @AttitudeMag #FeeltheForce #TheForceAwakens https://t.co/bnlmh7glH8 https:â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0242492462101669",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9657147288298847",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0023711900586657455",
+   "@URI": "http://dbpedia.org/resource/Christmas",
+   "@support": "17277",
+   "@surfaceForm": "Christmas",
+   "@offset": "46",
+   "@similarityScore": "0.9975560289343904",
+   "@types": "DBpedia:Holiday"
+  }
+ ],
+ "tweet": "676787418180288512",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@POTUS #Obama #Democrats ignore what most #Americans fear not #climatechange but #terrorism #economy. #Democrats out of touch #WakeUpAmerica",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.8970349304805112E-5",
+   "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+   "@support": "33769",
+   "@surfaceForm": "POTUS",
+   "@offset": "1",
+   "@similarityScore": "0.9999807742481913",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.1517579276689184",
+   "@URI": "http://dbpedia.org/resource/Terrorism",
+   "@support": "6828",
+   "@surfaceForm": "terrorism",
+   "@offset": "82",
+   "@similarityScore": "0.8671467389395551",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569526860189696",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

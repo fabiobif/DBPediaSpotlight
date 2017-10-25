@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @SatiraTribune: Whistleblower: â\u20acœTrump Paying Off Pollsters To Show Him Leadingâ\u20ac? #Trump #poll https://t.co/7UldiYEWLx https://t.co/EY0GAWâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.003845775489836372",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9930190425601898",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675563284993548288",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

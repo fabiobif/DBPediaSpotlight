@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/List_of_Star_Wars_characters
+oa:hasTarget [
+        oa:hasSource 676803956626984961 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 57 ;
+            oa:end 67] ] .

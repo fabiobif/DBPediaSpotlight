@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @khaleejtimes: 57% in US opposed #Trump's proposal to ban Muslims https://t.co/bbgGidFEMM",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.013441450241864333",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9657280720669349",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.017837624772225218",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "61",
+   "@similarityScore": "0.9822508536958025",
+   "@types": ""
+  }
+ ],
+ "tweet": "675248938673430529",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

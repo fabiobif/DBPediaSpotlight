@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Cutter_(boat)
+oa:hasTarget [
+        oa:hasSource 676804054153076736 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 17 ;
+            oa:end 23] ] .

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Desperate @GOP Establishment Prepares Brokered Convention Strategy to Stop #Trump with #Romney the Nomineeâ\u20ac¦ https://t.co/z1CJPHAfBM",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "8.538465033777389E-5",
+  "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "@support": "60935",
+  "@surfaceForm": "GOP",
+  "@offset": "11",
+  "@similarityScore": "0.9997342065318774",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+ }],
+ "tweet": "675571089104175104",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

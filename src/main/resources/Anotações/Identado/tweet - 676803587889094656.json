@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "- a long time ago, in a galaxy far away... STAR #SNOOPY COLORFORMS!  #starwars #peanuts  #starjaws @ImagesDegrading https://t.co/rkuijU34Fi",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "7.62721440730629E-5",
+   "@URI": "http://dbpedia.org/resource/Snoopy",
+   "@support": "1046",
+   "@surfaceForm": "SNOOPY",
+   "@offset": "49",
+   "@similarityScore": "0.9999237051907109",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter"
+  },
+  {
+   "@percentageOfSecondRank": "2.1678644528084476E-5",
+   "@URI": "http://dbpedia.org/resource/Peanuts",
+   "@support": "1055",
+   "@surfaceForm": "peanuts",
+   "@offset": "80",
+   "@similarityScore": "0.9999783062778338",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803587889094656",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

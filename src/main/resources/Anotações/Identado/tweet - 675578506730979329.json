@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Hey, folks. #TedCruz is way more dangerous than #Trump. Less of a clown, way more slimy and way more dangerous. #FeeltheBern #p2 #uniteblue",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "1.1356521867615673E-4",
+  "@URI": "http://dbpedia.org/resource/Clown",
+  "@support": "1058",
+  "@surfaceForm": "clown",
+  "@offset": "66",
+  "@similarityScore": "0.999633667926668",
+  "@types": ""
+ }],
+ "tweet": "675578506730979329",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

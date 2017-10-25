@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @blackfilm: .@JohnBoyega &amp; @Lupita_Nyongo looked great at World Premiere Of #StarWars #TheForceAwakens - https://t.co/VBC0ubBxSe https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.007351566603701518",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9863195295539071",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676785386807361537",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

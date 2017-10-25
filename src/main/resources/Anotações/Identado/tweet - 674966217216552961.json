@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @StarWarsEvents: The Wildest (and Most Wildly Inaccurate) Rumors About 'Star Wars: The Phantom Menace' - https://t.co/Xt37UdhfYV via @Yaâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03960053712400895",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9423770720039506",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Star_Wars_Episode_I:_The_Phantom_Menace",
+   "@support": "110",
+   "@surfaceForm": "Star Wars: The Phantom Menace",
+   "@offset": "75",
+   "@similarityScore": "1.0",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+  }
+ ],
+ "tweet": "674966217216552961",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

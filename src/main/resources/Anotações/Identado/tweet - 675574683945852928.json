@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "https://t.co/hVXH19zJAU Star Wars Han Solo Fridge #StarWars #HanSolo #MiniFridge #ForSale #eBay https://t.co/YEjuXJMheT",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.020760579562587613",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "24",
+   "@similarityScore": "0.9792996358892189",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.02758088253161529",
+   "@URI": "http://dbpedia.org/resource/Han_Solo",
+   "@support": "545",
+   "@surfaceForm": "Han Solo",
+   "@offset": "34",
+   "@similarityScore": "0.973159404764374",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/EBay",
+   "@support": "3123",
+   "@surfaceForm": "eBay",
+   "@offset": "91",
+   "@similarityScore": "0.9997918661124245",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  }
+ ],
+ "tweet": "675574683945852928",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

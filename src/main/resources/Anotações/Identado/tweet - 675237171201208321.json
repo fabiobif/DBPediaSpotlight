@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Just here.. patiently waiting... #starwars #theforceawakens #theforce #nextfriday #december18thâ\u20ac¦ https://t.co/kHubdYEicI",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.004995053278003086",
+  "@URI": "http://dbpedia.org/resource/Waiting..._(film)",
+  "@support": "39",
+  "@surfaceForm": "waiting...",
+  "@offset": "22",
+  "@similarityScore": "0.9920934201779003",
+  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+ }],
+ "tweet": "675237171201208321",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

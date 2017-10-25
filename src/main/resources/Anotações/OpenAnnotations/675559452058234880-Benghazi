@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Benghazi
+oa:hasTarget [
+        oa:hasSource 675559452058234880 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 14 ;
+            oa:end 22] ] .

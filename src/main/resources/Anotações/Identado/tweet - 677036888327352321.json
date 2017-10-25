@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Twitter, for understandable reasons, see you in several days. In case of need, contact me by text, Whatsapp...  #StarWars @starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Twitter",
+   "@support": "10159",
+   "@surfaceForm": "Twitter",
+   "@offset": "0",
+   "@similarityScore": "0.9999999992641051",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/WhatsApp",
+   "@support": "43",
+   "@surfaceForm": "Whatsapp",
+   "@offset": "99",
+   "@similarityScore": "0.9999999998314593",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:Software"
+  }
+ ],
+ "tweet": "677036888327352321",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

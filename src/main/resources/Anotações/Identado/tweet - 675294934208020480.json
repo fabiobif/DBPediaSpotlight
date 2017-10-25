@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "✨May the Force be with you?✨ #starwars #lightsaber #lukeskywalker #christmaspresent https://t.co/wcvVRhtQee",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Lightsaber",
+  "@support": "584",
+  "@surfaceForm": "lightsaber",
+  "@offset": "44",
+  "@similarityScore": "0.9999998926750835",
+  "@types": ""
+ }],
+ "tweet": "675294934208020480",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

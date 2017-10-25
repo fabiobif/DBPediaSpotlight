@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Hatewatch: White Supremacists for Donald #Trump: â\u20ac˜The Positions Made Me a Convertâ\u20ac™ #KKK https://t.co/9fuwAOkRWL https://t.co/YctfXnUAAY",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.020561079078641548",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9627495863720087",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.006342283866178013",
+   "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+   "@support": "300085",
+   "@surfaceForm": "White",
+   "@offset": "15",
+   "@similarityScore": "0.9922684374096499",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "3.3903776022190217E-7",
+   "@URI": "http://dbpedia.org/resource/Ku_Klux_Klan",
+   "@support": "2590",
+   "@surfaceForm": "KKK",
+   "@offset": "92",
+   "@similarityScore": "0.9999996607908777",
+   "@types": ""
+  }
+ ],
+ "tweet": "675556386504314880",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

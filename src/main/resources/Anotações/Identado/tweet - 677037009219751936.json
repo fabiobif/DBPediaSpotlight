@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Watch Jimmy Fallon and #TheForceAwakens cast perform a capella #StarWars medley https://t.co/BqIVqpZfFq https://t.co/7xbudpt21D",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0016925837050136175",
+  "@URI": "http://dbpedia.org/resource/Jimmy_Fallon",
+  "@support": "456",
+  "@surfaceForm": "Jimmy Fallon",
+  "@offset": "6",
+  "@similarityScore": "0.998310276293793",
+  "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Artist,DBpedia:Comedian"
+ }],
+ "tweet": "677037009219751936",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

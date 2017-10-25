@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Unfortunately #Cruz too weak. But #trump with #Carson as VP would swipe the floor with #Hillary2016. @seanhannity  https://t.co/X3jAEat7aU",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.3637472410161612",
+  "@URI": "http://dbpedia.org/resource/Trump",
+  "@support": "542",
+  "@surfaceForm": "trump",
+  "@offset": "35",
+  "@similarityScore": "0.7314612639277267",
+  "@types": ""
+ }],
+ "tweet": "675557426754523138",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

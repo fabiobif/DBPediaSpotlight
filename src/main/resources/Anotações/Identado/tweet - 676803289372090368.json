@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @TedNguyen: Inside the World Premiere of â\u20ac˜Star Wars: The Force Awakensâ\u20ac™ https://t.co/AP0OkcZbeq #StarWarsForceAwakens #starwars https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.007113614732032973",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9888801643080912",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "2.1715634396588275E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "47",
+   "@similarityScore": "0.9997492372692671",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803289372090368",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

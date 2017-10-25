@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @EW: #TheForceAwakens star Gwendoline Christie weighs in on Captain Phasma vs. Boba Fett: https://t.co/f62svRn5LO https://t.co/G2D2p6Hstc",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.030404777215420196",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9298318930587574",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "4.0171446097623425E-4",
+   "@URI": "http://dbpedia.org/resource/Star",
+   "@support": "17594",
+   "@surfaceForm": "star",
+   "@offset": "25",
+   "@similarityScore": "0.9993559546160751",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Boba_Fett",
+   "@support": "304",
+   "@surfaceForm": "Boba Fett",
+   "@offset": "82",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676786511099133952",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

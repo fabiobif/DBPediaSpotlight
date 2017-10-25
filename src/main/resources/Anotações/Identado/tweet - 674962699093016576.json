@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@that_phh @StarWarsMinute #StarWars #Poll #TheForceAwakens Y-Wing all the way. They're the workhorse of the rebellion",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Y-wing",
+  "@support": "27",
+  "@surfaceForm": "Y-Wing",
+  "@offset": "59",
+  "@similarityScore": "0.9620590026100001",
+  "@types": ""
+ }],
+ "tweet": "674962699093016576",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

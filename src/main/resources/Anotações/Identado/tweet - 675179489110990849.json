@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "This time next week, I will be in the middle of watching Star Wars The Force Awakens!!! #TheForceAwakens #StarWars #Excited @starwars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "6.874087821264704E-4",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "57",
+  "@similarityScore": "0.999228649878666",
+  "@types": ""
+ }],
+ "tweet": "675179489110990849",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

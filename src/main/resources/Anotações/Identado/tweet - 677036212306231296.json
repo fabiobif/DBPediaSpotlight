@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @kyle_newman: And huge congrats to Producer #BryanBurk - #TheForceAwakens and #MissionImpossible:RogueMission both exhilarating and satiâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.011417529341269782",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9792111048651959",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "677036212306231296",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

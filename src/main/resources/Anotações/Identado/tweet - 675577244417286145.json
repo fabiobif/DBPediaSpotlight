@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @JGreenblattADL: News for #Trump: America IS a great nation and a key part of that greatness stems from our country's unique, great diveâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.06136418669214073",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9348274310317852",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675577244417286145",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

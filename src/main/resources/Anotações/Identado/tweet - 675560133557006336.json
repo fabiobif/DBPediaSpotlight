@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @commondreams: #Obamaâ\u20ac™s Speech, Translated into Candor https://t.co/Z9di9L2EU3",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.007633520912676924",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9862904971454025",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Common_Dreams_NewsCenter",
+   "@support": "22",
+   "@surfaceForm": "commondreams",
+   "@offset": "4",
+   "@similarityScore": "0.9999999394685819",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.4668840174659742",
+   "@URI": "http://dbpedia.org/resource/Candor_(village),_New_York",
+   "@support": "46",
+   "@surfaceForm": "Candor",
+   "@offset": "53",
+   "@similarityScore": "0.5331087823404147",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement,DBpedia:Village"
+  }
+ ],
+ "tweet": "675560133557006336",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

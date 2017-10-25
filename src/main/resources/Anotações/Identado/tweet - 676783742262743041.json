@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Me avoiding #TheForceAwakens spoilers for next three days. https://t.co/NhPkkIFWlm",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.41938997479606877",
+  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
+  "@support": "248",
+  "@surfaceForm": "spoilers",
+  "@offset": "29",
+  "@similarityScore": "0.6684148609394646",
+  "@types": ""
+ }],
+ "tweet": "676783742262743041",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

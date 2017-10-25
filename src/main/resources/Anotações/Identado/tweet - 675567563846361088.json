@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @HispanicsTrump: Why aren't they showing pictures like this on the news? The establishment owned media is terrified of Trump! #Trump httâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0021293167566948713",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9964765536422281",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675567563846361088",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

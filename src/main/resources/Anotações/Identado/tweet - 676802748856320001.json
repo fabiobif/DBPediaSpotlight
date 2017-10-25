@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @vuecinemas: Fancy winning #StarWars #Battlefront for Xbox One? Our friends at @MOCFilms @FilmRating are giving a copy away https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.6979356206932717E-9",
+  "@URI": "http://dbpedia.org/resource/Xbox_One",
+  "@support": "509",
+  "@surfaceForm": "Xbox One",
+  "@offset": "57",
+  "@similarityScore": "0.9999999962896027",
+  "@types": ""
+ }],
+ "tweet": "676802748856320001",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

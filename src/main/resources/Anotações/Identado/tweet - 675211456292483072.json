@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Fighting Jabba the Hutt #starwars #theforceawakens #lukeskywalker #kyloren #jabbathehuttâ\u20ac¦ https://t.co/aLjKE2p775",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "2.4090004630474506E-6",
+  "@URI": "http://dbpedia.org/resource/Hutt_(Star_Wars)",
+  "@support": "261",
+  "@surfaceForm": "Hutt",
+  "@offset": "19",
+  "@similarityScore": "0.9999952351311212",
+  "@types": ""
+ }],
+ "tweet": "675211456292483072",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Star_Wars_Episode_VI:_Return_of_the_Jedi
+oa:hasTarget [
+        oa:hasSource 677036143288958976 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 50 ;
+            oa:end 68] ] .

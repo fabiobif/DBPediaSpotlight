@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "#TheForceAwakens also why don't people want spoilers when everyone claims to hate the prequels so much?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.3232216005826523",
+  "@URI": "http://dbpedia.org/resource/Spoiler_(aeronautics)",
+  "@support": "248",
+  "@surfaceForm": "spoilers",
+  "@offset": "44",
+  "@similarityScore": "0.6380330487221256",
+  "@types": ""
+ }],
+ "tweet": "676781064086392832",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

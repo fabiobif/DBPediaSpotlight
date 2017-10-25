@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Juliet777777: #OBAMA PRESSURED FBI NOT TO CLASSIFY #SANBERNARDINO AS TERRORISM &amp; OBAMA HOLDS NSC SESSION TO LIE ABOUT TERRORISM https:/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "3.7145404607962076E-4",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9992858999935275",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "5.600475188388924E-6",
+   "@URI": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation",
+   "@support": "15865",
+   "@surfaceForm": "FBI",
+   "@offset": "35",
+   "@similarityScore": "0.9999891910192498",
+   "@types": ""
+  }
+ ],
+ "tweet": "675564906880569344",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

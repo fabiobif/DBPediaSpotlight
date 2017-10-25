@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Twitter
+oa:hasTarget [
+        oa:hasSource 676784522327810049 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 72 ;
+            oa:end 79] ] .

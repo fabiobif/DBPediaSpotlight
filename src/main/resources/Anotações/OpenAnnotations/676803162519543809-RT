@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Windows_RT
+oa:hasTarget [
+        oa:hasSource 676803162519543809 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 36 ;
+            oa:end 38] ] .

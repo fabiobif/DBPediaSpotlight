@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: It's the LAST DAY to enter for a chance to hit the #TheForceAwakens premiere in LA! Enter at https://t.co/g3S4skk73F https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.312449280288351",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.7488827429764203",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675234897435447297",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Wutevuh: MORE #Trump positions at official site https://t.co/24uycMtDUb  ! #MakeAmericaSafeAgain #Trump2016  https://t.co/9fZkNlPXId",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.009248786509836985",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.982036331907401",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675564792430522369",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

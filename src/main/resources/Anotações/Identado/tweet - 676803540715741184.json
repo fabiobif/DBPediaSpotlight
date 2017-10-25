@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "This is amazing! #Steampunk #StarWars https://t.co/kW5fkSE9Tk... https://t.co/Jhw8wMrfqy",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.10138017423869855",
+  "@URI": "http://dbpedia.org/resource/Steampunk",
+  "@support": "697",
+  "@surfaceForm": "Steampunk",
+  "@offset": "18",
+  "@similarityScore": "0.9064011309362838",
+  "@types": ""
+ }],
+ "tweet": "676803540715741184",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

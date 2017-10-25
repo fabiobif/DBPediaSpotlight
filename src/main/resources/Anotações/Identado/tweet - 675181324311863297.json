@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @BoyleSports: Safe to say CSKA Sofia fans are looking forward to the new Star Wars movie. #theforceawakens https://t.co/EMkUTpIHzf",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03960053712401007",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.94236967285907",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.3298845631887737E-4",
+   "@URI": "http://dbpedia.org/resource/PFC_CSKA_Sofia",
+   "@support": "901",
+   "@surfaceForm": "CSKA Sofia",
+   "@offset": "29",
+   "@similarityScore": "0.999548108165914",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,Schema:SportsTeam,DBpedia:SportsTeam,DBpedia:SoccerClub"
+  },
+  {
+   "@percentageOfSecondRank": "9.900405806678842E-4",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "76",
+   "@similarityScore": "0.9989011340188302",
+   "@types": ""
+  }
+ ],
+ "tweet": "675181324311863297",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

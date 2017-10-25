@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @starwars: \"This is the biggest premiere ever in our lifetime.\" - John Lasseter on the #StarWars #TheForceAwakens #redcarpet on https://â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.02401867521634864",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9566051381870783",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/John_Lasseter",
+   "@support": "258",
+   "@surfaceForm": "John Lasseter",
+   "@offset": "69",
+   "@similarityScore": "0.9999999998730686",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  }
+ ],
+ "tweet": "676780281865641986",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

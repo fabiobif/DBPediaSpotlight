@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "I feel like we're watching Monsters Inc. #starwars #firsttimewatching",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Monsters,_Inc.",
+  "@support": "320",
+  "@surfaceForm": "Monsters Inc.",
+  "@offset": "27",
+  "@similarityScore": "1.0",
+  "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+ }],
+ "tweet": "676802584003280896",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

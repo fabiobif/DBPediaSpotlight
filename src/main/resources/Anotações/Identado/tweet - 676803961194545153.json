@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @empiremagazine: First reaction from last night's #StarWars premiere: https://t.co/6tC3n9wBXR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.014177900075909983",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9733068428651525",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "676803961194545153",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

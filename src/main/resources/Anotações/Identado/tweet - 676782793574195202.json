@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @Disney: Mark Hamill (Luke Skywalker) greets everyone at #TheForceAwakens premiere. https://t.co/yx4NYuevjR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.020565486103407308",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9561352400289065",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.019288155140174557",
+   "@URI": "http://dbpedia.org/resource/The_Walt_Disney_Company",
+   "@support": "12715",
+   "@surfaceForm": "Disney",
+   "@offset": "4",
+   "@similarityScore": "0.979934019451116",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Mark_Hamill",
+   "@support": "360",
+   "@surfaceForm": "Mark Hamill",
+   "@offset": "12",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Luke_Skywalker",
+   "@support": "745",
+   "@surfaceForm": "Luke Skywalker",
+   "@offset": "25",
+   "@similarityScore": "1.0",
+   "@types": ""
+  }
+ ],
+ "tweet": "676782793574195202",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

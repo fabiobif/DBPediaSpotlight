@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @louisa_compton: Cannot stop watching this #Trump gets attacked by an eagle https://t.co/MVjLps84Tp",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.012328149309693243",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.97668983454542",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.016339010676171658",
+   "@URI": "http://dbpedia.org/resource/Eagle",
+   "@support": "2896",
+   "@surfaceForm": "eagle",
+   "@offset": "73",
+   "@similarityScore": "0.9604318928803574",
+   "@types": ""
+  }
+ ],
+ "tweet": "675578185191432192",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

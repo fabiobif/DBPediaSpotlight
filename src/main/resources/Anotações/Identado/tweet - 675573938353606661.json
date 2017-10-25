@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @gamblor5555: Looking at how the GOP has devolved over the years, the rise of #Trump shouldn't shock anybody #TrumpIsDisqualifiedParty #â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.03949141953822517",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9267226130322388",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "3.037373817940543E-4",
+   "@URI": "http://dbpedia.org/resource/Republican_Party_(United_States)",
+   "@support": "60935",
+   "@surfaceForm": "GOP",
+   "@offset": "36",
+   "@similarityScore": "0.9993021224667701",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:PoliticalParty"
+  }
+ ],
+ "tweet": "675573938353606661",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

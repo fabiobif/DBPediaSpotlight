@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+oa:hasTarget [
+        oa:hasSource 675569441967616000 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 35 ;
+            oa:end 44] ] .

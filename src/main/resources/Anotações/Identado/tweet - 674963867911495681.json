@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Enter to win 2 $100 @SubwayCanada Limited Edition #StarWars gift cards! #FuelYourFandom w/ @AerynLynne #CanWin https://t.co/oqnrZ84JhI",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.001224439247652797",
+  "@URI": "http://dbpedia.org/resource/Gift_card",
+  "@support": "131",
+  "@surfaceForm": "gift cards",
+  "@offset": "60",
+  "@similarityScore": "0.9987762230539224",
+  "@types": ""
+ }],
+ "tweet": "674963867911495681",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

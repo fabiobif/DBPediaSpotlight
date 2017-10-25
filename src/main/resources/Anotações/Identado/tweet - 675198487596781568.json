@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "\"The Force\" practices racial profiling #TheoryWars #TheForceAwakens",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Racial_profiling",
+  "@support": "326",
+  "@surfaceForm": "racial profiling",
+  "@offset": "22",
+  "@similarityScore": "0.999999999972033",
+  "@types": ""
+ }],
+ "tweet": "675198487596781568",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

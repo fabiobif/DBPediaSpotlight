@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @LindaSuhler: File under \"Can't make this crap up\"  #RadicalIslam #DeathCult #Obama #ClimateChangeHoax  #tcot https://t.co/mG2iSOIDde",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.008233364977275571",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9804123172412571",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675573286118510592",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @aldeguer_elsa: @realDonaldTrump @ComatoseJeb LATINOS STANDING STRONG WITH OUR NEW PRESIDENT #TRUMPðŸ\u2021ºðŸ\u2021¸ https://t.co/WHBCO10h4c",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0010546870103843326",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9980640333458",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.1384580022586727",
+   "@URI": "http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census",
+   "@support": "300085",
+   "@surfaceForm": "LATINOS",
+   "@offset": "49",
+   "@similarityScore": "0.866800066841373",
+   "@types": ""
+  }
+ ],
+ "tweet": "675569298811707393",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

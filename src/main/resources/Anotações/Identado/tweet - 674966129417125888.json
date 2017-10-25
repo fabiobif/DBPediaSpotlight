@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Click+to+win+#LEGO+#BrickSwag+PLUS+$100+#StarWars+Sets+#Giveaway+RT  via brickbuildersclub",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.2487048639718448E-4",
+   "@URI": "http://dbpedia.org/resource/Lego",
+   "@support": "2597",
+   "@surfaceForm": "LEGO",
+   "@offset": "14",
+   "@similarityScore": "0.9997573608837731",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.006752746697710451",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "65",
+   "@similarityScore": "0.989078357802065",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  }
+ ],
+ "tweet": "674966129417125888",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Looks like the force is strong with me: my Star Wars Match is Finn. Love it! https://t.co/C7zAHlzm7d #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.004334662888535476",
+   "@URI": "http://dbpedia.org/resource/Force",
+   "@support": "4917",
+   "@surfaceForm": "force",
+   "@offset": "15",
+   "@similarityScore": "0.9942911414976978",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0010987514220453566",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "43",
+   "@similarityScore": "0.9987325003163828",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.23613827743376056",
+   "@URI": "http://dbpedia.org/resource/Finn_Hudson",
+   "@support": "561",
+   "@surfaceForm": "Finn",
+   "@offset": "62",
+   "@similarityScore": "0.5513107198129135",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:FictionalCharacter"
+  }
+ ],
+ "tweet": "676779784609878016",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

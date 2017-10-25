@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @2AFight: 15 Moronic Things #Liberals Call #Racism Since #Obama Was Elected https://t.co/P7bZhOrRTS  #libtard #tcot #TGDN #PJNET #RNR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002698559070189789",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9935110634581968",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.003831980155671771",
+   "@URI": "http://dbpedia.org/resource/Royal_Naval_Reserve",
+   "@support": "920",
+   "@surfaceForm": "RNR",
+   "@offset": "133",
+   "@similarityScore": "0.9961824631881713",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:MilitaryUnit"
+  }
+ ],
+ "tweet": "675293231718895616",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

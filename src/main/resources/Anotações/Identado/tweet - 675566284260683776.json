@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": ".@YourAnonNews says it took down #Trump Tower website | PCWorld @realDonaldTrump  https://t.co/dsPaclrjuO",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.21293490546467497",
+   "@URI": "http://dbpedia.org/resource/Trump_Tower_(New_York_City)",
+   "@support": "53",
+   "@surfaceForm": "Trump Tower",
+   "@offset": "34",
+   "@similarityScore": "0.8095035709927266",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Building"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/PC_World",
+   "@support": "416",
+   "@surfaceForm": "PCWorld",
+   "@offset": "56",
+   "@similarityScore": "0.9999999860916661",
+   "@types": "Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Magazine"
+  }
+ ],
+ "tweet": "675566284260683776",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

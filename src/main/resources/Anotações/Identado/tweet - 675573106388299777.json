@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "ðŸš\u201aðŸ\u2019¨#TrumpWinningðŸš\u201aðŸ\u2019¨ Let's #WakeUpAmerica ðŸ\u2021ºðŸ\u2021¸ #TrumpTruth #Trumpâ?¤ï¸?USA  #WhyISupportTrump ðŸ\u2021ºðŸ\u2021¸ Super Tuesday 79DaysðŸš\u201aðŸ\u2019¨ https://t.co/k81LhEWRFN",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "1.3088974719286948E-4",
+   "@URI": "http://dbpedia.org/resource/United_States",
+   "@support": "560750",
+   "@surfaceForm": "USA",
+   "@offset": "84",
+   "@similarityScore": "0.9996841079960629",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country"
+  },
+  {
+   "@percentageOfSecondRank": "0.5472562225659318",
+   "@URI": "http://dbpedia.org/resource/Super_Tuesday",
+   "@support": "257",
+   "@surfaceForm": "Super Tuesday",
+   "@offset": "116",
+   "@similarityScore": "0.6434378746025848",
+   "@types": ""
+  }
+ ],
+ "tweet": "675573106388299777",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

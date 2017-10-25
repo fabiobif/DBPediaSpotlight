@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "my friend made a yoda latte. that's all I have today. #theforceawakens https://t.co/ElAgyV8qQs",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0034355021185503744",
+   "@URI": "http://dbpedia.org/resource/Yoda",
+   "@support": "527",
+   "@surfaceForm": "yoda",
+   "@offset": "17",
+   "@similarityScore": "0.9964704790609742",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Latte",
+   "@support": "186",
+   "@surfaceForm": "latte",
+   "@offset": "22",
+   "@similarityScore": "0.9999997946482251",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785581603446784",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

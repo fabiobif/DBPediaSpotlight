@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@TheSWU Homemade side by side trailer because we are SO excited for #TheForceAwakens Link--&gt;https://t.co/ocNtGSZRQ4",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "3.178580089615107E-4",
+  "@URI": "http://dbpedia.org/resource/Link_(The_Legend_of_Zelda)",
+  "@support": "1786",
+  "@surfaceForm": "Link",
+  "@offset": "85",
+  "@similarityScore": "0.9995446287102967",
+  "@types": ""
+ }],
+ "tweet": "675184766430375937",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @cinedelphia: While waiting for #TheForceAwakens: @Silberwhatever has 5 Reasons Every #StarWars Fan Should Watch Clone Wars https://t.coâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.017727917051795588",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9618060040479085",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Clone_Wars_(Star_Wars)",
+   "@support": "449",
+   "@surfaceForm": "Clone Wars",
+   "@offset": "116",
+   "@similarityScore": "0.9999999999859028",
+   "@types": "Schema:Event,DBpedia:Event,DBpedia:MilitaryConflict"
+  }
+ ],
+ "tweet": "676784014649372672",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,56 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MachadoKirk: I watched big mouth Mohammed Ali's daughter on Neil Cavuto and I'm so angry. I'm tired of this liberal PC bull. #Trump #Trâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.04419748822176765",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9411733190646377",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.07490992660256401",
+   "@URI": "http://dbpedia.org/resource/Big_Mouth_(chief)",
+   "@support": "50",
+   "@surfaceForm": "big mouth",
+   "@offset": "27",
+   "@similarityScore": "0.8914599278260048",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.4929370986687542",
+   "@URI": "http://dbpedia.org/resource/Muhammad_Ali",
+   "@support": "1422",
+   "@surfaceForm": "Mohammed Ali",
+   "@offset": "37",
+   "@similarityScore": "0.6669695126830808",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:Boxer"
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Neil_Cavuto",
+   "@support": "56",
+   "@surfaceForm": "Neil Cavuto",
+   "@offset": "64",
+   "@similarityScore": "1.0",
+   "@types": "DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person"
+  },
+  {
+   "@percentageOfSecondRank": "0.2862720163140227",
+   "@URI": "http://dbpedia.org/resource/Personal_computer",
+   "@support": "6550",
+   "@surfaceForm": "PC",
+   "@offset": "120",
+   "@similarityScore": "0.7620188764866179",
+   "@types": ""
+  }
+ ],
+ "tweet": "675563503999131649",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

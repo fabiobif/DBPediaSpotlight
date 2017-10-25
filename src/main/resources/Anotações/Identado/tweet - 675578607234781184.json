@@ -1,0 +1,47 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @ChristiChat: Imam Forced To Resign for Supporting #Trump Muslim Ban. Tolerant Muslims? #TCOT #Trump2016   https://t.co/wZN8hjcZS7 httpsâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.011678732048886597",
+   "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+   "@support": "408",
+   "@surfaceForm": "RT",
+   "@offset": "0",
+   "@similarityScore": "0.9752134747869329",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+  },
+  {
+   "@percentageOfSecondRank": "0.02731984309468259",
+   "@URI": "http://dbpedia.org/resource/Imam",
+   "@support": "2837",
+   "@surfaceForm": "Imam",
+   "@offset": "17",
+   "@similarityScore": "0.9727275027117406",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.03061868781244786",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslim",
+   "@offset": "61",
+   "@similarityScore": "0.9701897378735337",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.01886789309008034",
+   "@URI": "http://dbpedia.org/resource/Muslim",
+   "@support": "31672",
+   "@surfaceForm": "Muslims",
+   "@offset": "82",
+   "@similarityScore": "0.981364010554336",
+   "@types": ""
+  }
+ ],
+ "tweet": "675578607234781184",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,38 @@
+{
+ "@confidence": "0.5",
+ "@text": "Colorado snow day!  Time to watch Star Wars. #schulerstoCO #starwarsâ\u20ac¦ https://t.co/IBnEAVhB2o",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.002219179568938321",
+   "@URI": "http://dbpedia.org/resource/Colorado",
+   "@support": "25385",
+   "@surfaceForm": "Colorado",
+   "@offset": "0",
+   "@similarityScore": "0.9967470059882946",
+   "@types": "Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion"
+  },
+  {
+   "@percentageOfSecondRank": "0.045505101546436506",
+   "@URI": "http://dbpedia.org/resource/Weather-related_cancellation",
+   "@support": "44",
+   "@surfaceForm": "snow day",
+   "@offset": "9",
+   "@similarityScore": "0.9564754793850969",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.01632302270921889",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "34",
+   "@similarityScore": "0.9835754046038958",
+   "@types": ""
+  }
+ ],
+ "tweet": "676803466203828224",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

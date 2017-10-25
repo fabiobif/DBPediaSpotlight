@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <???> ;
+    dcterms:created <dataCriacao> 
+oa:hasBody http://dbpedia.org/resource/MÄR-Heaven
+oa:hasTarget [
+        oa:hasSource 675189410573459457 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 115 ;
+            oa:end 126] ] .

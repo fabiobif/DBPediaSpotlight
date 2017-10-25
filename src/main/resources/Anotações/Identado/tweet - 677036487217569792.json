@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "'Star Wars: The Force Awakens' is a magical mystery tour https://t.co/bQormpLo1P #StarWars #MovieReview #Entertainment #Film",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0013436064575565161",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "1",
+   "@similarityScore": "0.9985153200068466",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.4811795334747127",
+   "@URI": "http://dbpedia.org/resource/Magical_Mystery_Tour_(film)",
+   "@support": "106",
+   "@surfaceForm": "magical mystery tour",
+   "@offset": "36",
+   "@similarityScore": "0.6619292530489015",
+   "@types": "Schema:CreativeWork,DBpedia:Work,Schema:Movie,DBpedia:Film"
+  }
+ ],
+ "tweet": "677036487217569792",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "Get kitted out to see #TheForceAwakens in style, whether you're a wookie or a droid! #StarWars https://t.co/MwBISmn7kR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0010162081064884316",
+   "@URI": "http://dbpedia.org/resource/Wookiee",
+   "@support": "152",
+   "@surfaceForm": "wookie",
+   "@offset": "66",
+   "@similarityScore": "0.9989848228471359",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.004191061465858348",
+   "@URI": "http://dbpedia.org/resource/Droid_(robot)",
+   "@support": "266",
+   "@surfaceForm": "droid",
+   "@offset": "78",
+   "@similarityScore": "0.9943045517164087",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785081948729345",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @adnanedtech: Awesome interview with @techmaverick https://t.co/R4AFo5SmdJ #EPTpodcast #cuerockstar #starwars https://t.co/TbbGZCNhOR",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.002985445595478566",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9945916399414142",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "674966725511761920",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

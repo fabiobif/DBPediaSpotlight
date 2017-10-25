@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "My Star Wars Match is Luke Skywalker. Who's Yours? https://t.co/peCm7RI33x #TheForceAwakens #SpotifyStarWars",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.23634128910656585",
+   "@URI": "http://dbpedia.org/resource/Star_Wars",
+   "@support": "7640",
+   "@surfaceForm": "Star Wars",
+   "@offset": "3",
+   "@similarityScore": "0.807588383374232",
+   "@types": ""
+  },
+  {
+   "@percentageOfSecondRank": "0.0",
+   "@URI": "http://dbpedia.org/resource/Luke_Skywalker",
+   "@support": "745",
+   "@surfaceForm": "Luke Skywalker",
+   "@offset": "22",
+   "@similarityScore": "0.9999999999999716",
+   "@types": ""
+  }
+ ],
+ "tweet": "676785950006116352",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

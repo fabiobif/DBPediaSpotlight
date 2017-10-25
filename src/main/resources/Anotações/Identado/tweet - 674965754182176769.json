@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "Star Wars BB8 Deco Toast #decotoast  #starwars #BB8 #cake #playingwithfood #thankyoumommy https://t.co/bzh0Xd3s4i https://t.co/eXnpehmond",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0029748849170773213",
+  "@URI": "http://dbpedia.org/resource/Star_Wars",
+  "@support": "7640",
+  "@surfaceForm": "Star Wars",
+  "@offset": "0",
+  "@similarityScore": "0.9964616488798164",
+  "@types": ""
+ }],
+ "tweet": "674965754182176769",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

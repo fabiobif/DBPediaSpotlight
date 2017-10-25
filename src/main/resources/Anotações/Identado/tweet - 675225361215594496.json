@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @comingsoonnet: The #StarTrekBeyond trailer will debut with #StarWars #TheForceAwakens December 18 https://t.co/1HfoFWP4H4 https://t.co/â\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.046557667136112105",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9385091205959512",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675225361215594496",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

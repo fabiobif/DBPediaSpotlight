@@ -1,0 +1,29 @@
+{
+ "@confidence": "0.5",
+ "@text": "@Tony_Five_O Again I'm challenging you: Find link between BP ideology and #Obama's. There's link between neo-#Nazis &amp; #Trump. Not pro-#Cruz.",
+ "@support": "20",
+ "@types": "",
+ "Resources": [
+  {
+   "@percentageOfSecondRank": "0.0388890276936146",
+   "@URI": "http://dbpedia.org/resource/BP",
+   "@support": "2696",
+   "@surfaceForm": "BP",
+   "@offset": "58",
+   "@similarityScore": "0.9623612151357959",
+   "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company"
+  },
+  {
+   "@percentageOfSecondRank": "0.016051873836720635",
+   "@URI": "http://dbpedia.org/resource/Nazism",
+   "@support": "18852",
+   "@surfaceForm": "Nazis",
+   "@offset": "110",
+   "@similarityScore": "0.9757954985226225",
+   "@types": ""
+  }
+ ],
+ "tweet": "675293968226230272",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @MereMortalsWW: Looking forward to #TheForceAwakens but I gotta say I think I've reached marketing and media exhaustion. Starting to losâ\u20ac¦",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.006691829018134065",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9833094774898568",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675203762772930560",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

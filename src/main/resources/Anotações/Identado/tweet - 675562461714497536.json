@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "@liifethingss Celebrity camel toe? Is #Trump in there?",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.0",
+  "@URI": "http://dbpedia.org/resource/Camel_toe",
+  "@support": "23",
+  "@surfaceForm": "camel toe",
+  "@offset": "24",
+  "@similarityScore": "0.9999999999945999",
+  "@types": ""
+ }],
+ "tweet": "675562461714497536",
+ "@sparql": "",
+ "@policy": "whitelist"
+}

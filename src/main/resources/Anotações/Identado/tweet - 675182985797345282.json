@@ -1,0 +1,18 @@
+{
+ "@confidence": "0.5",
+ "@text": "RT @AliAksoz: #StarWars #TheForceAwakens Official International Trailer #2 ... https://t.co/4UTfFXRwmS",
+ "@support": "20",
+ "@types": "",
+ "Resources": [{
+  "@percentageOfSecondRank": "0.007923046899912406",
+  "@URI": "http://dbpedia.org/resource/RT_(TV_network)",
+  "@support": "408",
+  "@surfaceForm": "RT",
+  "@offset": "0",
+  "@similarityScore": "0.9839987258099491",
+  "@types": "DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Broadcaster,Schema:TelevisionStation,DBpedia:TelevisionStation"
+ }],
+ "tweet": "675182985797345282",
+ "@sparql": "",
+ "@policy": "whitelist"
+}
