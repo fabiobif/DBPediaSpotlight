@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Perez_Hilton
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Perez_Hilton
+    oa:hasTarget [
         oa:hasSource 676787805561974785 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

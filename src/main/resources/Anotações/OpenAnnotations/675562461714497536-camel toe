@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Camel_toe
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Camel_toe
+    oa:hasTarget [
         oa:hasSource 675562461714497536 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

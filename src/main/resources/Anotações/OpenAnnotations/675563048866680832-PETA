@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals
+    oa:hasTarget [
         oa:hasSource 675563048866680832 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

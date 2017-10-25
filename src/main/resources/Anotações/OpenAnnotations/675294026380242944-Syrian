@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Syria
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Syria
+    oa:hasTarget [
         oa:hasSource 675294026380242944 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

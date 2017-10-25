@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Rudy_Giuliani
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Rudy_Giuliani
+    oa:hasTarget [
         oa:hasSource 675561657414848512 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Zurich
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Zurich
+    oa:hasTarget [
         oa:hasSource 676802983837962240 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

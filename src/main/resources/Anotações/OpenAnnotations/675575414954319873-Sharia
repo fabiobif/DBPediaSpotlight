@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Sharia
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Sharia
+    oa:hasTarget [
         oa:hasSource 675575414954319873 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Penn_&_Teller:_Bullshit!
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Penn_&_Teller:_Bullshit!
+    oa:hasTarget [
         oa:hasSource 675567021736636416 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

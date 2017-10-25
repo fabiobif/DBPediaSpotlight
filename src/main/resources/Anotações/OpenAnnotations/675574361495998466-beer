@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Beer
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Beer
+    oa:hasTarget [
         oa:hasSource 675574361495998466 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

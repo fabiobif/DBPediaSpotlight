@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Normandy_landings
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Normandy_landings
+    oa:hasTarget [
         oa:hasSource 677036696433729536 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

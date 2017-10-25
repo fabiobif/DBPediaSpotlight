@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/R2-D2
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/R2-D2
+    oa:hasTarget [
         oa:hasSource 676787269521551360 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

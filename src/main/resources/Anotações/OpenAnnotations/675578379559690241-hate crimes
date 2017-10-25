@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Hate_crime
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Hate_crime
+    oa:hasTarget [
         oa:hasSource 675578379559690241 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

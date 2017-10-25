@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Force
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Force
+    oa:hasTarget [
         oa:hasSource 677036824271941632 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

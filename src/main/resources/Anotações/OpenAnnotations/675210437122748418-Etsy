@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Etsy
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Etsy
+    oa:hasTarget [
         oa:hasSource 675210437122748418 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

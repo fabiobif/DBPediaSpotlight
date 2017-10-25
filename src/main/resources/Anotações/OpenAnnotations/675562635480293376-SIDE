@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Secretaría_de_Inteligencia
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Secretaría_de_Inteligencia
+    oa:hasTarget [
         oa:hasSource 675562635480293376 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

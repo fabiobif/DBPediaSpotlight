@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Stormtrooper_(Star_Wars)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Stormtrooper_(Star_Wars)
+    oa:hasTarget [
         oa:hasSource 675571516357111809 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

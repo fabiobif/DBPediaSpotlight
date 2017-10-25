@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Jedi_Council
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Jedi_Council
+    oa:hasTarget [
         oa:hasSource 675233630399176704 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

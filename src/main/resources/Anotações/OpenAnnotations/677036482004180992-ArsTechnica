@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Ars_Technica
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Ars_Technica
+    oa:hasTarget [
         oa:hasSource 677036482004180992 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

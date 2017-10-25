@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/List_of_Star_Wars_air,_aquatic,_and_ground_vehicles
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/List_of_Star_Wars_air,_aquatic,_and_ground_vehicles
+    oa:hasTarget [
         oa:hasSource 676803998926643200 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

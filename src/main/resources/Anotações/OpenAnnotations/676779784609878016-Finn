@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Finn_Hudson
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Finn_Hudson
+    oa:hasTarget [
         oa:hasSource 676779784609878016 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

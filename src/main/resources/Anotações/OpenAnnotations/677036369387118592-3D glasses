@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Stereoscopy
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Stereoscopy
+    oa:hasTarget [
         oa:hasSource 677036369387118592 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Democratic_Party_(United_States)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Democratic_Party_(United_States)
+    oa:hasTarget [
         oa:hasSource 675560927643717632 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

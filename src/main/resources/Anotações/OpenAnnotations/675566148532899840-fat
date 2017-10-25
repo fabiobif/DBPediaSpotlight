@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Fat
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Fat
+    oa:hasTarget [
         oa:hasSource 675566148532899840 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

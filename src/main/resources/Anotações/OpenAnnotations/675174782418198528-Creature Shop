@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Jim_Henson's_Creature_Shop
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Jim_Henson's_Creature_Shop
+    oa:hasTarget [
         oa:hasSource 675174782418198528 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

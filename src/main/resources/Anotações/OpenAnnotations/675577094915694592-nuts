@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Nut_(fruit)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Nut_(fruit)
+    oa:hasTarget [
         oa:hasSource 675577094915694592 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

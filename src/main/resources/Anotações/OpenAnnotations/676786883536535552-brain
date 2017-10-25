@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Brain
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Brain
+    oa:hasTarget [
         oa:hasSource 676786883536535552 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

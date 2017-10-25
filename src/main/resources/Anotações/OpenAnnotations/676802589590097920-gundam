@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Gundam_(mobile_suit)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Gundam_(mobile_suit)
+    oa:hasTarget [
         oa:hasSource 676802589590097920 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

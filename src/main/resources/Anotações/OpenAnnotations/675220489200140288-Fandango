@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Fandango_(ticket_service)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Fandango_(ticket_service)
+    oa:hasTarget [
         oa:hasSource 675220489200140288 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

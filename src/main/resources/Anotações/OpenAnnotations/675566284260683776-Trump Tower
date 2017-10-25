@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Trump_Tower_(New_York_City)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Trump_Tower_(New_York_City)
+    oa:hasTarget [
         oa:hasSource 675566284260683776 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

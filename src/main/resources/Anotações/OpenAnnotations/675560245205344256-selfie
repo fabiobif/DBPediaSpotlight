@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Self-portrait
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Self-portrait
+    oa:hasTarget [
         oa:hasSource 675560245205344256 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Fantasy
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Fantasy
+    oa:hasTarget [
         oa:hasSource 676787359388684288 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

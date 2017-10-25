@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/ASAP_(variety_show)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/ASAP_(variety_show)
+    oa:hasTarget [
         oa:hasSource 676802412007440384 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Qui-Gon_Jinn
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Qui-Gon_Jinn
+    oa:hasTarget [
         oa:hasSource 676780563949334528 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

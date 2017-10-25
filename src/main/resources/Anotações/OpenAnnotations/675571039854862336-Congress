@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/United_States_Congress
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/United_States_Congress
+    oa:hasTarget [
         oa:hasSource 675571039854862336 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

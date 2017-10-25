@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Joseph_Gordon-Levitt
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Joseph_Gordon-Levitt
+    oa:hasTarget [
         oa:hasSource 676782740612714500 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

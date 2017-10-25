@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Getty_Images
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Getty_Images
+    oa:hasTarget [
         oa:hasSource 676783346714849280 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

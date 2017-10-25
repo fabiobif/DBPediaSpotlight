@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Clown
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Clown
+    oa:hasTarget [
         oa:hasSource 675578506730979329 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

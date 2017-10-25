@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Franklin_Graham
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Franklin_Graham
+    oa:hasTarget [
         oa:hasSource 675554515718815744 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

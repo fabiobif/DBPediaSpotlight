@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Nanking_Massacre
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Nanking_Massacre
+    oa:hasTarget [
         oa:hasSource 675295172368797697 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

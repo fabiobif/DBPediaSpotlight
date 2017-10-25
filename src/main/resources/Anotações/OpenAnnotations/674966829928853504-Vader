@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Big_Van_Vader
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Big_Van_Vader
+    oa:hasTarget [
         oa:hasSource 674966829928853504 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Michael_V_Kalaphates
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Michael_V_Kalaphates
+    oa:hasTarget [
         oa:hasSource 676786313035653120 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

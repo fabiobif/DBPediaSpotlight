@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/The_Idiots
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/The_Idiots
+    oa:hasTarget [
         oa:hasSource 675555996467519489 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

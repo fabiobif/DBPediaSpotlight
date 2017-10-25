@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Suit_(cards)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Suit_(cards)
+    oa:hasTarget [
         oa:hasSource 675574767412473856 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Racial_profiling
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Racial_profiling
+    oa:hasTarget [
         oa:hasSource 675198487596781568 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/General_Motors
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/General_Motors
+    oa:hasTarget [
         oa:hasSource 677036601730445312 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

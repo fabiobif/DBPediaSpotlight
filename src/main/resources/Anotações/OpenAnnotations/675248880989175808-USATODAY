@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/USA_Today
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/USA_Today
+    oa:hasTarget [
         oa:hasSource 675248880989175808 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

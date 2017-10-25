@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Cutscene
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Cutscene
+    oa:hasTarget [
         oa:hasSource 674964594759217152 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

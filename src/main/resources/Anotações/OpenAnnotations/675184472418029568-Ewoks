@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Ewok
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Ewok
+    oa:hasTarget [
         oa:hasSource 675184472418029568 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

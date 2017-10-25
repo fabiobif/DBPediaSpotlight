@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Libertarianism
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Libertarianism
+    oa:hasTarget [
         oa:hasSource 675569116867117057 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/George_Lucas
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/George_Lucas
+    oa:hasTarget [
         oa:hasSource 676784949177913344 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

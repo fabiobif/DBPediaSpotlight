@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/United_States
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/United_States
+    oa:hasTarget [
         oa:hasSource 675212673957699585 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

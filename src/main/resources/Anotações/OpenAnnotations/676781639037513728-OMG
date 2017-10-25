@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Object_Management_Group
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Object_Management_Group
+    oa:hasTarget [
         oa:hasSource 676781639037513728 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

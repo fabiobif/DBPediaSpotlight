@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Dildo
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Dildo
+    oa:hasTarget [
         oa:hasSource 675559865155059712 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

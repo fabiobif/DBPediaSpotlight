@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Yoda
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Yoda
+    oa:hasTarget [
         oa:hasSource 676780604894126080 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

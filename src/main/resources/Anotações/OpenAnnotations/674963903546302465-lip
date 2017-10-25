@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Lip
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Lip
+    oa:hasTarget [
         oa:hasSource 674963903546302465 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

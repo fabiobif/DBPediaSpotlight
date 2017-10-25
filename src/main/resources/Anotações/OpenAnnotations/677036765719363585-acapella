@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/A_cappella
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/A_cappella
+    oa:hasTarget [
         oa:hasSource 677036765719363585 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

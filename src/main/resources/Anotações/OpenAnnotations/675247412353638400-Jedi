@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Jedi
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Jedi
+    oa:hasTarget [
         oa:hasSource 675247412353638400 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

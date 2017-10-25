@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Star_Wars
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Star_Wars
+    oa:hasTarget [
         oa:hasSource 674963267450748928 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

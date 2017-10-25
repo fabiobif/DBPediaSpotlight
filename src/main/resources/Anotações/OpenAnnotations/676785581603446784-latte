@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Latte
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Latte
+    oa:hasTarget [
         oa:hasSource 676785581603446784 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Guinness
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Guinness
+    oa:hasTarget [
         oa:hasSource 675295206934118400 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

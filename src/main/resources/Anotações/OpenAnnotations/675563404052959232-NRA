@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/National_Rifle_Association
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/National_Rifle_Association
+    oa:hasTarget [
         oa:hasSource 675563404052959232 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Yeah!_(Usher_song)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Yeah!_(Usher_song)
+    oa:hasTarget [
         oa:hasSource 674961187709161475 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

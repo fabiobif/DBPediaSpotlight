@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Ur
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Ur
+    oa:hasTarget [
         oa:hasSource 675574357763096576 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

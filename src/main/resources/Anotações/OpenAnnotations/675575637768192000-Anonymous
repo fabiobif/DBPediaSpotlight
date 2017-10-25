@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Anonymous_(group)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Anonymous_(group)
+    oa:hasTarget [
         oa:hasSource 675575637768192000 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

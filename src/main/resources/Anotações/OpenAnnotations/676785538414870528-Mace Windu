@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Mace_Windu
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Mace_Windu
+    oa:hasTarget [
         oa:hasSource 676785538414870528 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

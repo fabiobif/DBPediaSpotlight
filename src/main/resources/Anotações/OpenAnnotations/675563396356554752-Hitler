@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Adolf_Hitler
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Adolf_Hitler
+    oa:hasTarget [
         oa:hasSource 675563396356554752 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

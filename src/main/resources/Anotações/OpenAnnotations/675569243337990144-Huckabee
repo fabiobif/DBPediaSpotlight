@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Mike_Huckabee
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Mike_Huckabee
+    oa:hasTarget [
         oa:hasSource 675569243337990144 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/United_Arab_Emirates
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/United_Arab_Emirates
+    oa:hasTarget [
         oa:hasSource 674965591661367296 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

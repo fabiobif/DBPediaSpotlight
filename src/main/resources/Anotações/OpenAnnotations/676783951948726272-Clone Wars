@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Clone_Wars_(Star_Wars)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Clone_Wars_(Star_Wars)
+    oa:hasTarget [
         oa:hasSource 676783951948726272 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

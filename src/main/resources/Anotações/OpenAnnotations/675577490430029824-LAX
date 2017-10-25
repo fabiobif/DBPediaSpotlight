@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Los_Angeles_International_Airport
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Los_Angeles_International_Airport
+    oa:hasTarget [
         oa:hasSource 675577490430029824 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

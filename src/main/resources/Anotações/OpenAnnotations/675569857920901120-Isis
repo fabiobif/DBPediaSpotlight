@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Isis
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Isis
+    oa:hasTarget [
         oa:hasSource 675569857920901120 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

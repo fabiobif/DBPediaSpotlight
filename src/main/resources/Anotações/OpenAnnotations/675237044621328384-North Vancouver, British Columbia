@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/North_Vancouver
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/North_Vancouver
+    oa:hasTarget [
         oa:hasSource 675237044621328384 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

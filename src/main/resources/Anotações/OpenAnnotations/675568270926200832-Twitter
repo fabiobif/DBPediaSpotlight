@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Twitter
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Twitter
+    oa:hasTarget [
         oa:hasSource 675568270926200832 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

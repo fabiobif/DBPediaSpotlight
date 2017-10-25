@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Obi-Wan_Kenobi
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Obi-Wan_Kenobi
+    oa:hasTarget [
         oa:hasSource 675229176492871680 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

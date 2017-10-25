@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Entrepreneurship
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Entrepreneurship
+    oa:hasTarget [
         oa:hasSource 676784809276936193 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

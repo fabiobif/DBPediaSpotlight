@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Star_Wars_Episode_V:_The_Empire_Strikes_Back
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Star_Wars_Episode_V:_The_Empire_Strikes_Back
+    oa:hasTarget [
         oa:hasSource 677036533828993024 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

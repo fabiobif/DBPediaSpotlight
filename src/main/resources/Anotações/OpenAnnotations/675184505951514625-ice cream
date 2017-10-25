@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Ice_cream
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Ice_cream
+    oa:hasTarget [
         oa:hasSource 675184505951514625 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

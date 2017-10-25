@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Arab_people
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Arab_people
+    oa:hasTarget [
         oa:hasSource 675563241011941376 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Straight-five_engine
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Straight-five_engine
+    oa:hasTarget [
         oa:hasSource 675237712698466304 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

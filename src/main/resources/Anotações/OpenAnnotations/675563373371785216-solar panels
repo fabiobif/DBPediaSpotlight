@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Solar_panel
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Solar_panel
+    oa:hasTarget [
         oa:hasSource 675563373371785216 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

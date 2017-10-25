@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Amen
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Amen
+    oa:hasTarget [
         oa:hasSource 676785166140895232 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

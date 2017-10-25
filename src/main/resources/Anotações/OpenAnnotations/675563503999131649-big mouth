@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Big_Mouth_(chief)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Big_Mouth_(chief)
+    oa:hasTarget [
         oa:hasSource 675563503999131649 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

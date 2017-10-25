@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Very_Important_Person
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Very_Important_Person
+    oa:hasTarget [
         oa:hasSource 674962958670106624 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

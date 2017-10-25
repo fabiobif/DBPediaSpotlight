@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Christmas
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Christmas
+    oa:hasTarget [
         oa:hasSource 675218526987227136 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

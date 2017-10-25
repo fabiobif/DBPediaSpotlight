@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Cappuccino
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Cappuccino
+    oa:hasTarget [
         oa:hasSource 676802777721511937 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

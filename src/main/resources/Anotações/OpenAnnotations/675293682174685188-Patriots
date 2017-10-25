@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/New_England_Patriots
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/New_England_Patriots
+    oa:hasTarget [
         oa:hasSource 675293682174685188 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

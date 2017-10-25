@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Hillary_Rodham_Clinton
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Hillary_Rodham_Clinton
+    oa:hasTarget [
         oa:hasSource 675573923329757185 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

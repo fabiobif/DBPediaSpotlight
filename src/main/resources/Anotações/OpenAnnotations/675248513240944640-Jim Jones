@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Jim_Jones
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Jim_Jones
+    oa:hasTarget [
         oa:hasSource 675248513240944640 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

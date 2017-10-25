@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Quds_Force
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Quds_Force
+    oa:hasTarget [
         oa:hasSource 675569161783918593 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

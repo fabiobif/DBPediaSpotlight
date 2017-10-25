@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Finn_(album)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Finn_(album)
+    oa:hasTarget [
         oa:hasSource 675185507337400320 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

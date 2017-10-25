@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Mosque
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Mosque
+    oa:hasTarget [
         oa:hasSource 675576391765655552 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

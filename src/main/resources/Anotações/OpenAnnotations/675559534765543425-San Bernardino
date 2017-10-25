@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/San_Bernardino,_California
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/San_Bernardino,_California
+    oa:hasTarget [
         oa:hasSource 675559534765543425 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

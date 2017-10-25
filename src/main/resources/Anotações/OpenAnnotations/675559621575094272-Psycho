@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Psycho_(film)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Psycho_(film)
+    oa:hasTarget [
         oa:hasSource 675559621575094272 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

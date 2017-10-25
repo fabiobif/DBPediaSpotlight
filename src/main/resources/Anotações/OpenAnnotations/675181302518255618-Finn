@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Finn_the_Human
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Finn_the_Human
+    oa:hasTarget [
         oa:hasSource 675181302518255618 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

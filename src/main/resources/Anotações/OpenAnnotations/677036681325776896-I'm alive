@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/I'm_Alive_(Celine_Dion_song)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/I'm_Alive_(Celine_Dion_song)
+    oa:hasTarget [
         oa:hasSource 677036681325776896 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

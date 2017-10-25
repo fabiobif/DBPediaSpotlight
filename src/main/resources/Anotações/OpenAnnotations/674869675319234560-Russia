@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Russia
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Russia
+    oa:hasTarget [
         oa:hasSource 674869675319234560 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Flat-four_engine
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Flat-four_engine
+    oa:hasTarget [
         oa:hasSource 675200402191728646 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

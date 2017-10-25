@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Republican_Party_(United_States)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Republican_Party_(United_States)
+    oa:hasTarget [
         oa:hasSource 675568128206745600 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

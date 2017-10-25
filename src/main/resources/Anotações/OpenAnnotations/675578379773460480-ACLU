@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/American_Civil_Liberties_Union
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/American_Civil_Liberties_Union
+    oa:hasTarget [
         oa:hasSource 675578379773460480 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

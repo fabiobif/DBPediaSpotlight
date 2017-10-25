@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Blu-ray_Disc
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Blu-ray_Disc
+    oa:hasTarget [
         oa:hasSource 677036606444834816 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

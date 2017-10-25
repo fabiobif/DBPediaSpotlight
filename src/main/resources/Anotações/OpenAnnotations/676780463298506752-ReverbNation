@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/ReverbNation
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/ReverbNation
+    oa:hasTarget [
         oa:hasSource 676780463298506752 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

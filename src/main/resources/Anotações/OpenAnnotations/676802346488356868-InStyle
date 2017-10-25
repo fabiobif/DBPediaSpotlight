@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/InStyle
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/InStyle
+    oa:hasTarget [
         oa:hasSource 676802346488356868 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

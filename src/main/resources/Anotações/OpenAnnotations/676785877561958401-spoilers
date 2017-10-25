@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Spoiler_(aeronautics)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Spoiler_(aeronautics)
+    oa:hasTarget [
         oa:hasSource 676785877561958401 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

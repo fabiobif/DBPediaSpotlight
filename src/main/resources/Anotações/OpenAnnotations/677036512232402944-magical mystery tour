@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Magical_Mystery_Tour
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Magical_Mystery_Tour
+    oa:hasTarget [
         oa:hasSource 677036512232402944 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

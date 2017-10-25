@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/List_of_Hollyoaks_characters_(2008)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/List_of_Hollyoaks_characters_(2008)
+    oa:hasTarget [
         oa:hasSource 675555056691884032 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

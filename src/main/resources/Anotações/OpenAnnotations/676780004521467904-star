@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Star
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Star
+    oa:hasTarget [
         oa:hasSource 676780004521467904 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

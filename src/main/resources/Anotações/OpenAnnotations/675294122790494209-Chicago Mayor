@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Mayor_of_Chicago
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Mayor_of_Chicago
+    oa:hasTarget [
         oa:hasSource 675294122790494209 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

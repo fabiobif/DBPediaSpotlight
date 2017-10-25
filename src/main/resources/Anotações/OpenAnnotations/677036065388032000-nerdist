@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Nerdist_Industries
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Nerdist_Industries
+    oa:hasTarget [
         oa:hasSource 677036065388032000 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

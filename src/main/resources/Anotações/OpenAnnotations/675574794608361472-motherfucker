@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Motherfucker
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Motherfucker
+    oa:hasTarget [
         oa:hasSource 675574794608361472 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

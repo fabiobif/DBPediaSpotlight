@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Suzuki_LC10_engine
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Suzuki_LC10_engine
+    oa:hasTarget [
         oa:hasSource 675197924935102464 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

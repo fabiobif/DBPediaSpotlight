@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Apocalypse_(comics)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Apocalypse_(comics)
+    oa:hasTarget [
         oa:hasSource 675247004440797184 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

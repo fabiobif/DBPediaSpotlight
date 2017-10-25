@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/WSB_(AM)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/WSB_(AM)
+    oa:hasTarget [
         oa:hasSource 674966909805338625 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

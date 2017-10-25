@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Japan
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Japan
+    oa:hasTarget [
         oa:hasSource 675577620419874817 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

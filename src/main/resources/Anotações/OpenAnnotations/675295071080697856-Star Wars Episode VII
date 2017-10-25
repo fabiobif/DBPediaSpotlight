@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Development_of_Star_Wars_Episode_VII
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Development_of_Star_Wars_Episode_VII
+    oa:hasTarget [
         oa:hasSource 675295071080697856 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

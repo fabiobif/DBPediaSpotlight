@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Tributyltin
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Tributyltin
+    oa:hasTarget [
         oa:hasSource 674965024390193152 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Iowa
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Iowa
+    oa:hasTarget [
         oa:hasSource 675554312060190721 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

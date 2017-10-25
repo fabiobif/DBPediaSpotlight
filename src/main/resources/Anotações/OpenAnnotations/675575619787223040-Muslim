@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Muslim
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Muslim
+    oa:hasTarget [
         oa:hasSource 675575619787223040 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

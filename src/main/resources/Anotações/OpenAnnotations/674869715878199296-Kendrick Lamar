@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Kendrick_Lamar
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Kendrick_Lamar
+    oa:hasTarget [
         oa:hasSource 674869715878199296 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

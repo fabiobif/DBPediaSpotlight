@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Fan_film
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Fan_film
+    oa:hasTarget [
         oa:hasSource 677037025116233729 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

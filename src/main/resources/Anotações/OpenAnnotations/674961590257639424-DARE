@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Drug_Abuse_Resistance_Education
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Drug_Abuse_Resistance_Education
+    oa:hasTarget [
         oa:hasSource 674961590257639424 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

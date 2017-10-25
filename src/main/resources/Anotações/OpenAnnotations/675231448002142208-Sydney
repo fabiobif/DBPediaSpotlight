@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Sydney
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Sydney
+    oa:hasTarget [
         oa:hasSource 675231448002142208 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

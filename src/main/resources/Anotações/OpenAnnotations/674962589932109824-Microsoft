@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Microsoft
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Microsoft
+    oa:hasTarget [
         oa:hasSource 674962589932109824 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

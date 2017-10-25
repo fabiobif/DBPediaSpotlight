@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Theatre
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Theatre
+    oa:hasTarget [
         oa:hasSource 676787060477325317 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

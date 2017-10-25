@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Wookiee
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Wookiee
+    oa:hasTarget [
         oa:hasSource 676803397954248704 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

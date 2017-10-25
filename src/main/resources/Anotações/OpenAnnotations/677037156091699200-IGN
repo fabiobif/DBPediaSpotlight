@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/IGN
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/IGN
+    oa:hasTarget [
         oa:hasSource 677037156091699200 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Sith
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Sith
+    oa:hasTarget [
         oa:hasSource 675212589090136064 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

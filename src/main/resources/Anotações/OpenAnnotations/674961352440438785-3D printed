@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/3D_printing
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/3D_printing
+    oa:hasTarget [
         oa:hasSource 674961352440438785 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

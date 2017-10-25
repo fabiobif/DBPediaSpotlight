@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Rave
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Rave
+    oa:hasTarget [
         oa:hasSource 676787509452410880 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

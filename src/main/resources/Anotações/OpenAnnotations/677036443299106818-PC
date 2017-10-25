@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Personal_computer
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Personal_computer
+    oa:hasTarget [
         oa:hasSource 677036443299106818 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

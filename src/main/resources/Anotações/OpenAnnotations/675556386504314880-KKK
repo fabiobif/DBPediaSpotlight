@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Ku_Klux_Klan
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Ku_Klux_Klan
+    oa:hasTarget [
         oa:hasSource 675556386504314880 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

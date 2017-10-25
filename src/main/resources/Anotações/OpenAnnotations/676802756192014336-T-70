@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/T-70
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/T-70
+    oa:hasTarget [
         oa:hasSource 676802756192014336 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

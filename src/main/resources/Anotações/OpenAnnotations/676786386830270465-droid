@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Droid_(robot)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Droid_(robot)
+    oa:hasTarget [
         oa:hasSource 676786386830270465 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

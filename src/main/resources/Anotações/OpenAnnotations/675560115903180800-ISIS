@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant
+    oa:hasTarget [
         oa:hasSource 675560115903180800 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

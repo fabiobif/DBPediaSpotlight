@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/CBS
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/CBS
+    oa:hasTarget [
         oa:hasSource 675295172368797697 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

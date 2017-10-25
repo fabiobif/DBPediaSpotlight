@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Tampa,_Florida
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Tampa,_Florida
+    oa:hasTarget [
         oa:hasSource 675555556036362240 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/National_Basketball_Association
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/National_Basketball_Association
+    oa:hasTarget [
         oa:hasSource 675571036537028611 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

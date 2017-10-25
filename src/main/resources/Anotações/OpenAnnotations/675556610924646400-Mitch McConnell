@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Mitch_McConnell
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Mitch_McConnell
+    oa:hasTarget [
         oa:hasSource 675556610924646400 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

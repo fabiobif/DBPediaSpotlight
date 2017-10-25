@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Soul_music
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Soul_music
+    oa:hasTarget [
         oa:hasSource 675573991831154688 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

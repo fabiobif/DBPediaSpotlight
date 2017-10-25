@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Steampunk
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Steampunk
+    oa:hasTarget [
         oa:hasSource 676803540715741184 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

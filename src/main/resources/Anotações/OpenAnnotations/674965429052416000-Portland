@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Portland,_Oregon
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Portland,_Oregon
+    oa:hasTarget [
         oa:hasSource 674965429052416000 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

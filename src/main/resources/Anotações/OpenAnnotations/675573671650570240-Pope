@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Pope
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Pope
+    oa:hasTarget [
         oa:hasSource 675573671650570240 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

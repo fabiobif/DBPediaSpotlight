@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Mark_Hamill
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Mark_Hamill
+    oa:hasTarget [
         oa:hasSource 674966645085970433 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Autodesk
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Autodesk
+    oa:hasTarget [
         oa:hasSource 674962590284431361 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

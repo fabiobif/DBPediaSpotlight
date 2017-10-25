@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Magic_(paranormal)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Magic_(paranormal)
+    oa:hasTarget [
         oa:hasSource 677037235443757056 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

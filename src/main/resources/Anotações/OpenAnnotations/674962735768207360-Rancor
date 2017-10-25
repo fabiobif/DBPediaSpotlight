@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/List_of_Star_Wars_creatures
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/List_of_Star_Wars_creatures
+    oa:hasTarget [
         oa:hasSource 674962735768207360 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

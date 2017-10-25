@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Orlando,_Florida
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Orlando,_Florida
+    oa:hasTarget [
         oa:hasSource 676783258823237632 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

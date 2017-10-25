@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Phase-locked_loop
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Phase-locked_loop
+    oa:hasTarget [
         oa:hasSource 676783188866441216 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

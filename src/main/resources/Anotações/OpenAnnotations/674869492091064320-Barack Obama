@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Barack_Obama
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Barack_Obama
+    oa:hasTarget [
         oa:hasSource 674869492091064320 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/RT_(TV_network)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/RT_(TV_network)
+    oa:hasTarget [
         oa:hasSource 674966256701841408 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

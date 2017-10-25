@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Penis
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Penis
+    oa:hasTarget [
         oa:hasSource 675200218347012096 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

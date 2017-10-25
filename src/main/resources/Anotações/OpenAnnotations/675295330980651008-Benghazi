@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Benghazi
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Benghazi
+    oa:hasTarget [
         oa:hasSource 675295330980651008 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

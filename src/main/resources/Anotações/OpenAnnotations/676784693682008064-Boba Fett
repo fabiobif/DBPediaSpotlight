@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Boba_Fett
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Boba_Fett
+    oa:hasTarget [
         oa:hasSource 676784693682008064 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

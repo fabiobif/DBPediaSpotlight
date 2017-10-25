@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Great_Wall_of_China
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Great_Wall_of_China
+    oa:hasTarget [
         oa:hasSource 675192720424611841 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

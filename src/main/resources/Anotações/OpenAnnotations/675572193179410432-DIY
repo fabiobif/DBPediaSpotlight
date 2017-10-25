@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Do_it_yourself
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Do_it_yourself
+    oa:hasTarget [
         oa:hasSource 675572193179410432 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

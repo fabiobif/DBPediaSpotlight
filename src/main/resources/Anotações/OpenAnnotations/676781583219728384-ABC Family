@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/ABC_Family
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/ABC_Family
+    oa:hasTarget [
         oa:hasSource 676781583219728384 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

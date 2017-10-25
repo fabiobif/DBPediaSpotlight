@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/YouTube
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/YouTube
+    oa:hasTarget [
         oa:hasSource 676785600599629824 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

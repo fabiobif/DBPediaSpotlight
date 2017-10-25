@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Hinckley
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Hinckley
+    oa:hasTarget [
         oa:hasSource 676783070289272834 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Instagram
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Instagram
+    oa:hasTarget [
         oa:hasSource 675567976788135937 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

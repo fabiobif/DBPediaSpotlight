@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/C-3PO
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/C-3PO
+    oa:hasTarget [
         oa:hasSource 675248472396726272 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

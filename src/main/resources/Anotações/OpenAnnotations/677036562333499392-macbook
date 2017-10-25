@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/MacBook
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/MacBook
+    oa:hasTarget [
         oa:hasSource 677036562333499392 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

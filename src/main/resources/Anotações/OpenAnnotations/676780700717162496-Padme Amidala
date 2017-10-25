@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Padmé_Amidala
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Padmé_Amidala
+    oa:hasTarget [
         oa:hasSource 676780700717162496 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

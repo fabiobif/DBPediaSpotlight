@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Working_class
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Working_class
+    oa:hasTarget [
         oa:hasSource 675556200457572352 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Rapping
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Rapping
+    oa:hasTarget [
         oa:hasSource 675564737485250561 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Shut_Down_(The_Beach_Boys_song)
+    oa:hasTarget [
         oa:hasSource 675295110549016576 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

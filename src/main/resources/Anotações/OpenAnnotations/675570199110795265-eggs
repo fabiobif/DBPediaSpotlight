@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Egg_(food)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Egg_(food)
+    oa:hasTarget [
         oa:hasSource 675570199110795265 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

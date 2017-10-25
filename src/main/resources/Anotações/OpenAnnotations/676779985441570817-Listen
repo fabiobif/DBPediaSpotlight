@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Listen_(Beyoncé_Knowles_song)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Listen_(Beyoncé_Knowles_song)
+    oa:hasTarget [
         oa:hasSource 676779985441570817 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

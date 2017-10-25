@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Social_network
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Social_network
+    oa:hasTarget [
         oa:hasSource 676803059209641985 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

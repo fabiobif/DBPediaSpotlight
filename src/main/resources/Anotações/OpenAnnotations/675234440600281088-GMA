@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/GMA_Network
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/GMA_Network
+    oa:hasTarget [
         oa:hasSource 675234440600281088 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

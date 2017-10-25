@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/National_Reconnaissance_Office
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/National_Reconnaissance_Office
+    oa:hasTarget [
         oa:hasSource 675575045171765248 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

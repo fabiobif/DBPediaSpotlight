@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Spoiler_(media)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Spoiler_(media)
+    oa:hasTarget [
         oa:hasSource 677036010241298432 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

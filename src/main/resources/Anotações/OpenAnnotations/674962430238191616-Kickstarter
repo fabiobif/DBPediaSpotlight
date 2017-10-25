@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Kickstarter
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Kickstarter
+    oa:hasTarget [
         oa:hasSource 674962430238191616 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

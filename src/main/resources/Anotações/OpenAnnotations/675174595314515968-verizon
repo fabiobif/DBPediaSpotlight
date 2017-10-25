@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Verizon_Communications
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Verizon_Communications
+    oa:hasTarget [
         oa:hasSource 675174595314515968 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

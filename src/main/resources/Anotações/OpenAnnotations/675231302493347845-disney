@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/The_Walt_Disney_Company
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/The_Walt_Disney_Company
+    oa:hasTarget [
         oa:hasSource 675231302493347845 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

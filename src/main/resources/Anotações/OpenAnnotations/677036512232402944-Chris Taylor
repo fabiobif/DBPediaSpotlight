@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Chris_Taylor_(comedian)
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Chris_Taylor_(comedian)
+    oa:hasTarget [
         oa:hasSource 677036512232402944 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

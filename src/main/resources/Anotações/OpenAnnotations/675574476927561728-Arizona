@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Arizona
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Arizona
+    oa:hasTarget [
         oa:hasSource 675574476927561728 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Elf_Aquitaine
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Elf_Aquitaine
+    oa:hasTarget [
         oa:hasSource 675214777619206145 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

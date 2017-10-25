@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Dodge
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Dodge
+    oa:hasTarget [
         oa:hasSource 676782656458235905 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;

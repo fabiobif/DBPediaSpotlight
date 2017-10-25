@@ -2,8 +2,8 @@
     oa:motivatedBy oa:commenting ;
     dcterms:creator <???> ;
     dcterms:created <dataCriacao> 
-oa:hasBody http://dbpedia.org/resource/Theme_music
-oa:hasTarget [
+    oa:hasBody http://dbpedia.org/resource/Theme_music
+    oa:hasTarget [
         oa:hasSource 674964209717891075 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
