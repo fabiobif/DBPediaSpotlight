@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Coca-Cola_Cherry
     oa:hasTarget [
-        oa:hasSource 674963769437454336 ;
+        oa:hasSource http://twitter.com/674963769437454336 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 105 ;

@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Han_Solo
     oa:hasTarget [
-        oa:hasSource 676779985441570817 ;
+        oa:hasSource http://twitter.com/676779985441570817 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 26 ;

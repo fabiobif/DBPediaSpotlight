@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals
     oa:hasTarget [
-        oa:hasSource 675563048866680832 ;
+        oa:hasSource http://twitter.com/675563048866680832 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 74 ;

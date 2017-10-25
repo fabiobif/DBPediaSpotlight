@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Gautama_Buddha
     oa:hasTarget [
-        oa:hasSource 674961352440438785 ;
+        oa:hasSource http://twitter.com/674961352440438785 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 45 ;

@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Sydney
     oa:hasTarget [
-        oa:hasSource 677036022820016128 ;
+        oa:hasSource http://twitter.com/677036022820016128 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 46 ;

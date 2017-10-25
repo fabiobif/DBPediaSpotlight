@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Mouvement_Socialiste_Militant
     oa:hasTarget [
-        oa:hasSource 675568120556335104 ;
+        oa:hasSource http://twitter.com/675568120556335104 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 110 ;

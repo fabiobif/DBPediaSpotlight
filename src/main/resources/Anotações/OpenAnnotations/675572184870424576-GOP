@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Republican_Party_(United_States)
     oa:hasTarget [
-        oa:hasSource 675572184870424576 ;
+        oa:hasSource http://twitter.com/675572184870424576 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 94 ;

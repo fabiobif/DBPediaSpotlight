@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Carrie_Fisher
     oa:hasTarget [
-        oa:hasSource 674964777437827073 ;
+        oa:hasSource http://twitter.com/674964777437827073 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 18 ;

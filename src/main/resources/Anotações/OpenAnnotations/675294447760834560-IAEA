@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/International_Atomic_Energy_Agency
     oa:hasTarget [
-        oa:hasSource 675294447760834560 ;
+        oa:hasSource http://twitter.com/675294447760834560 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 103 ;

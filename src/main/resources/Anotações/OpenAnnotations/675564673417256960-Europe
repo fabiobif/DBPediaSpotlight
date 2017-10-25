@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Europe
     oa:hasTarget [
-        oa:hasSource 675564673417256960 ;
+        oa:hasSource http://twitter.com/675564673417256960 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 140 ;

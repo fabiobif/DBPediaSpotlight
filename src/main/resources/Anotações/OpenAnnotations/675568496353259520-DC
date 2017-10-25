@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Direct_current
     oa:hasTarget [
-        oa:hasSource 675568496353259520 ;
+        oa:hasSource http://twitter.com/675568496353259520 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 117 ;

@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Weather-related_cancellation
     oa:hasTarget [
-        oa:hasSource 676803466203828224 ;
+        oa:hasSource http://twitter.com/676803466203828224 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 9 ;

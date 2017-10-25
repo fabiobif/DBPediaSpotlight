@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Condom
     oa:hasTarget [
-        oa:hasSource 676803444695519233 ;
+        oa:hasSource http://twitter.com/676803444695519233 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 103 ;

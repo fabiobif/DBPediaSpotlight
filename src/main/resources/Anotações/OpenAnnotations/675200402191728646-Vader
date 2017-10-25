@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Darth_Vader
     oa:hasTarget [
-        oa:hasSource 675200402191728646 ;
+        oa:hasSource http://twitter.com/675200402191728646 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 103 ;

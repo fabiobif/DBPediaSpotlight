@@ -172,13 +172,13 @@ public class ManipuladorArquivos {
                             JSONObject json = (JSONObject) object;
                             openAnnotation = "<http://example.org/anotação> a oa:Annotation ;\n"
                                     + "    oa:motivatedBy oa:commenting ;\n"
-                                    + "    dcterms:creator <???> ;\n"
+                                    + "    dcterms:creator <DBPedia-Spotlight> ;\n"
                                     + "    dcterms:created <dataCriacao> \n";
 
-                            openAnnotation += "oa:hasBody " + json.getString("@URI") + "\n";
+                            openAnnotation += "    oa:hasBody " + json.getString("@URI") + "\n";
 
-                            openAnnotation += "oa:hasTarget [\n"
-                                    + "        oa:hasSource " + anotacao.get("tweet") + " ;\n"
+                            openAnnotation += "    oa:hasTarget [\n"
+                                    + "        oa:hasSource http://twitter.com/" + anotacao.get("tweet") + " ;\n"
                                     + "        oa:hasSelector [\n"
                                     + "            a oa:TextPositionSelector ;\n"
                                     + "            oa:start " + json.getString("@offset") + " ;\n"

@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Harrison_Ford
     oa:hasTarget [
-        oa:hasSource 675571751879708672 ;
+        oa:hasSource http://twitter.com/675571751879708672 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 37 ;

@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/2003_Mission_Accomplished_speech
     oa:hasTarget [
-        oa:hasSource 675573022191779841 ;
+        oa:hasSource http://twitter.com/675573022191779841 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 16 ;

@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Time_(magazine)
     oa:hasTarget [
-        oa:hasSource 674961590257639424 ;
+        oa:hasSource http://twitter.com/674961590257639424 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 1 ;

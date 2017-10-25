@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/RT_(TV_network)
     oa:hasTarget [
-        oa:hasSource 675560662903291905 ;
+        oa:hasSource http://twitter.com/675560662903291905 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 0 ;

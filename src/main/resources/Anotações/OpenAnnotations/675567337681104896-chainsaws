@@ -1,10 +1,10 @@
 <http://example.org/anotação> a oa:Annotation ;
     oa:motivatedBy oa:commenting ;
-    dcterms:creator <???> ;
+    dcterms:creator <DBPedia-Spotlight> ;
     dcterms:created <dataCriacao> 
     oa:hasBody http://dbpedia.org/resource/Chainsaw
     oa:hasTarget [
-        oa:hasSource 675567337681104896 ;
+        oa:hasSource http://twitter.com/675567337681104896 ;
         oa:hasSelector [
             a oa:TextPositionSelector ;
             oa:start 98 ;
