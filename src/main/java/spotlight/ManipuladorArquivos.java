@@ -185,18 +185,13 @@ public class ManipuladorArquivos {
                                     + "            oa:end " + (json.getInt("@offset") + json.getString("@surfaceForm").length()) + "] ] .";
 
                             arquivo = new File("src/main/resources/Anotações/OpenAnnotations/" + anotacao.get("tweet") + "-" + json.getString("@surfaceForm"));
-                            try {
-                                if (!arquivo.exists()) {
-                                    arquivo.createNewFile();
-                                }
-                                buffW = new BufferedWriter(new FileWriter(arquivo));
-                                buffW.write(openAnnotation);
-                                buffW.close();
-                            } catch (IOException ex) {
-                                Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+                            if (!arquivo.exists()) {
+                                arquivo.createNewFile();
                             }
+                            buffW = new BufferedWriter(new FileWriter(arquivo));
+                            buffW.write(openAnnotation);
+                            buffW.close();
                         }
-
                     }
                 }
             } catch (JSONException e) {
