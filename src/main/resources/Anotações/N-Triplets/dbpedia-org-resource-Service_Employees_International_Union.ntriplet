@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Service_Employees_International_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:TradeUnion" .
+<http://dbpedia.org/resource/Service_Employees_International_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/Service_Employees_International_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/Service_Employees_International_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

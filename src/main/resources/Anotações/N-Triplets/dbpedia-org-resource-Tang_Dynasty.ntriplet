@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Tang_Dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Country" .
+<http://dbpedia.org/resource/Tang_Dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Country" .
+<http://dbpedia.org/resource/Tang_Dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PopulatedPlace" .
+<http://dbpedia.org/resource/Tang_Dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Tang_Dynasty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

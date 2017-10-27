@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Parrot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Bird" .
+<http://dbpedia.org/resource/Parrot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Animal" .
+<http://dbpedia.org/resource/Parrot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Eukaryote" .
+<http://dbpedia.org/resource/Parrot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Species" .

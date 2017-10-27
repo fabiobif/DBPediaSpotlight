@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Non-ProfitOrganisation" .
+<http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

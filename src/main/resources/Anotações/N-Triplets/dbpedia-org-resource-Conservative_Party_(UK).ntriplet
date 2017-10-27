@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Conservative_Party_(UK)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PoliticalParty" .
+<http://dbpedia.org/resource/Conservative_Party_(UK)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/Conservative_Party_(UK)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/Conservative_Party_(UK)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

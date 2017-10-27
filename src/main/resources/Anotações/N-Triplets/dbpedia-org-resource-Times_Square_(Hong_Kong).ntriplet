@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Times_Square_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:ShoppingMall" .
+<http://dbpedia.org/resource/Times_Square_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:ShoppingCenter" .
+<http://dbpedia.org/resource/Times_Square_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Building" .
+<http://dbpedia.org/resource/Times_Square_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:ArchitecturalStructure" .
+<http://dbpedia.org/resource/Times_Square_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Times_Square_(Hong_Kong)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

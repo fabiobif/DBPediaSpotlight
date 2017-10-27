@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Alamo_Mission_in_San_Antonio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Building" .
+<http://dbpedia.org/resource/Alamo_Mission_in_San_Antonio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:ArchitecturalStructure" .
+<http://dbpedia.org/resource/Alamo_Mission_in_San_Antonio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Alamo_Mission_in_San_Antonio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

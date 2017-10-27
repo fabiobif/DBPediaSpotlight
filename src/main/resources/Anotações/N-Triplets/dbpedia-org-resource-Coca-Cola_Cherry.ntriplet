@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Coca-Cola_Cherry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Beverage" .
+<http://dbpedia.org/resource/Coca-Cola_Cherry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Food" .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Home_Alone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Film" .
+<http://dbpedia.org/resource/Home_Alone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Movie" .
+<http://dbpedia.org/resource/Home_Alone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/Home_Alone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

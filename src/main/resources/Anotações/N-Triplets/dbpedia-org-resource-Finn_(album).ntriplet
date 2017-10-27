@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Album" .
+<http://dbpedia.org/resource/Finn_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:MusicAlbum" .
+<http://dbpedia.org/resource/Finn_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:MusicalWork" .
+<http://dbpedia.org/resource/Finn_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/Finn_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

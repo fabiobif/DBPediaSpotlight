@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Newsweek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Magazine" .
+<http://dbpedia.org/resource/Newsweek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PeriodicalLiterature" .
+<http://dbpedia.org/resource/Newsweek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:WrittenWork" .
+<http://dbpedia.org/resource/Newsweek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/Newsweek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Mew_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Band" .
+<http://dbpedia.org/resource/Mew_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/Mew_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/Mew_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .
+<http://dbpedia.org/resource/Mew_(band)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:MusicGroup" .

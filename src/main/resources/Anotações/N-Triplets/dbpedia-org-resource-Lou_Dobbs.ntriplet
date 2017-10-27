@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Lou_Dobbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Person" .
+<http://dbpedia.org/resource/Lou_Dobbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Http://xmlns.com/foaf/0.1/Person" .
+<http://dbpedia.org/resource/Lou_Dobbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Person" .
+<http://dbpedia.org/resource/Lou_Dobbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

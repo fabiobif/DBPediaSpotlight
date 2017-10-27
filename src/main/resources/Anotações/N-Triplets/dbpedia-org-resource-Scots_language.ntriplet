@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Scots_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Language" .
+<http://dbpedia.org/resource/Scots_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Language" .

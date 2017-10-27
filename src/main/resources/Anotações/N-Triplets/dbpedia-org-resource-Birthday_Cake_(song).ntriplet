@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Birthday_Cake_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Song" .
+<http://dbpedia.org/resource/Birthday_Cake_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:MusicRecording" .
+<http://dbpedia.org/resource/Birthday_Cake_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:MusicalWork" .
+<http://dbpedia.org/resource/Birthday_Cake_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/Birthday_Cake_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narita_International_Airport">
+    <rdf:type>DBpedia:Airport</rdf:type>
+    <rdf:type>Schema:Airport</rdf:type>
+    <rdf:type>DBpedia:Infrastructure</rdf:type>
+    <rdf:type>DBpedia:ArchitecturalStructure</rdf:type>
+    <rdf:type>DBpedia:Place</rdf:type>
+    <rdf:type>Schema:Place</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:BasketballLeague" .
+<http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:SportsLeague" .
+<http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

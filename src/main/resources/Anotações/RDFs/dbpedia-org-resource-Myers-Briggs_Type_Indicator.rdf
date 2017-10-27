@@ -1,0 +1,6 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myers-Briggs_Type_Indicator">
+    <rdf:type></rdf:type>
+  </rdf:Description>
+</rdf:RDF>

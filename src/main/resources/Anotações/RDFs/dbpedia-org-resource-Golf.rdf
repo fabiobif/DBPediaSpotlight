@@ -1,0 +1,7 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golf">
+    <rdf:type>DBpedia:Sport</rdf:type>
+    <rdf:type>DBpedia:Activity</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

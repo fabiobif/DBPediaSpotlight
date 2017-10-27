@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Braid_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:VideoGame" .
+<http://dbpedia.org/resource/Braid_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Software" .
+<http://dbpedia.org/resource/Braid_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/Braid_(video_game)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

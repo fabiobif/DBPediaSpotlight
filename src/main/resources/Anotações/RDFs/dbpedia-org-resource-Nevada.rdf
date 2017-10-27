@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nevada">
+    <rdf:type>DBpedia:AdministrativeRegion</rdf:type>
+    <rdf:type>Schema:AdministrativeArea</rdf:type>
+    <rdf:type>DBpedia:Region</rdf:type>
+    <rdf:type>DBpedia:PopulatedPlace</rdf:type>
+    <rdf:type>DBpedia:Place</rdf:type>
+    <rdf:type>Schema:Place</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

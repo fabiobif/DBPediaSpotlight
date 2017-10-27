@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bolton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Settlement" .
+<http://dbpedia.org/resource/Bolton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PopulatedPlace" .
+<http://dbpedia.org/resource/Bolton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Bolton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

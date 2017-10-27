@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Levin">
+    <rdf:type>DBpedia:RadioHost</rdf:type>
+    <rdf:type>DBpedia:Presenter</rdf:type>
+    <rdf:type>DBpedia:Person</rdf:type>
+    <rdf:type>Http://xmlns.com/foaf/0.1/Person</rdf:type>
+    <rdf:type>Schema:Person</rdf:type>
+    <rdf:type>DBpedia:Agent</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

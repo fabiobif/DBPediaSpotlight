@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hyde_Park,_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Park" .
+<http://dbpedia.org/resource/Hyde_Park,_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Park" .
+<http://dbpedia.org/resource/Hyde_Park,_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:ArchitecturalStructure" .
+<http://dbpedia.org/resource/Hyde_Park,_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Hyde_Park,_London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

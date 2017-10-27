@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Honolulu_County,_Hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:City" .
+<http://dbpedia.org/resource/Honolulu_County,_Hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:City" .
+<http://dbpedia.org/resource/Honolulu_County,_Hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Settlement" .
+<http://dbpedia.org/resource/Honolulu_County,_Hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PopulatedPlace" .
+<http://dbpedia.org/resource/Honolulu_County,_Hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Honolulu_County,_Hawaii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

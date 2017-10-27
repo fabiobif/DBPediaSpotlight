@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:MusicalArtist" .
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Artist" .
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Person" .
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Http://xmlns.com/foaf/0.1/Person" .
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Person" .
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .
+<http://dbpedia.org/resource/Sia_Furler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:MusicGroup" .

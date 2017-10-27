@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:AdministrativeRegion" .
+<http://dbpedia.org/resource/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:AdministrativeArea" .
+<http://dbpedia.org/resource/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Region" .
+<http://dbpedia.org/resource/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PopulatedPlace" .
+<http://dbpedia.org/resource/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

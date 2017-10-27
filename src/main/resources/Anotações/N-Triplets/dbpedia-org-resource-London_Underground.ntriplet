@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:PublicTransitSystem" .
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:RouteOfTransportation" .
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Infrastructure" .
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:ArchitecturalStructure" .
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Place" .
+<http://dbpedia.org/resource/London_Underground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Place" .

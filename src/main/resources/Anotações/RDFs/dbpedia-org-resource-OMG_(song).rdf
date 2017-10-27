@@ -1,0 +1,9 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OMG_(song)">
+    <rdf:type>DBpedia:Single</rdf:type>
+    <rdf:type>DBpedia:MusicalWork</rdf:type>
+    <rdf:type>DBpedia:Work</rdf:type>
+    <rdf:type>Schema:CreativeWork</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabul">
+    <rdf:type>DBpedia:City</rdf:type>
+    <rdf:type>Schema:City</rdf:type>
+    <rdf:type>DBpedia:Settlement</rdf:type>
+    <rdf:type>DBpedia:PopulatedPlace</rdf:type>
+    <rdf:type>DBpedia:Place</rdf:type>
+    <rdf:type>Schema:Place</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

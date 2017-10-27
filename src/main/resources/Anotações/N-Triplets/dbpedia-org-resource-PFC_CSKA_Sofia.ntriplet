@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/PFC_CSKA_Sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:SoccerClub" .
+<http://dbpedia.org/resource/PFC_CSKA_Sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:SportsTeam" .
+<http://dbpedia.org/resource/PFC_CSKA_Sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:SportsTeam" .
+<http://dbpedia.org/resource/PFC_CSKA_Sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/PFC_CSKA_Sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/PFC_CSKA_Sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

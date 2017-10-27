@@ -18,8 +18,9 @@ public class Main {
         ManipuladorArquivos ma = new ManipuladorArquivos();
 //        ma.criaAnotacoes();
 //        ma.criaAnotacoesIdentado();
-        ma.criaOpenAnnotations();
-        
+//        ma.criaOpenAnnotations();
+        ma.criaAnotacoesRdf();
+        ma.criaAnotacoesNTriplets();
 
     }
 }

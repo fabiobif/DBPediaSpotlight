@@ -25,6 +25,12 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
+import org.apache.jena.rdf.model.Model;
+import org.apache.jena.rdf.model.ModelFactory;
+import org.apache.jena.rdf.model.Property;
+import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.vocabulary.RDF;
+import org.apache.jena.vocabulary.VCARD;
 import org.primefaces.json.JSONException;
 import org.primefaces.json.JSONObject;
 
@@ -202,6 +208,84 @@ public class ManipuladorArquivos {
                 Logger.getLogger(ManipuladorArquivos.class.getName()).log(Level.SEVERE, null, ex);
             }
 
+        }
+    }
+
+    void criaAnotacoesRdf() {
+        File dir = new File("src/main/resources/Anotações");
+        String[] anotacoes = dir.list();
+
+        BufferedReader br;
+
+        for (String a : anotacoes) {
+            File arquivo2 = new File("src/main/resources/Anotações/" + a);
+            if (!arquivo2.isDirectory()) {
+                try {
+                    br = new BufferedReader(new FileReader(arquivo2));
+                    JSONObject anotacao = new JSONObject(br.readLine());
+                    if (anotacao.has("Resources")) {
+                        for (Object object : anotacao.getJSONArray("Resources")) {
+                            JSONObject json = (JSONObject) object;
+                            Model model = ModelFactory.createDefaultModel();
+                            String anotacaoURI = json.getString("@URI");
+                            model.createResource(anotacaoURI);
+                            String[] tipos = json.getString("@types").split(",");
+                            for (String tipo : tipos) {
+                                model.getResource(anotacaoURI).addProperty(RDF.type, tipo);
+                            }
+
+                            model.write(new BufferedWriter(new FileWriter("src/main/resources/Anotações/RDFs/" + json.getString("@URI")
+                                    .replace("http://", "")
+                                    .replace("/", "-")
+                                    .replace(".", "-")
+                                    + ".rdf")), "RDF/XML-ABBREV");
+                        }
+                    }
+                } catch (FileNotFoundException ex) {
+                    Logger.getLogger(ManipuladorArquivos.class.getName()).log(Level.SEVERE, null, ex);
+                } catch (IOException ex) {
+                    Logger.getLogger(ManipuladorArquivos.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
+        }
+    }
+
+    void criaAnotacoesNTriplets() {
+        File dir = new File("src/main/resources/Anotações");
+        String[] anotacoes = dir.list();
+
+        BufferedReader br;
+
+        for (String a : anotacoes) {
+            File arquivo2 = new File("src/main/resources/Anotações/" + a);
+            if (!arquivo2.isDirectory()) {
+                try {
+                    br = new BufferedReader(new FileReader(arquivo2));
+                    JSONObject anotacao = new JSONObject(br.readLine());
+                    if (anotacao.has("Resources")) {
+                        for (Object object : anotacao.getJSONArray("Resources")) {
+                            JSONObject json = (JSONObject) object;
+                            Model model = ModelFactory.createDefaultModel();
+                            String anotacaoURI = json.getString("@URI");
+                            model.createResource(anotacaoURI);
+                            String[] tipos = json.getString("@types").split(",");
+                            for (String tipo : tipos) {
+                                model.getResource(anotacaoURI).addProperty(RDF.type, tipo);
+                            }
+
+                            model.write(new BufferedWriter(new FileWriter("src/main/resources/Anotações/N-Triplets/" + json.getString("@URI")
+                                    .replace("http://", "")
+                                    .replace("/", "-")
+                                    .replace(".", "-")
+                                    + ".ntriplet")), "N-TRIPLES");
+                        }
+                    }
+                } catch (FileNotFoundException ex) {
+                    Logger.getLogger(ManipuladorArquivos.class.getName()).log(Level.SEVERE, null, ex);
+                } catch (IOException ex) {
+                    Logger.getLogger(ManipuladorArquivos.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
         }
     }
 }

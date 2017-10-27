@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:TelevisionStation" .
+<http://dbpedia.org/resource/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:TelevisionStation" .
+<http://dbpedia.org/resource/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Broadcaster" .
+<http://dbpedia.org/resource/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Organisation" .
+<http://dbpedia.org/resource/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:Organization" .
+<http://dbpedia.org/resource/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Agent" .

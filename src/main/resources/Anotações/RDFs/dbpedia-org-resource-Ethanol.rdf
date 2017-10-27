@@ -1,0 +1,7 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethanol">
+    <rdf:type>DBpedia:ChemicalCompound</rdf:type>
+    <rdf:type>DBpedia:ChemicalSubstance</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

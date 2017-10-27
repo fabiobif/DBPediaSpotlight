@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Slate_(magazine)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Website" .
+<http://dbpedia.org/resource/Slate_(magazine)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:WebPage" .
+<http://dbpedia.org/resource/Slate_(magazine)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/Slate_(magazine)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

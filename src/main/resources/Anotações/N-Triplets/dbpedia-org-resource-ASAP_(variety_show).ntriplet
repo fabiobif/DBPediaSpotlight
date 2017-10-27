@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/ASAP_(variety_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:TelevisionShow" .
+<http://dbpedia.org/resource/ASAP_(variety_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "DBpedia:Work" .
+<http://dbpedia.org/resource/ASAP_(variety_show)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Schema:CreativeWork" .

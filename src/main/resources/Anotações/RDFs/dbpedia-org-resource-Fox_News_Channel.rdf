@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fox_News_Channel">
+    <rdf:type>DBpedia:TelevisionStation</rdf:type>
+    <rdf:type>Schema:TelevisionStation</rdf:type>
+    <rdf:type>DBpedia:Broadcaster</rdf:type>
+    <rdf:type>DBpedia:Organisation</rdf:type>
+    <rdf:type>Schema:Organization</rdf:type>
+    <rdf:type>DBpedia:Agent</rdf:type>
+  </rdf:Description>
+</rdf:RDF>
