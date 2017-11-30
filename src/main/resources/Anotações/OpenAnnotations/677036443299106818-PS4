@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/PlayStation_4
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/677036443299106818 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 114 ;
-            oa:end 117] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/PlayStation_4> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/677036443299106818> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "114"^^xsd:int ;
+    <oa:end> "117"^^xsd:int.

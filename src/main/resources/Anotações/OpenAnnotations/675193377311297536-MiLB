@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Minor_League_Baseball
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/675193377311297536 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 67 ;
-            oa:end 71] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Minor_League_Baseball> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/675193377311297536> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "67"^^xsd:int ;
+    <oa:end> "71"^^xsd:int.

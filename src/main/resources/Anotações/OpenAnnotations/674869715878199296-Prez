@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Roland_Pryzbylewski
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/674869715878199296 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 13 ;
-            oa:end 17] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Roland_Pryzbylewski> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/674869715878199296> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "13"^^xsd:int ;
+    <oa:end> "17"^^xsd:int.

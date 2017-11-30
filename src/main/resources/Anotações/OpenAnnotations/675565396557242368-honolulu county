@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Honolulu_County,_Hawaii
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/675565396557242368 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 84 ;
-            oa:end 99] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Honolulu_County,_Hawaii> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/675565396557242368> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "84"^^xsd:int ;
+    <oa:end> "99"^^xsd:int.

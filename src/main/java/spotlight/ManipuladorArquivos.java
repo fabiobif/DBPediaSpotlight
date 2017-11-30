@@ -27,10 +27,7 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
-import org.apache.jena.rdf.model.Property;
-import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.vocabulary.RDF;
-import org.apache.jena.vocabulary.VCARD;
 import org.primefaces.json.JSONException;
 import org.primefaces.json.JSONObject;
 
@@ -176,19 +173,21 @@ public class ManipuladorArquivos {
                     if (anotacao.has("Resources")) {
                         for (Object object : anotacao.getJSONArray("Resources")) {
                             JSONObject json = (JSONObject) object;
-                            openAnnotation = "<http://example.org/anotação> a oa:Annotation ;\n"
-                                    + "    oa:motivatedBy oa:commenting ;\n"
-                                    + "    dcterms:creator <DBPedia-Spotlight> ;\n"
-                                    + "    dcterms:created <dataCriacao> \n";
+                            openAnnotation = "<http://example.org/anotação> a <oa:Annotation> ;\n"
+                                    + "    <oa:motivatedBy> <oa:commenting> ;\n"
+                                    + "    <dcterms:creator> <DBPedia-Spotlight> ;\n"
+                                    + "    <dcterms:created> \"<dataCriacao>\"^^xsd:datetime ;\n";
 
-                            openAnnotation += "    oa:hasBody " + json.getString("@URI") + "\n";
+                            openAnnotation += "    <oa:hasBody> <" + json.getString("@URI") + "> ;\n";
 
-                            openAnnotation += "    oa:hasTarget [\n"
-                                    + "        oa:hasSource http://twitter.com/" + anotacao.get("tweet") + " ;\n"
-                                    + "        oa:hasSelector [\n"
-                                    + "            a oa:TextPositionSelector ;\n"
-                                    + "            oa:start " + json.getString("@offset") + " ;\n"
-                                    + "            oa:end " + (json.getInt("@offset") + json.getString("@surfaceForm").length()) + "] ] .";
+                            openAnnotation += "    <oa:hasTarget> _:target.\n"
+                                    + "_:target"
+                                    + "    <oa:hasSource> <http://twitter.com/" + anotacao.get("tweet") + "> ;\n"
+                                    + "    <oa:hasSelector> _:selector.\n"
+                                    + "_:selector"
+                                    + "    a <oa:TextPositionSelector> ;\n"
+                                    + "    <oa:start> \"" + json.getString("@offset") + "\"^^xsd:int ;\n"
+                                    + "    <oa:end> \"" + (json.getInt("@offset") + json.getString("@surfaceForm").length()) + "\"^^xsd:int.";
 
                             arquivo = new File("src/main/resources/Anotações/OpenAnnotations/" + anotacao.get("tweet") + "-" + json.getString("@surfaceForm"));
                             if (!arquivo.exists()) {

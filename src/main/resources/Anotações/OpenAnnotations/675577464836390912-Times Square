@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Times_Square_(Hong_Kong)
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/675577464836390912 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 17 ;
-            oa:end 29] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Times_Square_(Hong_Kong)> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/675577464836390912> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "17"^^xsd:int ;
+    <oa:end> "29"^^xsd:int.

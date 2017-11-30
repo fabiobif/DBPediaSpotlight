@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Star_Wars
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/676783198450401280 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 3 ;
-            oa:end 12] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Star_Wars> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/676783198450401280> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "3"^^xsd:int ;
+    <oa:end> "12"^^xsd:int.

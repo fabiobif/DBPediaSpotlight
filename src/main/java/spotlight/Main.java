@@ -5,6 +5,8 @@
  */
 package spotlight;
 
+import org.tensorflow.Tensor;
+
 /**
  *
  * @author arthur.sens
@@ -18,9 +20,9 @@ public class Main {
         ManipuladorArquivos ma = new ManipuladorArquivos();
 //        ma.criaAnotacoes();
 //        ma.criaAnotacoesIdentado();
-//        ma.criaOpenAnnotations();
-        ma.criaAnotacoesRdf();
-        ma.criaAnotacoesNTriplets();
-
+        ma.criaOpenAnnotations();
+//        ma.criaAnotacoesRdf();
+//        ma.criaAnotacoesNTriplets();
+        
     }
 }

@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Mantra
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/674869685838548992 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 47 ;
-            oa:end 53] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Mantra> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/674869685838548992> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "47"^^xsd:int ;
+    <oa:end> "53"^^xsd:int.

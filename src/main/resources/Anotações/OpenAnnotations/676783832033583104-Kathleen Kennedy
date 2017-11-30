@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/Kathleen_Kennedy_(film_producer)
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/676783832033583104 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 0 ;
-            oa:end 16] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/Kathleen_Kennedy_(film_producer)> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/676783832033583104> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "0"^^xsd:int ;
+    <oa:end> "16"^^xsd:int.

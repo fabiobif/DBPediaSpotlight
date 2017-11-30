@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <DBPedia-Spotlight> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://dbpedia.org/resource/List_of_Star_Wars_air,_aquatic,_and_ground_vehicles
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/676803998926643200 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 92 ;
-            oa:end 101] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <DBPedia-Spotlight> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> <http://dbpedia.org/resource/List_of_Star_Wars_air,_aquatic,_and_ground_vehicles> ;
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/676803998926643200> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "92"^^xsd:int ;
+    <oa:end> "101"^^xsd:int.
